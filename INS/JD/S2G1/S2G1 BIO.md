@@ -449,9 +449,531 @@ Notes: once opponents defend your doubles and singles well, the system
 encourages switching the attack from their legs to their hips and torso,
 climbing to body locks that lead to more stable top or back control.
 
+## 6.0 DRILLING PROGRESSIONS
+
+- **6.1 Solo Drills – Stance, Level Changes & Footwork**  
+  - Stance and posture drills: shadow rounds where you maintain a weight-bearing stance, chest over base, head carried on forehead/temple line, and elbows in while moving forward, back, laterally and on diagonals.  
+  - Level-change repetitions: controlled drops and rises from stance using hip and knee bend only, with hands in a “ready to pummel” position; focus on smoothness, not speed, so you can cycle level changes without losing balance.  
+  - Stance-switch drills: switching leads without crossing the feet or letting the chest pitch forward, including “stance switch on command” and “switch as you retreat/advance” patterns.  
+  - Angle-step patterns: solo U-steps, L-steps and pivot steps that simulate cutting an angle for doubles, singles and body locks, performed with invisible opponent markers (e.g. cones, tape lines) to build directional awareness.
+
+- **6.2 Solo Drills – Penetration Steps & Floor Contact**  
+  - Penetration-step lines: walking the room hitting repeated penetration steps on alternating legs, focusing on knee alignment, toe direction, and trail leg recovery, with a strong upright spine and active head positioning.  
+  - Knee-touch control: reps where the knee touches the floor lightly and immediately recovers to stance to prevent bad habits of “staying on the knee” or collapsing under imaginary sprawls.  
+  - Sprawl-carry simulations: shadow-wrestling drills where you imagine the opponent’s hips dropping on your shoulders as you step; practise driving your leg and hips through and then recovering to a new, stable base.  
+  - Setup-to-shot flows: combine stance-breaking feints, level fakes and penetration steps in one continuous solo pattern – e.g. fake snapdown → reset stance → angle step → penetration shot → stand-up and circle.
+
+- **6.3 Partner Drills – Hand Fighting, Push–Pull & Snapdowns**  
+  - Hand-fighting chains: light-intensity rounds where both partners focus on inside ties, wrist control, collar ties and two-on-ones, with a rule that every grip change must either improve head position or move the opponent’s stance.  
+  - Push–pull stance reactions: from collar ties and inside ties, practise pushing and pulling to see how far stance can be broken before the partner is forced to re-square; both partners learn to read and exploit overreactions.  
+  - Snapdown technical reps: cooperative reps of collar-tie and two-on-one snapdowns where one partner offers a predictable posture and the other practises synchronising level change, step and pull without losing their own base.  
+  - Snap-to-front-headlock and snap-to-leg-entry progressions: snapdowns where the follow-up is scripted – either collect a front headlock, angle off and spin, or drop to a specific front-leg entry (knee tap, low single, double) on coach’s call.
+
+- **6.4 Partner Drills – Double-Leg & Single-Leg Entry Chains**  
+  - Entry-only doubles: attacker is allowed to penetrate to elbow-deep position on doubles but not to finish; focus is on clean setup, safe head position and immediate conversion to a strong “connection” phase where hips and chest load the legs.  
+  - Entry-only singles: from hand-fighting, attacker collects singles (inside or outside) and holds balance while partner maintains realistic but light resistance; drills emphasise the moment of “catch” rather than the finish.  
+  - Setup–shot–reset sequences: scripted chains such as snapdown → re-square → outside step angle → double, or two-on-one → drag threat → single; each chain ends with a clean position check and controlled reset, not a scramble.  
+  - Double–single–double chains: attacker cycles between double and single entries based on partner’s scripted reactions (e.g. sprawl triggers single, strong whizzer triggers switch back to double or body lock), teaching dynamic decision-making inside the chain.
+
+- **6.5 Partner Drills – Finishes, High Legs & Body Locks**  
+  - Double-leg finishing rounds: start from elbow-deep or hands-on-knees position; attacker must finish using cutback, drive, corner or lift options while maintaining posture and aiming to land outside closed guard in a passing-ready position.  
+  - Single-leg finishing rounds: start with clean single-leg control; attacker works through run-the-pipe, cutbacks, thigh pry and trip options on coach’s cue, with the defender giving graded resistance but no full scrambles.  
+  - High-leg troubleshooting drills: start with the defender hopping on one leg or lifting the leg high; attacker cycles through De Ashi-style trips, turning finishes and transitions to body locks or backside attacks, focusing on resolution rather than endless hopping.  
+  - Body-lock integration drills: from mid-chain doubles or singles (deep on the legs but stalled), attacker practises climbing to body locks and finishing with trips or mat returns that lead directly to stable pins or back exposure.
+
+- **6.6 Situational Sparring – Constrained Standing Scenarios**  
+  - Hand-fight start rounds: all rounds begin from neutral stance with a rule that the first 15–30 seconds may only involve hand fighting and stance-breaking; no shots allowed until certain positional criteria (e.g. inside ties + head position) are met.  
+  - Snapdown-tasks rounds: attacker must attempt a fixed number of snapdowns before being allowed to shoot; this forces integration of the snapdown “jab” into the overall standing game and discourages naked, unprepared shots.  
+  - Front-headlock and leg-start rounds: alternate rounds where one partner begins with a front headlock or a deep leg catch (double or single) and both must fight from there; builds comfort in the most common “middle of the chain” positions.  
+  - Score/role-based rounds: design rounds where one partner’s job is to secure any controlled takedown within a time limit, while the other’s job is to defend and counter to front headlock or back exposure; later, flip roles so both sides develop offence and defence.  
+  - Ruleset-emulation standing rounds: dedicate short blocks to “IBJJF-style” standing (control-focused finishes, conservative risk) and “ADCC-style” standing (more tolerance for scramble entries tied to leg locks and back takes), so athletes can feel how strategy changes while the core mechanics remain the same.
 
 
+## 7.0 APPLICATION SCENARIOS
 
+- **7.1 Scoring from Takedowns Under Jiu-Jitsu Criteria**  
+  - Prioritise takedowns that land you in, or immediately transition to, scoring positions: side control, half guard with strong upper body control, mount or back exposure, rather than “pretty” throws that spill you into scrambles.  
+  - Use the four-phase model to plan the finish around the *landing*: when choosing between cutback, run-the-pipe, trip or lift, prefer options that make it easy to clear the legs, avoid tight closed guard and establish chest-to-chest or chest-to-back control.  
+  - After completion, treat the first 3–5 seconds as “scoring time”: clamp the hips, control the head/shoulders and stabilise, even if that means delaying immediate submission attempts, since a stable score gives you strategic freedom for the rest of the match.  
+  - In training, run “takedown to 5-second control” drills where the round only counts as a success if the takedown flows into stable top control for a coach-defined count.
+
+- **7.2 Dealing with Opponents Who Refuse Takedowns**  
+  - Against persistent guard-pullers, use stance-breaking and snapdowns to make them *want* the guard pull: force them into uncomfortable upright stances, drive them to the edge of the mat and create the sense that remaining standing is worse than sitting.  
+  - When guard pulls are allowed, treat them as a form of takedown trigger: build sequences where your collar ties, snaps and faked shots encourage predictable guard pulls into the guards you most want to pass (e.g. half guard, seated guard, De La Riva-free positions).  
+  - Against opponents who constantly back away and refuse to engage, use small, stance-preserving advances combined with strong head-and-hand presence to cut the mat into smaller segments; do not chase with big entries from long distance that ignore the four-phase model.  
+  - In rule sets where stalling calls and out-of-bounds resets exist, understand how your takedown threats interact with those rules: push the pace enough that backing away draws referee pressure, then capitalise when they are forced to stand their ground.
+
+- **7.3 Linking Takedowns to Back Takes & Post-Takedown Control**  
+  - Build every main takedown family with explicit “back options”: doubles that turn the corner and run behind, singles that cut back to the far hip, body locks that follow turning escapes into seatbelt, and front headlocks that spin to the back instead of chasing only guillotines.  
+  - Prioritise finishes that either:  
+    - Land you chest-to-back (backside finishes, inside trips that turn them away, single-leg cutbacks that expose the back), or  
+    - Land you chest-to-chest but with an easy line to the back (tight-waist cutback where you immediately climb).  
+  - After the opponent falls, avoid the reflex to “settle in place” if their back is already turning; instead, commit to at least one decisive back-chasing step before you accept a static pin. Make the default habit “follow the turn first, then stabilise.”  
+  - Integrate mat returns into the system as repeated chances to take the back: any time a standing opponent tries to escape body locks or rear body locks, treat their escape attempt as a back-taking opportunity, not just something to block.
+
+- **7.4 Strategy by Rule Set & Match Duration**  
+  - IBJJF-style / points-focused matches:  
+    - Place high emphasis on low-risk, control-heavy takedowns that avoid exposing your neck and legs and that drop you into passing positions; doubles, singles and body locks with clear landing patterns are preferred.  
+    - Be conservative about speculative long-distance shots, especially early in the match; use stance-breaking and snapdowns to create “easy” entries once the opponent’s stance has degraded.  
+    - Once ahead on points, use your standing skills to manage risk: partial entries that force guard pulls, snapdowns that slow the opponent’s pace and threat of takedowns that make them shoot badly.  
+  - Submission-only / ADCC-style matches:  
+    - Accept a higher degree of scramble as long as the scramble routes are understood and lead to back takes, front headlocks or leg locks; your takedown chains should plug directly into your submission systems.  
+    - Use periods where takedowns are rewarded (e.g. ADCC scoring phase) to prioritise higher-value entries like body-locks and well-timed doubles, but avoid all-or-nothing shots that repeatedly give top position away.  
+  - Short matches vs long matches:  
+    - In short matches, front-loaded aggression with stance-breaking, snapdowns and well-timed doubles can quickly put you ahead; there is less time to recover from early takedown deficits.  
+    - In longer matches, emphasise sustainability: stance and level changes that conserve energy, high snapdown volume instead of constant full shots and takedown selection that minimises damage to your own knees and back over time.  
+  - Across all formats and durations, the standing system should be chosen to reflect your A-game on the ground: pick takedowns that repeatedly land you in the exact guard-passing, pinning or back-attack configurations you trust most under that rule set.
+
+## 8.0 FOUR-WEEK CURRICULUM
+
+- **8.1 Week 1 – Stance, Hand Fighting & Snapdowns**  
+  - Weekly objectives:  
+    - Build a reliable, weight-bearing stance with clean motion and level changes.  
+    - Develop basic hand-fighting habits that prioritise inside position and safe head placement.  
+    - Introduce snapdowns as the primary stance-breaking and setup tool.  
+  - Session A – Stance, Motion & Level Changes  
+    - Warm-up: stance shadow rounds (forward/backward/sideways/diagonal) maintaining chest over base and elbows in.  
+    - Technical: stance variations (same- vs opposite-side), basic footwork, shallow and deep level changes, stance switches without crossing feet.  
+    - Drilling: solo penetration-step lines with immediate recovery to stance; partner “stance and motion” games where partner tries to off-balance you with light shoves while you preserve stance.  
+    - Positional work: stance-maintenance rounds where partner’s only job is to pull, push and snap lightly while you keep structure and re-establish stance.  
+  - Session B – Hand Fighting Fundamentals & Inside Position  
+    - Warm-up: wrist pummelling and biceps pummelling in place to emphasise elbows-in posture.  
+    - Technical: building collar ties with good elbow position, wrist-control sequences, inside biceps ties, and transitions to underhooks/overhooks without exposing the neck.  
+    - Drilling: hand-fighting chains where every exchange must move you towards inside grips or improved head position; partner calls “reset” whenever either person drifts into static 50/50 grips.  
+    - Positional work: hand-fighting-only rounds from neutral stance; no shots allowed, scoring based on who secures and maintains dominant head-and-hands positions.  
+  - Session C – Snapdowns & First Front-Leg Entries  
+    - Warm-up: light collar-tie snaps on a resisting partner, focusing on timing and recovery to stance.  
+    - Technical: collar-tie snapdown mechanics, two-on-one snapdowns, snap-to-front-headlock entries and snap-to-front-leg exposure (knee tap or low single).  
+    - Drilling: snapdown ladders (e.g. 3 light snaps → 1 strong snap to front headlock → reset), plus snap-to-leg-entry chains with scripted follow-ups.  
+    - Positional work: constrained rounds where attacker must create at least one clear stance break (hands towards mat or posture bent) with a snap or push–pull before they are allowed to shoot.
+
+- **8.2 Week 2 – Double-Leg Entries, Variants & Finishes**  
+  - Weekly objectives:  
+    - Introduce core double-leg mechanics with strong connection and safe head position.  
+    - Build a small but robust finishing tree (drive, cutback, corner) tied directly to landing in good ground positions.  
+    - Start to link hand fighting and snapdowns to short-range double-leg entries.  
+  - Session D – Entry Mechanics & Elbow-Deep Doubles  
+    - Warm-up: solo penetration steps and “knee touch and recover” lines, emphasising upright spine and trail-leg recovery.  
+    - Technical: standard penetration double (step, knee, trail leg, head and shoulder alignment), elbow-deep positioning, and immediate hip-under adjustments to resist sprawls.  
+    - Drilling: entry-only doubles from neutral stance and from collar ties; attacker must achieve elbow-deep control and stable connection, then reset without finishing.  
+    - Positional work: starting in elbow-deep double with light resistance; attacker’s job is to maintain connection and avoid being sprawled or front-headlocked, not yet to finish.  
+  - Session E – Double-Leg Finishes & Landing Positions  
+    - Warm-up: partner “hip drop” simulation where defender leans weight into your shoulders as you hold elbow-deep doubles and adjust hips and feet to carry the load.  
+    - Technical: drive finishes, cutback finishes and angle/corner finishes, each demonstrated with preferred ground landing (half guard, headquarters, chest-to-chest, avoiding tight closed guard).  
+    - Drilling: 3-phase drills – enter to elbow-deep → connect (hips under, chest to thighs) → finish using coach-called option (drive/cutback/corner).  
+    - Positional work: from mid-range stance, defender offers graded resistance; attacker must time entries from stance-breaking or snapdowns and finish to a defined stable top position, with a 3–5 second control count.  
+  - Session F – Snapdown-to-Double Chains & Defensive Awareness  
+    - Warm-up: snapdown sequences directly followed by penetration steps on coach’s call (snap-only vs snap-to-shot).  
+    - Technical: snap-to-double and hand-fight-to-double chains, including quick “abort” mechanics for when the setup is not clean and you need to re-square.  
+    - Drilling: alternating reps where one partner sets up doubles from snapdowns while the other partner’s job is to sprawl lightly and pummel to front headlock if the entry is poor, teaching the attacker to respect bad entries.  
+    - Positional work: stand-up rounds limited to doubles: attacker may only score with doubles and doubles must start from some form of stance break or inside-tie advantage, not from random dives.
+
+- **8.3 Week 3 – Single-Leg Mechanics, Finishes & High-Leg Options**  
+  - Weekly objectives:  
+    - Build a clear, limited single-leg finishing tree that you can execute under resistance.  
+    - Integrate double-to-single and single-to-double transitions as standard problem-solving patterns.  
+    - Introduce high-leg finishes and troubleshooting for common defensive reactions (whizzer, limp-leg, prolonged hopping).  
+  - Session G – Single-Leg Entries & Base Finishes  
+    - Warm-up: stance and angle footwork drills, emphasising outside steps and pivot steps that naturally expose one leg.  
+    - Technical: inside single-leg entries from hand fighting, outside single-leg entries off angle steps, and double-to-single transitions when one leg slips from your double.  
+    - Drilling: “catch and hold” single-leg drills where attacker enters, establishes clean head and shoulder position and holds without finishing while defender balances and offers light resistance.  
+    - Positional work: starting from solid single-leg control, attacker cycles between run-the-pipe and basic cutback finishes on coach’s call, with defender giving realistic but controlled resistance.  
+  - Session H – Expanded Single-Leg Finish Tree & Double Transitions  
+    - Warm-up: partner pummelling into single-leg entries followed by immediate reset; focus on recognising when singles are naturally offered by stance and angle.  
+    - Technical: thigh-pry finishes, foot-trip variations (inside/outside), tight-waist cutbacks and single-to-double transitions when opponent square-steps or brings the far leg too close.  
+    - Drilling: scripted chains such as single → run-the-pipe → if blocked, switch to cutback; or single → opponent squares → switch to double and finish; each chain practised on both sides.  
+    - Positional work: short rounds where attacker must score only via singles and single-based chains, no doubles allowed, to force depth of understanding in single-leg mechanics and transitions.  
+  - Session I – High-Leg Scenarios & Troubleshooting  
+    - Warm-up: high-leg control drills where partner lifts a leg or hops while you practise keeping your head, shoulder and hip positions safe.  
+    - Technical: high-leg finishes (De Ashi-style trips, steering them into the “dead angle,” turning finishes into backside positions) plus counters to common defences such as strong whizzers, sprawls and limp-legs.  
+    - Drilling: high-leg positional rounds starting with opponent already on one leg; attacker must resolve the position with a finish or controlled body lock within a time constraint.  
+    - Positional work: troubleshooting rounds where defender’s job is specifically to whizzer, limp-leg and hop; attacker must chain through high-leg options, single-to-double transitions and body-lock climbs rather than staying stuck in prolonged hopping battles.
+
+- **8.4 Week 4 – Body Locks, System Integration & Standing Sparring**  
+  - Weekly objectives:  
+    - Integrate body locks as the standing “endgame” that ties together doubles, singles and stance-breaking.  
+    - Connect takedowns cleanly to back takes, mat returns and immediate passing sequences.  
+    - Pressure-test the standing system with situational and then freer standing sparring that reflects your main rule set.  
+  - Session J – Body-Lock Entries from Leg Attacks & Ties  
+    - Warm-up: underhook and two-on-one drills that naturally lead into body-lock grips without exposing your own back.  
+    - Technical: climbing from doubles and singles to side and rear body locks when legs are defended (chasing hips instead of insisting on legs), plus direct body-lock entries from underhook-and-collar and double-underhook positions.  
+    - Drilling: leg-attack-to-body-lock chains where attacker must switch focus from legs to hips when defender sprawls or limp-legs, then finish with inside or outside trips that land in strong chest-to-chest or chest-to-back top positions.  
+    - Positional work: starting in body-lock positions (side or rear); attacker must finish with a trip or mat return and immediately establish top or back control with a short control count.  
+  - Session K – Back-Take & Mat-Return Integration  
+    - Warm-up: mat-return mechanics, lifting and turning drills using bands or light partners to get comfortable with repeated mat returns without fatigue or sloppy posture.  
+    - Technical: from body locks and rear body locks, series of mat returns that feed directly into back exposure, seatbelt, hooks and leg-drag style passing; linking takedowns, mat returns and back takes into one continuous chain.  
+    - Drilling: “get up / return” rounds where defender’s job is to stand up from bottom or turtle while attacker’s job is to maintain body lock or rear body lock and repeatedly return them to the mat, hunting the back each time.  
+    - Positional work: rounds starting from half-finished takedowns (deep single, stalled double, partial body lock) where the attacker is scored on whether they can convert to either clean top control or back takes within a short window.  
+  - Session L – Integrated Standing Sparring & Ruleset Emulation  
+    - Warm-up: short rounds of hand-fighting and snapdowns to re-activate stance-breaking habits developed over the block.  
+    - Technical review: brief review of your personal A-game chains (e.g. snap → front-leg double → cutback → half-guard smash, or two-on-one → single → high-leg finish → body lock → back take).  
+    - Standing sparring: progressive rounds starting with strong constraints (e.g. “must snap before shooting,” “must start from underhook vs whizzer”) and gradually relaxing towards full standing sparring with takedowns and immediate ground continuation.  
+    - Ruleset-specific rounds: final rounds tailored to your main competition ruleset (IBJJF-style, ADCC-style, local rules), emphasising takedown choices, risk levels and follow-up strategies that best fit that format.  
+    - Reflection: quick written or verbal summary after the block – identify which takedown family feels like your natural A-game (doubles, singles, body locks), which positions cause the most problems (e.g. high-leg stalemates, sprawls to front headlock) and which 1–2 themes should shape the next training block.
+
+## Annex A – Glossary & Terminology
+
+- **Stance (Weight-Bearing Stance)**  
+  A standing base where your weight is carried primarily by your legs and hips rather than your lower back or neck. Chest stays roughly over the middle of the feet, knees and hips are flexed, and you can move in all directions without first standing up or “resetting.” The stance must simultaneously satisfy defensive responsibility (hard to take down), offensive potential (can level change and drive) and vision (can see and read opponent’s movements).
+
+- **Same-Side vs Opposite-Side Stance**  
+  Same-side stance: both athletes lead with the same leg (e.g. right vs right); often creates strong collisions on that lead side and clearer single-leg lanes to that leg. Opposite-side stance: one athlete leads right, the other left; often opens more angle and outside-step opportunities but changes which leg is “front.” The system teaches reading stance first, then choosing takedown families that fit.
+
+- **Level Change**  
+  A controlled drop of the hips and shoulders used to access the opponent’s legs or to fake an entry. Done mainly with hip and knee bend, not with waist collapse. A good level change allows you to carry weight and move while low; a bad one leaves you stretched, off-balance or stuck on a knee.
+
+- **Distance**  
+  The horizontal separation between you and the opponent. The system distinguishes between long distance (no realistic grabs or shots), middle distance (hand fighting and stance breaking range) and close distance (ties and body-contact range). Most high-percentage takedowns are launched from middle or close distance after stance is partially broken.
+
+- **Head Position**  
+  The alignment of your head relative to the opponent’s. Neutral head-to-head or ear-to-ear positions are 50/50; advantageous positions involve your forehead or temple driving into their jawline, cheek or collarbone on one side, coupled with inside-hand position. Good head position narrows their stance, slows level changes and opens attack lanes to legs and back.
+
+- **Inside Position (Hands & Arms)**  
+  When your hands and forearms are between your opponent’s arms and torso. Inside position gives direct access to their collar, neck, biceps and ribs while making it harder for them to underhook, arm-drag, body-lock or snap you. Many of the system’s entries require winning inside position before committing to leg attacks.
+
+- **Collar Tie**  
+  A grip where you control the back or side of the opponent’s head/neck with one hand, usually with your forearm pointing down their chest and your elbow in. In this system, a strong collar tie is a primary hub for snapdowns, shucks and front-leg exposure, but only when combined with good head and elbow position.
+
+- **Two-on-One / Russian Tie**  
+  A control where both of your arms are controlling one of your opponent’s arms (typically at wrist and elbow). Used to steer stance, expose the near or far leg, and open direct routes to singles, doubles or body locks. Also a strong defensive position against their shots if used actively.
+
+- **Underhook & Overhook**  
+  Underhook: your arm threaded under their arm, with your hand and forearm controlling their upper back or shoulder. Overhook: your arm over and around their arm, often clamping down on their shoulder. Underhooks are generally dominant for body locks and throws; overhooks can be used to defend shots, threaten snapdowns and create throw-by or turn-out options.
+
+- **Snapdown**  
+  A sharp downward pull on the head and neck (usually from a collar tie or two-on-one) combined with footwork and a small level change to break the opponent’s posture and stance. In this system, snapdowns are the “jab” of standing grappling: used repeatedly to disrupt stance, expose the neck and present the front leg.
+
+- **Front Headlock**  
+  A control where your arms and body trap the opponent’s head and one arm from the front, often used to threaten guillotines, d’Arce/Anaconda attacks and spins to the back. Standing front headlocks also function as hubs for mat returns and short-range takedowns when the opponent stands up from the ground.
+
+- **Front Leg**  
+  The leg that is closest to you in the stance interaction. Many of the system’s doubles and singles are structured around systematically exposing and attacking the front leg created by stance-breaking, snapdowns and hand-fighting wins.
+
+- **Double-Leg Takedown**  
+  A leg tackle where you control both of the opponent’s legs, typically by wrapping behind the knees or thighs and driving or cutting angles to bring them to the mat. In this system, doubles are a central family because controlling both legs and hips often produces the cleanest transitions to top control and back exposure.
+
+- **Single-Leg Takedown**  
+  A leg attack where you control one of the opponent’s legs, either inside (head positioned inside their torso) or outside (head positioned to the outside). Singles are used both as primary attacks and as transitions when doubles are partially blocked. A structured finishing tree (run-the-pipe, cutback, trips, high-leg finishes) is critical to making singles reliable.
+
+- **High-Leg / High-C Leg**  
+  A situation where you have secured a single leg and the opponent lifts the leg high (or you lift it high) so they are hopping or balancing on one leg. High-leg scenarios are common stalemate zones; the system offers specific trip, turn and body-lock transitions to resolve them rather than staying in endless hopping battles.
+
+- **Body Lock**  
+  A torso-level control where your arms encircle the opponent’s body at or above the hips, often with your hands locked behind their back. Can be side body lock (one side of their body) or rear body lock (from behind). Body locks are treated as a premier standing takedown family for submission grappling due to their direct connection to back takes and stable top control.
+
+- **Mat Return**  
+  A technique to bring a standing or rising opponent back down to the mat from a rear body lock, waist lock or similar grip. Mat returns often involve lifting and stepping to off-balance the opponent and then rotating them to the mat while you maintain back or hip control, functioning as “re-takedowns” within the same exchange.
+
+- **Setup (Phase 1 of Takedown Model)**  
+  The actions you use to create a temporary structural advantage before you touch the legs: stance-breaking, snapdowns, angle creation and hand-fighting wins that leave your opponent compromised and you inside their arms. A shot without a real setup is treated as a speculative gamble.
+
+- **Catch (Phase 2)**  
+  The initial bite or grip on the opponent’s legs – hands on knees, ankles, thigh or single-leg control – where you’ve created friction and the opponent can no longer simply step away. Catch is where a leg attack becomes a real threat instead of an empty level change.
+
+- **Connection (Phase 3)**  
+  The process of turning a loose catch into a strong structural position by linking your chest, head, shoulders, elbows and hips to their legs and hips. Proper connection lets you carry weight, survive sprawls and move into alternate finishes or transitions (double-to-single, single-to-double, leg-to-body-lock) without losing control.
+
+- **Completion (Phase 4)**  
+  The finishing action that brings the opponent to the mat or transitions to back/body control: cutbacks, run-the-pipe finishes, trips, lifts, mat returns, body-lock finishes, etc. Under jiu-jitsu criteria, completion is evaluated not only by whether they fall, but by where you land in relation to their hips, guard and back.
+
+- **Angle / Corner**  
+  The lateral or rotational offset you create relative to the opponent’s stance and hips. Instead of driving directly through them in a straight line, you step to a side, “turn the corner” or circle behind so that their ability to sprawl, frame and counter is reduced and your path to the hips and back is clearer.
+
+- **Back Exposure / Backside Position**  
+  Moments where the opponent’s back turns partially or fully to you during takedowns, mat returns or scrambles. The system encourages reading and chasing these moments aggressively – often preferring to take the back rather than insist on a particular leg finish once the back is available.
+
+- **Guard-Aware Landing**  
+  A finishing choice that explicitly accounts for what guard position you are likely to land in. Guard-aware finishes strive to avoid dropping directly into closed guard or deep entanglements when a small angle or choice of finish could instead land you in half guard, headquarters, side control or chest-to-back.
+
+- **Chain Wrestling / Takedown Chains**  
+  The idea that you should link multiple attacks and transitions in sequence (e.g. double → single → high leg → body lock → back take) rather than expecting the first shot to succeed. The system strongly discourages isolated, all-or-nothing entries in favour of rehearsed chains that adapt to common defensive reactions.
+
+- **Stance Breaking**  
+  Any action that compromises the opponent’s base and posture: snapping their hands toward the floor, forcing them to square up when they want to angle, pulling them into a narrow stance, or pushing them into a too-wide stance. Takedowns are much higher percentage when launched after stance is broken.
+
+- **Positional Responsibility**  
+  The constant requirement that your stance, head position and hand placement remain sound enough that if the takedown fails, you can still defend, re-stand or re-enter without immediately giving away back exposure or submissions. Every entry is judged not only by how it might succeed, but by how bad it is if it fails.
+
+
+## Annex B – Quick-Reference Cues by Technique
+
+- **Stance & Motion**  
+  - “Chest over laces, not over toes.”  
+  - “Head on forehead line, not hanging off the back of the neck.”  
+  - “Elbows in, hands live.”  
+  - “Move the stance, don’t let the stance move you.”  
+  - “Small steps, big intent.”
+
+- **Level Change**  
+  - “Bend knees and hips, not your waist.”  
+  - “Eyes up as you drop.”  
+  - “Drop under them, don’t bow toward them.”  
+  - “Level down, then in – never in while still tall.”
+
+- **Head Position Battles**  
+  - “No ear-to-ear unless you’re leaving.”  
+  - “Forehead to jaw / cheek / collarbone – pick a side.”  
+  - “Your head carries weight, your neck does not.”  
+  - “Win the head, then win the hands, then win the hips.”
+
+- **Inside Position & Hand Fighting**  
+  - “Hands inside, elbows tight.”  
+  - “If they win a grip and nothing changes, it’s not a real win.”  
+  - “Strip, climb inside, build a tie – in that order.”  
+  - “Every grip must move stance, angle or head position.”
+
+- **Collar Tie**  
+  - “Head close, elbow in.”  
+  - “Pull with your body, not just your arm.”  
+  - “Collar tie is a hub, not a home – snap, angle or climb from it.”  
+  - “If your collar tie stretches you out, it’s their grip, not yours.”
+
+- **Two-on-One / Russian Tie**  
+  - “Glue wrist to your body, steer with the elbow.”  
+  - “Walk them onto the line of the front leg.”  
+  - “Two-on-one to turn them or to strip posts – don’t just hold.”  
+  - “If they square, leg is offered; if they turn, back is offered.”
+
+- **Underhook / Overhook**  
+  - Underhook: “Palm high, elbow low, hips close.”  
+  - Overhook: “Pin their shoulder, not just their arm.”  
+  - “Underhook to body lock; overhook to snap, throw-by or exit.”  
+  - “If your underhook is long and loose, it’s their underhook.”
+
+- **Snapdowns**  
+  - “Snap with your feet, not just your arms.”  
+  - “Down and slightly forward, then angle off.”  
+  - “Snap to move feet, not just heads.”  
+  - “Light snaps create information, heavy snaps create attacks.”  
+  - “Snap → read reaction → front head, front leg or back.”
+
+- **Front Headlock (Standing)**  
+  - “Head high, hips close, hands bite – don’t hang.”  
+  - “Turn their head toward the direction you want them to fall.”  
+  - “Threaten choke to earn spin behind.”  
+  - “If they stand tall, snap again; if they post, attack legs.”
+
+- **Four-Phase Takedown Model**  
+  - Setup: “Break stance before you break the floor.”  
+  - Catch: “If you don’t catch the leg, it was just cardio.”  
+  - Connection: “Glue chest, head and elbows; feel weight, not space.”  
+  - Completion: “Finish to a position, not just to the mat.”  
+  - Global cue: “No setup, no shot; no connection, no finish.”
+
+- **Double-Leg Entry**  
+  - “Head high, back straight, knees bent.”  
+  - “Step between their feet, not to the side of them (unless angling).”  
+  - “Hands to back of knees or thighs, elbows tight to ribs.”  
+  - “Penetrate under the hips, not into the belt line.”  
+  - “If your first step is huge, your second step will be desperate.”
+
+- **Double-Leg Connection & Finishes**  
+  - “Hips under theirs before you try to drive.”  
+  - “Lift or turn the corner – don’t just push.”  
+  - “Drive when their feet are square; cutback when they turn.”  
+  - “Corner finishes: eyes to the side, not through their chest.”  
+  - “Land outside closed guard if you have any choice at all.”
+
+- **Elbow-Deep Double / Anti-Sprawl**  
+  - “Elbows glued to ribs, not floating out.”  
+  - “If they sprawl, hips go under, not back.”  
+  - “Small steps, angle off; don’t stay directly underneath.”  
+  - “From stuck double: chase a single or a body lock – don’t die there.”
+
+- **Single-Leg Entry**  
+  - “Face their hip, not their chest.”  
+  - “Shoulder above their knee, head tight to the body.”  
+  - “Lock your hands, then adjust feet; not the other way round.”  
+  - “If their knee is outside your body line, reposition before finishing.”
+
+- **Single-Leg – Run the Pipe**  
+  - “Step back and circle, don’t spin in place.”  
+  - “Pull their toes to the floor as you turn their knee.”  
+  - “Head drives into the chest, not across the body.”  
+  - “If they keep balance, exaggerate the circle, not the yank.”
+
+- **Single-Leg – Cutback & Thigh Pry**  
+  - “Sit them into the empty space, not over your own base.”  
+  - “Cutback when they drive into you; run pipe when they run away.”  
+  - “Thigh pry: forearm bone, not soft bicep; pry their knee off their base.”  
+  - “After they fall, climb the body before you chase the head.”
+
+- **High-Leg Scenarios**  
+  - “Shoulder under their thigh, not on their knee.”  
+  - “Make them hop where you choose, not where they choose.”  
+  - “High leg → trip, turn or body lock – don’t just cuddle the leg.”  
+  - “If you’re hopping with them, you’re already late.”
+
+- **Body-Lock Entries**  
+  - “Glue your chest to their ribs before locking hands.”  
+  - “Head under theirs, ear on their chest or jawline.”  
+  - “Step your hips in last; don’t lock from far away.”  
+  - “From underhook: swim the second arm early or abandon, don’t stall.”
+
+- **Body-Lock Finishes**  
+  - “Hips and chest move together – no loose, bent-over body locks.”  
+  - “Finish by turning them over your hip line, not by dragging straight back.”  
+  - “Inside trip when they push into you; outside trip when they lean away.”  
+  - “If they spin to escape, follow the turn to the back, not the mat.”
+
+- **Mat Returns (Rear Body Lock / Waist Lock)**  
+  - “Step off their line before you lift.”  
+  - “Lift with your legs and hips, not your lower back.”  
+  - “Return them to the mat where you can see their hips, not blindly sideways.”  
+  - “On the way down, keep chest glued; don’t lose the lock just to slam.”
+
+- **Front-Head to Back or Legs**  
+  - “Turn their head toward the back path you want.”  
+  - “If they post one leg far forward, that’s your shot leg.”  
+  - “Spin when their hands are on the mat; shoot when they recover upright.”  
+  - “Guillotine threat is a steering wheel – use it, don’t cling to it.”
+
+- **Stance-Breaking & Pressure**  
+  - “If their stance hasn’t changed in 10 seconds, your hand fighting has failed.”  
+  - “Hands to mat, outside elbows, head-and-shoulder lanes – keep cycling goals.”  
+  - “Push–pull until they overreact, then change level or angle.”  
+  - “Pressure is structural, not emotional – stay calm, keep rules.”
+
+- **Defensive Awareness (When Your Shot Fails)**  
+  - “First job after a bad shot: fix your head and spine, then your hands, then your feet.”  
+  - “If you feel front headlock coming, posture and angle before you pull your head out.”  
+  - “If they spin behind your double, turn with them and grab a leg; don’t freeze.”  
+  - “A clean reset to stance is a win if the alternative is giving up back or guillotine.”
+
+- **Chain-Wrestling Logic**  
+  - “Double → Single → Body Lock → Back – default chain.”  
+  - “If you hit their sprawl: think ‘hips, angle, second attack’ not ‘drive harder.’”  
+  - “Every common defence should feed a pre-planned next step.”  
+  - “If a position never leads to your next step, remove it from your A-game.”
+
+- **Rule-Set & Strategy Cues**  
+  - Points-focused: “Score clean, land safe, then risk.”  
+  - Sub-only / ADCC: “Score or threaten subs on every takedown – don’t just fall into neutral.”  
+  - Short match: “Front-load stance breaking and high-percentage entries; there is no time for ‘maybe’ shots.”  
+  - Long match: “Conserve knees and back – small level changes, efficient chains, let snapdowns do the early work.”
+
+
+## Annex C – Error Catalogue & Corrections
+
+- **C.1 Structural & Mechanical Errors**  
+  - Error: Bending at the waist instead of level-changing.  
+    - Description: Athlete “dives” forward, hips high, head dropping toward the floor while legs stay relatively straight.  
+    - Consequences: Easy sprawls, front headlocks, guillotines and back exposure; lower-back strain.  
+    - Corrections: Drill knee/hip-only level changes; cue “chest over laces, eyes up”; have partner lightly sprawl any time the hips rise above shoulder line during a shot.  
+
+  - Error: Stance too narrow or too tall.  
+    - Description: Feet close together, knees minimally bent, chest stacked over heels; looks “comfortable” but not combat-ready.  
+    - Consequences: Tips easily on snapdowns and push–pull; no ability to carry weight or explode into entries.  
+    - Corrections: Stance-width drills with visual markers (e.g. cones or tape); coach checks that athlete can sprawl and level-change without first adjusting stance; cue “if you can’t sprawl from here, stance is wrong.”  
+
+  - Error: Reaching with hands before moving feet.  
+    - Description: Athlete leans in to grab collar ties or legs with their upper body while feet stay behind.  
+    - Consequences: Off-balance grips, exposure to arm drags, snapdowns and easy down-blocks.  
+    - Corrections: “Feet then hands” rule in drilling: no grip attempt unless at least one foot has stepped into range; punish over-reach with immediate snaps or drags in live drilling.  
+
+  - Error: Loose head and elbow position on entries.  
+    - Description: Head away from the body, forehead not connected to chest/hip line, elbows flared away from ribs on shots.  
+    - Consequences: Neck strain, weak drives, easy sprawls and spins behind.  
+    - Corrections: Connection drills where athlete must maintain head-to-rib and elbow-to-rib contact while partner leans weight; cue “if I can see daylight between elbow and ribs, you’re leaking power.”  
+
+  - Error: Staying on the knee after a shot.  
+    - Description: Athlete drops to the knee and remains there, trying to drive or finish without recovering to a stable base.  
+    - Consequences: Flattened under sprawls, front headlocks, forced turtle or guard.  
+    - Corrections: “Touch-and-go” knee drills – every penetration step must be followed by immediate trail-leg recovery; penalise any pause with partner sprawling or spinning.  
+
+- **C.2 Setup & Entry-Selection Errors**  
+  - Error: Shooting without a real setup.  
+    - Description: Random level changes and dives from neutral, upright stances without prior stance-breaking or angle.  
+    - Consequences: Predictable shots, easy down-blocks, early takedown fatigue and loss of confidence in wrestling.  
+    - Corrections: Four-phase rule: no shot allowed in drilling unless athlete can verbally name the setup used (snap, angle, tie); “no-setup shots” are automatically stopped and reset by partner.  
+
+  - Error: Shooting from too far away.  
+    - Description: Long-distance entries where the first step is huge and the upper body reaches ahead of the base.  
+    - Consequences: Telegraphed shots, sprawls, snapdowns and counter-takedowns.  
+    - Corrections: Distance-box drills (taped box on floor); entries must start with both feet within box; coach calls “too far” if first step is longer than a normal stance step; cue “close the distance with feet first, then drop level.”  
+
+  - Error: Ignoring stance and head position before shooting.  
+    - Description: Athlete attempts doubles/singles while in bad stance (hips back, head outside) or with neutral/bad head position.  
+    - Consequences: Getting sprawled flat or front-headlocked even on technically decent shots.  
+    - Corrections: “Pre-shot checklist” in drilling – stance correct, head inside, at least one inside tie; if any item is missing, no shot permitted; partner aggressively punishes “checklist violations” with front headlocks and counters.  
+
+  - Error: Forcing favourite takedown against the stance.  
+    - Description: Athlete insists on a specific double or single regardless of whether stance/angle offers that leg or entry.  
+    - Consequences: Wasted energy, getting stuck under hips, predictable game for opponents.  
+    - Corrections: Stance-reading rounds where coach calls which leg/side must be attacked based on stance; athlete scores only if they obey the stance cue rather than forcing their favourite pattern.  
+
+- **C.3 Connection, Finishing & Landing Errors**  
+  - Error: Trying to finish before connection is built.  
+    - Description: Athlete catches the legs but immediately tries to drive or lift without really gluing chest, head and hips to the opponent.  
+    - Consequences: Sloppy finishes, lost grips, sprawls, and scrambles that favour the defender.  
+    - Corrections: “Hang position” drills – upon catching legs, attacker must hold for a count while feeling weight transfer and building connection before any finish is allowed; coach checks chest/head/hip contact before giving finish cue.  
+
+  - Error: Driving only forward on doubles.  
+    - Description: Straight-line pushing with no angle change or corner turn once resistance is met.  
+    - Consequences: Getting sprawled and stuck underneath, or ending in poor guard positions.  
+    - Corrections: Double-leg finish rounds where pure forward drives are forbidden; every finish must include a cutback, angle step or corner turn; cue “if you meet real resistance, change direction, not effort.”  
+
+  - Error: Finishing into bad guard or neutral positions.  
+    - Description: Takedown lands directly into tight closed guard or entanglements when a minor angle adjustment could have landed in half guard/side.  
+    - Consequences: Immediate submissions against, no clear scoring advantage despite big effort.  
+    - Corrections: Guard-aware landing drills – every takedown rep is scored partially on where you land; coach or partner calls “half / side / HQ / back / bad guard” on each finish; athletes must verbalise their landing target before the shot.  
+
+  - Error: Staying attached to the legs when the back is exposed.  
+    - Description: Opponent turns hard during defence and back opens, but athlete continues to chase legs instead of climbing.  
+    - Consequences: Missed back-take opportunities, extended grinding scrambles.  
+    - Corrections: Back-priority rule: in designated drills, if back exposure appears, athlete MUST abandon legs and go to seatbelt/back. Penalty for failing to chase back when clearly available.  
+
+- **C.4 Tactical & Strategic Errors**  
+  - Error: Over-wrestling in jiu-jitsu context.  
+    - Description: Treating the match like a pure wrestling bout – prioritising big takedowns over guard-aware landings, submissions and back takes.  
+    - Consequences: Winning takedown exchanges but losing positional battles or submissions; unnecessary damage and fatigue.  
+    - Corrections: Takedown-to-submission/passing rounds: every takedown must flow into an immediate guard pass or submission attempt; points given only for sequences that tie takedown into ground advantage.  
+
+  - Error: Under-using snapdowns and stance-breaking.  
+    - Description: Low snapdown volume; athlete goes from neutral stance straight to shots without repeatedly testing and degrading stance.  
+    - Consequences: Opponents remain structurally strong, making every shot hard work and high risk.  
+    - Corrections: “Snap-before-shot” rounds where athlete must perform a minimum number of snapdowns or clear stance breaks before any shot is permitted; track snapcount:shot ratio in training.  
+
+  - Error: Abandoning takedowns too early or too late.  
+    - Description: Some athletes give up on shots at the first sign of resistance; others keep driving from hopeless positions until they are flattened or submitted.  
+    - Consequences: Early abandonment leads to no development of chain wrestling; late abandonment leads to unnecessary risk and injuries.  
+    - Corrections: Threshold training – define clear positional thresholds for when to continue (good connection, head and spine safe) vs when to bail (head pulled down, hips far behind, hands broken); practise bailing to stance or guard with explicit cues.  
+
+  - Error: Ignoring rule-set and time when choosing entries.  
+    - Description: Same aggression and risk profile regardless of points vs sub-only, early vs late in match.  
+    - Consequences: Blowing leads with risky shots when ahead; failing to take necessary risks when behind.  
+    - Corrections: Scenario rounds (up on points, down on points, ADCC scoring phase, etc.) where takedown choice and volume are coached; athletes must verbalise *why* a given entry was appropriate to that scenario.  
+
+- **C.5 Training Culture & Mindset Errors**  
+  - Error: Treating standing as a warm-up, not a skill.  
+    - Description: Rushed or token stand-up rounds before “real” ground training; little structured drilling.  
+    - Consequences: Chronic weakness on the feet, predictable guard pulls, fear of engaging in takedown exchanges.  
+    - Corrections: Protected stand-up blocks in the weekly plan (e.g. first 20–30 minutes twice a week are standing-only); track technical themes so you can see progression across weeks.  
+
+  - Error: Associating takedown failure with ego damage.  
+    - Description: Athletes either avoid standing because they lost takedown exchanges previously or over-attack recklessly to “win” the stand-up at all costs.  
+    - Consequences: Stagnation for cautious athletes; injuries and burnout for reckless ones.  
+    - Corrections: Normalise controlled failure: score attempts and chains, not just completed takedowns; praise good setups, clean bails and thoughtful entries even when they don’t finish.  
+
+  - Error: No feedback loop between stand-up and ground game.  
+    - Description: Standing training and ground training are siloed; takedowns are chosen regardless of where they lead on the ground.  
+    - Consequences: Disconnected game, frequent landings in positions that do not fit the athlete’s passing or submission strengths.  
+    - Corrections: “From the landing onward” reviews – analyse video or memory of where takedowns land and how often they lead into your best passing/back systems; adjust takedown choices to funnel into your A-game.  
+
+  - Error: Inconsistent measurement of progress.  
+    - Description: No tracking of how often shots succeed, how many end in good positions vs bad, or how many attempts per round.  
+    - Consequences: Vague sense of “I’m bad on the feet” or “it’s not working” without clear data to guide training.  
+    - Corrections: Simple log after stand-up sessions: number of shots taken, number of clean setups, number of finishes into good positions, number of times punished by front headlock/back; review bi-weekly to pick one or two focus errors to address next.
+
+- **C.6 Quick Diagnostic Checklist (Post-Round)**  
+  - “Did I shoot only after a real setup?”  
+  - “Did I ever bend at the waist instead of level-changing?”  
+  - “When I caught legs, did I build connection before finishing?”  
+  - “Where did I land on my best takedowns – good top, bad guard, or neutral?”  
+  - “Did I have at least one planned second attack for each common defence?”  
+  - “Was my takedown risk profile appropriate for the score and rule set?”
+
+Use this checklist after selected rounds or sessions to quickly identify which error cluster (structure, setup, connection, tactics or culture) needs the next block of focused drilling.
 
 
 
