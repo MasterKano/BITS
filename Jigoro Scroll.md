@@ -1,30 +1,24 @@
-# BJJ INSTRUCTIONAL OVERVIEW – INSTRUCTIONS v4.8
+# JIGORO TEXT v4.9
 ==============================================
 
 
 ## DOCUMENT INFORMATION
 --------------------
-Document Title: JH Project Instructions (Jigoro Scroll)
-Document Number: JH-TS-002
-Version: 4.8 (ISO Style)
+Document Title: Jigoro Text
+Document Number: JH-MJK-001
+Version: 4.9
 Status: Approved
-Date of Issue: [Today]
-Supersedes: v4.7
+Date of Issue: 2025-12-15
+Supersedes: v4.8
 Issued By: JH
 Maintained By: ChatGPT Execution System
 
 
 ## REVISION HISTORY
 ----------------
-v4.8 – Added explicit requirement that BIO documents use markdown heading syntax up to four levels ("#", "##", "###", "####"). Clarified that each section output is a literal continuation of a single markdown document, starting from BIO contents. Updated terminology to refer to this Manual as the Jigoro Scroll. Separated heading rules for Manual vs BIO.  
+v4.9 – Consolidated repeated rules into single “source-of-truth” clauses with cross-references; introduced auditable Deep Density acceptance criteria; clarified “no unnecessary questions” vs “allowed clarifications” decision logic; tightened transport-vs-document separation (code fences are transport only); standardised BIO heading templates and annex naming tokens; added regeneration invariants; added explicit Section 1 vs Section 4 alignment decision rules for irregular transcripts; added prohibited phrase examples; strengthened Annex D with diagram conventions/legend requirements; refined partial-coverage handling; added pre-output lint checklist (manual compliance preflight).
 
-v4.7 – Added optional markdown-style "#" headings for top two heading levels; increased ASCII diagram maximum width to 120 characters; generalised Annex D specification to be system-agnostic and applicable to any instructional type.  
 
-v4.6 – Clarified line-wrapping rules: diagrams only are hard-wrapped (max width 80 characters; later superseded to 120); all other text is left unwrapped. Updated ASCII Width Rule and Diagram clauses accordingly.  
-
-v4.5 – Refined BIO contents behaviour (Section 0 and Section 1), clarified volume headers when no titles exist in the transcript, and tightened Executive Summary brevity/readability rules.  
-
-v4.4 – Added 0. OPERATIONAL SUMMARY; defined Deep Density explicitly.  
 
 
 # 0. OPERATIONAL SUMMARY
@@ -32,65 +26,41 @@ v4.4 – Added 0. OPERATIONAL SUMMARY; defined Deep Density explicitly.
 
 This section provides a one-screen operational overview. It does not replace the detailed clauses that follow.
 
-- Project initiation
-  - Always start a new instructional project (BIO) by requesting "BIO contents".
-  - The BIO consists of: BIO contents (unnumbered), Sections 0–8, and Annexes A–E.
+- Project initiation (see Clause 4.20)
+  - Start a new instructional project (BIO) by requesting "BIO contents".
   - A new BIO only starts when the user explicitly instructs it (e.g. "Start a new BIO for [Instructional Title]").
 
-- Density and data source
-  - All sections except Section 0 (Executive Summary) must be Deep Density.
-  - Section 0 uses a concise, professional, high-level bullet list (reduced sub-bullet depth) while remaining transcript-faithful.
-  - All content must be transcript-derived; no extrapolation or hallucination beyond what is explicitly permitted (see Section 7A for volume headers).
-  - No citations, no references to instructor/video/platform, no section-level overviews unless explicitly requested.
+- Density and data source (see Clauses 4.1, 4.9–4.10, 4.24, 4.31)
+  - All content must be transcript-derived; no extrapolation beyond permitted synthesis for volume headers (Clause 7A).
+  - Deep Density is the default for all sections except Section 0 (Executive Summary).
 
-- BIO contents behaviour
-  - BIO contents must list:
-    - 0.0 EXECUTIVE SUMMARY (no 0.x sub-chapters by default).
-    - Section 1 second-level entries (1.1, 1.2, …) using volume headers only (no one-sentence descriptors in BIO contents).
-    - Second-level subsections (2.x, 3.x, …) for other sections as appropriate.
-    - Annex headings and any defined annex substructure.
-  - Section 1 body (not BIO contents) must follow Section 7A:
-    - One entry per volume/chapter with a header and a one-sentence (maximum two) descriptor.
-  - When the transcript has no explicit volume title, concise volume headers may be derived from the volume’s transcript content (see 7A).
+- Formatting and continuity (see Clauses 4.16–4.17, 4.29–4.30, 5.1–5.2)
+  - BIO uses markdown headings only (up to four levels); no ASCII underline framing inside the BIO.
+  - Each section/annex output is a continuation of one markdown document and must concatenate cleanly.
 
-- Heading style and formatting
-  - The Jigoro Scroll (this Manual) may use both ASCII framing and markdown headings ("#", "##") for readability.
-  - BIO documents must use markdown headings only, up to four levels ("#", "##", "###", "####"), with no ASCII underline framing inside the BIO itself.
-  - Output is always inside a single fenced code block for copy/paste; the user assembles the final .md/.txt file.
+- Multi-section requests (see Clause 4.19)
+  - Do not silently reduce density; if density cannot be maintained for the combined request, state this and propose a split.
 
-- Document continuity
-  - Each section (0–8 and Annexes A–E) is a continuation of a single BIO document that begins with BIO contents.
-  - Section outputs must be structurally consistent so they can be concatenated in order (BIO contents → 0 → 1 → … → Annex E) into one markdown document.
-
-- Section requests and regeneration
-  - When the user requests "BIO contents", "Section X", or an Annex, return exactly that part of the BIO and also answer any direct questions in the same turn.
-  - Regenerating a section replaces the previous version and must follow the latest Manual version and user instructions.
-
-- Multi-section behaviour and density
-  - Multi-section requests must not silently reduce density.
-  - If full density cannot be maintained for all requested sections in one response, explicitly state this and propose alternatives (e.g. split across responses, prioritise sections).
-  - No fixed numeric cap; behaviour depends on instructional size and technical limits.
-
-- Wrapping and diagrams
-  - Default: no manual hard-wrapping of prose or bullets; each bullet/paragraph may run as a single line (let the editor handle visual wrapping).
-  - Exception: ASCII diagram blocks are hard-wrapped and must respect the ASCII Width Rule (Clause 4.17).
+- Wrapping and diagrams (see Clause 4.17)
+  - Prose/bullets: no manual hard-wrapping.
+  - Diagrams only: hard-wrapped to ASCII Width Rule (≤120 chars).
 
 
 # 1. SCOPE
 ====================
 
-This Technical Standard (the "Manual", also referred to as the Jigoro Scroll) defines the requirements, procedures, formatting rules, and compliance criteria for converting any BJJ instructional transcript into a structured BJJ Instructional Overview (BIO) using the Full Elite-Note Format.
+This Technical Standard (the "BIO Manual", also referred to as the Jigoro Text) defines the requirements, procedures, formatting rules, and compliance criteria for converting any BJJ instructional transcript into a structured BJJ Instructional Overview (BIO) using the Full Elite-Note Format.
 
 The BIO consists of a single logical markdown document containing:
 - An unnumbered Contents section (the "BIO contents"),
 - Sections 0–8, and
 - Annexes A–E.
 
-Output is intended to be saved by the user as a single .md or .txt file, consistently formatted in markdown heading syntax and derived exclusively from transcript content. The assistant does not assemble or export the file; instead, each section is returned in a copy-ready form for user assembly.
+Output is intended to be saved by the user as a single .md, consistently formatted in markdown heading syntax and derived exclusively from transcript content. The assistant does not assemble or export the file; instead, each requested part is returned in copy-ready form for user assembly.
 
 The user may request section-by-section output during generation, starting from the BIO contents and continuing through Sections 0–8 and Annexes A–E.
 
-The user may request that this Manual be updated to reflect the latest workflow, improvements, and efficiency gains. Such changes shall be incorporated as new versions with corresponding entries in the Revision History.
+The user may request that this Jigoro Text be updated to reflect the latest workflow, improvements, and efficiency gains. Such changes shall be incorporated as new versions with corresponding entries in the Revision History.
 
 
 # 2. NORMATIVE REFERENCES
@@ -102,8 +72,8 @@ There are no normative external references.
 # 3. TERMS AND DEFINITIONS
 ==============================
 
-Manual / Jigoro Scroll:
-  This document, "BJJ INSTRUCTIONAL OVERVIEW – INSTRUCTIONS". The user may refer to it as "the manual", "Jigoro Scroll", or "Jigoro". The assistant may be asked to update it based on the latest workflow, improvements, and efficiency gains; such updates shall be applied as new versions with appropriate revision history.
+BIO Manual / Jigoro Text:
+  This document, "Jigoro Text". The user may refer to it as the "BIO manual", "Jigoro Text", or "Jigoro". Updates shall be applied as new versions with revision history.
 
 BJJ Instructional Overview (BIO):
   The complete notes report generated under this standard from a single instructional, comprising the unnumbered BIO contents section, Sections 0–8, and Annexes A–E, formatted as a single markdown document.
@@ -116,10 +86,20 @@ Fully Expanded Elite-Note Format:
   A structured, information-dense, multi-layered note style with detailed mechanics, conceptual exposition, and deep sub-bullet structure.
 
 Deep Density:
-  A level of detail in which all distinct mechanics, constraints, decision points, cues, positional relationships, and transcript-derived distinctions are explicitly encoded. Does not include rhetorical explanation, repeated rephrasing without new information, or generic coaching "fluff" that does not change decision-making or execution.
+  A level of detail in which all distinct mechanics, constraints, decision points, cues, positional relationships, and transcript-derived distinctions are explicitly encoded.
+  Deep Density MUST include, when present in transcript:
+  - Conditions/triggers (when/if statements; entry criteria; positional prerequisites).
+  - Decision forks (A vs B; primary vs fallback; win/lose branches; “if they do X, do Y”).
+  - Constraints and “do not” rules (structural prohibitions; alignment/connection rules; safety constraints).
+  - Timing cues and sequencing (when to switch; what must happen before next step; tempo-related notes).
+  - Failure patterns and corrections (what goes wrong; why; what to fix; drill/cue remedies if provided).
+  Deep Density MUST avoid:
+  - Rhetorical explanation, motivational coaching, generic platitudes, or “teaching talk” that does not change execution decisions.
+  - Rephrasing the same point without introducing a new constraint, cue, decision, or mechanic.
+  - Adding “standard BJJ” knowledge not present in transcript (except permitted volume-header synthesis in Clause 7A).
 
 Transcript-Derived:
-  All content originates strictly from the transcript without extrapolation, except for:
+  All content originates strictly from the transcript without extrapolation, except:
   - Concise, descriptive volume headers where the transcript lacks explicit titles, as described in Section 7A, and
   - Minimal phrasing adjustments required for clarity while preserving intent.
 
@@ -127,7 +107,7 @@ System Diagram:
   ASCII representation of the instructional’s systemic logic, using fixed-width characters and respecting the ASCII Width Rule.
 
 Segmented Write:
-  Internal method used to safely generate large .txt/.md files (performed by user via copy-paste from assistant responses).
+  Internal method used to safely generate large .md files (performed by user via copy-paste from assistant responses).
 
 Failure Pattern:
   A recurring mistake or error pattern described within the transcript.
@@ -136,18 +116,17 @@ Failure Pattern:
 # 4. GENERAL REQUIREMENTS
 ==============================
 
-## 4.1 Transcript Origin
+## 4.1 Transcript Origin (Source of Truth)
 ---------------------
 All content shall be transcript-derived. The only permitted synthesis beyond verbatim transcript is:
 - Concise volume/chapter headers where the transcript lacks explicit titles, as described in Section 7A, and
 - Minimal phrasing adjustments required for clarity while preserving intent.
 
-## 4.2 Single-File Concept
+## 4.2 Single-File Concept (Continuity)
 -----------------------
 Output shall conceptually exist as a single markdown document:
-- The assistant provides sectioned content suitable for .md/.txt assembly.
-- The user manually assembles the final document by copying sections in order (BIO contents → 0–8 → Annexes).
-- The assistant shall not attempt to create or export the final file.
+- The assistant provides parts suitable for assembly (BIO contents → Sections 0–8 → Annexes A–E).
+- The user assembles the final document by copying parts in order.
 
 ## 4.3 Elite-Note Format
 ---------------------
@@ -165,53 +144,64 @@ ASCII diagrams shall follow fixed-width rules (Clause 4.17) and required block f
 -----------------------
 Internal processing shall not be exposed.
 
-## 4.7 Questions
+## 4.7 Questions vs Clarifications (Do Not Stall)
 -------------
-The system shall not ask unnecessary questions.
+The system shall not ask unnecessary questions (see Clause 4.8 and Clause 10 for permitted clarification cases).
 
-## 4.8 Filename Convention
+## 4.8 Clarification Decision Logic (Permitted Only When Needed)
 -----------------------
-Filename convention (for user-saved file):
-- [Instructor]_[Title]_JH Notes.md
-- or [Instructor]_[Title]_JH Notes.txt
+Clarification shall be requested only if one of the following is true:
+- Transcript is missing or corrupted.
+- Transcript is unreadable.
+- A mandatory output cannot be populated at even minimal stub level without violating transcript fidelity.
+If ambiguity exists but can be safely handled without violating fidelity:
+- Proceed with best-effort transcript-faithful structure extraction.
+- Apply safe defaults consistent with this Manual (e.g. standard heading templates, default density rules, default Section 0 shape).
 
-## 4.9 Density Default
+## 4.9 Filename Convention
+-----------------------
+NA
+
+## 4.10 Density Default
 -------------------
 Deep Density is the default for all sections except Section 0 (Executive Summary), unless directed otherwise by this Manual or by explicit user request.
 
-## 4.10 Full-Density Output Requirement
+## 4.11 Full-Density Output Requirement
 ------------------------------------
 - All sections except Section 0 (Executive Summary) shall be produced at full density.
 - Density shall not be reduced when multiple sections are requested together, unless this is technically impossible.
-- Each section shall include full structural expansion, sub-bullets, mechanics, conceptual detail, and all transcript-derived distinctions.
 - Condensed output is permitted only when explicitly requested by the user, or when producing Section 0 under Clause 4.24.
 
-## 4.11 Subsection Derivation and Granularity
+## 4.12 Subsection Derivation and Granularity
 ------------------------------------------
 - All subsections shall be derived strictly from transcript structure.
 - No artificial caps or standardised patterns.
 - Enumerate all distinct mechanics, concepts, variations, decision points, or diagram elements.
 - Subdivide further whenever transcript content supports finer granularity.
 
-## 4.12 Thoroughness Priority over Latency
+## 4.13 Thoroughness Priority over Latency
 ---------------------------------------
 - Completeness, fidelity, and density take priority over speed.
 - No depth reductions for performance reasons.
 
-## 4.13 Section Alignment Rule
+## 4.14 Section Alignment Rule (Spine)
 ---------------------------
 - Section 1 (Instructional Volume Content) and Section 4 (Technique Library) shall align in naming and ordering unless transcript structure dictates otherwise.
+- Decision rule when transcript structure is irregular:
+  - If transcript is primarily volume/chapter based: Section 4 mirrors Section 1 volume ordering.
+  - If transcript is primarily topic-family based across volumes: Section 1 remains chronological by volume; Section 4 uses topic-family groupings with cross-references in headings as needed.
+  - If mixed: use transcript’s highest-level headings as the spine; preserve Section 1 ordering; organise Section 4 to minimise duplication while remaining transcript-faithful.
 
-## 4.14 Annex Ordering Rule
+## 4.15 Annex Ordering Rule
 ------------------------
 - Annexes A–E are fixed and shall not be reordered.
 
-## 4.15 Diagram Density Clarification
+## 4.16 Diagram Density Clarification
 ----------------------------------
 - Full Density applies to the explanatory text surrounding diagrams.
 - ASCII diagram structure itself shall remain simple.
 
-## 4.16 Indentation Rule
+## 4.17 Indentation Rule
 ---------------------
 Bullet hierarchy shall follow fixed indentation:
 - First level: "-"
@@ -219,191 +209,181 @@ Bullet hierarchy shall follow fixed indentation:
     - Third level: (further indented) "-"
       - Fourth level: (further indented) "-"
 
-## 4.17 ASCII Width Rule
+## 4.18 ASCII Width Rule
 ---------------------
 - ASCII diagrams shall not exceed 120 characters in width.
-- Only ASCII diagram blocks shall be manually hard-wrapped; non-diagram prose and bullets shall be left unwrapped (single-line per bullet/paragraph) and allowed to wrap visually in the editor.
+- Only ASCII diagram blocks shall be manually hard-wrapped; non-diagram prose and bullets shall be left unwrapped and allowed to wrap visually in the editor.
 
-## 4.18 Untitled Volume Fallback
+## 4.19 Untitled Volume Fallback
 -----------------------------
 - If transcript chapters lack titles, enumerate by order and derive identifiers from nearest descriptive text.
 - If an entire volume/chapter has no explicit title in the transcript, concise descriptive volume headers may be constructed from the dominant themes of that volume’s transcript content, per Section 7A.
 
-## 4.19 Multi-Section Request Behaviour
+## 4.20 Multi-Section Request Behaviour
 ------------------------------------
 When the user requests more than one section in a single response:
-- The assistant shall attempt to produce all requested sections at full Elite-Note density.
-- If it is not technically possible to maintain full density for that specific combined request, the assistant shall:
-  - Explicitly state that full density cannot be maintained for that combined request.
-  - Not silently reduce density for any requested section.
-  - Propose at least one practical alternative (e.g. deliver sections individually, prioritise a subset, or split across responses).
+- Attempt to produce all requested sections at full Elite-Note density (subject to Executive Summary exception).
+- If it is not technically possible to maintain full density for the combined request:
+  - Explicitly state the limitation.
+  - Do not silently reduce density.
+  - Propose practical alternatives (split by section; prioritise subset; multi-part delivery).
 
-## 4.20 Contents-First Workflow & Header Rule
+## 4.21 Contents-First Workflow & Header Rule
 ------------------------------------------
 - Each new instructional project (BIO) shall begin with a user request for "BIO contents" or "Contents".
-- "BIO contents" shall always be interpreted as a request for the unnumbered Contents section that precedes Section 0 of that BIO.
-- The BIO contents response shall:
-  - Include the instructional series title and instructor at the top.
-  - Present the full table of contents for Sections 0–8 and Annexes A–E for that BIO.
-  - Include, by default:
-    - A single line for Section 0: "0.0 EXECUTIVE SUMMARY" (no 0.x subsections unless explicitly requested).
+- "BIO contents" shall always be interpreted as the unnumbered Contents section preceding Section 0.
+- BIO contents shall include:
+  - Instructional series title and instructor (for reference at contents only).
+  - Full contents list for Sections 0–8 and Annexes A–E for that BIO.
+  - Default contents shape:
+    - Section 0 as a single line: "0.0 EXECUTIVE SUMMARY" (no 0.x by default).
     - Second-level entries for Section 1 (1.1, 1.2, …) using volume headers only (no descriptors).
-    - Second-level entries for Sections 2–8 (2.x, 3.x, …) as defined for that BIO.
+    - Second-level entries for other sections as appropriate.
     - Annex headings and any defined annex substructure.
-- All subsequent section outputs (0, 1, 2, ..., Annexes) shall:
-  - Be treated as a continuation of the same BIO.
-  - Not repeat the title, series name, or instructor at the top.
-  - Preserve numbering and structural alignment from the initial BIO contents.
+- All subsequent section outputs are a continuation of the same BIO and must not repeat the file title.
 
-## 4.21 Citations and Reference Markers
+## 4.22 Citations and Reference Markers
 ------------------------------------
-- By default, no citations, reference markers, footnotes, or bibliography entries shall be included in the notes.
+- By default, no citations, reference markers, footnotes, or bibliography entries shall be included in the BIO.
 
-## 4.22 Source and Instructor Referencing
+## 4.23 Source and Instructor Referencing (No Meta)
 --------------------------------------
-- Notes shall not refer to the instructor by name, the video, the course, or the platform (e.g. no "in this video", "Danaher explains", "this instructional shows").
-- Notes shall not describe themselves or their own sections (e.g. "in this section we cover...").
-- Content shall consist only of technical details, cues, rules, decision-making, and other transcript-derived substance.
+- Notes shall not refer to the instructor by name, the video, the course, or the platform.
+- Notes shall not describe themselves or their own sections (no meta narration).
+- Notes shall consist only of transcript-derived technical details, cues, rules, and decision-making.
 
-## 4.23 Section-Level Overviews and Summaries
+## 4.24 Prohibited Phrase Examples (Operational)
+------------------------------------------
+Do not write (non-exhaustive):
+- “In this section…”
+- “This video shows…”
+- “The instructor explains…”
+- “We will cover…”
+- “Next, we’ll discuss…”
+- “As mentioned earlier…” (unless encoding a specific transcript-derived dependency)
+
+## 4.25 Section-Level Overviews and Summaries
 ------------------------------------------
 - For each requested section, output shall consist only of that section’s direct notes.
-- Section-level overviews, narrative preambles, or recaps shall not be added at the beginning or end of sections unless explicitly requested by the user.
-- The table of contents and section headings define scope; notes shall not restate this scope in narrative form.
+- No narrative preambles, recaps, or “what this section is about” framing unless explicitly requested.
 
-## 4.24 Executive Summary Density
+## 4.26 Executive Summary Density
 ------------------------------
-- Section 0 (Executive Summary) is intended as a high-level, fast-to-scan overview of the instructional.
-- It may use shorter bullets and reduced sub-bullet depth compared to technical sections, but it shall remain information-dense and transcript-faithful.
-- It shall focus on system structure, strategic themes, and major decision points rather than encoding every mechanical detail.
+- Section 0 is a high-level, fast-to-scan overview.
+- Reduced nesting compared to technical sections, but still transcript-faithful and information-dense.
 - Default shape:
-  - A limited number of top-level bullets (typically 6–10).
+  - Typically 6–10 top-level bullets.
   - Shallow nesting (0–2 sub-bullets per top-level bullet).
-  - Professional, concise phrasing; no extended multi-level trees.
-- All other sections and annexes remain subject to full Elite-Note Density (Clauses 4.9–4.10).
+  - Focus on system structure, strategic themes, and major decision points.
 
-## 4.25 Direct Note-Taking Style
+## 4.27 Direct Note-Taking Style
 -----------------------------
-- The default style for all technical sections shall be a direct, high-density note-taking style.
-- Compact bullet points and structured lists are preferred over long prose paragraphs.
-- Each note should, where applicable, begin with a clear anchor (position, condition, or action).
-- Short, direct phrases are preferred to full narrative sentences, except where full sentences encode important rules, constraints, or decision criteria.
-- Conversational or "chatty" language, rhetorical questions, and narrative teaching commentary shall be avoided unless they encode a specific, actionable cue.
+- Default for technical sections: direct, high-density notes.
+- Bullets/structured lists preferred over long prose.
+- Notes begin with a clear anchor (position, condition, action) where applicable.
+- Avoid conversational language unless encoding an actionable cue.
 
-## 4.26 In-Report Formatting Consistency
+## 4.28 In-Report Formatting Consistency
 -------------------------------------
-- Within a single BIO, heading levels, bullet styles, indentation, and labelling conventions shall remain consistent from the first section to the last.
-- New formatting conventions shall not be introduced mid-BIO unless the user explicitly instructs a global style change for that BIO.
-- When the user states that this Manual governs the project, this document shall be treated as the controlling reference for all formatting and style decisions for that BIO.
+- Within a single BIO, heading levels, bullet styles, indentation, and labelling shall remain consistent from first part to last.
+- Do not introduce new conventions mid-BIO unless user requests a global style change.
 
-## 4.27 Instruction Priority and Conflict Resolution
+## 4.29 Instruction Priority and Conflict Resolution
 -------------------------------------------------
-When interpreting instructions, the system shall apply the following priority order:
-1. The most recent, explicit user instruction.
+1. Most recent explicit user instruction.
 2. This Manual (Jigoro Scroll).
-3. Any generic or default behaviour.
+3. Generic/default behaviour.
 
-If earlier output conflicts with later instructions, subsequent sections shall follow the latest user instruction, and new sections shall be generated in accordance with the updated rule set.
-
-## 4.28 Section 1 and BIO Contents Linkage
+## 4.30 Section 1 and BIO Contents Linkage
 ---------------------------------------
-- Section 1 (Instructional Volume Content) must follow Section 7A for structure and density.
-- BIO contents representation of Section 1 shall:
-  - List 1.1, 1.2, … with volume headers only (no descriptors).
-- Section 1 body shall:
-  - Use the same volume numbering and headers as BIO contents.
-  - Add one sentence (maximum two) summarising its strategic or technical focus.
+- BIO contents lists Section 1 entries as volume headers only.
+- Section 1 body uses the same numbering and headers and adds one sentence (maximum two) descriptor.
 - Headers must match exactly between BIO contents and Section 1 body.
 
-## 4.29 BIO Markdown Heading Rule
+## 4.31 BIO Markdown Heading Rule (Standard Templates)
 -------------------------------
-- All BIO documents shall use markdown heading syntax as follows:
-  - Level 1 ("# "): reserved for the instructional title at the very top of the BIO (optional).
-  - Level 2 ("## "): used for primary BIO sections (0.0–8.0 and Annexes A–E), e.g. "## 0.0 EXECUTIVE SUMMARY", "## 1.0 INSTRUCTIONAL VOLUME CONTENT".
-  - Level 3 ("### "): used for numbered second-level subsections (1.1, 2.1, 3.2, etc.).
-  - Level 4 ("#### "): used for third-level subsections when needed (1.1.1, 2.1.1, etc.).
-- ASCII heading framing (e.g. "=" and "-" underline lines) shall not be used inside the BIO document body, except where the user explicitly asks for legacy style.
-- The Jigoro Scroll (this Manual) may continue to use ASCII framing in addition to markdown "#" for clarity; the BIO must not.
+BIO documents must use markdown headings only (no ASCII underline framing inside BIO):
+- Level 1 (optional, once): "# [Instructional Title]"
+- Level 2 (mandatory for primary units):
+  - "## BIO CONTENTS"
+  - "## 0.0 EXECUTIVE SUMMARY"
+  - "## 1.0 INSTRUCTIONAL VOLUME CONTENT"
+  - …
+  - "## 8.0 FOUR-WEEK CURRICULUM"
+  - Annex template: "## Annex {Letter} – {Title Case}"
+- Level 3: "### {X.Y} {Title Case}" (e.g. "### 3.1 {…}")
+- Level 4: "#### {X.Y.Z} {Title Case}" when needed
 
-## 4.30 BIO Document Continuity Rule
+## 4.32 BIO Document Continuity Rule
 ---------------------------------
-- Every section (BIO contents, Sections 0–8, Annexes A–E) is assumed to belong to one continuous markdown document for that instructional.
-- Section outputs:
-  - Must be generated so they can be concatenated without additional structural edits.
-  - Must not reintroduce file-level elements already defined (e.g. do not repeat the main title inside later sections).
-- When a new BIO is explicitly started by the user, continuity is reset and a new BIO contents section defines the new document.
+- Every part (BIO contents, Sections 0–8, Annexes A–E) belongs to one continuous markdown document.
+- Parts must concatenate without requiring structural edits.
+- Do not reintroduce file-level elements already defined (e.g. do not repeat the main title inside later parts).
+
+## 4.33 Regeneration Invariants
+----------------------------
+When regenerating a section/annex (replacement):
+- Preserve numbering, heading text, and ordering already defined by BIO contents unless user explicitly requests restructuring.
+- Preserve any user-specified naming conventions for that BIO.
+- Preserve Section 1 ↔ contents header matching exactly.
+
+## 4.34 Partial Coverage Handling (Non-Destructive)
+----------------------------
+If only partial transcript-derived content exists for a section/annex:
+- Output only the available transcript-derived content.
+- Add a single terminal bullet line:
+  - "Coverage incomplete due to missing or insufficient transcript content."
+Do not invent material to “complete” the section.
 
 
 # 5. FORMATTING REQUIREMENTS
 ==============================
 
-## 5.1 Transport vs Document Layer
+## 5.1 Transport vs Document Layer (Single Source of Truth)
 -------------------------------
 - Transport (ChatGPT responses):
-  - Each requested section or group of sections shall be returned inside a fenced code block ("box") for easy copy/paste.
-  - The code fences themselves are transport wrappers only and are not part of the final .md/.txt document.
+  - Each requested part is returned inside a fenced code block for copy/paste.
+  - Code fences are transport wrappers only and are not part of the BIO document.
 - Document content (inside the box):
   - Must be valid plain text and markdown-compatible.
-  - Shall be formatted so that removal of the code fences yields a ready-to-save .md/.txt file.
+  - Removal of the fences yields ready-to-save .md/.txt content.
 
 ## 5.2 Heading and List Styles
 ----------------------------
 
-### 5.2.1 Manual (Jigoro Scroll) Heading Style
-- Top-level headings:
-  - Use "# " plus optional ASCII "=" framing, e.g.:
-    - "# 1. SCOPE" followed by "====================".
-- Second-level subheaders:
-  - Use "## " plus optional ASCII "-" underline, e.g.:
-    - "## 4.1 Transcript Origin" followed by "---------------------".
-- Deeper headings:
-  - May use "### " and "#### " as needed without ASCII lines.
-- This mixed style is for readability when viewing the Manual directly.
+### 5.2.1 BIO Manual (Jigoro Text) Heading Style
+- Jigoro Text must use markdown headings and optional ASCII framing for readability.
+- Deeper headings may use "###" / "####" as needed.
 
 ### 5.2.2 BIO Heading Style (Mandatory)
-- BIO documents must use markdown headings only:
-  - Level 1:
-    - "# [Instructional Title]" (optional, once, at top of BIO).
-  - Level 2:
-    - "## [Section Number] [Section Title]" for Sections 0–8 and Annexes A–E.
-    - Examples:
-      - "## 0.0 EXECUTIVE SUMMARY"
-      - "## 1.0 INSTRUCTIONAL VOLUME CONTENT"
-      - "## Annex A – Extracted Key Passages"
-  - Level 3:
-    - "### [Subsection Number] [Subsection Title]" for 1.1, 2.1, 3.2, etc.
-  - Level 4:
-    - "#### [Sub-subsection Number] [Sub-subsection Title]" for 1.1.1, 2.1.1, etc., when needed.
-- ASCII underline/framing (e.g. "=" and "-" lines under headings) shall not be used inside the BIO.
+- BIO uses markdown headings only, per Clause 4.31.
+- No ASCII underline/framing inside the BIO.
 
 ### 5.2.3 Lists
-- Hyphens ("-") shall be used for unordered lists.
-- Numbered lists ("1.", "2.", "3.") shall be used only for sequences or rankings.
-- Bullet hierarchy shall follow the indentation rule in Clause 4.16.
+- Hyphens ("-") for unordered lists.
+- Numbered lists only for sequences/rankings.
+- Indentation follows Clause 4.17.
 
 ## 5.3 Markup Restrictions
 -----------------------
-- No HTML, LaTeX, or other rich markup languages shall be used in the BIO.
-- No inline styling, colour codes, or non-ASCII formatting.
-- Within the BIO document content, avoid any syntax that depends on a markdown renderer beyond standard headings, lists, and emphasis (e.g. bold/italics where helpful).
+- No HTML, LaTeX, or non-standard markup.
+- Avoid renderer-dependent styling beyond standard headings/lists/emphasis.
 
 ## 5.4 Spacing and Wrapping
 ------------------------
 - One blank line between major sections.
-- No excessive blank lines between bullets.
-- Prose and bullet lines shall not be manually hard-wrapped for width; each bullet/paragraph may be written as a single logical line.
-- ASCII diagram blocks remain the sole exception and shall be manually wrapped in accordance with the ASCII Width Rule (Clause 4.17).
+- No manual hard-wrapping of prose/bullets; single logical line per bullet/paragraph is acceptable.
+- Exception: ASCII diagrams only, per Clause 4.18.
 
 ## 5.5 Diagrams
 ------------
-- Diagrams shall be clearly delimited, e.g. by preceding/following commentary or fenced "diagram" blocks when helpful for clarity.
-- Diagram text shall respect the ASCII Width Rule (Clause 4.17).
-- Diagram lines shall be manually wrapped such that no line exceeds 120 characters in width.
-- Non-diagram sections shall not use manual width-based wrapping.
+- Diagrams must respect ASCII Width Rule (Clause 4.18).
+- Diagram blocks may be delimited with brief commentary for clarity.
+- Diagram text is hard-wrapped to ensure no line exceeds 120 characters.
 
 ## 5.6 Whitespace
 --------------
-- No trailing spaces at the end of lines.
+- No trailing spaces.
 
 ## 5.7 No Hidden Markup
 --------------------
@@ -411,13 +391,11 @@ If earlier output conflicts with later instructions, subsequent sections shall f
 
 ## 5.8 Copy-Paste Integrity
 ------------------------
-All content shall be formatted such that:
-- Copying from the code block and pasting into a plain-text or markdown editor yields a structurally intact, readable document.
-- No additional editing is required beyond optional removal of the initial and final code fences.
+- Copy/paste into a plain-text/markdown editor must yield a structurally intact document with no additional edits required beyond optional removal of code fences.
 
 ## 5.9 Section Concatenation
 -------------------------
-- Each section must be able to follow the previous one directly (BIO contents → Section 0 → Section 1 → … → Annexes) without creating malformed markdown (e.g. repeated file titles, heading level jumps, or duplicated top-level titles).
+- Each part must follow the previous part directly without malformed markdown (heading jumps, duplicated file titles, inconsistent numbering).
 
 
 # 6. WORKFLOW
@@ -427,41 +405,16 @@ All content shall be formatted such that:
 
 2) User initiates BIO by requesting "BIO contents" or "Contents".
 
-3) Assistant generates the BIO contents section at full density, including:
-   - Instructional series name.
-   - Instructor name (for user’s own reference; not repeated inside the technical sections).
-   - Full contents list for Sections 0–8 and Annexes A–E for that BIO, including:
-     - Section 0 as a single line (no 0.x by default).
-     - Second-level entries for Section 1 using volume headers only.
-     - Defined second-level entries for Sections 2–8 and annex substructure.
+3) Assistant generates BIO contents per Clause 4.21.
 
-4) User requests subsequent sections (e.g. "Section 0", "Section 2–3", "Annex D") as needed; each response is:
-   - Returned inside a single code block for copy/paste.
-   - A continuation of the same BIO, without repeating the main title.
+4) User requests subsequent parts (e.g. "Section 0", "Section 2–3", "Annex D") as needed; each response:
+   - Returns exactly the requested part(s) inside a single code block (transport only).
+   - Continues the same BIO without repeating file-level title elements.
 
-5) The user assembles the final .md/.txt BIO manually by:
-   - Copying the section content (inside the boxes) in the desired order.
-   - Removing code fences as needed before saving.
+5) User assembles final .md/.txt by copying parts in order and removing code fences.
 
-6) For multi-section requests, the assistant:
-   - Attempts to provide all requested sections at full density (subject to the Executive Summary exception in Clause 4.24).
-   - Explicitly reports any technical limitation preventing full-density output for all requested sections together and suggests alternatives.
-
-Additional workflow rules:
-- Regenerating a section (e.g. "Regenerate Section 2") shall:
-  - Be treated as a replacement for the previous version of that section.
-  - Conform to the latest version of this Manual and the latest user instructions, even if earlier outputs used an older style.
-- When the user explicitly states that a new BIO should start (e.g. "Start a new BIO for [Instructional Title]"), the assistant shall:
-  - Close the previous BIO context.
-  - Treat the next "BIO contents" request as belonging to the new BIO only.
-- When the user requests a specific section or annex (e.g. "Section 6", "Annex B"), the assistant shall output exactly and only that section’s content, formatted according to this Manual, without additional preamble, recap of the document structure, or trailing commentary.
-- Direct user questions in the same turn as a section request shall be explicitly answered, either immediately before or immediately after the requested section content.
-- Before returning any section or annex, the assistant shall internally verify that:
-  - Heading syntax complies with Clause 5.2.
-  - No citations or source references are included unless explicitly requested (Clause 4.21).
-  - There is no meta-commentary about the video, instructor, or section (Clauses 4.22–4.23).
-  - The style matches the direct note-taking standard (Clause 4.25) and remains consistent with previous sections of the same BIO (Clause 4.26).
-  - All explicit user questions in the latest turn have been addressed.
+Regeneration workflow:
+- "Regenerate Section X" replaces the previous Section X and must comply with Clause 4.33.
 
 
 # 7. REQUIRED DOCUMENT ARCHITECTURE (BIO)
@@ -470,36 +423,29 @@ Additional workflow rules:
 The document generated under this standard is the BJJ Instructional Overview (BIO).
 
 [UNNUMBERED] BIO CONTENTS
-- The "BIO contents" section.
-- Auto-generated at the start of the BIO.
-- Lists Sections 0–8 and Annexes A–E with their second-level structure, subject to Clause 4.20.
 - Uses markdown headings:
   - "# [Instructional Title]" (optional).
   - "## BIO CONTENTS".
 
 0. Executive Summary
 - "## 0.0 EXECUTIVE SUMMARY"
-- High-level strategic overview of the entire instructional.
 
 1. Instructional Volume Content
-- "## 1.0 INSTRUCTIONAL VOLUME CONTENT"
-- Transcript-derived summaries of all volumes/chapters (see Clause 7A).
+- "## 1.0 INSTRUCTIONAL VOLUME CONTENT" (see Clause 7A)
 
 2. System Overview
 - "## 2.0 SYSTEM OVERVIEW"
-- Conceptual framework and structural logic of the overall instructional.
 
 3. Core Concepts
 - "## 3.0 CORE CONCEPTS"
 - 3.1, 3.2, … as "### 3.1 …", "### 3.2 …" etc.
 
 4. Technique Library
-- "## 4.0 TECHNIQUE LIBRARY"
-- 4.x [Transcript-derived sections; aligned to Section 1 ordering].
+- "## 4.0 TECHNIQUE LIBRARY" (aligned per Clause 4.14)
 
 5. Diagram Set
 - "## 5.0 DIAGRAM SET"
-- 5.x [ASCII-form diagrams].
+- 5.x diagrams and supporting notes
 
 6. Drilling Progressions
 - "## 6.0 DRILLING PROGRESSIONS"
@@ -529,35 +475,21 @@ Placement:
 
 Requirements:
 - Identify all Volumes/Chapters.
-- For each entry:
-  - Provide a volume identifier of the form "[Volume X]" (or equivalent chapter designation).
-  - Provide a header line and a one-sentence (maximum two) descriptor in Section 1 body.
+- For each entry in Section 1 body:
+  - Header line: "[Volume X]: [Header]"
+  - One sentence (maximum two) descriptor summarising its strategic/technical focus.
 
 Volume Title Handling:
-- If the transcript specifies a clear volume or chapter title:
-  - Use the transcript title verbatim as the header.
-- If the transcript does not specify a clear volume or chapter title, but only provides a list of sub-chapters:
-  - Derive a concise, descriptive header from the dominant themes of that volume’s sub-chapters.
-  - The header must:
-    - Be grounded strictly in the transcript topics for that volume.
-    - Be professional, succinct, and system-relevant.
-    - Not introduce concepts absent from the volume’s transcript content.
-  - This derived header is an explicitly permitted, controlled synthesis.
+- If transcript specifies a clear volume/chapter title: use verbatim as header.
+- If transcript lacks explicit volume title:
+  - Derive a concise descriptive header from dominant themes of that volume’s transcript content only.
+  - Do not introduce concepts absent from that volume.
 
-BIO Contents vs Section 1 Representation:
-- In BIO contents:
-  - Section 1 shall list each volume as:
-    - "1.X [Volume label]: [Header]"
-    - No descriptor lines underneath.
-- In Section 1 body:
-  - Each entry shall appear as:
-    - "[Volume X]: [Header]"
-    - Followed by one sentence (maximum two) summarising its strategic or technical focus.
-- Headers must match exactly between BIO contents and Section 1 body.
-
-Scope of Descriptors:
-- Content must describe scope and intent, not tactical detail.
-- Conciseness refers only to sentence count; descriptors must remain full-density and transcript-faithful within those constraints.
+BIO contents vs Section 1 representation:
+- BIO contents lists Section 1 as:
+  - "1.X [Volume label]: [Header]" (no descriptors).
+- Section 1 body repeats the same header and adds the one-sentence (max two) descriptor.
+- Headers must match exactly.
 
 
 # 8. ANNEX REQUIREMENTS
@@ -565,132 +497,133 @@ Scope of Descriptors:
 
 ## Annex A: Extracted Key Passages
 -------------------------------
-Transcript-derived key statements (paraphrased as needed while staying faithful to the transcript intent). Focus on:
-- Pivotal rules, constraints, and heuristics.
-- System-defining statements (e.g. core principles, "laws", or structural claims).
-- Any lines that crystallise the instructor’s strategic or conceptual framing.
+Transcript-derived key statements (paraphrased as needed while remaining faithful). Focus on:
+- Pivotal rules, constraints, heuristics.
+- System-defining statements.
+- Lines crystallising strategic framing.
 
 ## Annex B: Terminology
 --------------------
-Terminology extracted from transcript and system usage, including:
-- Conceptual terms.
-- Positional language.
-- Family names and recurring labels for positions, transitions, tactics or chains.
-Each term shall have:
-- A concise definition.
-- Context sufficient to understand how it is used in the system.
+Transcript-derived terminology:
+- Conceptual terms, positional language, recurring labels.
+Each term includes:
+- Concise definition.
+- Context sufficient for correct usage.
 
 ## Annex C: Additional Notes
 -------------------------
-Additional structural or contextual notes, covering:
-- System architecture (e.g. how major subsystems fit together).
-- Study strategy and suggested viewing/training order mentioned or implied in the transcript.
-- Integration with other instructionals or related systems (as described in the transcript).
-- Coaching emphases, traps, or meta-advice that affect how the system should be trained or used.
+Additional structural/contextual notes:
+- System architecture and subsystem fit.
+- Study strategy and training/viewing order if present.
+- Integration with other systems only if described in transcript.
+- Coaching emphases/traps that change training/execution decisions.
 
 ## Annex D: Master System Diagram (ASCII)
 --------------------------------------
-A high-level ASCII system diagram (or small set of diagrams) summarising the instructional’s overall logic. Requirements:
-- Must be system-agnostic: usable for takedown systems, guard systems, passing systems, submission systems, etc.
-- Must respect the ASCII Width Rule (max 120 characters per line).
-- Should represent:
-  - Major phases or domains of the system (e.g. standing, entries, control phases, finishing phases; or entry → control → finish).
-  - Key positional hubs and major transition families between them.
-  - Primary outcome nodes (e.g. key scoring positions, submission families, or escape endpoints).
-- Diagram content must be transcript-derived; no speculative nodes beyond the system actually described.
-- Where one diagram becomes visually overloaded, use 2–3 linked diagrams (e.g. "macro map", "entry map", "finishing map") rather than one unreadable diagram.
+High-level ASCII system diagram (or small set) summarising overall logic.
+Requirements:
+- System-agnostic (usable for takedown/guard/passing/submission systems).
+- ASCII Width Rule: ≤120 characters per line.
+- Transcript-derived nodes/transitions only (no speculative “standard” nodes).
+- Must represent:
+  - Major phases/domains (macro structure).
+  - Key positional hubs and major transition families.
+  - Primary outcome nodes (end states: positions/submission families/escape endpoints as applicable).
+- Where overloaded, use 2–3 linked diagrams (macro map + entry map + finishing map).
+- Conventions/legend (apply consistently):
+  - Hubs in brackets: "[HUB]"
+  - Outcomes in parentheses: "(OUTCOME)"
+  - Transitions with arrows: "A -> B"
+  - Optional branch marker: "{OR}" for mutually exclusive primary branches
+  - Short labels permitted on arrows if transcript provides named links (e.g. "-> (by wedge)")
 
 ## Annex E: Common Failure Patterns
 --------------------------------
-Transcript-derived failure patterns with detailed explanation, each including:
-- Failure description (what goes wrong, from what position/phase).
-- Underlying cause (structural error, bad decision, rule violation, timing issue, etc.).
-- Corrective strategies consistent with the system (drills, cues, alternative choices).
-- Where the transcript provides them, link failures to the specific subsystems or phases (e.g. entries, connection, finishing, follow-ups).
+Transcript-derived failure patterns including:
+- Failure description (what goes wrong; from what phase/position).
+- Underlying cause (structural error, decision error, timing, rule violation).
+- Correctives consistent with system (cues, alternative choices, drills if provided).
+- Link to subsystem/phase where applicable (entries, connection, finishing, follow-ups).
 
 
 # 9. COMPLIANCE CRITERIA
 ==============================
 
-[ ] All content transcript-derived (with only permitted synthesis for volume headers under 7A)  
-[ ] Deep Density applied to all sections except Section 0 (per Clauses 4.9, 4.10, 4.24)  
-[ ] BIO contents plus Sections 0–8 fully populated or stubbed according to Clause 10  
-[ ] Section 1 implemented per Clause 7A, including volume headers and one-sentence descriptors  
-[ ] Annexes A–E included or stubbed according to Clause 10  
-[ ] Diagram rules followed, including ASCII Width Rule (Clause 4.17; diagrams ≤ 120 chars)  
-[ ] No unsupported markup syntax or hidden formatting  
-[ ] Correct filename convention (user-saved .md/.txt)  
-[ ] Subsection Derivation Rule applied  
-[ ] Thoroughness Priority applied  
-[ ] Section-alignment rules followed  
-[ ] BIO markdown heading rules (Clause 4.29 and Section 5.2.2) applied consistently  
-[ ] Content suitable for user-assembled markdown BIO export  
-[ ] Workflow followed, including BIO contents-first and header rule  
-[ ] Multi-section behaviour rule (Clause 4.19) observed and communicated when limits are reached  
-[ ] Citation, source-reference, and meta-commentary restrictions (Clauses 4.21–4.23) observed  
-[ ] Direct note-taking style (Clause 4.25) applied  
-[ ] Instruction priority and conflict rules (Clause 4.27) respected  
-[ ] Section 0 Executive Summary adheres to brevity/readability constraints in Clause 4.24  
-[ ] Section 1 and BIO contents linkage follows Clause 4.28  
-[ ] BIO document continuity rule (Clause 4.30) observed  
+[ ] All content transcript-derived (only permitted synthesis for volume headers under 7A)
+[ ] Deep Density applied to all sections except Section 0 (Clauses 4.10–4.11, 4.26)
+[ ] BIO contents plus Sections 0–8 populated or handled per Clause 10
+[ ] Section 1 implemented per Clause 7A; headers match contents exactly
+[ ] Annexes A–E included or handled per Clause 10
+[ ] Diagram rules followed (ASCII ≤ 120 chars per line)
+[ ] No unsupported markup syntax or hidden formatting
+[ ] Correct filename convention (Clause 4.9)
+[ ] Subsection derivation/granularity rules applied (Clause 4.12)
+[ ] Section alignment decision rule applied when needed (Clause 4.14)
+[ ] BIO markdown heading templates applied consistently (Clause 4.31)
+[ ] Document continuity respected (Clause 4.32)
+[ ] Multi-section behaviour rule observed (Clause 4.20)
+[ ] No citations / no source-instructor meta (Clauses 4.22–4.24)
+[ ] Direct note-taking style applied (Clause 4.27)
+[ ] Regeneration invariants preserved (Clause 4.33)
+[ ] Partial coverage handled without invention (Clause 4.34)
 
 
 # 10. EXCEPTION MANAGEMENT
 ==============================
 
-Clarification shall be requested only if:
-- Transcript is missing or corrupted.
-- Transcript is unreadable.
-- Mandatory sections cannot be populated from available data even at minimal level.
+Clarification shall be requested only per Clause 4.8.
 
-Handling sections or annexes with insufficient transcript data:
-- The assistant shall never invent or extrapolate content to "fill" a section.
-- If a section or annex has no meaningful transcript-derived content:
-  - The assistant shall output a standard stub line in that section or annex:
+Handling insufficient transcript data:
+- The assistant shall never invent or extrapolate content to “fill” a section.
+- If a section/annex has no meaningful transcript-derived content:
+  - Output exactly:
     - "No transcript-derived content available for this section or annex."
-  - The assistant shall not add any speculative explanation around this stub.
-- If a section has only partial coverage:
-  - The assistant shall output only the transcript-derived content that exists.
-  - No attempt shall be made to infer or complete missing parts from context (except for the explicitly permitted volume-header synthesis in Section 7A).
+- If partial coverage exists:
+  - Output only the available content and add the partial-coverage terminal bullet per Clause 4.34.
 
-In cases where the user requests multiple sections and full-density output for all requested sections together is technically impossible, the assistant shall:
-- Explain the limitation clearly.
-- Confirm that single-section output remains available at full density (subject to the Executive Summary exception).
-- Propose concrete alternatives (e.g. splitting the request, prioritising a subset of sections).
+If the user requests multiple sections and full-density output for all requested parts together is technically impossible:
+- State the limitation clearly (per Clause 4.20).
+- Provide at least one concrete alternative split.
 
 
 # 11. OPERATIONAL COMMAND GLOSSARY (USER)
 =========================================
 
-The following phrases have standard meanings when used by the user:
-
 "BIO contents"
-- Generate the unnumbered Contents section for the current BIO.
-- Includes title, instructor, and the full outline of Sections 0–8 and Annexes A–E, with Section 1 using volume headers only.
+- Generate the unnumbered Contents section for the current BIO per Clause 4.21.
 
 "Start a new BIO for [Instructional Title]"
-- Close the current BIO context.
-- Treat subsequent "BIO contents" and section requests as belonging to the new instructional.
+- Close the current BIO context and reset continuity; subsequent outputs belong to the new BIO.
 
-"Give me Section X" (e.g. "Give me Section 3", "Section 4 only")
-- Generate exactly that section of the BIO, formatted per this Manual.
-- Do not include BIO contents, other sections, or trailing commentary.
+"Give me Section X" / "Section 4 only"
+- Generate exactly that section’s content, formatted per this Manual, with no extra parts.
 
-"Give me Annex [Letter]" (e.g. "Annex B", "Annex D only")
+"Give me Annex [Letter]" / "Annex D only"
 - Generate exactly that annex.
 
 "Regenerate Section X"
-- Replace the previous version of Section X with a new version that conforms to:
-  - The latest version of this Manual (Jigoro Scroll), and
-  - The latest user instructions.
+- Replace the previous version of Section X per Clause 4.33.
 
 "Summarise Section X"
-- Produce a reduced-density, high-level summary of Section X only.
-- This is an explicit override of the default Deep Density requirement for that response.
+- Produce reduced-density summary of Section X only (explicit override).
 
-Other commands may be introduced by the user; where ambiguous, the assistant shall interpret them in line with this glossary and the priority rules in Clause 4.27.
+
+# 12. PRE-OUTPUT LINT CHECKLIST (ASSISTANT)
+============================================
+
+Before returning any BIO part, verify:
+- Headings inside BIO use only "#", "##", "###", "####" and match Clause 4.31 templates.
+- No ASCII underline framing inside BIO.
+- No citations, footnotes, reference markers.
+- No instructor/platform/video references; no meta narration; prohibited phrases avoided.
+- Bullets use "-" and indentation follows Clause 4.17.
+- Prose/bullets not hard-wrapped; diagrams only hard-wrapped.
+- Diagram lines ≤120 characters.
+- Section/annex output is a clean continuation (no repeated file-level title).
+- If regenerated: invariants preserved (Clause 4.33).
+- If partial: no invention; apply partial-coverage handling (Clause 4.34 / Clause 10).
 
 
 ================================================================
-END OF DOCUMENT — JH PROJECT INSTRUCTIONS v4.8 (JIGORO SCROLL)
+END OF DOCUMENT — JH PROJECT INSTRUCTIONS v4.9 (JIGORO SCROLL)
 ================================================================
