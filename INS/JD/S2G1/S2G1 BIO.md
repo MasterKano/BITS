@@ -611,374 +611,645 @@ climbing to body locks that lead to more stable top or back control.
     - Ruleset-specific rounds: final rounds tailored to your main competition ruleset (IBJJF-style, ADCC-style, local rules), emphasising takedown choices, risk levels and follow-up strategies that best fit that format.  
     - Reflection: quick written or verbal summary after the block – identify which takedown family feels like your natural A-game (doubles, singles, body locks), which positions cause the most problems (e.g. high-leg stalemates, sprawls to front headlock) and which 1–2 themes should shape the next training block.
 
-## Annex A – Glossary & Terminology
+## Annex A – Extracted Key Passages
 
-- **Stance (Weight-Bearing Stance)**  
-  A standing base where your weight is carried primarily by your legs and hips rather than your lower back or neck. Chest stays roughly over the middle of the feet, knees and hips are flexed, and you can move in all directions without first standing up or “resetting.” The stance must simultaneously satisfy defensive responsibility (hard to take down), offensive potential (can level change and drive) and vision (can see and read opponent’s movements).
+### A.1 Rule-Set, Risk Profile and Scoring
 
-- **Same-Side vs Opposite-Side Stance**  
-  Same-side stance: both athletes lead with the same leg (e.g. right vs right); often creates strong collisions on that lead side and clearer single-leg lanes to that leg. Opposite-side stance: one athlete leads right, the other left; often opens more angle and outside-step opportunities but changes which leg is “front.” The system teaches reading stance first, then choosing takedown families that fit.
+- In jiu-jitsu, standing takedowns are structurally high-risk actions: failed attempts can lead directly into submissions, back exposure, or prolonged defensive scrambles with no referee rescue.
+- Wrestling and judo let you “hide” in stalemates or turtle while the referee saves you; in jiu-jitsu, there is no such rescue – if you dive on a bad shot or throw and get stuck, you must fight your way out alone.
+- Many classic wrestling and judo attacks become dangerous when submissions are legal and there are no shoes: the same throws and leg attacks that score easily in those sports can feed flying armbars, triangles and leg locks in jiu-jitsu.
+- Takedown scoring is fundamentally different: putting someone’s backside or even whole body on the mat briefly may score in wrestling or judo, but in jiu-jitsu it often scores nothing unless shoulders or upper body are pinned under control for several seconds.
+- Because opponents can post on their hands and immediately stand back up, it is “damn hard” to earn classic takedown points on a resisting opponent under jiu-jitsu rules.
+- The majority of real takedown scores in jiu-jitsu come not from the initial impact but from what happens in the three seconds after the opponent hits the mat, most often when they expose their back trying to escape.
+- Success from standing is determined less by “who hit the throw” and more by who can tie together takedown attempts with transitions into back exposure and sustained top control under the actual scoring criteria.
+- The aftermath of the takedown is at least as important as the takedown itself; in practice, most scoring happens after the opponent’s initial fall, not at the moment of impact.
 
-- **Level Change**  
-  A controlled drop of the hips and shoulders used to access the opponent’s legs or to fake an entry. Done mainly with hip and knee bend, not with waist collapse. A good level change allows you to carry weight and move while low; a bad one leaves you stretched, off-balance or stuck on a knee.
+### A.2 Stance, Preliminaries and Defensive Responsibility
 
-- **Distance**  
-  The horizontal separation between you and the opponent. The system distinguishes between long distance (no realistic grabs or shots), middle distance (hand fighting and stance breaking range) and close distance (ties and body-contact range). Most high-percentage takedowns are launched from middle or close distance after stance is partially broken.
+- The standing phase must begin with a stance that can carry the opponent’s weight, defend against shots and still allow forward offence; there is no single globally correct stance, but whatever is used must support those functions.
+- There is no universally dominant stance style across high-level grapplers: different elite athletes succeed with more bent European-style stances, more upright North American styles, square or staggered bases; what matters is whether the stance serves takedown and defence goals in jiu-jitsu.
+- Takedowns require preliminaries: before attacking the legs, you must first make them easier to take by breaking stance, winning head position, and forcing the opponent to use their hands defensively.
+- Standing work begins with becoming “defensively responsible”: using head and hands so that there is always an elbow or hand between the opponent’s head and your legs whenever they attempt to shoot.
+- From the first tie-up, hand fighting and push–pull actions must be organised so that you are simultaneously safe from surprise entries and actively degrading the opponent’s stance and posture.
 
-- **Head Position**  
-  The alignment of your head relative to the opponent’s. Neutral head-to-head or ear-to-ear positions are 50/50; advantageous positions involve your forehead or temple driving into their jawline, cheek or collarbone on one side, coupled with inside-hand position. Good head position narrows their stance, slows level changes and opens attack lanes to legs and back.
+### A.3 Snapdowns and Stance-Breaking as the “Jab”
 
-- **Inside Position (Hands & Arms)**  
-  When your hands and forearms are between your opponent’s arms and torso. Inside position gives direct access to their collar, neck, biceps and ribs while making it harder for them to underhook, arm-drag, body-lock or snap you. Many of the system’s entries require winning inside position before committing to leg attacks.
+- The snapdown is the standing equivalent of a jab in striking: a multi-tasking tool that underpins most of the rest of the game.
+- Long-term success on the feet is governed by one central factor: the ability to break the opponent’s stance.
+- As long as the opponent’s stance remains intact, they will be strong both offensively and defensively; once their stance breaks, both their attacks and defences erode dramatically.
+- The ultimate goal of repeated snapdowns is to degrade stance over time until takedowns and back takes become almost inevitable.
+- A first function of the snapdown is to make the opponent step: you should be able to “puppet master” the opponent’s feet, bringing whichever leg you want closer, in the stance you want, at the moment you want.
+- By snapping to draw a chosen leg forward or to square the stance, you reduce the distance and difficulty of both single-leg and double-leg entries.
+- A second function of snapdowns is to bring the opponent’s hands to the mat; once their hands are on the floor, many leg attacks and spin-behind transitions become vastly easier.
+- Snapdowns therefore serve three related goals: move feet, bring hands down, and erode stance to the point where entries and finishes become low risk and high percentage.
 
-- **Collar Tie**  
-  A grip where you control the back or side of the opponent’s head/neck with one hand, usually with your forearm pointing down their chest and your elbow in. In this system, a strong collar tie is a primary hub for snapdowns, shucks and front-leg exposure, but only when combined with good head and elbow position.
+### A.4 Four-Phase Framework for Front-Leg Tackles
 
-- **Two-on-One / Russian Tie**  
-  A control where both of your arms are controlling one of your opponent’s arms (typically at wrist and elbow). Used to steer stance, expose the near or far leg, and open direct routes to singles, doubles or body locks. Also a strong defensive position against their shots if used actively.
+- Almost all front-leg tackles can be understood as passing through four phases: setup, catch, connection, and completion.
+- Setup: any action that creates a brief structural or positional advantage – breaking stance, forcing a step, drawing hands to the mat, getting outside the elbows, or opening a clear lane from head to legs.
+- Catch: the moment hands first secure one or both legs; this may involve gripping behind the knee, snaking around the calf, going elbow-deep behind the knee, or locking higher up near the hips.
+- Connection: moving from the initial catch into a solid structural linkage between your body and the opponent’s – chest, head, hips and grips working together so you can carry their weight without collapsing.
+- Completion: the finishing actions that convert that connection into either a knockdown plus control, or an immediate transition to the back or body lock.
+- The setup phase is about creating a momentary window; the catch phase is about getting hands to the legs before that window closes; connection is about turning a fragile hold into something that can withstand sprawls; completion is where scoring and control are decided.
+- It is normal that the catch phase involves some reaching and extension of the arms, contrary to oversimplified coaching advice that insists elbows must never leave the ribs; the crucial detail is that this extension is brief and followed by a strong connection phase that recovers structure.
+- Locked-hand connections just under the buttocks provide the strongest possible attachment for leg tackles; with hands locked there, even a full sprawl can often be carried and converted into a strong attacking position.
 
-- **Underhook & Overhook**  
-  Underhook: your arm threaded under their arm, with your hand and forearm controlling their upper back or shoulder. Overhook: your arm over and around their arm, often clamping down on their shoulder. Underhooks are generally dominant for body locks and throws; overhooks can be used to defend shots, threaten snapdowns and create throw-by or turn-out options.
+### A.5 Head Position, Angular Advantage and Ties
+
+- Head position is not just a safety factor but a scoring tool; moving from neutral forehead-to-forehead into asymmetric forehead-to-collarbone contacts creates angular advantage that translates into entries and takedowns.
+- Symmetric ear-to-ear, collar-tie-and-elbow positions where both athletes have the same tie offer no inherent advantage; they often lead to aimless wrestling with little scoring potential.
+- The goal is to create head positions where your forehead is on the opponent’s collarbone or neck while theirs is not; from such angles, any push drives across their body toward their legs or back instead of straight into their stance.
+- Effective use of small head movements, often only half the width of the forehead, is enough to convert neutral head contact into advantageous angles without large, telegraphed motions.
+- Angular advantage from head position should be used immediately to slide toward the legs or back, rather than held as a static tie.
+
+### A.6 Head–Hands Positional Ladder
+
+- The standing hand-fighting game can be understood as constantly cycling through three main stance-breaking goals:
+  - Driving the opponent’s hands toward the mat.
+  - Winning position outside the opponent’s elbows.
+  - Creating clear lanes where there is “nothing between their legs and your head”.
+- From initial head–hands contact, the operator must:
+  - First make themselves defensively responsible (head and hands blocking direct entries).
+  - Then work hands down to the mat, outside the elbows, or straight-line lanes toward the legs.
+  - Then progress to dominant positions where one or both legs are lifted or the body is locked from behind.
+- Reaching positions where both of the opponent’s legs are controlled in a strong “block double” configuration or where the body is locked from behind represents the top of this ladder: structurally dominant positions from which takedowns and scores are most easily obtained.
+
+### A.7 Connection Mechanics and Gripping Priorities
+
+- When catching legs, grips that use structural hooks on the opponent’s anatomy are preferred: behind the knee tendons, wrapped around the calf, elbow-deep behind the knee, or locked just below the buttocks.
+- Behind-the-knee grips that use the tendons as a handle make it difficult for the opponent to simply retract the leg; this is true from both inside and outside entries.
+- Snaking the wrists around the calf and locking behind the lower leg is another strong connection, especially when combined on both legs.
+- Elbow-deep grips behind the knee create powerful single-leg control where even strong retraction attempts are difficult to execute.
+- The best connection for leg tackles is a locked grip high on the back of the thighs, just under the buttocks; with hands locked there, even full sprawls can often be carried while building up into stronger finishing positions.
+- Practising the sensation of gripping against a partner who actively tries to pull the leg away builds the real-world feel needed to maintain connection under resistance.
+
+### A.8 Body Locks, Back Takes and Scoring Bias
+
+- Transitions from leg attacks to body locks form one of the highest percentage pathways in submission grappling, particularly given the lack of shoes and the presence of leg-lock threats.
+- Controlling a single leg is inherently risky in a rule set where opponents can easily jump into submissions and where lower-leg control is compromised; shifting to waist and chest-to-chest control often provides safer, more stable dominance.
+- Working at the waist and chest level has major advantages: easier back takes, easier knockdowns, and much stronger control of scrambles after the opponent hits the mat.
+- The back is the most productive scoring and finishing position in jiu-jitsu; two hooks and rear control provide both the largest point awards and the most direct submission routes.
+- From a chest-to-chest body lock, if the opponent turns to escape or stand, they almost inevitably expose their back in ways that can be converted into hooks and rear control.
+- Because of how takedown points are actually awarded, tying leg attacks into body locks and then into back takes aligns the standing system with the dominant scoring and submission patterns of the sport.
+
+## Annex B – Terminology
+
+### B.1 Global Concepts and Structures
+
+- **Standing phase**  
+  The portion of a jiu-jitsu match conducted on the feet before any grounded control is established; includes stance, motion, hand fighting, snapdowns, entries, takedowns and immediate post-takedown control.
+
+- **Risk profile of takedowns**  
+  The overall danger associated with shooting or throwing in jiu-jitsu, where submissions, back exposure and lack of referee resets can make failed takedowns far more costly than in wrestling or judo.
+
+- **Preliminaries (standing preliminaries)**  
+  All structural and positional work that must be in place before leg attacks: stance, level, distance, head position, hand fighting and stance-breaking actions that create easier entries and safer finishes.
+
+- **Defensive responsibility**  
+  A state where stance, head and hand position together prevent clean opponent entries; typically involves an elbow, forearm or hand between the opponent’s head and your legs at all times during their shot attempts.
+
+- **Stance breaking**  
+  Any action that degrades the opponent’s base and posture: forcing steps, narrowing or widening stance, bending posture, or driving hands toward the mat so that both offence and defence weaken.
+
+- **Front-leg preference**  
+  The strategic emphasis on attacking the leg closest to you (the “front leg”) because it requires shorter entries, is easier to locate and is more exposed once stance is broken.
+
+- **Back-exposure bias**  
+  The strategic bias toward takedowns and sequences that expose the opponent’s back during or after the takedown, reflecting the scoring and finishing value of back control in jiu-jitsu.
+
+- **Post-takedown phase**  
+  The critical few seconds after the opponent hits the mat, where their attempts to scramble or stand often expose the back or concede control; in practice, this is where most takedown scoring and positional advantage are decided.
+
+- **Chain wrestling (takedown chaining)**  
+  Linking multiple attacks and transitions—setups, leg attacks, body locks, back takes—into one continuous offensive flow rather than relying on a single shot to succeed.
+
+- **Four-phase takedown model**  
+  A conceptual framework dividing front-leg tackles into four phases: setup, catch, connection and completion; used as the organising principle for all entries and finishes.
+
+### B.2 Stance, Level and Distance
+
+- **Weight-bearing stance**  
+  A stance where the legs and hips—not the lower back or neck—carry both your own weight and any additional opponent weight (sprawl, collar-tie pressure), while still enabling offence and defence.
+
+- **Same-side stance**  
+  A stance configuration where both athletes lead with the same leg (e.g. right vs right), shaping which leg is “front” and influencing single- and double-leg angles.
+
+- **Opposite-side stance**  
+  A stance configuration where one athlete leads right and the other left; changes angles, leg accessibility and the preferred directions for entries and counters.
+
+- **Level change**  
+  A controlled lowering of the hips and shoulders to attack legs or threaten shots, driven by hip and knee bend rather than waist flexion; must allow quick recovery back to stance.
+
+- **Distance management**  
+  Control of the horizontal separation between athletes so that most work is done in realistic engagement ranges (hand fighting and entry range), not in out-of-range fake-shot distance.
+
+- **Entry distance**  
+  The specific distance from which a shot can be launched safely and effectively, after preliminaries have created a window; too far leads to reaching, too close without ties leads to clinch scrambles or throws.
+
+### B.3 Head, Hands and Ties
+
+- **Head position**  
+  The relative placement of your head against the opponent’s; includes neutral head-to-head, ear-to-ear, and advantaged positions such as forehead-to-jaw or forehead-to-collarbone on one side.
+
+- **Angular head position**  
+  Any head contact that creates an angle—typically forehead into the opponent’s collarbone, jaw or neck on one side—rather than symmetric head-to-head; used to open lanes to legs and back.
+
+- **Head-and-shoulder lane**  
+  A clear path from your head and leading shoulder to the opponent’s legs or hips without their arms or head blocking; represents an ideal entry corridor after stance breaking.
+
+- **Inside position (hands and forearms)**  
+  A configuration where your hands and forearms are between the opponent’s arms and torso; favours collar ties, underhooks and strong defensive frames against shots.
+
+- **Outside the elbows**  
+  A stance-breaking condition where your head and/or shoulders have moved outside the opponent’s elbow line, limiting their ability to block entries and giving you direct lines to hips and legs.
+
+- **Collar tie**  
+  A grip controlling the back or side of the opponent’s head/neck with one hand while your forearm runs down their chest and your elbow stays in; forms a hub for snapdowns and front-leg exposure.
+
+- **Inside tie / biceps control**  
+  Forearm and hand connection on the inside of the opponent’s arms near the biceps; used both to prevent shots and to upgrade to collar ties, underhooks or two-on-ones.
+
+- **Two-on-one / Russian tie**  
+  A control where both of your arms focus on one of the opponent’s arms (usually wrist and elbow), allowing you to steer stance, expose the near or far leg, and threaten back or body-lock entries.
+
+- **Underhook**  
+  An arm threaded under the opponent’s arm, usually reaching to their far shoulder or upper back; used for body locks, throws and pressure-based stance breaking.
+
+- **Overhook**  
+  An arm wrapping over and around the opponent’s arm, often clamping down on their shoulder; used for snapdowns, throw-bys and defensive control against underhooks and shots.
+
+- **Head-and-hands control**  
+  The combined use of head placement and inside hand position to protect legs while creating windows for stance breaking and entries; considered the central control layer of standing grappling.
+
+### B.4 Snapdowns, Front Headlocks and Stance-Breaking Tools
 
 - **Snapdown**  
-  A sharp downward pull on the head and neck (usually from a collar tie or two-on-one) combined with footwork and a small level change to break the opponent’s posture and stance. In this system, snapdowns are the “jab” of standing grappling: used repeatedly to disrupt stance, expose the neck and present the front leg.
+  A sharp downward pull on the opponent’s head and neck, coordinated with level change and footwork, to break posture, move feet, and drive hands toward the mat; treated as the standing analogue of a jab.
 
-- **Front Headlock**  
-  A control where your arms and body trap the opponent’s head and one arm from the front, often used to threaten guillotines, d’Arce/Anaconda attacks and spins to the back. Standing front headlocks also function as hubs for mat returns and short-range takedowns when the opponent stands up from the ground.
+- **Light snapdown**  
+  A lower-intensity snap used repeatedly to make the opponent step, adjust stance, and reveal which stance and leg exposures will likely appear under pressure.
 
-- **Front Leg**  
-  The leg that is closest to you in the stance interaction. Many of the system’s doubles and singles are structured around systematically exposing and attacking the front leg created by stance-breaking, snapdowns and hand-fighting wins.
+- **Hard snapdown**  
+  A more explosive snap designed to put the opponent’s hands on the mat or open immediate front headlock or takedown threats.
 
-- **Double-Leg Takedown**  
-  A leg tackle where you control both of the opponent’s legs, typically by wrapping behind the knees or thighs and driving or cutting angles to bring them to the mat. In this system, doubles are a central family because controlling both legs and hips often produces the cleanest transitions to top control and back exposure.
+- **Front headlock (standing)**  
+  A control where the opponent’s head and one arm are trapped from the front while they are still on their feet or in a semi-bent posture; central hub for guillotine threats, spins to the back and short-range leg entries.
 
-- **Single-Leg Takedown**  
-  A leg attack where you control one of the opponent’s legs, either inside (head positioned inside their torso) or outside (head positioned to the outside). Singles are used both as primary attacks and as transitions when doubles are partially blocked. A structured finishing tree (run-the-pipe, cutback, trips, high-leg finishes) is critical to making singles reliable.
+- **Hands-to-mat condition**  
+  A stance-breaking state where the opponent has been forced to post both or one hand on the floor; significantly weakens both their defence and their ability to counterattack.
 
-- **High-Leg / High-C Leg**  
-  A situation where you have secured a single leg and the opponent lifts the leg high (or you lift it high) so they are hopping or balancing on one leg. High-leg scenarios are common stalemate zones; the system offers specific trip, turn and body-lock transitions to resolve them rather than staying in endless hopping battles.
+- **Stance-breaking cycle**  
+  The repeated process of using snaps, push–pull, angle steps and grip changes to continually degrade stance rather than holding static ties.
 
-- **Body Lock**  
-  A torso-level control where your arms encircle the opponent’s body at or above the hips, often with your hands locked behind their back. Can be side body lock (one side of their body) or rear body lock (from behind). Body locks are treated as a premier standing takedown family for submission grappling due to their direct connection to back takes and stable top control.
+### B.5 Takedown Families and Phases
 
-- **Mat Return**  
-  A technique to bring a standing or rising opponent back down to the mat from a rear body lock, waist lock or similar grip. Mat returns often involve lifting and stepping to off-balance the opponent and then rotating them to the mat while you maintain back or hip control, functioning as “re-takedowns” within the same exchange.
-
-- **Setup (Phase 1 of Takedown Model)**  
-  The actions you use to create a temporary structural advantage before you touch the legs: stance-breaking, snapdowns, angle creation and hand-fighting wins that leave your opponent compromised and you inside their arms. A shot without a real setup is treated as a speculative gamble.
-
-- **Catch (Phase 2)**  
-  The initial bite or grip on the opponent’s legs – hands on knees, ankles, thigh or single-leg control – where you’ve created friction and the opponent can no longer simply step away. Catch is where a leg attack becomes a real threat instead of an empty level change.
-
-- **Connection (Phase 3)**  
-  The process of turning a loose catch into a strong structural position by linking your chest, head, shoulders, elbows and hips to their legs and hips. Proper connection lets you carry weight, survive sprawls and move into alternate finishes or transitions (double-to-single, single-to-double, leg-to-body-lock) without losing control.
-
-- **Completion (Phase 4)**  
-  The finishing action that brings the opponent to the mat or transitions to back/body control: cutbacks, run-the-pipe finishes, trips, lifts, mat returns, body-lock finishes, etc. Under jiu-jitsu criteria, completion is evaluated not only by whether they fall, but by where you land in relation to their hips, guard and back.
-
-- **Angle / Corner**  
-  The lateral or rotational offset you create relative to the opponent’s stance and hips. Instead of driving directly through them in a straight line, you step to a side, “turn the corner” or circle behind so that their ability to sprawl, frame and counter is reduced and your path to the hips and back is clearer.
-
-- **Back Exposure / Backside Position**  
-  Moments where the opponent’s back turns partially or fully to you during takedowns, mat returns or scrambles. The system encourages reading and chasing these moments aggressively – often preferring to take the back rather than insist on a particular leg finish once the back is available.
-
-- **Guard-Aware Landing**  
-  A finishing choice that explicitly accounts for what guard position you are likely to land in. Guard-aware finishes strive to avoid dropping directly into closed guard or deep entanglements when a small angle or choice of finish could instead land you in half guard, headquarters, side control or chest-to-back.
-
-- **Chain Wrestling / Takedown Chains**  
-  The idea that you should link multiple attacks and transitions in sequence (e.g. double → single → high leg → body lock → back take) rather than expecting the first shot to succeed. The system strongly discourages isolated, all-or-nothing entries in favour of rehearsed chains that adapt to common defensive reactions.
-
-- **Stance Breaking**  
-  Any action that compromises the opponent’s base and posture: snapping their hands toward the floor, forcing them to square up when they want to angle, pulling them into a narrow stance, or pushing them into a too-wide stance. Takedowns are much higher percentage when launched after stance is broken.
-
-- **Positional Responsibility**  
-  The constant requirement that your stance, head position and hand placement remain sound enough that if the takedown fails, you can still defend, re-stand or re-enter without immediately giving away back exposure or submissions. Every entry is judged not only by how it might succeed, but by how bad it is if it fails.
-
-
-## Annex B – Quick-Reference Cues by Technique
-
-- **Stance & Motion**  
-  - “Chest over laces, not over toes.”  
-  - “Head on forehead line, not hanging off the back of the neck.”  
-  - “Elbows in, hands live.”  
-  - “Move the stance, don’t let the stance move you.”  
-  - “Small steps, big intent.”
-
-- **Level Change**  
-  - “Bend knees and hips, not your waist.”  
-  - “Eyes up as you drop.”  
-  - “Drop under them, don’t bow toward them.”  
-  - “Level down, then in – never in while still tall.”
-
-- **Head Position Battles**  
-  - “No ear-to-ear unless you’re leaving.”  
-  - “Forehead to jaw / cheek / collarbone – pick a side.”  
-  - “Your head carries weight, your neck does not.”  
-  - “Win the head, then win the hands, then win the hips.”
-
-- **Inside Position & Hand Fighting**  
-  - “Hands inside, elbows tight.”  
-  - “If they win a grip and nothing changes, it’s not a real win.”  
-  - “Strip, climb inside, build a tie – in that order.”  
-  - “Every grip must move stance, angle or head position.”
-
-- **Collar Tie**  
-  - “Head close, elbow in.”  
-  - “Pull with your body, not just your arm.”  
-  - “Collar tie is a hub, not a home – snap, angle or climb from it.”  
-  - “If your collar tie stretches you out, it’s their grip, not yours.”
-
-- **Two-on-One / Russian Tie**  
-  - “Glue wrist to your body, steer with the elbow.”  
-  - “Walk them onto the line of the front leg.”  
-  - “Two-on-one to turn them or to strip posts – don’t just hold.”  
-  - “If they square, leg is offered; if they turn, back is offered.”
-
-- **Underhook / Overhook**  
-  - Underhook: “Palm high, elbow low, hips close.”  
-  - Overhook: “Pin their shoulder, not just their arm.”  
-  - “Underhook to body lock; overhook to snap, throw-by or exit.”  
-  - “If your underhook is long and loose, it’s their underhook.”
-
-- **Snapdowns**  
-  - “Snap with your feet, not just your arms.”  
-  - “Down and slightly forward, then angle off.”  
-  - “Snap to move feet, not just heads.”  
-  - “Light snaps create information, heavy snaps create attacks.”  
-  - “Snap → read reaction → front head, front leg or back.”
-
-- **Front Headlock (Standing)**  
-  - “Head high, hips close, hands bite – don’t hang.”  
-  - “Turn their head toward the direction you want them to fall.”  
-  - “Threaten choke to earn spin behind.”  
-  - “If they stand tall, snap again; if they post, attack legs.”
-
-- **Four-Phase Takedown Model**  
-  - Setup: “Break stance before you break the floor.”  
-  - Catch: “If you don’t catch the leg, it was just cardio.”  
-  - Connection: “Glue chest, head and elbows; feel weight, not space.”  
-  - Completion: “Finish to a position, not just to the mat.”  
-  - Global cue: “No setup, no shot; no connection, no finish.”
-
-- **Double-Leg Entry**  
-  - “Head high, back straight, knees bent.”  
-  - “Step between their feet, not to the side of them (unless angling).”  
-  - “Hands to back of knees or thighs, elbows tight to ribs.”  
-  - “Penetrate under the hips, not into the belt line.”  
-  - “If your first step is huge, your second step will be desperate.”
-
-- **Double-Leg Connection & Finishes**  
-  - “Hips under theirs before you try to drive.”  
-  - “Lift or turn the corner – don’t just push.”  
-  - “Drive when their feet are square; cutback when they turn.”  
-  - “Corner finishes: eyes to the side, not through their chest.”  
-  - “Land outside closed guard if you have any choice at all.”
-
-- **Elbow-Deep Double / Anti-Sprawl**  
-  - “Elbows glued to ribs, not floating out.”  
-  - “If they sprawl, hips go under, not back.”  
-  - “Small steps, angle off; don’t stay directly underneath.”  
-  - “From stuck double: chase a single or a body lock – don’t die there.”
-
-- **Single-Leg Entry**  
-  - “Face their hip, not their chest.”  
-  - “Shoulder above their knee, head tight to the body.”  
-  - “Lock your hands, then adjust feet; not the other way round.”  
-  - “If their knee is outside your body line, reposition before finishing.”
-
-- **Single-Leg – Run the Pipe**  
-  - “Step back and circle, don’t spin in place.”  
-  - “Pull their toes to the floor as you turn their knee.”  
-  - “Head drives into the chest, not across the body.”  
-  - “If they keep balance, exaggerate the circle, not the yank.”
-
-- **Single-Leg – Cutback & Thigh Pry**  
-  - “Sit them into the empty space, not over your own base.”  
-  - “Cutback when they drive into you; run pipe when they run away.”  
-  - “Thigh pry: forearm bone, not soft bicep; pry their knee off their base.”  
-  - “After they fall, climb the body before you chase the head.”
-
-- **High-Leg Scenarios**  
-  - “Shoulder under their thigh, not on their knee.”  
-  - “Make them hop where you choose, not where they choose.”  
-  - “High leg → trip, turn or body lock – don’t just cuddle the leg.”  
-  - “If you’re hopping with them, you’re already late.”
-
-- **Body-Lock Entries**  
-  - “Glue your chest to their ribs before locking hands.”  
-  - “Head under theirs, ear on their chest or jawline.”  
-  - “Step your hips in last; don’t lock from far away.”  
-  - “From underhook: swim the second arm early or abandon, don’t stall.”
-
-- **Body-Lock Finishes**  
-  - “Hips and chest move together – no loose, bent-over body locks.”  
-  - “Finish by turning them over your hip line, not by dragging straight back.”  
-  - “Inside trip when they push into you; outside trip when they lean away.”  
-  - “If they spin to escape, follow the turn to the back, not the mat.”
-
-- **Mat Returns (Rear Body Lock / Waist Lock)**  
-  - “Step off their line before you lift.”  
-  - “Lift with your legs and hips, not your lower back.”  
-  - “Return them to the mat where you can see their hips, not blindly sideways.”  
-  - “On the way down, keep chest glued; don’t lose the lock just to slam.”
-
-- **Front-Head to Back or Legs**  
-  - “Turn their head toward the back path you want.”  
-  - “If they post one leg far forward, that’s your shot leg.”  
-  - “Spin when their hands are on the mat; shoot when they recover upright.”  
-  - “Guillotine threat is a steering wheel – use it, don’t cling to it.”
-
-- **Stance-Breaking & Pressure**  
-  - “If their stance hasn’t changed in 10 seconds, your hand fighting has failed.”  
-  - “Hands to mat, outside elbows, head-and-shoulder lanes – keep cycling goals.”  
-  - “Push–pull until they overreact, then change level or angle.”  
-  - “Pressure is structural, not emotional – stay calm, keep rules.”
-
-- **Defensive Awareness (When Your Shot Fails)**  
-  - “First job after a bad shot: fix your head and spine, then your hands, then your feet.”  
-  - “If you feel front headlock coming, posture and angle before you pull your head out.”  
-  - “If they spin behind your double, turn with them and grab a leg; don’t freeze.”  
-  - “A clean reset to stance is a win if the alternative is giving up back or guillotine.”
-
-- **Chain-Wrestling Logic**  
-  - “Double → Single → Body Lock → Back – default chain.”  
-  - “If you hit their sprawl: think ‘hips, angle, second attack’ not ‘drive harder.’”  
-  - “Every common defence should feed a pre-planned next step.”  
-  - “If a position never leads to your next step, remove it from your A-game.”
-
-- **Rule-Set & Strategy Cues**  
-  - Points-focused: “Score clean, land safe, then risk.”  
-  - Sub-only / ADCC: “Score or threaten subs on every takedown – don’t just fall into neutral.”  
-  - Short match: “Front-load stance breaking and high-percentage entries; there is no time for ‘maybe’ shots.”  
-  - Long match: “Conserve knees and back – small level changes, efficient chains, let snapdowns do the early work.”
-
-
-## Annex C – Error Catalogue & Corrections
-
-- **C.1 Structural & Mechanical Errors**  
-  - Error: Bending at the waist instead of level-changing.  
-    - Description: Athlete “dives” forward, hips high, head dropping toward the floor while legs stay relatively straight.  
-    - Consequences: Easy sprawls, front headlocks, guillotines and back exposure; lower-back strain.  
-    - Corrections: Drill knee/hip-only level changes; cue “chest over laces, eyes up”; have partner lightly sprawl any time the hips rise above shoulder line during a shot.  
-
-  - Error: Stance too narrow or too tall.  
-    - Description: Feet close together, knees minimally bent, chest stacked over heels; looks “comfortable” but not combat-ready.  
-    - Consequences: Tips easily on snapdowns and push–pull; no ability to carry weight or explode into entries.  
-    - Corrections: Stance-width drills with visual markers (e.g. cones or tape); coach checks that athlete can sprawl and level-change without first adjusting stance; cue “if you can’t sprawl from here, stance is wrong.”  
-
-  - Error: Reaching with hands before moving feet.  
-    - Description: Athlete leans in to grab collar ties or legs with their upper body while feet stay behind.  
-    - Consequences: Off-balance grips, exposure to arm drags, snapdowns and easy down-blocks.  
-    - Corrections: “Feet then hands” rule in drilling: no grip attempt unless at least one foot has stepped into range; punish over-reach with immediate snaps or drags in live drilling.  
-
-  - Error: Loose head and elbow position on entries.  
-    - Description: Head away from the body, forehead not connected to chest/hip line, elbows flared away from ribs on shots.  
-    - Consequences: Neck strain, weak drives, easy sprawls and spins behind.  
-    - Corrections: Connection drills where athlete must maintain head-to-rib and elbow-to-rib contact while partner leans weight; cue “if I can see daylight between elbow and ribs, you’re leaking power.”  
-
-  - Error: Staying on the knee after a shot.  
-    - Description: Athlete drops to the knee and remains there, trying to drive or finish without recovering to a stable base.  
-    - Consequences: Flattened under sprawls, front headlocks, forced turtle or guard.  
-    - Corrections: “Touch-and-go” knee drills – every penetration step must be followed by immediate trail-leg recovery; penalise any pause with partner sprawling or spinning.  
-
-- **C.2 Setup & Entry-Selection Errors**  
-  - Error: Shooting without a real setup.  
-    - Description: Random level changes and dives from neutral, upright stances without prior stance-breaking or angle.  
-    - Consequences: Predictable shots, easy down-blocks, early takedown fatigue and loss of confidence in wrestling.  
-    - Corrections: Four-phase rule: no shot allowed in drilling unless athlete can verbally name the setup used (snap, angle, tie); “no-setup shots” are automatically stopped and reset by partner.  
-
-  - Error: Shooting from too far away.  
-    - Description: Long-distance entries where the first step is huge and the upper body reaches ahead of the base.  
-    - Consequences: Telegraphed shots, sprawls, snapdowns and counter-takedowns.  
-    - Corrections: Distance-box drills (taped box on floor); entries must start with both feet within box; coach calls “too far” if first step is longer than a normal stance step; cue “close the distance with feet first, then drop level.”  
-
-  - Error: Ignoring stance and head position before shooting.  
-    - Description: Athlete attempts doubles/singles while in bad stance (hips back, head outside) or with neutral/bad head position.  
-    - Consequences: Getting sprawled flat or front-headlocked even on technically decent shots.  
-    - Corrections: “Pre-shot checklist” in drilling – stance correct, head inside, at least one inside tie; if any item is missing, no shot permitted; partner aggressively punishes “checklist violations” with front headlocks and counters.  
-
-  - Error: Forcing favourite takedown against the stance.  
-    - Description: Athlete insists on a specific double or single regardless of whether stance/angle offers that leg or entry.  
-    - Consequences: Wasted energy, getting stuck under hips, predictable game for opponents.  
-    - Corrections: Stance-reading rounds where coach calls which leg/side must be attacked based on stance; athlete scores only if they obey the stance cue rather than forcing their favourite pattern.  
-
-- **C.3 Connection, Finishing & Landing Errors**  
-  - Error: Trying to finish before connection is built.  
-    - Description: Athlete catches the legs but immediately tries to drive or lift without really gluing chest, head and hips to the opponent.  
-    - Consequences: Sloppy finishes, lost grips, sprawls, and scrambles that favour the defender.  
-    - Corrections: “Hang position” drills – upon catching legs, attacker must hold for a count while feeling weight transfer and building connection before any finish is allowed; coach checks chest/head/hip contact before giving finish cue.  
-
-  - Error: Driving only forward on doubles.  
-    - Description: Straight-line pushing with no angle change or corner turn once resistance is met.  
-    - Consequences: Getting sprawled and stuck underneath, or ending in poor guard positions.  
-    - Corrections: Double-leg finish rounds where pure forward drives are forbidden; every finish must include a cutback, angle step or corner turn; cue “if you meet real resistance, change direction, not effort.”  
-
-  - Error: Finishing into bad guard or neutral positions.  
-    - Description: Takedown lands directly into tight closed guard or entanglements when a minor angle adjustment could have landed in half guard/side.  
-    - Consequences: Immediate submissions against, no clear scoring advantage despite big effort.  
-    - Corrections: Guard-aware landing drills – every takedown rep is scored partially on where you land; coach or partner calls “half / side / HQ / back / bad guard” on each finish; athletes must verbalise their landing target before the shot.  
-
-  - Error: Staying attached to the legs when the back is exposed.  
-    - Description: Opponent turns hard during defence and back opens, but athlete continues to chase legs instead of climbing.  
-    - Consequences: Missed back-take opportunities, extended grinding scrambles.  
-    - Corrections: Back-priority rule: in designated drills, if back exposure appears, athlete MUST abandon legs and go to seatbelt/back. Penalty for failing to chase back when clearly available.  
-
-- **C.4 Tactical & Strategic Errors**  
-  - Error: Over-wrestling in jiu-jitsu context.  
-    - Description: Treating the match like a pure wrestling bout – prioritising big takedowns over guard-aware landings, submissions and back takes.  
-    - Consequences: Winning takedown exchanges but losing positional battles or submissions; unnecessary damage and fatigue.  
-    - Corrections: Takedown-to-submission/passing rounds: every takedown must flow into an immediate guard pass or submission attempt; points given only for sequences that tie takedown into ground advantage.  
-
-  - Error: Under-using snapdowns and stance-breaking.  
-    - Description: Low snapdown volume; athlete goes from neutral stance straight to shots without repeatedly testing and degrading stance.  
-    - Consequences: Opponents remain structurally strong, making every shot hard work and high risk.  
-    - Corrections: “Snap-before-shot” rounds where athlete must perform a minimum number of snapdowns or clear stance breaks before any shot is permitted; track snapcount:shot ratio in training.  
-
-  - Error: Abandoning takedowns too early or too late.  
-    - Description: Some athletes give up on shots at the first sign of resistance; others keep driving from hopeless positions until they are flattened or submitted.  
-    - Consequences: Early abandonment leads to no development of chain wrestling; late abandonment leads to unnecessary risk and injuries.  
-    - Corrections: Threshold training – define clear positional thresholds for when to continue (good connection, head and spine safe) vs when to bail (head pulled down, hips far behind, hands broken); practise bailing to stance or guard with explicit cues.  
-
-  - Error: Ignoring rule-set and time when choosing entries.  
-    - Description: Same aggression and risk profile regardless of points vs sub-only, early vs late in match.  
-    - Consequences: Blowing leads with risky shots when ahead; failing to take necessary risks when behind.  
-    - Corrections: Scenario rounds (up on points, down on points, ADCC scoring phase, etc.) where takedown choice and volume are coached; athletes must verbalise *why* a given entry was appropriate to that scenario.  
-
-- **C.5 Training Culture & Mindset Errors**  
-  - Error: Treating standing as a warm-up, not a skill.  
-    - Description: Rushed or token stand-up rounds before “real” ground training; little structured drilling.  
-    - Consequences: Chronic weakness on the feet, predictable guard pulls, fear of engaging in takedown exchanges.  
-    - Corrections: Protected stand-up blocks in the weekly plan (e.g. first 20–30 minutes twice a week are standing-only); track technical themes so you can see progression across weeks.  
-
-  - Error: Associating takedown failure with ego damage.  
-    - Description: Athletes either avoid standing because they lost takedown exchanges previously or over-attack recklessly to “win” the stand-up at all costs.  
-    - Consequences: Stagnation for cautious athletes; injuries and burnout for reckless ones.  
-    - Corrections: Normalise controlled failure: score attempts and chains, not just completed takedowns; praise good setups, clean bails and thoughtful entries even when they don’t finish.  
-
-  - Error: No feedback loop between stand-up and ground game.  
-    - Description: Standing training and ground training are siloed; takedowns are chosen regardless of where they lead on the ground.  
-    - Consequences: Disconnected game, frequent landings in positions that do not fit the athlete’s passing or submission strengths.  
-    - Corrections: “From the landing onward” reviews – analyse video or memory of where takedowns land and how often they lead into your best passing/back systems; adjust takedown choices to funnel into your A-game.  
-
-  - Error: Inconsistent measurement of progress.  
-    - Description: No tracking of how often shots succeed, how many end in good positions vs bad, or how many attempts per round.  
-    - Consequences: Vague sense of “I’m bad on the feet” or “it’s not working” without clear data to guide training.  
-    - Corrections: Simple log after stand-up sessions: number of shots taken, number of clean setups, number of finishes into good positions, number of times punished by front headlock/back; review bi-weekly to pick one or two focus errors to address next.
-
-- **C.6 Quick Diagnostic Checklist (Post-Round)**  
-  - “Did I shoot only after a real setup?”  
-  - “Did I ever bend at the waist instead of level-changing?”  
-  - “When I caught legs, did I build connection before finishing?”  
-  - “Where did I land on my best takedowns – good top, bad guard, or neutral?”  
-  - “Did I have at least one planned second attack for each common defence?”  
-  - “Was my takedown risk profile appropriate for the score and rule set?”
-
-Use this checklist after selected rounds or sessions to quickly identify which error cluster (structure, setup, connection, tactics or culture) needs the next block of focused drilling.
+- **Setup phase**  
+  The initial phase of a takedown where stance is broken, head and hands win position, and a structural window appears; no stance break, no valid setup.
 
+- **Catch phase**  
+  The moment hands first secure contact on the legs—knees, calves, ankles or thighs—before full body connection is established.
 
+- **Connection phase**  
+  The phase where a loose leg catch is converted into strong structural linkage between chest, head, hips, grips and the opponent’s legs/hips; designed to withstand sprawls and directional changes.
 
+- **Completion phase**  
+  The finishing phase that converts connection into a takedown plus control or back exposure; includes trips, cutbacks, lifts, runs and mat returns chosen with scoring and safety in mind.
 
+- **Penetration step**  
+  The step used to enter under the opponent’s base for doubles and some singles; involves stepping between or beside the opponent’s feet with the lead leg while the trail leg recovers forward.
 
+- **Double-leg tackle**  
+  A takedown where both legs are captured, usually by wrapping behind the knees or thighs and driving or cutting angles to bring the opponent to the mat.
+
+- **Single-leg tackle**  
+  A takedown where one leg is captured and controlled at or above the knee; can be inside or outside depending on head position and body alignment.
+
+- **Elbow-deep double**  
+  A double-leg where one or both arms are buried deep behind the opponent’s knees so that the elbows are tight behind the joint; provides strong resistance to leg retraction.
+
+- **High-leg position**  
+  A standing or semi-standing position where one of the opponent’s legs is lifted high, forcing them to hop or balance on one leg; frequent from single-leg sequences.
+
+- **Body lock (standing)**  
+  A torso-level grip where both arms encircle the opponent’s body at or above the hips, with hands locked behind their back; used for trips, mat returns and back takes.
+
+- **Side body lock / rear body lock**  
+  Variants of the body lock depending on angle: side body lock from lateral chest-to-chest angle; rear body lock from behind the hips or waist.
+
+- **Mat return**  
+  Any technique that brings a standing or rising opponent back down to the mat from a rear body lock, waist lock or similar grip; functions as a secondary takedown within the same exchange.
+
+### B.6 Connection Mechanics and Grips
+
+- **Behind-the-knee grip**  
+  Hand position where fingers curl into the tendon behind the opponent’s knee; provides a strong hook that resists leg retraction.
+
+- **Calf wrap / lower-leg wrap**  
+  A connection where the forearms circle around the lower leg or calf and the hands lock; used to secure legs during low entries and some single-leg variations.
+
+- **Thigh-and-hip lock**  
+  A locked-hand grip high on the back of the thighs close to the hips; considered a superior connection for carrying sprawls and driving through finishes.
+
+- **Locked hands**  
+  Any configuration where both hands are joined (e.g. palm-to-palm, S-grip, gable grip) behind the legs or body; significantly increases control and power transfer.
+
+- **Hip-under adjustment**  
+  The movement where the attacker brings their hips under or very close to the opponent’s hips during a sprawl, rather than staying extended behind; used to recover posture and preserve attacking potential.
+
+### B.7 Failures, Defences and Error States
+
+- **Naked shot**  
+  A takedown attempt launched without a real setup, from intact opponent stance, and without prior stance-breaking; generally high risk and low percentage.
+
+- **Overreach**  
+  Leaning the upper body toward the opponent for ties or shots without stepping the base under the body; exposes the neck and back to snapdowns and front headlocks.
+
+- **Flat sprawl (against you)**  
+  A defensive reaction where the opponent drives hips and legs back into your upper body, attempting to flatten you on the mat and create front headlock or spin-behind opportunities.
+
+- **Front-headlock punishment**  
+  The pattern where failed, poorly set-up shots or collar ties are repeatedly countered by snapdowns into front headlocks, teaching the cost of ignoring preliminaries.
+
+- **Stance reset**  
+  The act of safely aborting a shot or tie and returning to sound stance and head–hands position rather than forcing bad continuation from a compromised posture.
+
+- **High-leg stalemate**  
+  A prolonged single-leg scenario where the attacker and defender both hop with little progress; indicates lack of clear high-leg finishing chains or transitions to body lock/back.
+
+### B.8 Training and Implementation Terms
+
+- **Setup-only drilling**  
+  Training rounds where athletes are allowed to create windows (stance breaks, head position wins, hand drops) but are not allowed to shoot, forcing focus on preliminaries.
+
+- **Entry-only drilling**  
+  Rounds where athletes enter to catch or connection positions (elbow-deep doubles, singles) and then freeze or lightly continue, prioritising clean entries over finishes.
+
+- **Constraint-based sparring**  
+  Standing rounds run under specific rules (e.g. “must snap before shooting”, “no shots from bad head position”) to hard-wire correct sequencing and discourage common errors.
+
+- **Takedown-to-control metric**  
+  A tracking measure that counts takedowns as successful only when followed by several seconds of stable top control or back exposure, reflecting real scoring rather than simple knockdowns.
+
+## Annex C – Additional Notes
+
+### C.1 System Architecture
+
+- The standing system is explicitly built around a four-phase takedown model (setup → catch → connection → completion), with all leg attacks and body-lock entries evaluated against these phases rather than as isolated moves.
+- Stance and preliminaries are treated as a separate structural layer that must be solved before entries: defensive responsibility, head–hands control and stance-breaking are prerequisites, not optional “nice to haves”.
+- Snapdowns, head position battles and hand fighting form the central “control ring” of the system: most exchanges cycle through this ring repeatedly before a legitimate opportunity to attack the legs or body appears.
+- The system is biased toward front-leg tackles and subsequent transitions to body locks and back exposure, reflecting the realities of jiu-jitsu scoring and the risk of leg-based submissions.
+- Double-leg tackles are framed as the primary leg-attack family from structurally strong setups; single legs, high-leg positions and body locks are layered as complementary branches rather than independent silos.
+- Body locks are positioned as a high-value convergence point: many sequences are designed so that failed or partially successful leg attacks climb into torso control, which in turn connects directly to trips, mat returns and back takes.
+- The standing system is not independent from ground strategy; it is designed so that finishing choices and landing directions funnel into preferred top games (passing systems, ride positions, back-attack platforms) instead of random guards.
+
+### C.2 Progression Logic and Phase Emphasis
+
+- The progression moves from low-risk, high-structure skills (stance, level change, head–hands control) into higher-risk actions (leg entries and throws) only after the preliminaries are robust.
+- Within entries, the system progresses from short-range, tie-based doubles and singles—where stance is already compromised—into more demanding distance shots; this is the reverse of many wrestling programmes that begin with long-distance entries.
+- The four phases are not given equal weight; setup and connection are repeatedly emphasised as the phases that determine whether an exchange is structurally safe, while catch and completion are treated as transient moments influenced by those foundations.
+- The technical progression for doubles and singles is always framed by the four-phase lens: each new detail is associated with a phase (e.g. a grip detail belongs to catch/connection, a footwork pattern belongs to setup/connection, a finish belongs to completion).
+- There is a deliberate emphasis on learning how to abort or reset during the early phases; bailing from bad setups or poor catches back to stance is considered a core skill, not a failure.
+- Later-stage work focuses increasingly on transitions between families—double to single, single to body lock, body lock to back—so that the athlete experiences the system as a network of pathways rather than a list of techniques.
+
+### C.3 Relationship to Ground Game and Scoring
+
+- Takedown choice is explicitly tied to what positions will likely follow on the ground: finishes that throw both athletes into neutral guard scrambles are deprioritised in favour of those that land directly in half guard, side control, headquarters or back exposure.
+- Particular value is placed on finishes and mat returns that drop the opponent into positions where their immediate escape attempts expose the back or create easy transitions into seated back attacks.
+- The system assumes that many “successful” takedowns in traditional sense will not generate meaningful advantage in jiu-jitsu; therefore, the evaluation metric becomes “takedown to stable top or back” rather than “takedown to mat”.
+- Standing sequences are designed with the expectation that the opponent will attempt to stand up quickly; repeated mat return and back-chasing options are therefore built into the completion phase rather than added later as separate techniques.
+- Specific structural choices (e.g. preference for doubles that land outside tight closed guard, preference for body locks over extended single-leg struggles) are rationalised in terms of submission risk and guard entanglement avoidance.
+- The system’s heavy back-exposure bias ensures that standing work supports the most rewarded and most decisive position in jiu-jitsu, rather than distributing effort evenly across all possible outcomes.
+
+### C.4 Study and Training Strategy
+
+- Technical learning is to be anchored by the four-phase model; when studying any new entry or finish, the first question is “which phase does this live in and what does it fix or improve?” rather than “how do I do this move?”.
+- Early study phases should focus on stance, head–hands control and snapdowns until athletes can reliably maintain defensive responsibility while still degrading stance; premature focus on shot mechanics without this base is discouraged.
+- Drilling is expected to be heavily constrained and phase-specific: setup-only rounds, entry-only rounds, connection-holding rounds and finish-only rounds, each with clear success/failure conditions.
+- The system encourages splitting drilling into “clean environment” and “noisy environment”: first build correct mechanics cooperatively, then add realistic resistance while keeping constraints (e.g. must snap before shooting, must finish to half/side/back).
+- Video or memory review after sparring is framed around the four phases: identify whether failures occurred at setup (no stance break), catch (no reliable grip), connection (flattened by sprawl) or completion (landed in poor guard/neutral).
+- Study order across the wider game is suggested implicitly: standing system → takedown-to-top system → passing or ride system → back-attack or submission chains, so that each new instructional plugs into an existing structural backbone.
+
+### C.5 Coaching Emphases, Habits and Traps
+
+- A central coaching emphasis is to treat snapdowns, head position battles and basic hand fighting as ongoing primary tasks, not as a brief prelude before “the real wrestling” begins.
+- There is repeated insistence that athletes avoid long periods of symmetric ties and static collar-tie pummelling; any prolonged symmetry is seen as a sign that stance-breaking and head-position work have stalled.
+- Coaches are encouraged to actively punish naked shots, overreaches and lazy collar ties with snapdowns, front headlocks and spins, to make structural errors feel immediately costly.
+- Athletes are warned against over-identifying with particular takedown names or styles; instead, they are asked to think in terms of “solve setup, then solve connection, then pick the least risky completion that leads to my best ground game”.
+- A major trap highlighted is treating standing as either a token warm-up or a separate sport; the system is explicit that standing skills must be integrated into the overall jiu-jitsu game plan and trained with the same seriousness as guard and passing.
+- Another trap is emotional: athletes often interpret failed shots as personal failure and either stop attacking or start attacking wildly; the system reframes this by grading success on process metrics (correct phase behaviour, good bails) rather than just finished takedowns.
+- Coaches are encouraged to keep the tactical conversation grounded in rule set and match duration (points vs sub-only, short vs long matches), so that entry selection, risk level and use of body locks or leg attacks always reflect the actual environment the athlete will compete in.
+
+## Annex D – Master System Diagram (ASCII)
+
+### D.1 Global Standing System Map
+
+[NEUTRAL STANCE & MOTION]
+             |
+             v
+   [HEAD & HAND FIGHTING]
+   (inside position, head safety)
+             |
+             v
+      [STANCE BREAKING]
+ (snapdowns / push–pull / angles)
+             |
+             v
+   -----------------------------------------
+   |                |                      |
+[FRONT HEADLOCK] [LEG ATTACKS]        [BODY CONTACT]
+ (snap → FH)    (front-leg tackles)   (underhooks / locks)
+   |                |                      |
+   v                v                      v
+[FRONT-HEAD      [FOUR-PHASE         [BODY LOCKS]
+ CONTROL /       TAKEDOWNS]          (side / rear)
+ SUB ATTACKS]    (setup–catch–       trips / mat-returns
+                 connection–         to top / back
+                 completion)              |
+   |                |                      |
+   v                v                      v
+          [GROUND OUTCOMES / SCORES]
+  (stable top, passes, rides, back takes, submissions)
+
+	•	Macro view: stance and preliminaries feed a stance-breaking ring (head & hands), which then branches into front headlocks, leg tackles and body contacts, all converging on stable top or back and submission chains.
+
+⸻
+
+D.2 Four-Phase Front-Leg Takedown Model
+
+          [SETUP]
+ (break stance / win head–hands /
+   move feet / create angles)
+               |
+               v
+          [CATCH]
+ (first secure contact on leg(s):
+  knees / calves / ankles / thighs)
+               |
+               v
+       [CONNECTION]
+ (glue chest–head–hips–hands
+   to their legs and hips;
+    must carry their weight)
+               |
+               v
+       [COMPLETION]
+ (cutback / runs / trips / lifts /
+  mat returns / transitions to
+  body locks or back control)
+               |
+               v
+   [POST-TAKEDOWN PHASE]
+ (stabilise, chase back, pass,
+  submit while they scramble)
+
+	•	Every leg attack is evaluated by which phase it fails or succeeds in; most structural work focuses on improving setup and connection.
+
+⸻
+
+D.3 Entry Family Map – From Ties to Tackles
+
+        [HEAD & HAND FIGHTING]
+   (inside ties, collar ties, two-on-ones)
+                    |
+      ----------------------------------
+      |                |              |
+ [COLLAR TIE]   [TWO-ON-ONE]     [UNDERHOOKS]
+      |                |              |
+  snap / shuck     steer stance    drive posture /
+      |           expose leg /     connect chest
+      |             back side          |
+      v                v              v
+ [SNAPDOWN]     [ANGLE + FRONT-   [CLOSE BODY
+ (hands down,    LEG EXPOSURE]      CONTACT]
+  feet moved)         |              |
+      |          ---------------------------
+      |          |                         |
+      v          v                         v
+ [FRONT HEAD] [FRONT-LEG DOUBLES]   [SIDE / REAR
+  (guillotines,  (short-range,       BODY LOCKS]
+   spins, etc.)    tie-based)         (trips /
+                                      mat-returns)
+                   |
+                   v
+          [SINGLES & HIGH-LEG]
+          (front-leg singles,
+       high-leg finishes, climbs
+             to body lock)
+
+	•	Entry families are rooted in specific ties: collar ties favour snapdowns and front-head entries, two-on-ones favour angled singles/doubles, underhooks favour body locks.
+
+⸻
+
+D.4 Leg-Attack to Body-Lock / Back Tree
+
+           [FRONT-LEG TACKLE]
+ (double or single from compromised stance)
+                    |
+          ----------------------
+          |                    |
+   [CLEAN FINISH]       [LEGS DEFENDED]
+ (fall with legs        (sprawl / limp-leg /
+  controlled and         heavy hips / posts)
+  head safe)                     |
+          |                      v
+          v              [CLIMB TO TORSO]
+  [STABLE TOP]     (release focus on lower leg,
+ (half / HQ /       collect hips / ribcage,
+  side / ride)      lock hands around body)
+          |                      |
+          |                      v
+          |              [BODY LOCK CONTROL]
+          |              (side or rear locks)
+          |                      |
+          v                      v
+   [PASS / RIDE]          [TRIPS / MAT-RETURNS]
+  (pressure passes,         (inside / outside
+   rides, submissions)      trips, lifts, turns)
+                                  |
+                                  v
+                          [BACK EXPOSURE]
+                     (hooks, rides, chokes)
+
+	•	Structural idea: persistent defence to leg attacks is used as a trigger to climb higher on the body, transitioning to body locks and then to back takes and rides.
+
+⸻
+
+D.5 Positional Ladder – From Stance to Dominance
+
+[GOOD STANCE & DEFENSIVE RESPONSIBILITY]
+    (head–hands between them and your legs)
+                      |
+                      v
+       [STANCE BREAKING IN LOOP]
+ (snapdowns / push–pull / angle steps)
+                      |
+                      v
+         [HANDS TO MAT OR FEET MOVED]
+        (hands posted / front leg exposed)
+                      |
+      ------------------------------------
+      |                                  |
+ [FRONT-HEADLOCK CLUSTER]        [FRONT-LEG CLUSTER]
+ (front headlocks, spins         (doubles, singles,
+  to back, snap-to-legs)          high-leg chains)
+      |                                  |
+      v                                  v
+ [TOP / BACK FROM FH]             [TOP / BACK FROM
+  (chokes, spins, rides)          LEGS / BODY LOCK]
+      \                                  /
+       \                                /
+        \______________________________/
+                       |
+                       v
+           [SUSTAINED TOP / BACK]
+     (passes, rides, submissions, re-entries)
+
+	•	The ladder emphasises that every exchange is trying to climb from stance to sustained top or back via either front-headlock or leg-attack clusters, with stance-breaking as the constant engine.
+
+## Annex E – Common Failure Patterns
+
+### E.1 Bending at the Waist Instead of Level Changing
+
+- Failure description  
+  Athlete “dives” forward for ties or shots by folding at the waist, with hips high and head dropping toward the floor while the legs stay relatively straight; entries look like a bowing motion rather than a controlled drop under the opponent.
+
+- Underlying cause  
+  Misunderstanding of level change (treated as upper-body movement instead of hip and knee flexion) and anxiety about closing distance, leading to reaching with the head and shoulders rather than stepping the base under the body.
+
+- Corrective strategies  
+  Emphasise knee-and-hip-only level-change drills in shadow wrestling; use a simple rule in drilling that any time hips rise above shoulder line or spine folds sharply, the partner immediately snaps to front headlock; run “touch-and-go” penetration-step lines where the knee barely kisses the mat and immediately recovers, reinforcing vertical drop and recovery instead of forward collapse.
+
+
+### E.2 Shooting Without a Real Setup (“Naked Shots”)
+
+- Failure description  
+  Athlete launches doubles or singles from intact opponent stance, without prior stance break, head-position win or meaningful hand fight; shots appear from long distance with no visible reason why the opponent should be compromised.
+
+- Underlying cause  
+  Treating shots as independent techniques rather than the fourth step in a process; over-focusing on penetration mechanics while ignoring stance-breaking, head–hands control and the requirement to use snapdowns as a “jab”.
+
+- Corrective strategies  
+  Enforce “no setup, no shot” constraints in sparring where any takedown attempt must be preceded by a clearly recognisable stance break or head-position win; drill setup-only rounds where shots are forbidden and the sole task is to move feet, drop hands and create head-and-shoulder lanes; score attempts in training based on whether setup criteria were met, not just whether someone briefly hits the mat.
+
+
+### E.3 Reaching with Hands Before Moving Feet
+
+- Failure description  
+  Athlete leans rigidly into collar ties, underhooks or leg grabs while feet stay behind, so the body stretches long over the front knee and the head drifts over the toes; ties are fragile and easily snapped or dragged.
+
+- Underlying cause  
+  Fear of closing distance with the legs, reliance on upper body to cover ground and poor awareness of where the base needs to be before making contact; often reinforced by drilling from fixed starting grips instead of from motion.
+
+- Corrective strategies  
+  Introduce “feet first, hands second” rules where any grip attempted from out of range is punished by immediate snapdown or drag; use stance-and-motion games where partner lightly shoves and snaps any time the head passes beyond the lead knee; teach specific footwork patterns (small entries, angle steps) tied directly to each tie so that every collar tie, two-on-one or underhook is preceded by a step that brings the base under the shoulders.
+
+
+### E.4 Staying on the Knee After a Shot
+
+- Failure description  
+  Athlete drops to one knee for a penetration step and then remains “parked” on that knee while trying to drive or finish; the trailing leg never recovers to a strong base and the torso remains extended underneath the opponent.
+
+- Underlying cause  
+  Overemphasis on kneeling entries in drilling, underemphasis on recovery to stance and fear of re-engaging hips once contact is made; misunderstanding that the knee touch is a transient event, not a destination.
+
+- Corrective strategies  
+  Use penetration-step lines where any pause on the knee triggers an automatic reset; drill “knee touch and recover” against a partner who is instructed to sprawl lightly if the attacker fails to bring the trail leg up promptly; run situational rounds starting from mid-shot where the only scoring metric is whether the attacker can bring both feet under them and restore posture before attempting to finish.
+
+
+### E.5 Weak Connection – Trying to Finish Before You Can Carry Weight
+
+- Failure description  
+  Athlete catches the legs but immediately attempts to drive, lift or trip while chest, head and hips remain far from the opponent’s hips; legs are held mostly with the arms and any sprawl or twist breaks the grip.
+
+- Underlying cause  
+  Rushing to completion and treating “touching the legs” as equivalent to controlling them; lack of respect for the connection phase and inadequate experience carrying a partner’s weight in drilling.
+
+- Corrective strategies  
+  Implement connection-holding drills where the attacker must maintain leg control under deliberate sprawl pressure for several seconds before any finish is allowed; cue athletes to “glue chest, head and hips to the legs before trying to move them”; prevent progression to new finishes until the athlete can demonstrate solid connection with locked hands under the buttocks against a partner actively trying to pull the legs free.
+
+
+### E.6 Finishing Directly into Bad Guards
+
+- Failure description  
+  Athlete finishes doubles or singles in ways that drop them straight into tight closed guard, deep half or entangling guards, when a small angle or different finish would have landed in half guard, side control or headquarters.
+
+- Underlying cause  
+  Evaluating takedowns by the fact of the fall rather than by the landing; copying wrestling finishes without adjusting for submission and guard threats; lack of explicit “landing targets” in training.
+
+- Corrective strategies  
+  In drilling, score takedowns on landing quality, not impact—only finishes that land in pre-agreed “good” positions (half, side, strong headquarters, chest-to-back) count; pair each primary finish with a default angle or direction cue (“cutback to the outside and clear the legs before settling”, “drive diagonally, not straight into their closed guard line”); run specific sequences where the partner is instructed to immediately pull to guard if landing is poor, making the cost visible.
+
+
+### E.7 Clinging to Legs When the Back Is Exposed
+
+- Failure description  
+  As the opponent turns hard during defence, their back begins to open, yet the attacker remains fixated on the legs, continuing to squeeze and chase grips instead of climbing to body lock or back control.
+
+- Underlying cause  
+  Techniquedriven mindset where success is defined as “finishing the takedown I started”, combined with lack of a clear hierarchy that places back exposure above leg control.
+
+- Corrective strategies  
+  Establish a back-priority rule in designated drills where any clear back exposure forces the attacker to abandon legs and seek seatbelt or body lock; design situational rounds specifically around “legs to back” transitions where the initial goal is leg control but successful scoring is defined as securing hooks or a strong ride; verbally reinforce that leg control is a means to an end and that the back is the top of the positional ladder.
+
+
+### E.8 Over-Wrestling – Winning the Throw, Losing the Match
+
+- Failure description  
+  Athlete chases big throws or explosive shots that look impressive but land them in neutral or disadvantageous ground positions, spending energy for little scoring or submission benefit.
+
+- Underlying cause  
+  Importing pure wrestling or judo criteria into jiu-jitsu, where momentary knockdowns are overvalued and the importance of post-takedown control and submission exposure is underweighted.
+
+- Corrective strategies  
+  Reframe success metrics in training so that only sequences that end in stable top or back positions are praised; use scenario rounds where throws or takedowns without follow-up control are deliberately scored low or ignored; connect every standing attack to a named ground chain (e.g. “double to half-guard smash to cross-face ride”) so that athletes think in terms of sequences rather than isolated impact moments.
+
+
+### E.9 Underusing Snapdowns and Stance-Breaking
+
+- Failure description  
+  Athlete engages in extended collar-tie pummelling or hand fighting where stance and posture remain essentially unchanged; they rarely snap the head, move the feet or drive hands toward the mat before shooting.
+
+- Underlying cause  
+  Viewing snapdowns as occasional big moves instead of continuous low-level tools; comfort with static ties and lack of clear goals for what hand fighting is supposed to achieve.
+
+- Corrective strategies  
+  Introduce snap-count targets in rounds (e.g. minimum number of meaningful snaps per minute); run “snap-before-shot” constraints where a takedown attempt is not allowed until a genuine stance break via snap or push–pull has occurred; coach athletes to treat hand fighting as a structured process with explicit goals—move feet, drop hands, win head position—rather than as shapeless grip play.
+
+
+### E.10 High-Leg Stalemates
+
+- Failure description  
+  Single-leg exchanges frequently stall in extended high-leg positions where attacker and defender hop without progress; attacker runs out of ideas and either drops the leg or collapses to guard.
+
+- Underlying cause  
+  Incomplete single-leg curriculum that focuses on initial catch but not on high-leg finishing chains; reluctance to transition from leg focus to trips, turns or body locks once the leg is lifted.
+
+- Corrective strategies  
+  Build a specific high-leg tree (e.g. “if they hop inward, inside trip; if they hop outward, outside trip; if they drive weight over you, climb to body lock”); run positional rounds beginning already in high-leg with clear time limits and scoring criteria, forcing resolution rather than endless hopping; emphasise head and shoulder positioning under the thigh and lateral movement to make the defender step into trips rather than chasing them in place.
+
+
+### E.11 Ignoring Defensive Responsibility During Your Own Attacks
+
+- Failure description  
+  While focusing on offence, athlete lets their own head drift down and hands leave their defensive posts, leaving themselves open to counters, front headlocks or immediate back takes when the shot fails.
+
+- Underlying cause  
+  Viewing defence and offence as separate phases instead of linked states; overcommitting mentally to “this shot must work” and neglecting exit paths and posture.
+
+- Corrective strategies  
+  Train explicit bailout patterns from failed shots, emphasising head-position recovery and re-establishing an elbow or forearm between opponent’s head and your legs before disengaging; run rounds where the defender’s primary job is to counterattack aggressively after broken shots, making poor defensive responsibility feel immediately dangerous; repeatedly cue that every phase of attack must be compatible with an immediate defensive reset if the position degrades.
+
+
+### E.12 Treating Standing as a Warm-Up, Not a System
+
+- Failure description  
+  Standing exchanges are short, unstructured and mostly used to get to the ground; there is no clear A-game from the feet, no tracking of progress and no integration between takedowns and ground systems.
+
+- Underlying cause  
+  Cultural bias toward guard play and ground grappling, combined with the belief that serious standing training belongs only to wrestling or judo; lack of structural framework for making standing feel as systematic as guard or passing.
+
+- Corrective strategies  
+  Protect dedicated standing blocks in training with clearly defined technical themes and measurable goals; use the same level of system thinking—phases, hubs, chains—that is applied to guard and passing; log takedown attempts, good setups, solid connections and quality landings per week, and review them the same way sweeps and passes are reviewed; select one or two standing A-game chains and commit to developing them with the same seriousness as a primary guard or passing system.
 
 
 
