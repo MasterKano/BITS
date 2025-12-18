@@ -1,6 +1,6 @@
-Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
+# Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
 
-4.1 Special Study: Sumi Gaeshi – Whizzer and Wrist vs Single Leg (0:00–10:40)
+## 4.1 Special Study: Sumi Gaeshi – Whizzer and Wrist vs Single Leg (0:00–10:40)
 
 - Goal
   - Use Sumi Gaeshi as a high-percentage counter to a single leg by combining:
@@ -52,7 +52,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
   - “Jump past the ankle line” – your foot must go past their feet, not stop next to them.
 
 
-4.2 Lat and Wrist vs Single Leg (10:40–15:07)
+## 4.2 Lat and Wrist vs Single Leg (10:40–15:07)
 
 - Goal
   - Present a more secure, slip-resistant grip combination for Sumi Gaeshi against single leg, emphasising lat and wrist control.
@@ -97,7 +97,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
   - Observe that directionality and hop mechanics do not change; only the upper-body connection gets an upgrade.
 
 
-4.3 Chest Wrap Sumi Gaeshi vs Double Leg (15:07–21:05)
+## 4.3 Chest Wrap Sumi Gaeshi vs Double Leg (15:07–21:05)
 
 - Goal
   - Adapt Sumi Gaeshi to defend a double leg, using a chest wrap configuration instead of a classic whizzer.
@@ -168,7 +168,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
     - Use their forward pressure to feed the lift, not fight against it.
 
 
-4.5 Sumi Gaeshi vs High Crotch (25:17–29:27)
+## 4.5 Sumi Gaeshi vs High Crotch (25:17–29:27)
 
 - Goal
   - Apply Sumi Gaeshi concepts to high-crotch style single legs by re-identifying the “correct” outside arm and direction.
@@ -198,7 +198,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
   - The throw is structurally similar if you re-map which arm is the true post.
 
 
-4.6 Yoko Sumi Gaeshi on the Mat (29:27–34:12)
+## 4.6 Yoko Sumi Gaeshi on the Mat (29:27–34:12)
 
 - Goal
   - Introduce Yoko Sumi Gaeshi as a mat-based, more lateral variant of Sumi Gaeshi.
@@ -228,7 +228,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
     - Potential back-take routes if they expose the back on the way down.
 
 
-4.7 2 on 1 Yoko Sumi Gaeshi (34:12–39:03)
+## 4.7 2 on 1 Yoko Sumi Gaeshi (34:12–39:03)
 
 - Goal
   - Use a 2-on-1 control to drive Yoko Sumi Gaeshi, especially when both players are low or on the mat.
@@ -260,7 +260,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
     - The 2-on-1 ensures posting is gone; the Yoko direction ensures they cannot turn and square up.
 
 
-4.8 Arm Drag Sumi Gaeshi (39:03–44:09)
+## 4.8 Arm Drag Sumi Gaeshi (39:03–44:09)
 
 - Goal
   - Tie Sumi Gaeshi into the arm-drag family so that failed back-takes or leg attacks convert into sacrifice throws.
@@ -292,7 +292,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
     - Option B: convert to arm-drag Sumi Gaeshi if angle and stance align.
 
 
-4.9 Special Study: Ude Gaeshi – Mechanics (44:09–50:28)
+## 4.9 Special Study: Ude Gaeshi – Mechanics (44:09–50:28)
 
 - Goal
   - Understand Ude Gaeshi as an arm-based sacrifice throw and how its mechanics differ from leg-based Sumi Gaeshi.
@@ -336,7 +336,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
   - “Drop under the arm line, not just under the hips.”
 
 
-4.10 Ude Gaeshi Application (50:28–54:38)
+## 4.10 Ude Gaeshi Application (50:28–54:38)
 
 - Goal
   - Show concrete situations where Ude Gaeshi is applied in actual standup/fighting contexts.
@@ -362,7 +362,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
   - Use the trapped arm to prevent them turning into you or away; build pins and transitions from there.
 
 
-4.11 Ude Gaeshi Setups (54:38–59:16)
+## 4.11 Ude Gaeshi Setups (54:38–59:16)
 
 - Goal
   - Systematise the main setup routes into Ude Gaeshi.
@@ -398,7 +398,7 @@ Viewing Notes – Standing to Ground 3 – Volume 4 (Sumi Gaeshi & Ude Gaeshi)
       - Immediate top stabilisation.
 
 
-4.12 Mistakes to Avoid (59:16+)
+## 4.12 Mistakes to Avoid (59:16+)
 
 - Goal
   - Highlight recurring error patterns for Sumi Gaeshi / Yoko Sumi and Ude Gaeshi.
