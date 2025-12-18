@@ -1,6 +1,6 @@
-Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
+# Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
 
-3.1 Special Study: Uki Waza – Arm Drag and Hip Variation (0:00–11:40)
+## 3.1 Special Study: Uki Waza – Arm Drag and Hip Variation (0:00–11:40)
 
 - Goal
   - Understand Uki Waza as a sacrifice / lateral-drop style throw and how arm drags + hip positioning create entries.
@@ -35,7 +35,7 @@ Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
     - Pay attention to where his chest ends up on landing, not just the mid-air throw.
 
 
-3.2 Special Note on Arm Drag and Hip Variation (11:40–14:28)
+## 3.2 Special Note on Arm Drag and Hip Variation (11:40–14:28)
 
 - Goal
   - Clarify when arm-drag Uki Waza is high-percentage and what details decide success vs failure.
@@ -63,7 +63,7 @@ Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
   - How often he lands already in control rather than waiting to “win” a scramble afterwards.
 
 
-3.3 2 on 1 Opponent Headlocks (14:28–18:27)
+## 3.3 2 on 1 Opponent Headlocks (14:28–18:27)
 
 - Goal
   - Learn to bait opponent headlocks off your 2-on-1 and turn them into Uki Waza rather than accepting bad head control.
@@ -100,7 +100,7 @@ Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
   - Note how little time there is between “they reach” and “you throw” – no long pause.
 
 
-3.4 Front Headlock Uki Waza (18:27–22:32)
+## 3.4 Front Headlock Uki Waza (18:27–22:32)
 
 - Goal
   - Use a standing front headlock to hit Uki Waza, with a clean top finish.
@@ -141,7 +141,7 @@ Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
   - How he keeps head control through the landing phase.
 
 
-3.5 Overhook Uki Waza: The Lateral Drop (22:32–34:11)
+## 3.5 Overhook Uki Waza: The Lateral Drop (22:32–34:11)
 
 - Goal
   - Understand classical lateral drop / Uki Waza mechanics from an over/under tie.
@@ -182,7 +182,7 @@ Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
   - Track how his overhook/underhook and head together control the direction.
 
 
-3.6 My Favorite Setup Overhook Uki Waza (Lateral Drop) (34:11–37:03)
+## 3.6 My Favorite Setup Overhook Uki Waza (Lateral Drop) (34:11–37:03)
 
 - Goal
   - Learn the “stabbing step” setup that forces the opponent’s hand to the mat and opens the underhook you need for the lateral drop.
@@ -225,7 +225,7 @@ Viewing Notes – Standing to Ground 3 – Volume 3 (Uki Waza / Lateral Drop)
   - Stabbing step has to be committed; a soft step won’t force the post.
 
 
-3.7 2 on 1 Uki Waza For the Strongest Lateral Drop (37:03+)
+## 3.7 2 on 1 Uki Waza For the Strongest Lateral Drop (37:03+)
 
 - Goal
   - Use a 2-on-1 based Uki Waza variation that gives the strongest lateral-drop style finish.
