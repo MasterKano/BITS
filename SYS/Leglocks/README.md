@@ -1,60 +1,80 @@
-# SYS/Leglocks — System Registry (Canonical)
+# SYS / Leglocks — Canonical Systems Library
 
 ## Purpose
-This folder contains the **canonical** leg-lock systems for BITS.  
-Rule: **One concept = one system file**. New instructionals do not create new systems unless the concept is genuinely new; they extend existing systems via **Sources + Deltas**.
+This folder is the *canonical* (non-duplicated) leglock systems library.
+- **SYS** = “what the system is” (position, control hub, dilemma, finish mechanics)
+- **INS** = “where it’s taught” (instructional, volume, chapter, timestamps)
 
-## Operating Rules (No Duplication)
-1. **Canonical-first**: Before creating a new system file, search this folder for an existing match (including aliases).
-2. **One file per system**: If Danaher + Gordon + Mateusz cover the same system, they all live in the same system file under **Sources**.
-3. **Instructionals never define systems**: `INS/...` holds viewing notes and “what the instructor said/did.”  
-   `SYS/...` holds the consolidated, instructor-agnostic system.
-4. **New info policy**: When a new instructor adds value, record it as a **Delta** (what is different / better / unique) rather than rewriting the whole system.
+Rule: **A concept exists once in SYS**. Instructionals add *sources* to it.
 
-## System File Standard (Required)
-Each `SYS/Leglocks/<system>.md` must contain:
-- `# <System Name>`
-- `## Scope`
-- `## Preconditions`
-- `## Core Structure`
-- `## Primary Attacks`
-- `## Primary Defences + Counters`
-- `## Transitions (Inputs/Outputs)`
-- `## Failure Modes`
-- `## Drills`
-- `## Sources (Instructional Cross-Refs)`
-- `## Deltas by Instructor (What’s unique)`
+---
 
-### Sources Format (use this exact pattern)
-In every system file, the **Sources** section must include entries like:
-- `INS:<slug> | Vol X | Chapter: <name> | Time: 00:00–00:00 | Note: <why it matters>`
+## De-duplication Rules (Non-Negotiable)
+1. **One file per system.**  
+   If another instructional teaches the same system, do *not* create a new SYS file. Add new sources to the existing file.
+2. **“Different name, same system” → synonyms, not duplicates.**  
+   Add alternate names inside the system file under “Synonyms / Alternate Labels”.
+3. **“Same name, different system” → split and disambiguate.**  
+   If two instructors use the same term differently, create separate systems with disambiguated slugs and state the difference at the top.
 
-This keeps systems consolidated while preserving a fast path back to the video.
+---
 
-## Canonical Systems List (Leglocks)
-> Update filenames to kebab-case and ensure `.md` extension over time.  
-> This list is the source of truth for what exists.
+## Source Referencing Standard (How SYS links to INS)
+Inside every SYS file, include a **Sources** section with bullet references using this format:
 
-1. Ashi Garami Hierarchy and Family Map → `ashi-garami-hierarchy-family-map.md`
-2. Knee Line and Wedge Control → `knee-line-and-wedge-control.md`
-3. Irimi Ashi Garami (Entry Hub) → `irimi-ashi-garami-entry-hub.md`
-4. Outside Ashi Garami (Finishing Hub) → `outside-ashi-garami-finishing-hub.md`
-5. Outside Ashi: Hip Control (Outside HH Hub) → `outside-ashi-garami-hip-control-outside-heel-hook-hub.md`
-6. Cross Ashi: Double Trouble Platform → `cross-ashi-garami-double-trouble-platform.md`
-7. Inside Ashi (Outside-HH Oriented Cross Family) → `inside-ashi-garami-outside-hh-oriented-cross-family.md`
-8. Backside 50/50 → `backside-50-50.md`
-9. Far-Hip Ashi → `far-hip-ashi.md`
-10. Butterfly Ashi (Connector Hub) → `butterfly-ashi.md`
-11. Post Ashi (Standing/Posting Reaction Hub) → `post-ashi.md`
-12. Top Ushiro (Top Control Outcome Hub) → `top-ushiro.md`
-13. Double Trouble (Two-Leg Control Hub) → `double-trouble.md`
-14. Leg Lace / Dracula Controls → `leg-lace-dracula.md`
-15. Straight Ankle (Achilles) System → `straight-ankle-achilles.md`
-16. Toe Hold System → `toe-hold-system.md`
-17. Knee Bar System → `knee-bar-system.md`
-18. Heel Hook System → `heel-hook-system.md`
+- `INS/<Instructor>/<Series>/<Instructional>/V<vol> — <Chapter Title> (start–end)`
+- If you don’t know the exact chapter yet, use: `(TBD)` and update later.
 
-## Backlog (Housekeeping — do later)
-- Eliminate duplicates (same concept, different filenames).
-- Standardise naming: lowercase kebab-case + `.md` only.
-- Ensure every system file has the required sections and “Sources + Deltas”.
+Example:
+- `INS/JD/ETS/Leglocks/V2 — Irimi Ashi: Entries (04:40–11:20)`
+
+---
+
+## System File Template (Copy into each SYS file)
+Each system file should follow this structure:
+
+1. **Definition (1–3 lines)**
+2. **Scope (what is / what is not)**
+3. **Entry Conditions (when it appears)**
+4. **Primary Control Problems (what must be solved)**
+5. **Key Mechanics / Invariants**
+6. **Decision Tree (triggers → options)**
+7. **Failure Modes + Fixes**
+8. **Counters / Defensive Reactions**
+9. **Integration Links (what systems it connects to)**
+10. **Drillables (minimal viable reps)**
+11. **Sources (INS references)**
+12. **Synonyms / Alternate Labels**
+
+---
+
+## Naming + Slugs
+- Slugs should be **stable and generic** (not instructor-specific).
+- Prefer: `irimi-ashi-garami-entry-hub.md`
+- Avoid: `danaher-irimi.md`
+
+If a file is instructor-specific because it truly differs, prefix with a disambiguator:
+- `irimi-ashi-garami-entry-hub--jd.md`
+- `irimi-ashi-garami-entry-hub--ms.md`
+
+(Only do this when the systems are materially different.)
+
+---
+
+## Adding a New Instructional (Procedure)
+When adding a new instructional (Danaher, Gordon, Mateusz, etc.):
+1. **Scan it top-down** and list the systems it contains (as candidates).
+2. For each candidate:
+   - If SYS file exists → add sources + any genuinely new mechanics as “Variants”.
+   - If SYS file does not exist → create it using the template.
+3. Never create a new SYS file when the change is only terminology.
+
+---
+
+## Current Instructionals to Merge (Planned)
+- JD — Enter The System: Leg Locks
+- GR — Systematically Attacking The Legs
+- Mateusz — (to add)
+- Lachlan — (later)
+
+This README defines the rules so the library scales without duplication.
