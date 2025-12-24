@@ -854,164 +854,153 @@ Adds upper-body punishments that trigger off leg-defense reactions, centering on
 
 ## 5.0 DIAGRAM SET
 
-### 5.1 K Guard Macro Map (Gates → Routing → Outcomes)
-- Core gates
-  - Off-balance gate: knee-off-the-mat before rotation-based offense.
-  - Control gate: scoop (under-knee) control before committing to entries/attacks.
-  - Structure gate: bottom knee hidden behind elbow line; knees separated; secondary-leg barrier present.
-- Primary routing fork
-  - Backside when opponent turns away/runs and backside access is available.
-  - Frontside when backside hooks are denied (knee opened; behind-knee hook unavailable) and angle creation is required.
-- Punishment overlay
-  - Upper-body branch triggers when lower-body progress is structurally stalled (heavy base/defensive reactions).
+### 5.1 Gate Checklist Loop (Structure -> Off-Balance Permission)
+~~~text
++-----------------------------+
+|   [K GUARD STRUCTURE GATES] |
++-----------------------------+
+| Gate A: scoop / under-knee  |
+| Gate B: knee behind elbow   |
+| Gate C: knees separated     |
+| Gate D: secondary leg = bar |
++--------------+--------------+
+               |
+               v
++-----------------------------+
+| [OFF-BALANCE GATE]          |
+| "Knee off the mat?"         |
++--------------+--------------+
+               |
+             {OR}
+      +--------+--------+
+      |                 |
+      v                 v
+  YES (permission)   NO / HEAVY
+      |                 |
+      v                 v
+[ROUTE / ATTACK]   [REBUILD MODE]
+                   - knee shield -> space
+                   - hip lift -> lever back
+                   - re-acquire scoop (must)
+                   - re-check gates -> retry
+~~~
 
-    [OPEN GUARD ENTRY]
-           |
-           v
-    [K GUARD STRUCTURE]
-      |  |  |  |
-      |  |  |  +--> Gate: secondary-leg barrier present
-      |  |  +-----> Gate: knee hidden behind elbow line
-      |  +--------> Gate: knees separated (anti-collapse)
-      +-----------> Gate: scoop (under-knee) control
-           |
-           v
-    [OFF-BALANCE GATE]
-    (knee off mat?) ----------------------------+
-      | YES                                     | NO / HEAVY
-      v                                         v
-    [ROUTING]                              [STRUCTURE REBUILD]
-      |                                    (knee shield / hip lift / re-place blade-of-foot / regain scoop)
-      +--- {OR} ---------------------------+--------------------+
-      |                                                                |
-      v                                                                v
-    [BACKSIDE LANE]                                                 [FRONTSIDE LANE]
-      |                                                                |
-      v                                                                v
-    [BACKSIDE 50/50 HUB]                                         [ANGLE CREATION HUB]
-      |   |    |   |                                                |    |    |
-      |   |    |   +--> (Back exposure) Matrix / X-hook routes       |    |    +--> (Outside HH lines)
-      |   |    +------> (Alt threat) Reverse Aoki                    |    +------> (Aoki family)
-      |   +-----------> (Stabilize) Double 50/50                     +----------> (Dilemma) threat cycle / leg switch -> (Sweep)
-      +---------------> (Primary) Inside HH lines
-           |
-           v
-    (If opponent backsteps/high backsteps -> follow hips -> maintain attachment -> re-enter best hub)
+### 5.2 Routing Decision (Backside Availability vs Frontside Denial)
+~~~text
++--------------------------------------+
+|            [ROUTING DECISION]        |
++--------------------------------------+
+| Backside attachment available?       |
+| (behind-knee access not denied)      |
++-------------------+------------------+
+                    |
+                  {OR}
+        +-----------+-----------+
+        |                       |
+        v                       v
+      YES                      NO
+        |                       |
+        v                       v
++---------------------+   +------------------------------+
+| [BACKSIDE LANE]     |   | [FRONTSIDE LANE]             |
+| -> [BACKSIDE 50/50] |   | -> [ANGLE HUB: SAME-DIRECTION]|
++---------------------+   +------------------------------+
+~~~
 
-    [PUNISHMENT OVERLAY]
-      If lower-body progress stalls via heavy base / defensive posts -> (Upper body) shotgun armbar / triangle / sweep/lock branches
+### 5.3 Backstep Handling (Prevent vs Follow; Attachment Priority)
+~~~text
+               Opponent initiates backstep / high backstep
+                               |
+                             {OR}
+                 +-------------+-------------+
+                 |                           |
+                 v                           v
+        [PREVENT BACKSTEP]             [FOLLOW BACKSTEP]
+        - chest toward mat             - attachment first
+        - lower-body extension         - track hips through turn
+        - reduce free step-out         - return to best hub line
+                 |                           |
+                 +-------------+-------------+
+                               |
+                               v
+                        [BACKSIDE 50/50 HUB]
+~~~
 
-### 5.2 Routing Decision Map (Backside vs Frontside)
-- Backside selection logic
-  - Chosen when the opponent’s movement and orientation give backside access (turning away / running patterns that permit backside attachment).
-- Frontside selection logic
-  - Chosen when backside hooks/attachments are denied (knee opened; behind-knee hook unavailable), requiring same-direction alignment for outside leg locks.
-- “Do not force denied entry” rule
-  - Denial of behind-knee hook is treated as a hard signal to route away, not to insist.
+### 5.4 Frontside Angle Gate (Alignment Before Outside Locks)
+~~~text
++----------------------------------+
+| [FRONTSIDE HUB: ANGLE CREATION]  |
++----------------------------------+
+| Gate: same-direction alignment   |
+| (do not attack without alignment)|
++------------------+---------------+
+                   |
+                 {OR}
+        +----------+----------+
+        |                     |
+        v                     v
+   Alignment won         Alignment lost
+        |                     |
+        v                     v
+(Aoki / Outside HH)      Reset to angle creation
+(Threat cycling)         (do not force finishes)
+(Leg switch -> sweep)
+(Far Side K -> reverse X outcomes)
+~~~
 
-    [K GUARD STRUCTURE + SCOOP]
-           |
-           v
-    (Is backside attachment available?)
-      |
-      +-- YES -> [BACKSIDE ENTRY] -> [BACKSIDE 50/50 HUB] -> (Inside HH / Reverse Aoki / Matrix/X-hook)
-      |
-      +-- NO  -> (Denied: knee opened / behind-knee hook unavailable)
-                 |
-                 v
-             [FRONTSIDE ENTRY]
-                 |
-                 v
-             [ANGLE CREATION]
-             (face same direction)
-                 |
-                 v
-             (Aoki / Outside HH / threat cycle / leg switch -> sweep)
+### 5.5 Heavy Base Availability Checks (Branch Only When “On”)
+~~~text
++--------------------------------------+
+| [HEAVY BASE / KNEE-LIFT STALL]       |
++--------------------------------------+
+| First: REBUILD MODE                  |
+| - knee shield -> space               |
+| - hip lift -> lever back             |
+| - scoop re-acquire (non-negotiable)  |
++-------------------+------------------+
+                    |
+                    v
+        +----------------------------------+
+        | Availability checks (do not force)|
+        +------------------+---------------+
+                           |
+                         {OR}
+            +--------------+--------------+
+            |                             |
+            v                             v
+   Post (hand) appears?             No post yet
+            |                             |
+          YES                             v
+            |                   Far-leg capture available?
+            v                             |
+ (OUTCOME) Back roll sweep              {OR}
+ - prerequisite: post exists     +--------+--------+
+ - key retention: carry knee     |                 |
+                                v                 v
+                       YES -> (OUTCOME) Saddle   NO -> go to upper-body trigger
+                       - transfer middle->far
+                       - hip lift + far-hip base
+~~~
 
-### 5.3 Entry Family Map (Volume 1 Connection Points → K Guard Structure)
-- Principle shared by all entries
-  - Rebuild to the same structural gates: scoop control, knee hidden behind elbow line, knees separated, secondary-leg barrier.
-- Entry families shown in transcript
-  - Seated: lower-body dominant path.
-  - Seated: upper-body bridge path when leg access is denied.
-  - Supine: low-leg retention path with asymmetric leg positioning to prevent two-hand control.
-  - Supine: lasso wedge rescue when the bottom-leg battle is lost.
-  - North-south: frame-to-space conversion into inside-foot insertion and rebuild.
-  - Reverse DLR: connection-based conversion that requires solving head distance so the bottom leg can be freed.
-
-    (Seated)                         (Supine)                               (Top pressure)
-      |                                |                                         |
-      v                                v                                         v
-    [Under-knee access]              [Asym legs: one up/one down]             [North-south frames]
-      |                                |                                         |
-      v                                v                                         v
-    [Butt-to-heel hip close]          (If grips lost) -> [Frame + break grips]   [Insert knee barrier]
-      |                                |                                         |
-      v                                v                                         v
-    [Extend to far hip line]          [Rebuild low-leg retention]                [Insert foot inside]
-      |                                |                                         |
-      v                                v                                         v
-    [Stop foot closing to hips]       [Re-acquire under-knee access]             [Rebuild to scoop]
-      |                                |                                         |
-      v                                v                                         v
-    [Scoop + secondary barrier]       (If bottom leg beaten) -> [Lasso wedge]    [K GUARD STRUCTURE]
-      |                                |                                         |
-      v                                v                                         v
-    [K GUARD STRUCTURE]               [Head/hip adjust -> re-enter structure]    [Route: backside/frontside]
-
-    (Reverse DLR)
-      |
-      v
-    [Maintain connection]
-      |
-      v
-    [Solve head distance -> free bottom leg]
-      |
-      v
-    [Extend to far hip + immediate scoop]
-      |
-      v
-    [K GUARD STRUCTURE] -> [Off-balance gate] -> [Route]
-
-### 5.4 Heavy Base Branch Map (When Knee-Off-The-Mat Does Not Open)
-- Trigger state
-  - Knee stays heavy/planted; opponent weight makes the primary knee-lift battle inefficient.
-- Required response
-  - Do not proceed with loose rotation; either rebuild structure to reopen the off-balance window, or branch to heavy-base solutions when defined conditions appear.
-- Defined heavy-base branches in transcript
-  - Back roll sweep requires the opponent to base with a hand; success depends on carrying the knee through the roll.
-  - Saddle branch is treated as an alternate entanglement path when far-leg capture becomes higher value than persisting on the same battle.
-
-    [OFF-BALANCE GATE]
-    (knee off mat?)
-      |
-      +-- YES -> proceed to routing and attack lanes
-      |
-      +-- NO / HEAVY
-            |
-            v
-      [STRUCTURE REBUILD MODE]
-        - knee shield to create distance
-        - hip lift to regain lever
-        - re-place blade-of-foot to ribs
-        - re-acquire scoop (do not attack without it)
-            |
-            v
-      (Does opponent post a hand?) -----------------------------+
-        | YES                                                   | NO
-        v                                                       v
-      [BACK ROLL SWEEP BRANCH]                              (stay in rebuild mode until gate opens)
-        - roll over shoulder
-        - carry the knee through the roll
-        - re-capture knee immediately to prevent opponent staying on top
-            |
-            v
-      (Top achieved) -> consolidate
-
-      (Alternate heavy-base branch)
-        - if far-leg capture becomes available and primary battle remains stalled
-        -> [SADDLE BRANCH] via control transfer (middle leg -> far leg) + hip lift + far-hip foot placement
-
+### 5.6 Upper-Body Overlay Trigger (Shotgun Armbar vs Triangle)
+~~~text
++-------------------------------------+
+| [UPPER-BODY OVERLAY TRIGGER]        |
++-------------------------------------+
+| Condition: lower-body progress stalls|
+| + defensive posts/frames expose arm/|
+| neck lines                          |
++-------------------+-----------------+
+                    |
+                  {OR}
+        +-----------+-----------+
+        |                       |
+        v                       v
+(OUTCOME) Shotgun Armbar   (OUTCOME) Triangle
+- isolate elbow line       - head control retained
+- wrist to armpit align    - angle creation gate
+- alignment before finish  - placement + gap removal
+~~~
 
 ## 6.0 DRILLING PROGRESSIONS
 
