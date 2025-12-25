@@ -1,2016 +1,2296 @@
-
-# Shotgun K Guard — Mateusz Szczeciński
+# Shotgun K Guard
 
 ## BIO CONTENTS
-- 0.0 EXECUTIVE SUMMARY
-- 1.0 INSTRUCTIONAL VOLUME CONTENT
-  - 1.1 Volume 1: Foundations, Principles, and Entries
-  - 1.2 Volume 2: Backside Attacks
-  - 1.3 Volume 3: Frontside Attacks
-  - 1.4 Volume 4: Upper-Body Attacks
-- 2.0 SYSTEM OVERVIEW
-- 3.0 CORE CONCEPTS
-- 4.0 TECHNIQUE LIBRARY
-- 5.0 DIAGRAM SET
-- 6.0 DRILLING PROGRESSIONS
-- 7.0 APPLICATION SCENARIOS
-- 8.0 FOUR-WEEK CURRICULUM
-- Annex A – Extracted Key Passages
-- Annex B – Terminology
-- Annex C – Additional Notes
-- Annex D – Master System Diagram (ASCII)
-- Annex E – Common Failure Patterns
 
-## 0.0 EXECUTIVE SUMMARY
+Instructor: Mateusz Szczecinski
 
-- K Guard is treated as an attack platform that requires structural “gates” before rotation-based offense is attempted.
-  - Primary gates repeatedly reinforced: off-balance to lift the knee off the mat; control connection (especially the scoop grip) to prevent leg stapling into half guard.
+Reader Guide: This BIO is ordered for linear reading; proceed top-to-bottom.
 
-- Knee-off-the-mat is the early decisive battle for reliable K Guard offense.
-  - If the knee stays planted/heavy, rotation and “going around” are delayed; space and off-balance are built first (including hip lift and knee-shield-style spacing when needed).
+- 1.0 MASTER SYSTEM MAP
+- 2.0 EXECUTIVE SUMMARY
+- 3.0 VOLUME INDEX
+  - 3.1 Volume 1 – Basics
+  - 3.2 Volume 2 – Backside
+  - 3.3 Volume 3 – Frontside
+  - 3.4 Volume 4 – Upperbody
+- 4.0 CORE CONCEPTS
+- 5.0 SYSTEM OVERVIEW
+- 6.0 TECHNIQUE LIBRARY
+- 7.0 DIAGRAM SET
+- 8.0 APPLICATION SCENARIOS
+- 9.0 DRILLING PROGRESSIONS
+- 10.0 FOUR-WEEK CURRICULUM
+- 11.0 FAILURE PATTERNS
+- 12.0 KEY PASSAGES
+- 13.0 TERMINOLOGY
+- 14.0 ADDITIONAL NOTES
+- 15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (optional)
 
-- Scoop grip is positioned as a non-negotiable control requirement.
-  - Loss of scoop is treated as an immediate threat of collapse (opponent grabs/staples the leg and forces half guard); grip recovery is prioritized before attacking.
+## 1.0 MASTER SYSTEM MAP
 
-- The system routes into two primary lanes based on opponent orientation and denial.
-  - Backside lane when the opponent turns away/runs and exposes backside access.
-  - Frontside lane when backside hooks are denied (knee opened/behind-knee hook not available), requiring a specific facing/angle solution.
+### 1.1 Legend / Conventions
 
-- Backside lane is hub-driven and reaction-tracking.
-  - Backside 50/50 is a central hub feeding inside heel hook work, with consolidation options when entanglement becomes mirrored (double 50/50).
-  - Common top reactions (backstep/high backstep) are treated as follow-triggers: maintain connection and arrive in the next best control rather than resetting.
+- [HUB] = positional/decision hub
+- (OUTCOME) = end state
+- {OR} = primary branch
+- A -> B = transition
+- Abbrev: LB = lower body, UB = upper body, NS = north-south, RDLR = reverse de la Riva
 
-- Backside lane includes secondary submission threats and back-exposure routes.
-  - Reverse Aoki variations are presented as complementary threats alongside the inside-heel-hook pathway.
-  - Matrix and X-hook sequences emphasize conditions: when the behind-knee hook/control is denied, forcing the entry is treated as low value and routing changes.
+### 1.2 How to Use This Map
 
-- Frontside lane is built around angle creation as the foundational requirement for outside leg locks.
-  - Correct facing (same-direction alignment) is treated as a prerequisite; off-balancing forward/backward is used to stop the opponent stepping heavy and killing the position.
-  - Aoki lock variations (including a belly-down completion pathway) and outside heel hook lines are chained from the aligned hub rather than treated as isolated moves.
+- Read top-to-bottom as the default study order: Entry context -> K-Guard build -> orientation gate -> attack hub -> outcome.
+- Use the “K-Guard build” node as the checklist: if attacks are failing, trace back to which build element is missing.
+- Use the “Backside/Frontside gate” as the routing decision: pick the track that preserves angle and prevents getting squared/flattened.
 
-- Threat cycling and branching are used to punish predictable defense.
-  - Combining submissions together is presented as hub retention + line switching rather than reset-and-reenter.
-  - Leg switch creates a dilemma: one branch improves the attacking line; one branch becomes a sweep when defense over-commits.
+### 1.3 Macro System Map — Entry -> Build -> Backside/Frontside -> Outcomes
 
-- The system explicitly links K Guard to broader positional outcomes and alternate hubs.
-  - Far side K transitions into reverse X guard mechanics and wrestle-up / sweep / back-take style outcomes while maintaining connection.
-  - Heavy-base situations are treated as branch points (including a saddle option on the far leg) rather than forcing the same primary battle indefinitely.
+[ENTRY CONTEXTS]
+  {OR} [SEATED]       [SUPINE]         [TOP]
+       Seated->K(LB)  Supine->K(LL)    NS->K
+       Seated->K(UB)  Supine->K(Lasso) RDLR->K
+           \              |              /
+            \             |             /
+             +------------+------------+
+                          |
+                          v
+                    [K-GUARD BUILD]
+      (Knee Off Mat) -> (Scoop Grip) -> (Grips)
+                      -> (Secondary Leg / Reverse Scoop)
+                      -> (Backside / Frontside Gate)
+                          |
+            +-------------+-------------+
+            |                           |
+            v                           v
+      [BACKSIDE HUB]               [FRONTSIDE HUB]
+  Backside Top/Bottom         Angle for Outside Leglocks
+  Backside 50/50              Aoki Lock (Inside/Belly Down/Outside)
+  Double 50/50                Outside Heel Hook (Inside/Outside)
+  Follow Backstep             Off-Balance (Forward/Backward)
+  Reverse Aoki (In/Out)       Combining Subs Together
+  High Backstep               Leg Switch (Dilemma/Sweep)
+  Matrix                      Far Side K
+  X-Hook Leg Drag             Backroll Sweep
+  X-Hook Backtake 1/2         Saddle
+            |                           |
+            +-------------+-------------+
+                          |
+                          v
+{OR} (LEGLOCK FINISH)  (SWEEP TO TOP)  (BACKTAKE)  [RE-ENTRY -> K-GUARD BUILD]
 
-- Upper-body attacks are layered as punishments for leg-defense reactions.
-  - Shotgun armbar is emphasized with hip lift + armpit/shoulder control and alignment-first finishing priorities (open elbow; correct finishing orientation before ripping grips).
-  - Triangle and sweep/lock branches are presented as reaction-driven options when arm and posture shapes make lower-body progression inefficient.
+### 1.4 Upperbody Branch Map — Attacks That Open From K-Guard Upperbody Connection
 
-## 1.0 INSTRUCTIONAL VOLUME CONTENT
+[K-GUARD BUILD]
+  -> [UPPERBODY HUB]
+        {OR} Shotgun Armbar (1/2/3) -> (SUBMISSION FINISH)
+             Triangle Setups -> Triangle Finish -> (SUBMISSION FINISH)
+             Mirlock -> (SUBMISSION FINISH)
+             Choibar -> (SUBMISSION FINISH)
+             Flower Sweep -> (SWEEP TO TOP)
+        {OR} [RE-ENTRY -> K-GUARD BUILD]  (SWEEP TO TOP)  (SUBMISSION FINISH)
 
-### 1.1 Volume 1: Foundations, Principles, and Entries
-Establishes the K Guard structure and prerequisites (knee-off-the-mat off-balancing and scoop-grip control) and builds primary entry families from seated, supine, north-south, and reverse DLR connections.
+## 2.0 EXECUTIVE SUMMARY
 
-### 1.2 Volume 2: Backside Attacks
-Routes into backside offense when the opponent turns away, using backside 50/50 as the main hub to develop inside heel hook threats, follow backstep variations, add reverse Aoki options, and connect to matrix/X-hook back exposure sequences.
+- K-Guard is treated as an open-guard attacking platform (primarily vs a kneeling opponent) designed to access lower-body submissions, upper-body submissions, sweeps, and back takes from one connected framework.
 
-### 1.3 Volume 3: Frontside Attacks
-Builds frontside offense when backside hooks are denied by prioritising angle creation (same-direction alignment) to run Aoki and outside heel hook lines, threat cycling and leg-switch dilemmas, plus sweep and alternate-structure branches (far side K/reverse X linkage, backroll sweep, saddle).
+- The build is defined by “knee off the mat” structure + a scoop-style control on the near leg as the stabilising control that prevents the opponent from easily forcing half guard and collapsing the position.
 
-### 1.4 Volume 4: Upper-Body Attacks
-Adds upper-body punishments that trigger off leg-defense reactions, centering on the shotgun armbar and branching to triangle setups/finishes and additional upper-body sweep/lock options.
+- Entry families feed the same build and checklist: seated entries (lower-body and upper-body), supine entries (low-leg and lasso-style routes), and top-facing entries (north-south to K) plus reverse de la Riva to K.
 
-## 2.0 SYSTEM OVERVIEW
+- The main routing decision is an orientation gate: {OR} backside track {OR} frontside track, chosen to preserve angle on the leg line and prevent getting squared/flattened while maintaining submission access.
 
-### 2.1 Primary Guard Identity (Base Shape)
-- Open guard platform most commonly demonstrated against a kneeling base, with the opponent’s weight and posture determining the initial entry mechanics.
-- Leg placement options are treated as two primary “frames” that can be blended:
-  - Legs on the hips (distance + load management).
-  - Legs on/near the armpit line (upper-body connection that supports rotation and upper-body threats).
-- The position is treated as inherently “leg-lock-adjacent,” with the opponent’s most immediate counter being to grab/staple the leg and force a collapse into half guard if control connections are missing.
+- Backside track concentrates around backside top/bottom control leading into 50/50 variants (including double 50/50) and continuation hubs that include following the backstep, high backstep routes, matrix, and X-hook pathways that connect leg attacks to back takes and positional advancement.
 
-### 2.2 Structural Gates (What Must Be True Before Offense)
-- Gate: Under-knee control connection (“scoop grip”)
-  - Mandatory to prevent the opponent from simply grabbing the leg and forcing half guard.
-  - If the scoop is not available immediately, upper-body control is used as a bridge until the scoop can be established.
-- Gate: Knee position relative to elbow (bottom-knee hiding rule)
-  - Bottom knee stays hidden behind the elbow line rather than flaring outside the elbow line.
-  - Exposed knee outside the elbow line is treated as an invitation for counters (dropping under, stuffing rotation, forcing passing pressure).
-- Gate: Knee separation (anti-collapse spacing rule)
-  - Knees are kept apart rather than pinched together, preserving hip mobility and preventing the opponent from collapsing the structure and disengaging/passing cleanly.
-- Gate: Second barrier concept (secondary-leg management)
-  - Secondary leg is treated as a required “barrier” that prevents the opponent from freely stepping in, stapling, or walking around the structure while the primary connection is being built.
+- Frontside track emphasises angle creation for outside-leg attacks, Aoki-style footlock variations, outside heel hook variations (inside/outside positioning), off-balance routes (forward/backward), and leg-switch dilemmas that reroute into stronger entanglements (including saddle) rather than forcing a stalled finish.
 
-### 2.3 First Battle (Knee-Off-The-Mat Off-Balance)
-- The first decisive battle is framed as getting the opponent’s knee off the mat before committing to rotation-based attacks.
-- Off-balancing method selection is reaction-based:
-  - If the opponent is upright enough to allow it, use lower-body pushing (blade-of-foot placement) paired with upper-body pulling to lift the knee.
-  - If the opponent is leaning in and the blade-of-foot cannot be placed correctly, use a knee shield to create space and then place the blade-of-foot on the ribs.
-  - Once blade-of-foot is placed, extend the working knee away from the chest to maintain structure and create a stable lever for off-balance.
-  - If the opponent uses a heavy base (combat-base-like posture), “going around” before winning the off-balance is treated as making the position weak; hip lift and knee-shield structure are used to re-create the off-balance window.
-- Off-balance is treated as permission to progress:
-  - Knee stays planted/heavy → build structure and off-balance first.
-  - Knee lifted/off-balanced → progress to side selection and attack lanes.
+- Continuation is prioritised over single-attempt finishing: when the opponent backsteps, rolls, or resists, the system prefers following and re-entangling to keep angle and control rather than accepting a reset to a worse guard.
 
-### 2.4 Routing Spine (Backside vs Frontside)
-- Routing is defined as a response to the opponent’s defensive choices rather than a fixed preference.
-- Backside lane is selected when the opponent’s reaction exposes backside access (turning/running away patterns that permit backside attachment and control progressions).
-- Frontside lane is selected when backside access is denied:
-  - The opponent opens the knee and prevents behind-knee hooks/attachments.
-  - The opponent’s stance/position makes backside entries structurally difficult or low value.
-  - The solution is to create a stronger angle for frontside attacks rather than forcing denied backside hooks.
+- Upper-body attacks appear as a branch when the opponent drives chest-to-chest or over-commits to upper-body pressure: shotgun armbar series, triangle setups/finish, mir lock, choi bar, and flower sweep function as punishments and alternative end states.
 
-### 2.5 Backside Lane (Core Hubs and Outcome Families)
-- Backside hub is centered on backside 50/50 as a primary control-and-attack node.
-- Primary submission family from the backside hub: inside heel hook development, with control-first priorities (stabilize the entanglement before chasing the finish).
-- Stabilization/transition option appears when entanglement becomes mirrored or contested: double 50/50 consolidation before re-attacking.
-- Reaction tracking is treated as mandatory:
-  - When the opponent uses backstep-style reactions to change geometry, the system prioritizes maintaining attachment and following the transition rather than losing contact and resetting.
-- Secondary submission threats in the same lane include reverse Aoki variations (inside/outside lines as complementary threats to the inside-heel-hook pathway).
-- Back exposure routes are explicitly tied into the lane:
-  - Matrix-style control is treated as condition-dependent; if the behind-knee hook is unavailable (only side-of-knee access), forcing the entry is treated as low value and routing changes.
-  - X-hook sequences connect to leg-dragging and backtake outcomes, emphasizing connection maintenance during build-up.
-
-### 2.6 Frontside Lane (Angle-First Outside Leg Lock Platform)
-- Frontside is built around a foundational alignment requirement for outside leg locks: facing the same direction as the opponent.
-- Angle creation is treated as the first action, not a detail added later:
-  - Hip switching (e.g., moving from one hip to the other) is used to achieve same-direction alignment.
-  - Grip structure supports angle creation by controlling the knee and ankle as the hips rotate.
-  - Excess tension in the non-driving leg is treated as a common limiter to rotation; relaxation is used to preserve mobility.
-- Once aligned, the lane’s primary threat families are layered from the same hub:
-  - Aoki lock variations (inside line, outside line, and a belly-down completion pathway when reactions open that finish).
-  - Outside heel hook lines (inside/outside variations as reaction-based alternates).
-- Off-balancing forward/backward is used to prevent the opponent from stepping heavy and collapsing the aligned structure.
-- Dilemma logic is emphasized:
-  - Threat cycling keeps the hub while changing the finishing line rather than resetting.
-  - Leg switch creates mutually reinforcing branches: improved submission line when space opens, sweep branch when defense over-commits.
-
-### 2.7 Upper-Body Overlay (Punishment Layer Tied to Leg-Defense Reactions)
-- Upper-body attacks are treated as direct responses when lower-body progression is structurally stalled (especially heavy base that prevents knee-off-the-mat progress).
-- Shotgun armbar is framed as a primary branch when the knee-lift battle cannot be won:
-  - Hip lift is used to create space rather than forcing rotation.
-  - Elbow exposure is a key checkpoint (creating an elbow line on/near the ribs to isolate).
-  - Wrist/hand orientation is treated as an alignment prerequisite for finishing (set the finishing alignment before ripping grips).
-- Triangle is presented as a branch when the armbar is not available:
-  - The leg configuration is built with knee/leg insertion into the armpit line and thigh positioned over the neck line.
-  - Angle creation is treated as a prerequisite to breaking grips and closing the triangle.
-  - Head control is treated as a key retention rule, preventing the opponent’s simplest escape route (lifting the head).
-- Additional upper-body outcomes (sweep/lock branches) appear as reactions to posts/frames that expose exploitable upper-body structure, without abandoning the lower-body connection that created the opportunity.
+- The end-state targets are consistent across branches: {OR} (LEGLOCK FINISH) {OR} (SWEEP TO TOP) {OR} (BACKTAKE), with a recurring reset option of [RE-ENTRY -> K-GUARD BUILD] when the opponent’s reactions deny immediate completion.
 
 
-## 3.0 CORE CONCEPTS
+## 3.0 VOLUME INDEX
 
-### 3.1 Structural Gates Before Rotation-Based Offense
-- Under-knee control connection is treated as mandatory for the guard to function.
-  - Without a control connection, the opponent can grab/staple the leg and force half guard; offense is delayed until control is re-established.
-  - If direct under-knee control is not available immediately, bridge via alternate control (including upper-body control) until the under-knee connection is acquired.
-- Bottom-knee hiding rule (knee behind elbow line).
-  - Bottom knee stays hidden behind the elbow rather than flared outside.
-  - Exposing the knee outside the elbow line is treated as a counter-trigger for the opponent (stuffing, countering, passing off your attempted rotation).
-- Knee separation rule (anti-collapse).
-  - Knees are kept apart rather than pinched together; pinching knees together is treated as giving the opponent an easy disengage/pass/collapse sequence.
-- Secondary-leg “barrier” is treated as a required stabiliser.
-  - Secondary leg is placed to prevent the opponent from freely stepping, reversing, or stapling while you build the primary attacking line.
-  - Secondary-leg placement is adjusted based on the opponent’s attempt to control your knee line (e.g., reverse scoop / strong knee grip scenarios).
+### 3.1 Volume 1 – Basics
+Foundational K-Guard structure and principles, including core build requirements (knee off mat, scoop grip, grip structure), backside/frontside orientation, and primary entry families from seated, supine, and top contexts.
 
-### 3.2 Knee-Off-The-Mat As the First Battle (Off-Balance Gate)
-- Progression is permission-based: knee planted/heavy delays the “go-around”; knee lifted/off-balanced enables it.
-- Off-balance tool selection depends on opponent posture and pressure.
-  - If upright enough: use lower-body pushing (blade-of-foot placement) paired with upper-body pulling to lift the knee.
-  - If leaning forward/heavy: use a knee-shield-style spacer to create enough distance to place the blade of the foot correctly, then re-initiate off-balance.
-  - When blade-of-foot is placed: extend the working knee away from the chest to preserve structure and maintain lever efficiency.
-- Heavy base is treated as a branch trigger rather than a “force harder” moment.
-  - If lifting the knee becomes unrealistic, branch to sweep/alternate-structure options that do not require winning the same knee-lift battle (e.g., back roll sweep requirements; saddle branch on the far leg).
+- Intro (0:00 - 0:35)
+- Basics - K Guard Overview (0:35 - 4:40)
+- K Guard Principles (4:40 - 11:50)
+- Knee Off The Mat (11:50 - 16:32)
+- Scoop Grip (16:32 - 19:59)
+- Grips (19:59 - 24:29)
+- Secondary Leg / Reverse Scoop Grip (24:29 - 27:22)
+- Backside / Frontside (27:22 - 29:46)
+- Backside Top (29:46 - 34:44)
+- Backside Bottom (34:44 - 40:05)
+- Frontside Top (40:05 - 43:57)
+- Frontside Bottom (43:57 - 49:00)
+- Seated To K Lower Body (49:00 - 53:31)
+- Seated To K Upper Body (53:31 - 58:43)
+- Supine Guard To K Low Leg (58:43 - 1:02:12)
+- Supine Guard To K Lasso (1:02:12 - 1:04:01)
+- North-South To K (1:04:01 - 1:05:43)
+- Reverse De La Riva To K (1:05:43 - 1:07:36)
 
-### 3.3 Under-Knee Grip Framework (Scoop / Reverse Scoop as Control Spine)
-- Under-knee “scoop” is framed as the primary anti-collapse control.
-  - It denies the opponent’s simplest answer (grabbing the leg and forcing half guard).
-  - It anchors your ability to keep the opponent’s knee line in a predictable place while you rotate or change hips.
-- Reverse scoop and secondary grip layers appear as answers to the opponent’s grip fight.
-  - When the opponent establishes a strong grip on your knee line (reverse scoop scenarios), the response includes:
-    - Moving hips back to regain extension and reduce their ability to staple.
-    - Extending the controlling knee away from the chest to re-establish the structural wedge.
-- Grip timing rule: control first, then progress.
-  - When the grip is contested, the priority is to stabilise the connection and win the positional gate before attempting to “go around” or chase a finish.
+### 3.2 Volume 2 – Backside
+Backside pathway emphasis: backside-centric leg entanglements and continuation routes including 50/50 variants, inside heel hook options, backstep-following logic, Aoki-style routes, and matrix/X-hook connections to back takes and positional advancement.
 
-### 3.4 Secondary-Leg Barrier Concept (Why It Exists and Where It Goes)
-- Secondary leg is treated as the second barrier that prevents easy countering while you build the attacking line.
-- Placement logic is conditional.
-  - When you are winning the knee battle: secondary leg can be placed to enable the go-around and route selection (backside/frontside).
-  - When you are losing the knee battle (opponent controls your knee / reverse scoop pressure): secondary leg placement shifts to protect structure and re-create space (including moving hips back and placing the foot inside rather than chasing an ideal hook).
-- Secondary leg is also a bridge to upper-body threats.
-  - When the opponent commits to controlling your knee line, an inside foot placement and hip retreat can create a safer frame from which you can re-insert the foot and transition to upper-body attacks (triangles are explicitly referenced as a follow-on option once the inside barrier is established).
+- Backside - Backside Intro (0:00 - 1:22)
+- Backside 50/50 (1:22 - 3:30)
+- Inside Heel Hook Backside (3:30 - 11:56)
+- Inside Heel Hook Frontside (11:56 - 16:46)
+- Inside Heel Hook Double 50/50 (16:46 - 21:05)
+- Following The Backstep (21:05 - 27:16)
+- Reverse Aoki Outside (27:16 - 32:53)
+- Reverse Aoki Inside (32:53 - 36:33)
+- High Backstep (36:33 - 40:28)
+- Matrix (40:28 - 44:05)
+- X Hook Leg Drag (44:05 - 50:00)
+- X Hook Backtake 1 (50:00 - 54:31)
+- X Hook Backtake 2 (54:31 - 58:18)
 
-### 3.5 Supine Guard Entry Principle (Preventing Early Two-Hand Control)
-- When playing on the back, pointing both legs in the same direction is treated as allowing easy double grips (two C-grips on both legs).
-- Default adjustment is asymmetry: one leg up, one leg down.
-  - This reduces the opponent’s ability to secure simultaneous control on both legs and supports recovery into a low-leg retention structure that can feed the K Guard entry.
-- If the opponent wins the early grip battle, the sequence includes:
-  - Use upper-body framing to break grips.
-  - Re-establish asymmetric leg positioning.
-  - Re-enter into the K Guard structure once under-knee access becomes available.
+### 3.3 Volume 3 – Frontside
+Frontside pathway emphasis: angle creation for outside-leg attacks, Aoki and outside heel hook variations, off-balance options, combination sequences, leg-switch dilemmas, and re-routing into far-side K, backroll sweeps, and saddle.
 
-### 3.6 Lasso as a Safety Wedge (When the Bottom Leg Battle Is Lost)
-- If the opponent wins the bottom-leg battle and compromises low-leg retention, lasso is used as an immediate safety structure.
-  - Frame first, insert lasso inside, regain safety, then rebuild entry alignment.
-- The lasso is not presented as the endpoint; it is a stabilising bridge.
-  - Once lasso is established, the next priority is restoring the attacking structure (re-creating the entry to K Guard or branching to other attacks if the position opens).
+- Frontside - Frontside Intro (0:00 - 1:38)
+- Angle For Outside Leg Locks (1:38 - 5:25)
+- Aoki Lock - Inside (5:25 - 12:03)
+- Aoki Lock - Belly Down (12:03 - 14:57)
+- Aoki Lock - Outside (14:57 - 21:24)
+- Off-Balance Forward (21:24 - 23:39)
+- Off-Balance Backward (23:39 - 27:04)
+- Outside Heel Hook Inside (27:04 - 32:46)
+- Outside Heel Hook Outside (32:46 - 37:37)
+- Combining Subs Together (37:37 - 39:59)
+- Leg Switch - Dilemma (39:59 - 43:28)
+- Leg Switch - Sweep (43:28 - 46:36)
+- Far Side K (46:36 - 49:04)
+- Backroll Sweep (49:04 - 51:06)
+- Saddle (51:06 - 57:03)
 
-### 3.7 Backside vs Frontside Routing (Selection by Denial and Orientation)
-- Route selection is treated as a response to opponent denial rather than a preference-based choice.
-- Backside route is supported when the opponent runs/turns away and exposes a backside orientation that allows progression to backside hubs (backside 50/50 is repeatedly treated as the central hub).
-- Frontside route becomes the default when backside access is denied.
-  - Denial signals include inability to reach/maintain the far-hip line and inability to secure behind-knee/matrix-style attachments.
-  - In denial scenarios, the priority becomes angle creation for frontside attacks rather than forcing a low-value backside entry.
+### 3.4 Volume 4 – Upperbody
+Upper-body branch from the K-Guard connection: arm and head attack families plus a sweep option, organised as a complementary route when upper-body engagement or pressure creates submission/sweep availability.
 
-### 3.8 Backstep Is a Central Reaction (Control Must Address It)
-- Backstep is treated as a primary opponent reaction that can defeat careless entanglement progressions.
-- Preventive concept appears: chest-to-mat/extension logic.
-  - When the opponent can backstep out, the response includes turning the chest toward the mat and extending the lower body to reduce the opponent’s ability to freely change geometry.
-- Follow concept appears: anticipate and move with the backstep.
-  - When the backstep is felt/initiated, the response includes opening the knee, using the same control idea, and following the rotation rather than resetting.
-  - Momentum usage is explicitly referenced in the follow sequence (building to elbow, lifting hips, inserting the foot inside to arrive in a stable continuation position).
-
-### 3.9 Heavy-Base Branching (Back Roll Sweep and Saddle as Explicit Alternatives)
-- Back roll sweep is explicitly tied to a prerequisite condition: the opponent must base with an arm.
-  - When lifting the knee is not possible and the opponent posts, roll over the right shoulder and carry the knee through the roll.
-  - Key retention cue: “take the knee with you” to prevent the opponent winning the post-roll battle and staying on top.
-- Saddle is explicitly tied to a specific heavy-base scenario: the opponent is very heavy on the middle leg.
-  - The solution involves switching the under-knee control from the middle leg to the far leg (control transfer as the core mechanic).
-  - Hip-lift is used to clear the original K Guard leg so the far leg can be captured cleanly.
-  - Base placement is treated as critical (including attention to foot placement on the far hip to prevent the opponent smashing the saddle).
-
-### 3.10 Upper-Body Punishment Principle (Precision and Alignment Over Speed)
-- Upper-body attacks are framed as direct punishments for leg-defense reactions that stall lower-body progress.
-- Armbar alignment principle (thumb orientation rule).
-  - Precision is treated as mandatory: if finishing alignment is wrong, the opponent can rotate the elbow line and escape.
-  - Thumb orientation is treated as the simple check that determines whether the elbow will be able to turn out and survive.
-- Triangle retention principle (head control + knee pit placement).
-  - Knee pit must hook the neck line; small placement errors materially reduce finishing ability.
-  - Head control is treated as a retention rule because lifting the head is identified as a primary escape route.
-  - Angle creation is treated as a finishing prerequisite: grab your own shin, step on the hip, then choose an arm position (under armpit as lower risk vs under leg as higher angle but higher smash-pass risk).
-  - Finish mechanics include: leg over shoulder line, knees pointed to the same side, and removing the gap by correct knee/heel action rather than squeezing from a loose triangle.
+- Upperbody - Upperbody Introduction (0:00 - 1:14)
+- Shotgun Armbar (1:14 - 7:55)
+- Shotgun Armbar 2 (7:55 - 10:46)
+- Shotgun Armbar 3 (10:46 - 14:14)
+- Flower Sweep (14:14 - 16:28)
+- Mirlock (16:28 - 21:05)
+- Triangle Set Ups (21:05 - 24:27)
+- Triangle Finish (24:27 - 28:09)
+- Choibar (28:09 - 33:22)
 
 
-## 4.0 TECHNIQUE LIBRARY
+## 4.0 CORE CONCEPTS
 
-### 4.1 Volume 1 — K Guard Foundations and Entries (Structure, Grips, Routes)
+### 4.1 System Purpose and Default Environment
 
-#### 4.1.1 K Guard Structural Gates (Non-Negotiables)
-- Entry conditions
-  - You are building K Guard from seated, supine, north-south, or reverse DLR conversion.
+- K-guard is treated as an attacking open-guard framework that is most stable and most “complete” against a kneeling/combat-base opponent.
+  - The position is designed to keep simultaneous access to:
+    - Lower-body attacks (leg entanglements and leglocks).
+    - Positional outcomes (sweeps to top, back exposure/back takes).
+    - Upper-body attacks when the opponent’s pressure/engagement exposes the arm/head.
+
+- Primary “system promise”: one connected guard structure that can attack multiple limbs without needing a full positional reset between families.
+  - When one route is denied (angle/hip line blocked), the system routes to a different hub (backside/frontside/upper-body) rather than abandoning K-guard.
+
+### 4.2 The K-Guard “Build” as a Non-Negotiable Checklist
+
+- Core build idea: the guard is not “just a leg configuration”; it is a set of structural conditions that must be satisfied to prevent the opponent forcing half guard or collapsing chest-to-chest.
+  - The build is repeatedly framed as a “battle” to maintain the structure before attempting major attacks.
+
+- Knee-off-the-mat concept (structural prerequisite, not a stylistic preference).
+  - If the opponent is able to pin/hold the guard-player’s knee and load weight, they can:
+    - Lift and collapse the guard-player’s structure.
+    - Reduce off-balancing capacity.
+    - Create a pathway to forcing half guard / flattening.
+  - A major early objective is to off-balance and/or shift the opponent so their knee/stance is disrupted and the guard-player’s structure can be re-established.
+
+- Hidden-knee / elbow-shield alignment concept.
+  - A recurring structural cue: keep the bottom knee “hidden” behind the elbow line so the opponent cannot easily win inside position and begin counter-passing.
+  - The elbow line and knee position are treated as mutually reinforcing: if the knee is exposed, the opponent can connect to it and start collapsing the guard.
+
+- “Do not put knees to the mat” principle inside K-guard exchanges.
+  - The guard-player avoids configurations where both knees are dropped and the opponent can disengage, pin, or initiate passing pressure off the guard’s collapse.
+
+### 4.3 Scoop Grip as Primary Control and Anti-Collapse Mechanism
+
+- Scoop grip is treated as a primary stabilising control that prevents easy forced half guard.
+  - Loss of the scoop grip (or leaving the controlling hand “empty”) is framed as a common pathway for the opponent to grab/connect and drive the guard-player into half guard.
+
+- Scoop grip is not isolated from structure.
+  - It is linked to:
+    - Knee-off-the-mat battle.
+    - Elbow/knee alignment.
+    - Off-balancing actions that create time to secure the scoop and build secondary controls.
+
+- If scoop grip is not immediately available, the system uses intermediate off-balancing/hand-fighting style actions to create access to the scoop rather than conceding the guard collapse.
+
+### 4.4 Grip Layering and Hand Allocation as a System Constraint
+
+- Grip selection is treated as a strategic layer, not a minor detail.
+  - The guard-player aims to maintain “meaningful” hand use at all times (controlling the leg line, denying easy collapse, or progressing an attack).
+  - An “empty hand” state is repeatedly associated with the opponent being able to connect, grab, and collapse structure.
+
+- Grips are paired with the structural build.
+  - The system treats grips as valid only if the underlying structure is intact (knee-off-mat, alignment, angle).
+  - When structure degrades, the priority becomes rebuilding structure before forcing a finish.
+
+### 4.5 Secondary Leg and Reverse Scoop as the Second Layer of Control
+
+- Secondary leg control is a distinct concept from the scoop grip.
+  - It is used to:
+    - Maintain spacing and angle.
+    - Prevent the opponent from freely stepping out, squaring, or disengaging.
+    - Create a second control point so the opponent cannot solve the position by addressing only the primary scoop.
+
+- Reverse scoop (as a secondary-leg concept) functions as a re-grip/angle-preservation tool.
+  - It supports rerouting when the opponent’s alignment changes and the original grip angle becomes weaker.
+
+- The system repeatedly treats secondary-leg control as a “guard integrity” tool: if the opponent starts to win the positional battle (squaring, driving, controlling), secondary-leg positioning is used to recover angle and rebuild the K-guard attack line.
+
+### 4.6 Backside vs Frontside as a Routing Gate (Not Two Separate Guards)
+
+- Backside/frontside is framed as the main routing decision that determines which hub is available and which attacks are mechanically aligned.
+  - The guard-player chooses the track that preserves a strong angle to the leg line and avoids getting squared.
+
+- Backside track: control and angle that supports 50/50 variants and continuation routes.
+  - Central hubs include backside top/bottom orientation and 50/50-based control paths (including double 50/50).
+  - The system treats following the opponent’s backstep as a continuation requirement rather than a “nice-to-have.”
+
+- Frontside track: angle creation when backside access is denied or when the opponent’s positioning makes backside hubs less available.
+  - The guard-player creates a frontside angle rather than forcing backside pathways that the opponent’s alignment is actively denying.
+  - Frontside is strongly connected to outside-leg attack alignment and leg-switch reroutes.
+
+### 4.7 Angle Management as the “Hidden” Driver of Success Across Both Tracks
+
+- The transcript repeatedly frames success as “having the right angle,” not simply having a leg entanglement label.
+  - Angle is treated as a practical constraint: if the angle collapses, entries and finishes degrade, and the opponent’s escapes/backsteps become easier.
+
+- Hip-side commitment (staying on a chosen hip line) is used as a way to preserve the angle and prevent the opponent from stepping the trapped leg to the mat.
+  - The system uses hip positioning and leg framing to deny the opponent an easy base, which supports both off-balancing and finishing alignment.
+
+- When the opponent denies one angle, the system prefers rerouting (frontside/backside/leg-switch) over forcing a low-percentage finish.
+
+### 4.8 Continuation Priority: “Follow” Reactions Instead of Resetting
+
+- Backstep-following concept (especially emphasized in backside work).
+  - If the opponent backsteps to relieve pressure or deny exposure, the system aims to follow and keep connection rather than letting the opponent fully disengage.
+
+- Roll-following logic appears as a continuation mechanism to preserve angle and keep the attack sequence connected.
+
+- Re-entanglement is treated as a legitimate system outcome.
+  - If the opponent’s defence denies immediate finishing, the system routes back to a hub (backside hub / frontside hub / K-guard build) rather than abandoning to a neutral state.
+
+### 4.9 Dilemma Stacking: Using One Threat to Force the Next
+
+- Lower-body dilemma concept: the system connects footlock/heel-hook style threats to force predictable defensive reactions that open:
+  - A different finishing alignment.
+  - A sweep/backtake.
+  - A safer re-entanglement route.
+
+- “Combining subs together” is framed as a deliberate strategy (not improvisation).
+  - The guard-player uses the opponent’s defensive sequence to move between aligned threats rather than repeatedly attempting the same finish.
+
+- Leg-switch dilemmas are treated as systematic reroutes.
+  - If the opponent denies the primary leg line, the system switches and re-routes into a stronger attack hub rather than staying stuck on a denied line.
+
+### 4.10 Upper-Body Attacks as a Conditional Branch (Triggered by Resistance/Pressure)
+
+- Upper-body attack access is framed as conditional: it appears when the opponent’s upper-body pressure/engagement creates exposures while trying to resist the lower-body system.
+  - The upper-body branch is not framed as “separate”; it is presented as another limb-attack family that connects to the same guard structure.
+
+- Arm isolation precision concept (shotgun armbar family).
+  - The transcript emphasises precision on the elbow/wrist line and a clear thumb/hand orientation concept as part of making the armlock mechanically “clean.”
+  - The armpit connection is treated as a control point that limits the opponent’s ability to escape once the arm is opened.
+
+- Triangle and related attacks are treated as follow-on options within the same upper-body branch.
+  - Upper-body attacks include multiple submissions and a sweep option that punishes defensive posture and creates a top end state.
+
+### 4.11 Consistent End States and the “Return to Build” Option
+
+- The system repeatedly resolves to a stable set of outcomes:
+  - (LEGLOCK FINISH)
+  - (SWEEP TO TOP)
+  - (BACKTAKE)
+  - [RE-ENTRY -> K-GUARD BUILD] when the opponent’s reaction denies immediate completion
+
+- “Return to build” is treated as a valid decision.
+  - Rather than forcing low-percentage completions when alignment is lost, the system prioritises rebuilding structural conditions and re-opening the routing gate (backside/frontside/upper-body).
+
+
+## 5.0 SYSTEM OVERVIEW
+
+### 5.1 System Spine (What Must Stay True Regardless of Branch)
+
+- Primary objective: use K-guard structure to keep continuous access to (a) leglock entries/finishes, (b) sweeps, (c) back takes, with a rebuild option when the opponent denies the immediate line.
+- System continuity rule: when the opponent’s reaction denies the current attack angle (backstep, pressure-in, leg withdrawal, squaring), the priority is to maintain connection and reroute (backside/frontside/upper-body) rather than fully disengage.
+- End-state set (recurring resolution targets)
+  - (LEGLOCK FINISH)
+  - (SWEEP TO TOP)
+  - (BACKTAKE)
+  - [RE-ENTRY -> K-GUARD BUILD] when alignment/control is degraded
+
+### 5.2 Entry Families Into K-Guard (Where the System Starts)
+
+- Seated entries
+  - Seated -> K (lower-body emphasis): access the leg line and establish scoop/secondary control early so the opponent cannot immediately square and collapse.
+  - Seated -> K (upper-body emphasis): use the same structural build but prioritise upper-body connection when the opponent’s base/pressure makes arm/head exposure likely.
+- Supine entries
+  - Supine -> K (low-leg): build directly onto the leg line when the opponent’s leg is accessible without needing a high upper-body tie.
+  - Supine -> K (lasso-style): use a higher wrapping/anchoring configuration to create time/angle for the scoop and secondary leg placement.
+- Top-facing entries (opponent over-commits forward / ends up above the hips)
+  - North-south -> K: convert top pressure alignment into a K-guard connection rather than accepting a pinned/flattened configuration.
+  - Reverse de la Riva -> K: use outside-leg framing to rotate into K-guard while keeping an angle that prevents immediate squaring.
+
+### 5.3 K-Guard Build Requirements (The “Structural Gate” Before Attacking)
+
+- Knee-off-the-mat requirement
+  - The opponent’s ability to grab/pin the knee is treated as a primary collapse threat: if the knee is controlled, the opponent can lift, compress, and force a degraded position (including forced half-guard-type outcomes).
+  - Practical consequence: if the opponent is controlling the knee, the system prioritises off-balancing and re-structuring before committing to deeper attacks.
+- Scoop grip as a primary stabiliser
+  - Scoop control on the leg functions as an anti-collapse anchor: losing it (or leaving the hand “unused”) allows the opponent to connect, square, and drive.
+  - Scoop control is treated as “positional control first, submission second”: finishes and entanglements are layered after the leg is reliably controlled.
+- Grip layer (hand allocation constraint)
+  - Grip choice is treated as a constraint system: hands should either control the leg line, build the next control layer, or deny opponent connection; “empty” hands correlate with the opponent winning the collapse battle.
+- Secondary leg / reverse scoop layer (second control point)
+  - Secondary leg positioning is used to preserve angle, deny the opponent stepping out/squaring, and create a second problem so defence cannot be solved by addressing only the scoop.
+  - Reverse scoop functions as a re-grip/angle-preservation tool when the opponent’s alignment changes and the initial scoop angle weakens.
+
+### 5.4 Orientation Gate: Backside vs Frontside (Routing Logic)
+
+- Backside/frontside is treated as a routing gate, not two unrelated guards.
+  - Selection is driven by angle on the leg line and the opponent’s hip line (what remains available without getting squared/flattened).
+- Backside track overview
+  - Primary hub: backside top/bottom alignment that feeds 50/50-family entanglements and continuation routes.
+  - Key continuity principle: opponent backstep is treated as a predictable reaction; following the backstep preserves the angle and keeps attacks connected.
+- Frontside track overview
+  - Primary hub: angle creation for outside-leg attacks and off-balancing routes when backside alignment is denied.
+  - Leg-switch logic appears as a deliberate reroute mechanism to recover a better angle/entanglement rather than forcing a stalled line.
+
+### 5.5 Backside Subsystem (Key Hubs and Connections)
+
+- Backside hub components (as recurring “stations”)
+  - Backside 50/50 and double 50/50 as entanglement hubs for inside heel hook access and re-attacks.
+  - Follow-the-backstep as a continuity hub (maintain connection through the opponent’s attempt to change orientation).
+  - Reverse Aoki routes (inside/outside) as finishing/pressure options connected to backside alignment.
+  - High backstep as a specific continuation branch when the opponent’s backstep creates a new angle window.
+  - Matrix as a transitional hub linking leg control to off-balancing/back exposure.
+  - X-hook routes linking leg drag and backtakes as outcomes from backside control.
+- Backside outcome routing
+  - If finishing alignment is strong: pursue (LEGLOCK FINISH).
+  - If opponent posture/base shifts to defend: convert to (SWEEP TO TOP) or (BACKTAKE) through matrix/X-hook branches.
+  - If opponent escapes the current line but connection remains: [RE-ENTANGLE -> BACKSIDE HUB].
+
+### 5.6 Frontside Subsystem (Key Hubs and Connections)
+
+- Angle-for-outside-leglocks is treated as the frontside “entry gate”
+  - The system prioritises creating/keeping the correct angle before committing to outside heel hook or Aoki-style finishes.
+- Aoki lock variation set (inside / belly-down / outside) as a structured family
+  - Variations are treated as response-driven: angle and opponent reaction determine which alignment is available without losing control.
+- Off-balance branches
+  - Forward and backward off-balancing function as outcome routes when the opponent’s defence denies clean finishing, converting leg control into top position.
+- Outside heel hook variation set (inside vs outside alignment)
+  - Selection is constrained by angle and exposure: choose the alignment that preserves control without allowing the opponent to freely square or peel.
+- Combining submissions + leg-switch dilemmas
+  - The system uses one threat to force predictable defensive reactions that open a second threat or a reroute.
+  - Leg switch branches function as “angle recovery”: if the opponent denies the current leg line, switch and re-route into a better hub rather than persisting.
+- Frontside transition hubs
+  - Far-side K and backroll sweep as positional conversions when the opponent’s balance is compromised.
+  - Saddle as a reroute hub when the leg-switch/angle battle produces a saddle-access window.
+
+### 5.7 Upper-Body Subsystem (Conditional Branch From K-Guard Connection)
+
+- Trigger condition
+  - Upper-body attacks open when the opponent commits chest-to-chest pressure or over-engages upper-body control while defending lower-body threats.
+- Upper-body hub attack families
+  - Shotgun armbar series as the primary arm-isolation family.
+  - Triangle setups -> triangle finish as the head/arm family when posture/arm position allows.
+  - Mir lock as a shoulder-lock family available from the same upper-body connection window.
+  - Choi bar as an armlock family accessed from the upper-body branch.
+  - Flower sweep as the positional conversion option when submission completion is denied but the opponent’s base is compromised.
+- Upper-body outcome routing
+  - If limb/head exposure is clean: (SUBMISSION FINISH).
+  - If opponent defends by posture/base reaction: (SWEEP TO TOP) or [RE-ENTRY -> K-GUARD BUILD] to re-open the lower-body tracks.
+
+### 5.8 System Resets and Rebuild Triggers (When to Return to Build)
+
+- Return-to-build is treated as a valid decision whenever one of the following occurs:
+  - Knee control is being pinned/grabbed and structure is collapsing.
+  - The scoop/secondary layer is lost and the opponent is squaring into a pressure pass line.
+  - Angle is lost (squared hips) and finishing attempts would require forcing.
+- Rebuild priorities (order of operations)
+  - Re-establish knee-off-the-mat structure.
+  - Re-secure scoop control (or re-angle to regain it).
+  - Re-layer secondary leg / reverse scoop to lock the angle.
+  - Re-open the routing gate (backside vs frontside vs upper-body) based on the opponent’s current alignment.
+
+
+## 6.0 TECHNIQUE LIBRAR
+
+### 6.1 Volume 1 – Basics
+
+#### 6.1.1 K-Guard Build Checklist (Non-Negotiables)
+
+- Entry condition(s)
+  - You have established a K-guard shape or are in the process of building it from seated/supine/top contexts.
 - Primary controls
-  - Under-knee control via scoop grip (primary connection).
-  - Secondary leg used as an active barrier.
-- Structure rules (acceptance criteria)
-  - Bottom knee stays behind the elbow line (knee-hide rule).
-  - Knees stay separated (no knee pinch).
-  - Secondary leg remains active as a barrier (prevents step-in/staple while building).
-- Opponent main counters (as framed)
-  - Step closer to collapse/staple into half guard.
-  - Two-hand control on both legs (especially vs poor supine alignment).
+  - Scoop grip on the near leg is treated as the primary anti-collapse control.
+  - Secondary leg placement is layered to preserve angle and prevent the opponent stepping/squaring.
+- Structure rules / acceptance criteria
+  - Knee-off-the-mat is treated as a core structural requirement.
+  - Bottom knee position must be protected (explicit cue given that the knee sits “behind the elbow” as a protective alignment).
+  - Avoid “empty hand” states where the opponent can easily connect to your leg and force you into half guard.
+- Opponent main counters (as described)
+  - Forcing you into half guard when you do not have the scoop grip / are not holding anything meaningful.
+  - Connecting to/grabbing the knee and lifting/collapsing the position.
+  - Squaring into you (winning the angle battle) to begin passing off your attack.
 - Primary continuations
-  - Only after scoop + structure gates are satisfied: off-balance gate work (knee-off-mat) and routing.
+  - If you cannot immediately secure the scoop grip: use off-balancing actions to create access, then re-secure scoop.
+  - Layer secondary leg to lock the angle, then route to backside or frontside based on the orientation gate.
 - Abort criteria
-  - If scoop is not present or structure gates fail: pause offense, rebuild structure, re-acquire scoop.
+  - If the opponent is controlling your knee to the point the structure is being lifted/collapsed, prioritise rebuilding structure rather than forcing attacks.
 - Common failure patterns + correction cues
-  - Attacking without scoop -> immediate scoop recovery priority.
-  - Knee flares outside elbow -> reset to knee-hide rule.
-  - Knees pinch -> reset to separation.
-  - Barrier leg passive -> re-place barrier before progressing.
+  - Failure: right/controlling hand is not holding anything -> opponent easily forces half guard.
+    - Correction cue: prioritise scoop grip; if not available, off-balance to create it, then re-grip.
+  - Failure: bottom knee exposed/open -> opponent times counters and starts passing off your attack.
+    - Correction cue: keep knee “behind the elbow” alignment.
 - End state
-  - Stable K Guard structure with scoop + barrier + mobility preserved.
+  - A stable K-guard build that can route into backside/frontside attacks or upper-body branch when available.
 
-#### 4.1.2 Off-Balance Gate: “Knee Off The Mat” (Permission To Rotate)
-- Entry conditions
-  - K Guard structure built with scoop and barrier leg functioning.
+#### 6.1.2 Scoop Grip (Anti Half-Guard Collapse Anchor)
+
+- Entry condition(s)
+  - You are in K-guard or transitioning into it and the opponent’s near leg is reachable.
 - Primary controls
-  - Blade-of-foot placement to ribs when available.
-  - Push/pull coordination (lower body push paired with upper body pull).
-- Structure rules
-  - Do not rotate “around” while the knee is still planted/heavy.
-  - Extend working knee away from chest to preserve lever and prevent collapse.
-- Opponent main counters
-  - Lean forward (denies clean blade-of-foot placement).
-  - Combat base / heavy posture (makes “go around” structurally weak).
+  - Scoop grip on the opponent’s leg (explicitly required in no-gi when you otherwise have “no grip” with the controlling hand).
+- Structure rules / acceptance criteria
+  - Scoop grip is framed as the control that prevents the opponent from simply grabbing/connecting and forcing you into half guard.
+  - The scoop grip is treated as a first-order requirement before trying to run deeper attacks.
+- Opponent main counters (as described)
+  - If you do not have the scoop grip: opponent can “grab the leg” and force you into half guard.
 - Primary continuations
-  - Once knee is lifted/off-balanced: route to backside or frontside lane.
+  - If you cannot grab it immediately: use “some kind of off-balance” to create the access window, then secure the scoop.
 - Abort criteria
-  - If blade-of-foot placement is denied by posture: insert knee shield to create space, then re-place.
-  - If heavy base persists: shift to rebuild mode or conditional branches (post-based sweep / saddle / upper-body overlay).
+  - If the scoop grip is lost and the opponent is already collapsing you into half guard, prioritise re-framing/rebuilding rather than forcing the finish.
 - Common failure patterns + correction cues
-  - Forcing rotation under heavy knee -> treat as error; rebuild off-balance first.
+  - Failure: not holding anything with the controlling hand.
+    - Correction cue: “need that scoop grip here.”
 - End state
-  - Opponent’s knee lifted/off-balanced, creating a safe window to route and progress.
+  - Opponent’s near leg is anchored so you can build knee-off-mat structure and add secondary controls.
 
-#### 4.1.3 Scoop Grip (Under-Knee Control) and Reverse Scoop (Secondary Control Layer)
-- Entry conditions
-  - You are arriving into K Guard or re-stabilizing after grip fighting.
+#### 6.1.3 Bottom Knee “Behind the Elbow” Alignment (Anti-Counter / Anti-Pass Cue)
+
+- Entry condition(s)
+  - You are in K-guard structure with scoop or while securing scoop.
 - Primary controls
-  - Scoop grip (under-knee connection) as the primary anchor.
-  - Reverse scoop / secondary leg control as described for stability and follow-ups.
-- Structure rules
-  - “No K Guard without scoop” is treated as a hard rule.
-- Opponent main counters
-  - Grabbing/stapling your leg to force half guard.
+  - Positional alignment of your bottom knee relative to your elbow line.
+- Structure rules / acceptance criteria
+  - The “main detail” is the position of the bottom leg; explicit cue: bottom knee sits behind your elbow.
+  - If you keep it open/exposed, opponent can time counters and try to pass off your attack.
+- Opponent main counters (as described)
+  - Timing the exposure to counter and initiate passing.
 - Primary continuations
-  - With scoop established: off-balance gate -> routing -> hub.
+  - Rebuild knee-behind-elbow alignment before progressing to backside/frontside routing.
 - Abort criteria
-  - If scoop is lost: recover scoop before attempting offense.
+  - If your knee is being pinned/controlled while exposed, treat it as a structural loss and rebuild.
 - Common failure patterns + correction cues
-  - Continuing offense while “holding nothing” -> immediate scoop recovery priority.
+  - Failure: knee open/exposed (not behind elbow) -> opponent counters/passes.
+    - Correction cue: return knee behind elbow; reframe before attacking.
 - End state
-  - Under-knee control restored and structure stabilized.
+  - Protected knee line that supports stable K-guard build and prevents easy counter-passing.
 
-#### 4.1.4 Seated to K Guard (Lower-Body Entry)
-- Entry conditions
-  - Seated guard with access to opponent’s leg line.
+#### 6.1.4 Knee Off The Mat Battle (Off-Balance First)
+
+- Entry condition(s)
+  - Opponent is kneeling/combat base and your K-guard structure is being contested.
 - Primary controls
-  - Transition to under-knee access and scoop control.
-- Structure rules
-  - Prevent opponent’s foot/ankle from closing toward your hips as they step in.
-- Opponent main counters
-  - Step-in collapse toward half guard.
+  - Off-balancing actions designed to lift/disrupt the opponent’s knee from the mat.
+- Structure rules / acceptance criteria
+  - The “first battle” is framed as getting the opponent’s knee off the mat.
+  - The concept is framed as prior to “any type of off balance” being meaningful; off-balance is used to win the knee-off-mat battle.
+- Opponent main counters (as described)
+  - Grabbing your knee and lifting/collapsing you.
+  - Staying heavy/stable so you cannot get their knee off the mat.
 - Primary continuations
-  - Rebuild K Guard structure gates -> off-balance gate.
+  - Use blade-of-foot + upper-body pull to create the knee-off-mat effect (explicitly stated as a method).
+  - If you cannot create it from the current configuration, switch to knee-shield framing to re-establish leverage.
 - Abort criteria
-  - If step-in collapse begins before scoop is set: knee-to-chest + block foot/ankle + re-acquire scoop.
+  - If you cannot off-balance enough to get the knee off the mat from your current configuration, switch to the described structural alternative (knee shield) rather than forcing.
 - Common failure patterns + correction cues
-  - Allowing step-in before scoop -> address distance and block the step.
+  - Failure: trying to “attack” before winning the knee-off-mat battle -> opponent grabs knee and lifts/collapses.
+    - Correction cue: treat knee-off-mat as the first objective; off-balance first.
 - End state
-  - K Guard structure established from seated entry.
+  - Opponent’s base is disrupted; K-guard build becomes stable enough to progress to grips/secondary leg/routing.
 
-#### 4.1.5 Seated to K Guard (Upper-Body Bridge Entry)
-- Entry conditions
-  - Seated guard where lower-body access is denied and upper-body control becomes the bridge.
+#### 6.1.5 Secondary Leg Placement (Angle Lock + Routing Enabler)
+
+- Entry condition(s)
+  - You have primary control (scoop) and have placed the opponent’s knee on your chest (or have comparable connection).
 - Primary controls
-  - Upper-body connection used to create space and return to under-knee access.
-- Structure rules
-  - Upper-body work is used to re-open leg access; do not treat it as a separate system endpoint.
-- Opponent main counters
-  - Upper-body frames that prevent leg access and stop rotation.
+  - Secondary leg placed “on” the opponent (described as a consistent next step).
+- Structure rules / acceptance criteria
+  - “Every time I’m doing this, I want to put my secondary leg on …”
+  - Secondary leg placement is directly linked to enabling routing: “You can either go for backside attacks or frontside attacks.”
+- Opponent main counters (as described)
+  - Using a “reverse …” (reverse scoop-type) response to win inside position and prevent you from placing your foot back on the thigh (described as a losing-battle scenario).
 - Primary continuations
-  - Re-acquire scoop -> rebuild K Guard structure -> off-balance gate.
+  - If you can place the secondary leg successfully: opponent cannot use the described reverse response in the same way; routing opens.
+  - If you are losing the battle (cannot place foot back on thigh): control the opponent’s knee as the corrective action.
 - Abort criteria
-  - If upper-body connection does not produce leg access: return to structure rebuild and re-enter.
+  - If you cannot re-place your foot/secondary leg and the opponent is winning the inside battle, prioritise the knee-control correction.
 - Common failure patterns + correction cues
-  - Staying stuck in upper-body tie without rebuilding scoop -> treat as incomplete; return to scoop.
+  - Failure: opponent wins inside and you cannot put your foot back on the thigh.
+    - Correction cue: control the knee to prevent them easily putting the knee outside and going around to pass.
 - End state
-  - Leg access restored and K Guard structure rebuilt.
+  - Angle is preserved and you can route into backside/frontside hubs without getting squared/collapsed.
 
-#### 4.1.6 Supine Guard to K Guard (Low-Leg Entry + Asymmetry Principle)
-- Entry conditions
-  - Supine open guard where opponent is grip-fighting for leg control.
+#### 6.1.6 Seated -> K-Guard (Lower Body Grips Entry)
+
+- Entry condition(s)
+  - You are seated and engaged in hand fighting, and you can connect under/around the opponent’s near leg.
 - Primary controls
-  - Asymmetry: one leg up / one leg down (prevents easy two-hand control on both legs).
-  - Frames and grip breaks as needed to re-open entry.
-- Structure rules
-  - Do not point both legs the same way early (invites double grips).
-- Opponent main counters
-  - Two-hand control on both legs leading to retention collapse.
+  - Priority cue: be “below the knee” (explicitly stated as the target region) so the opponent sitting on your hand is not structurally decisive.
+  - Connection to the heel + hip movement (“bring my butt closer to that heel”) is used to initiate the K-guard shot.
+  - A posting/controlling hand is used to stop the opponent’s foot from coming closer to your hips (explicitly described).
+- Structure rules / acceptance criteria
+  - Do not accept the opponent forcing you into half guard or reverse de la Riva during the entry (explicitly warned as a risk if they come closer).
+  - Entry includes a hip-connection step: opening the heel and bringing hips/butt closer before shooting K-guard.
+- Opponent main counters (as described)
+  - Opponent stepping/coming closer to force half guard or reverse de la Riva.
+  - Opponent sitting on your hand after you bend the leg (explicitly described as “okay” if you are positioned correctly).
 - Primary continuations
-  - Re-acquire under-knee access -> scoop -> K Guard structure.
+  - Once you establish the entry, transition into the K-guard build checklist: scoop grip + knee alignment + secondary leg.
 - Abort criteria
-  - If bottom-leg battle is lost: use lasso wedge rescue (4.1.7).
+  - If you cannot stop the opponent’s foot from coming closer to your hips and they are forcing the half-guard/RDLR pathway, prioritise re-framing/repositioning before shooting K-guard.
 - Common failure patterns + correction cues
-  - Both legs aligned same direction -> switch to asymmetry + frame before re-entering.
+  - Failure: entering while allowing the opponent to step in close.
+    - Correction cue: use the described hand to stop the foot from coming closer to the hips before the shot.
 - End state
-  - Under-knee access established from supine and K Guard structure rebuilt.
+  - K-guard is established with immediate access to lower-body grips and routing options.
 
-#### 4.1.7 Supine Guard to K Guard (Lasso Rescue Wedge)
-- Entry conditions
-  - Bottom-leg retention battle is lost and opponent threatens collapse.
+#### 6.1.7 Seated -> K-Guard (Upper Body Connection Entry)
+
+- Entry condition(s)
+  - Seated situation where you can secure some grip/connection on the opponent’s upper body while preparing to connect to the near leg.
 - Primary controls
-  - Lasso used as a safety wedge to stabilize.
-- Structure rules
-  - Lasso is a rescue bridge, not the endpoint; transition back to K Guard entry once stable.
-- Opponent main counters
-  - Continued pressure to force chest-to-chest or staple the leg.
+  - Upper-body grip is treated as “wise” before transitioning into K-guard.
+  - You still require connection to the near leg (“I need connection to that near leg” is explicitly stated).
+- Structure rules / acceptance criteria
+  - The entry includes opening a foot, bringing hips closer to the heel/foot, and extending the secondary foot while opening angle (described sequence elements).
+  - If the opponent grabs your ankles, the response described is grip-breaking: grab the wrist and break the grip.
+- Opponent main counters (as described)
+  - Grabbing your ankles to slow/stop your entry.
 - Primary continuations
-  - Stabilize -> break grips -> lift hips as needed -> re-enter to scoop/K Guard structure.
+  - Break ankle grip by controlling the wrist as described, then re-establish hip-to-heel movement and near-leg connection.
 - Abort criteria
-  - If lasso cannot be inserted due to pressure: re-frame to create insertion space first.
+  - If you cannot establish near-leg connection, do not “pretend” you have K-guard; prioritise reconnecting to the near leg.
 - Common failure patterns + correction cues
-  - Treating lasso as “stall” rather than “rebuild tool” -> always convert back to entry.
+  - Failure: entering without near-leg connection.
+    - Correction cue: explicitly re-connect to knee/ankle line before treating it as a live K-guard attack.
 - End state
-  - Collapse stopped and K Guard entry restored.
+  - K-guard established with a clearer upper-body connection, enabling transitions into upper-body attacks later when pressure exposes them.
 
-#### 4.1.8 North-South to K Guard Conversion
-- Entry conditions
-  - Opponent is in north-south pressure context and you need to convert to K Guard.
+#### 6.1.8 Supine Guard Framework -> K-Guard Counter (Low Leg Retention Concept)
+
+- Entry condition(s)
+  - You are forced into supine guard (not ideal, but sometimes necessary) and need to counter back into K-guard.
 - Primary controls
-  - Frames to create space; barrier insertion; foot/leg positioning to re-open entry.
-- Structure rules
-  - Convert pressure into space before attempting under-knee access.
-- Opponent main counters
-  - Smashing pressure that prevents knee insertion and foot placement.
+  - Leg orientation rule: do not point both legs in the same direction; place legs in different directions (“one leg up, one leg down”) to avoid easy control.
+  - Grip framework: “one grip here, one grip here” to keep knees closer (self-framing mentioned when direct framing is not available).
+- Structure rules / acceptance criteria
+  - Low leg guard retention is presented as the platform that allows countering into K-guard.
+  - If you miss the low-leg retention battle, opponent can start going around your guard; framing and grip-breaking become required.
+- Opponent main counters (as described)
+  - Taking two C-grips on your legs when both legs are aligned, controlling and initiating pass cycles.
+  - Winning the battle against your bottom leg and moving around your guard.
 - Primary continuations
-  - Re-acquire under-knee access -> scoop -> K Guard structure.
+  - Use low leg guard retention to come back to guard; from there counter into K-guard.
+  - If opponent is going around, frame with upper body and break grips, then re-establish low-leg retention orientation and re-enter K.
 - Abort criteria
-  - If space cannot be created: re-establish frames and reattempt barrier insertion.
+  - If you cannot frame and your legs are aligned in a way that gives easy control, reset leg orientation before attempting K-guard.
 - Common failure patterns + correction cues
-  - Attempting scoop without space -> create space first via frames/barrier.
+  - Failure: both legs point same direction -> easy grips/control.
+    - Correction cue: “one leg up, one leg down.”
 - End state
-  - K Guard structure rebuilt from north-south.
+  - Re-established defensive structure that feeds a counter-entry into K-guard rather than remaining in a defensive cycle.
 
-#### 4.1.9 Reverse De La Riva to K Guard Conversion
-- Entry conditions
-  - Reverse DLR connection exists but bottom leg is at risk of being stapled/contained.
+#### 6.1.9 Supine Guard -> K-Guard (Lasso Setup)
+
+- Entry condition(s)
+  - Opponent is kneeling, has won the battle against your bottom leg, and you need a safer anchoring method to restart offence.
 - Primary controls
-  - Maintain connection; solve head distance; free bottom leg; immediate scoop upon opening.
-- Structure rules
-  - Head distance problem must be solved to free the bottom leg.
-- Opponent main counters
-  - Stapling bottom leg into half guard / forcing containment.
+  - Lasso is used as the stabilising control to create safety and buy time to break grips and rebuild angle.
+- Structure rules / acceptance criteria
+  - Lasso is framed as a way to become “safe” and stop the opponent from immediately running around the guard while you rebuild.
+  - Once lasso is established, you break grips, then can push the opponent forward and eventually get K-guard.
+- Opponent main counters (as described)
+  - Winning the battle against the bottom leg and initiating around-the-guard movement.
 - Primary continuations
-  - Far-hip extension -> immediate scoop -> K Guard structure -> off-balance gate.
+  - Establish lasso -> break grips -> push forward -> connect to leg line -> transition into K-guard build.
 - Abort criteria
-  - If bottom leg cannot be freed: return to connection and re-solve head distance before forcing.
+  - If lasso is not secured and the opponent is already going around, prioritise re-framing to get safe, then rebuild.
 - Common failure patterns + correction cues
-  - Delaying scoop once opening appears -> immediate scoop is prioritized.
+  - Failure: bottom leg battle lost without a safety anchor.
+    - Correction cue: “frame and put my lasso inside” to become safe, then rebuild.
 - End state
-  - K Guard structure established from reverse DLR.
+  - A safer supine recovery that feeds into K-guard rather than prolonged defensive cycling.
 
----
+#### 6.1.10 North-South Passing Pressure -> K-Guard Recovery Entry
 
-### 4.2 Volume 2 — Backside Lane (Backside 50/50 Hub, Inside HH, Reverse Aoki, Back Takes)
-
-#### 4.2.1 Backside Lane Selection (Availability-Based Routing)
-- Entry conditions
-  - Off-balance gate won and backside attachment is available (opponent turns away/runs; behind-knee access not denied).
+- Entry condition(s)
+  - Opponent is passing and reaches a north-south style top alignment; you cannot rely on arms alone to frame without fatiguing.
 - Primary controls
-  - Attachment and hip tracking to prevent separation.
-- Structure rules
-  - Do not force backside entries when behind-knee access is denied; route away.
-- Opponent main counters
-  - Backstep / high backstep to disengage.
+  - Use at least one knee as a framing tool (explicitly stated) to reduce fatigue and create space.
+  - Build distance, then insert the foot between you and opponent and place it to the inside / toward armpit line (explicitly described sequence).
+- Structure rules / acceptance criteria
+  - Do not spend too much time with arms-only framing; switch to knees to frame.
+  - Once foot is inserted between you and opponent, you are “in a much better position” and can immediately seek scoop grip to unbalance.
+- Opponent main counters (as described)
+  - Sustained top pressure that tires out arm frames quickly.
 - Primary continuations
-  - Enter backside 50/50 hub (4.2.2) and run outcomes.
+  - Frame with knee(s) -> create distance -> foot insertion -> immediate scoop grip -> unbalance -> K-guard build.
 - Abort criteria
-  - If behind-knee attachment is denied: switch to frontside lane (Volume 3).
+  - If you cannot insert the foot between you and the opponent, continue to prioritise building distance rather than forcing the scoop.
 - Common failure patterns + correction cues
-  - Forcing denied entry -> treat denial as routing signal.
+  - Failure: staying arms-only in north-south and fatiguing.
+    - Correction cue: “use my knees to frame him.”
 - End state
-  - Backside hub entered with attachment preserved.
+  - A recovery into a K-guard-connected structure with scoop grip access rather than remaining pinned.
 
-#### 4.2.2 Backside 50/50 Hub (Stabilize First)
-- Entry conditions
-  - Backside lane chosen and leg line controlled.
+#### 6.1.11 Reverse De La Riva -> K-Guard Entry (Distance First, Then Knee-to-Chest)
+
+- Entry condition(s)
+  - You have a reverse de la Riva hook but you are too close to establish the bottom leg/hip placement needed to build K-guard cleanly.
 - Primary controls
-  - Hub entanglement stability before chasing exposure.
-- Structure rules
-  - Stabilize entanglement; maintain attachment through opponent rotation.
-- Opponent main counters
-  - Backstep/high backstep; knee line extraction.
+  - Framing with the top leg and arms to move the head away and create distance (explicitly described).
+  - Knee-to-chest step: bring the knee closer to the chest after creating distance.
+  - Extension step: extend the leg and look for the far hip (explicitly described).
+- Structure rules / acceptance criteria
+  - If you are “very close” it is hard to establish; you must first frame and move head away to create the distance window.
+  - Sequence is repeated explicitly as the method: frame -> move head back -> knee to chest -> extend -> shoot for K-guard.
+- Opponent main counters (as described)
+  - Preventing you from placing bottom leg on the hip when you are too close.
 - Primary continuations
-  - Inside heel hook lines.
-  - Reverse Aoki lines.
-  - Double 50/50 consolidation when mirrored/contested.
-  - Conditional back exposure routes (matrix/X-hook) when attachments are available.
+  - Use top-leg/arm frames to create distance, then run the knee-to-chest + extension sequence into K-guard.
 - Abort criteria
-  - If attachment breaks: reset to attachment priorities before re-attacking.
+  - If you cannot create distance, do not force the shot; keep framing and move the head away until the distance is sufficient.
 - Common failure patterns + correction cues
-  - Chasing heel without hub stability -> stabilize first.
+  - Failure: attempting K-guard entry while too close.
+    - Correction cue: frame with top leg + arms; move head away first.
 - End state
-  - Hub stability enabling controlled finishing attempts.
+  - Clean transition from RDLR into K-guard with the distance and knee/hip alignment needed to progress into attacks.
 
-#### 4.2.3 Inside Heel Hook (Backside Hub Line)
-- Entry conditions
-  - Backside 50/50 hub stabilized.
+#### 6.1.12 Secondary Leg vs Inside-Win Counter (Knee Control Correction)
+
+- Entry condition(s)
+  - You have primary control (often scoop) and are attempting to place/maintain the secondary leg on the opponent to preserve angle.
+  - The opponent is “winning inside” (using a reverse/inside position response) and you are losing the battle to re-place your foot on the thigh.
 - Primary controls
-  - Control-first sequencing from the hub.
-- Structure rules
-  - Maintain attachment and control while changing exposure.
-- Opponent main counters
-  - Rotations and backsteps to clear the line.
+  - Knee control on the opponent as the corrective control point.
+- Structure rules / acceptance criteria
+  - When the opponent wins inside and you cannot re-place the foot on the thigh, the correction is to control the opponent’s knee.
+  - The knee-control prevents the opponent from easily putting the knee outside and “going around” to initiate passing.
+- Opponent main counters (as described)
+  - Reverse/inside-win response that blocks your secondary leg returning to the thigh.
+  - Stepping the knee outside and circling to pass when you lose the inside battle.
 - Primary continuations
-  - Finish line when exposure is achieved; consolidate if mirrored.
+  - Control the knee -> re-establish the ability to place the secondary leg -> reopen routing to backside/frontside attacks.
 - Abort criteria
-  - If exposure degrades due to opponent geometry: consolidate (double 50/50) or re-route within hub.
+  - If you cannot establish knee control and the opponent is already clearing your frames to pass, prioritise rebuilding the K-guard build checklist rather than forcing the secondary leg placement.
 - Common failure patterns + correction cues
-  - Losing stability while chasing finish -> return to hub stability.
+  - Failure: repeatedly trying to re-place the foot without addressing the inside-win.
+    - Correction cue: switch to knee control immediately when you recognise you are losing the re-placement battle.
 - End state
-  - Controlled finish attempt from stabilized hub.
+  - Opponent’s pass-around pathway is denied long enough to rebuild secondary leg placement and re-open attack routing.
 
-#### 4.2.4 Reverse Aoki (Backstep-Triggered Secondary Threat)
-- Entry conditions
-  - Opponent backsteps (or the geometry shifts) from backside hub and reverse Aoki becomes available.
-- Primary controls (as cued)
-  - Create distance first.
-  - Exposure built via ribcage-back movement (not “opening the chest”).
-- Structure rules
-  - Distance before exposure; exposure without opening chest.
-  - Alignment cue: thumb points toward the chest in the finishing configuration.
-- Opponent main counters (as referenced)
-  - Leg extension as a primary escape behavior.
-- Primary continuations
-  - Finish once exposure and alignment are set; elbow-back finish cue after exposure.
-- Abort criteria
-  - If you cannot create distance/exposure without opening chest: reset to distance creation first.
-- Common failure patterns + correction cues
-  - Opening chest to expose heel -> replace with ribcage-back exposure mechanic.
-- End state
-  - Reverse Aoki finish attempt from correct exposure/alignment.
+#### 6.1.13 Backside/Frontside Orientation Gate (Routing Choice)
 
-#### 4.2.5 Matrix (Conditional: Behind-Knee Hook Required)
-- Entry conditions
-  - Behind-knee attachment is available (explicit condition).
+- Entry condition(s)
+  - You have completed the K-guard build elements sufficiently to attack (knee-off-mat battle addressed, scoop/controls established, secondary leg layered).
 - Primary controls
-  - Behind-knee hook/attachment enabling matrix route.
-- Structure rules
-  - If behind-knee is denied and only side-of-knee access exists: do not force.
-- Opponent main counters
-  - Denial of behind-knee access; turning to square up.
+  - Orientation control that determines whether you are operating “backside” or “frontside.”
+- Structure rules / acceptance criteria
+  - The system explicitly frames “backside attacks” vs “frontside attacks” as the two routing options from the same build.
+  - Orientation is treated as a gate: you do not commit to a leglock family until you are routed into the correct side with the correct angle.
+- Opponent main counters (as described)
+  - Squaring to kill your angle and prevent clean routing.
+  - Using inside wins to prevent secondary leg placement and block your ability to commit to either track.
 - Primary continuations
-  - Back exposure and back-take routes when condition is satisfied.
+  - If angle favors backside: route to backside top/bottom hub (then 50/50-style hubs).
+  - If angle favors frontside: create/keep the outside-leglock angle and route to the frontside hub.
 - Abort criteria
-  - Condition not met -> abandon and route to frontside or hub alternatives.
+  - If you cannot hold angle long enough to route, return to build: restore knee-off-mat, scoop, and secondary leg layers.
 - Common failure patterns + correction cues
-  - Forcing matrix without attachment -> treat as denial routing.
+  - Failure: “choosing” a track without structure/angle and getting squared/passed.
+    - Correction cue: treat routing as downstream of build; rebuild first, then route.
 - End state
-  - Back exposure/back take when condition is satisfied.
+  - Commitment into the correct attack hub (backside or frontside) with stable angle/control.
 
-#### 4.2.6 X-Hook Routes (Leg Drag and Back Takes)
-- Entry conditions
-  - Backside lane with attachment enabling X-hook insertion.
+#### 6.1.14 Backside Top / Backside Bottom (Positional Reference Hubs)
+
+- Entry condition(s)
+  - You have routed to the backside track and are stabilising your orientation relative to the opponent’s hips/legs.
 - Primary controls
-  - X-hook control enabling leg drag mechanics.
-- Structure rules
-  - Maintain connection during build-up; avoid disconnected stand-up.
-- Opponent main counters
-  - Re-facing and clearing hooks if connection loosens.
+  - Backside “top” vs “bottom” orientation control (treated as named reference positions).
+- Structure rules / acceptance criteria
+  - The track is presented as having both “top” and “bottom” variations, implying the need to recognise which orientation you are in before selecting an entanglement/attack.
+  - The backside hub functions as a staging area for 50/50-family connections and continuation routes (follow backstep).
+- Opponent main counters (as described)
+  - Squaring and clearing your angle to prevent backside stabilisation.
 - Primary continuations
-  - Leg drag -> back exposure -> back take.
+  - From backside hub: enter backside 50/50 family (Volume 2), or follow reactions (backstep) to stay attached.
 - Abort criteria
-  - If connection breaks: rebuild control before pursuing the back.
+  - If opponent clears your angle and you lose the backside orientation, reroute to frontside or return to build.
 - Common failure patterns + correction cues
-  - Standing up without control -> treat as reset; maintain attachment.
+  - Failure: treating backside as “one position” and losing orientation.
+    - Correction cue: explicitly recognise backside top vs backside bottom as distinct hubs and stabilise before attacking.
 - End state
-  - Back exposure and back take from controlled X-hook route.
+  - Stable backside orientation that feeds backside 50/50 family and continuation routes.
 
----
+#### 6.1.15 Frontside Top / Frontside Bottom (Positional Reference Hubs)
 
-### 4.3 Volume 3 — Frontside Lane (Angle Creation, Aoki, Outside HH, Dilemmas, Sweeps, Saddle)
-
-#### 4.3.1 Frontside Lane Selection (Denial-Driven Routing)
-- Entry conditions
-  - Backside hooks/attachments are denied (knee opened; behind-knee hook unavailable).
+- Entry condition(s)
+  - You have routed to the frontside track and are stabilising your orientation relative to the opponent’s hips/legs.
 - Primary controls
-  - Maintain meaningful leg control while switching to angle creation work.
-- Structure rules
-  - Same-direction alignment is a hard prerequisite (angle gate).
-- Opponent main counters
-  - Stiff base, stepping heavy, clearing alignment.
+  - Frontside “top” vs “bottom” orientation control (treated as named reference positions).
+- Structure rules / acceptance criteria
+  - Frontside hub functions as the staging area for outside-leglock angle creation (Volume 3) and off-balancing routes.
+  - Top/bottom labels imply distinct orientation cues and transitions before selecting an attack.
+- Opponent main counters (as described)
+  - Squaring and collapsing angle to prevent frontside stabilisation and outside-leg attack alignment.
 - Primary continuations
-  - Angle creation hub -> Aoki/outside HH -> dilemma cycling -> sweeps.
+  - From frontside hub: create the outside-leglock angle and select Aoki/outside heel hook/off-balance/leg switch routes (Volume 3).
 - Abort criteria
-  - If alignment cannot be achieved due to heavy base: shift to rebuild/branch logic (post-based sweep / saddle / upper-body overlay).
+  - If the opponent squares you before you establish the frontside angle, return to build or reroute backside if it becomes available.
 - Common failure patterns + correction cues
-  - Attacking outside locks without alignment -> return to angle gate first.
+  - Failure: trying to finish without first building the correct frontside angle.
+    - Correction cue: treat “angle for outside leg locks” as a gate; do not skip it.
 - End state
-  - Same-direction alignment achieved with control preserved.
+  - Stable frontside orientation that feeds outside-leglock angle work and frontside attack families.
 
-#### 4.3.2 Angle Creation Hub (Same-Direction Alignment Gate)
-- Entry conditions
-  - Frontside lane chosen due to denial signals.
+### 6.2 Volume 2 – Backside
+
+#### 6.2.1 Backside Hub (Entry Point to Backside Attack Families)
+
+- Entry condition(s)
+  - You have routed into backside orientation from the K-guard build (Volume 1 concepts), or you have followed the opponent’s backstep into backside alignment.
 - Primary controls
-  - Hip switching while maintaining control to achieve “same way” alignment.
-- Structure rules
-  - Alignment before finishing attempts.
-- Opponent main counters
-  - Heavy stepping / base that prevents clean hip switching.
+  - Maintain backside connection and prevent the opponent from squaring out as you transition into entanglement hubs.
+- Structure rules / acceptance criteria
+  - Backside is treated as a “track” with multiple hubs; the key is maintaining orientation and attachment through opponent reactions.
+- Opponent main counters (as described)
+  - Backstepping and reorienting to break attachment and kill angle.
 - Primary continuations
-  - Aoki variations and outside heel hook variations from aligned hub.
-  - Threat cycling without losing alignment.
+  - Enter backside 50/50 as a primary entanglement hub.
+  - Follow backstep as a continuity requirement when opponent uses it to escape.
 - Abort criteria
-  - If alignment breaks: reset to angle creation rather than forcing finishes.
+  - If you lose attachment and the opponent squares fully, return to K-guard build and re-route.
 - Common failure patterns + correction cues
-  - Losing hub while cycling threats -> prioritize hub retention.
+  - Failure: letting the backstep create a full reset.
+    - Correction cue: treat backstep as a predictable reaction; follow to stay connected.
 - End state
-  - Aligned hub enabling outside lock mechanics.
+  - Entry into backside 50/50/double 50/50 or continuation routes without losing the track.
 
-#### 4.3.3 Aoki Lock Variations (Frontside)
-- Entry conditions
-  - Same-direction alignment achieved.
+#### 6.2.2 Backside 50/50 (Entanglement Hub)
+
+- Entry condition(s)
+  - You are in backside orientation and can connect into a 50/50-style entanglement without losing your angle.
 - Primary controls
-  - Aligned hub controls sufficient to apply Aoki line.
-- Structure rules
-  - Use alignment and control before committing to belly-down completion.
-- Opponent main counters
-  - Defensive rotations and stepping to clear line.
+  - 50/50 entanglement as a hub that stabilises the leg line and enables inside heel hook access and continuation routes.
+- Structure rules / acceptance criteria
+  - Backside 50/50 is treated as a named hub that supports multiple finishing and continuation branches rather than a single finish attempt.
+- Opponent main counters (as described)
+  - Using backstep/rotation/defensive movement to deny exposure and force you to lose the angle.
 - Primary continuations
-  - Inside/outside variants.
-  - Belly-down completion when presented by reaction.
+  - Route into inside heel hook work from backside 50/50.
+  - If the opponent changes orientation to deny exposure, follow backstep or roll to preserve connection.
 - Abort criteria
-  - If alignment is lost: rebuild angle first.
+  - If the entanglement is not stable and you are losing control/angle, reroute through continuation hubs rather than forcing a finish.
 - Common failure patterns + correction cues
-  - Choosing belly-down without presentation -> treat as reaction-dependent, not default.
+  - Failure: treating the hub as “finish immediately” and losing connection when opponent rotates.
+    - Correction cue: use the hub to maintain control; follow reactions to keep the system connected.
 - End state
-  - Aoki finish attempt from aligned hub.
+  - A stable entanglement platform that feeds inside heel hooks, double 50/50, and continuation routes.
 
-#### 4.3.4 Outside Heel Hook Variations (Frontside)
-- Entry conditions
-  - Same-direction alignment achieved.
+#### 6.2.3 Inside Heel Hook (Backside)
+
+- Entry condition(s)
+  - You are in backside 50/50 alignment and have the exposure/alignment to attack the inside heel hook from backside positioning.
 - Primary controls
-  - Aligned hub stability while selecting inside/outside line.
-- Structure rules
-  - Maintain hub; switch lines without losing alignment.
-- Opponent main counters
-  - Clearing alignment, stepping heavy, grip fighting.
+  - Inside heel hook exposure controlled from backside alignment (specific finishing mechanics not provided in the supplied chapter list; keep to transcript-level framing).
+- Structure rules / acceptance criteria
+  - The attack is framed as a backside-aligned inside heel hook option, implying that the exposure/angle is the enabling condition.
+- Opponent main counters (as described)
+  - Rotational defence and attempts to change orientation to deny the heel exposure.
 - Primary continuations
-  - Inside/outside line adjustments; threat cycling.
+  - If the opponent’s reaction shifts you toward a frontside alignment, transition into the inside heel hook frontside option (as listed).
+  - If the opponent backsteps to escape, follow the backstep to maintain connection.
 - Abort criteria
-  - If hub collapses due to base: return to off-balance/rebuild logic.
+  - If heel exposure is lost and control/angle degrades, move to continuation (follow backstep/roll) rather than forcing.
 - Common failure patterns + correction cues
-  - Forcing line while base is stable -> reintroduce off-balance first.
+  - Failure: losing the heel/angle and continuing to force the finish.
+    - Correction cue: preserve angle first; reroute to the hub/continuation when exposure is denied.
 - End state
-  - Outside heel hook attack from aligned hub.
+  - (LEGLOCK FINISH) or a connected continuation into frontside heel hook, double 50/50, or follow-the-backstep hub.
 
-#### 4.3.5 Threat Cycling and Leg Switch Dilemma (Sweep Branch)
-- Entry conditions
-  - Aligned hub with opponent defending primary line.
+#### 6.2.4 Inside Heel Hook Finishing Alignment (From 50/50-Style Control)
+
+- Entry condition(s)
+  - You have entered a 50/50-style entanglement and can get your elbow/hand inside to connect to the heel line.
 - Primary controls
-  - Maintain hub while changing threats (do not reset).
-- Structure rules
-  - Threat changes occur without losing alignment.
-- Opponent main counters
-  - Over-commit defense on one line; posture/base adjustments to step out.
+  - Heel connection and shin-blocking alignment (block the shin with the belly as you create distance from the foot).
+  - C-grip is used as part of the hand positioning before committing to finishing pressure.
+- Structure rules / acceptance criteria
+  - Core finishing rule: move away from the foot to strengthen the breaking line (distance from the foot is treated as a universal heel hook rule).
+  - Do not keep the foot “very close to the armpit” as the primary finishing alignment; you create a stronger configuration by moving away, then re-aligning.
+  - Body placement uses a “sweet spot” between being fully on the elbow vs fully on the shoulder; you start on the elbow, then lean forward to load weight through the opponent’s foot while keeping the shoulder not fully flat.
+  - Progression cue: before your shoulder fully touches the mat, extend and complete the breaking sequence (shoulder placement is a timing cue).
+- Opponent main counters (as described)
+  - Escaping by creating distance/extension and attempting to move away from the breaking line; defensive success is linked to you losing the “move away from the foot” alignment.
 - Primary continuations
-  - Leg switch creates a dilemma: improve line or sweep when defense commits.
+  - If the foot is close to the armpit, use C-grip and hip movement to re-position and create the shin-block-with-belly alignment, then re-apply lower-body breaking pressure.
 - Abort criteria
-  - If hub breaks during cycling: reset to angle creation.
+  - If you cannot keep the shin block and your alignment collapses back into a “foot close to armpit” weak state, re-position before forcing the finish.
 - Common failure patterns + correction cues
-  - Cycling threats while losing alignment -> treat as hub failure; rebuild angle.
+  - Failure: staying too close to the foot (armpit-close) and losing strength.
+    - Correction cue: move away from the foot; rebuild the shin block with the belly.
+  - Failure: going “all the way” to elbow or “all the way” to shoulder without the sweet-spot load.
+    - Correction cue: start on elbow, lean forward to load through the foot; only settle the shoulder as part of the timed completion.
 - End state
-  - Either improved finishing line or sweep outcome via dilemma.
+  - (LEGLOCK FINISH) or re-position into a stronger finishing alignment without losing the entanglement.
 
-#### 4.3.6 Back Roll Sweep (Prerequisite: Opponent Posts A Hand)
-- Entry conditions
-  - Heavy base stalls progress; opponent must post a hand for base.
+#### 6.2.5 Double 50/50 (Backstep Stop + Re-Attack Hub)
+
+- Entry condition(s)
+  - Opponent is attempting to backstep out of your backside alignment and you need a stronger entanglement to prevent clearing.
 - Primary controls
-  - Create the post; then initiate the back roll.
-- Structure rules
-  - Do not attempt without the post prerequisite.
-  - Carry the knee through the roll as the key retention rule.
-- Opponent main counters
-  - Refusing to post; stabilizing after roll if knee is not carried through.
+  - Knee-pit coverage and “knee-to-knee” alignment (your knee pit covers their knee pit).
+  - Leg scissoring/pinching to prevent the opponent freely opening the knee and clearing on the backstep.
+- Structure rules / acceptance criteria
+  - Control rule: you must pinch the legs; you cannot leave the knees open while trying to follow the backstep.
+  - Angle rule: point the knee to the ceiling during the transition, then switch as the backstep happens; timing is “wait for that leg” as they backstep.
+  - Transition rule: once you “cover knee pit with knee pit,” you can apply the same mechanics you used from backside 50/50 (double 50/50 is framed as an upgraded hub, not a different finish).
+  - Standing opponent note: if the opponent is standing/tall, it becomes harder; the correction is to keep the knees close together and manage the far-hip hook/extension to preserve control.
+- Opponent main counters (as described)
+  - Clearing by opening the knee during the backstep if your legs are not pinched/scissored.
+  - Standing tall and creating space so your knee-pit control becomes harder to maintain.
 - Primary continuations
-  - Sweep to top once roll completes with knee carried.
+  - From double 50/50: re-attack using the same finishing mechanics as backside 50/50, or follow the backstep again if they continue rotating.
+  - If you stop the backstep and stabilise, you can switch grips (described: switching from heel grip to a C-grip on the ankle during the sequence) to maintain control through the transition.
 - Abort criteria
-  - No post -> create post first; do not force roll.
+  - If you cannot pinch/scissor and the opponent is clearing the knee line, re-attach to the leg line and re-enter backside 50/50 rather than forcing the double 50/50 transition.
 - Common failure patterns + correction cues
-  - Rolling without post -> treat as unavailable.
-  - Not carrying knee -> “take the knee with you.”
+  - Failure: opening the knee while following the backstep.
+    - Correction cue: pinch the legs; knee-to-knee; point knee to the ceiling as you switch.
+  - Failure: leaving knees far apart vs a tall standing opponent.
+    - Correction cue: bring the knees close together; preserve far-hip control and extension to keep connection.
 - End state
-  - Top position via roll sweep under correct prerequisites.
+  - A stabilised double 50/50 hub that denies the backstep and allows immediate re-attacks or continued following.
 
-#### 4.3.7 Saddle Branch (Heavy Middle Leg -> Control Transfer To Far Leg)
-- Entry conditions
-  - Opponent heavy on middle leg; primary lift battle low value; far-leg capture becomes available.
+#### 6.2.6 Follow-The-Backstep (Attachment Rule + Timing)
+
+- Entry condition(s)
+  - Opponent initiates a backstep to clear your attack and change orientation.
 - Primary controls
-  - Control transfer from middle leg to far leg.
-  - Hip lift to clear space and prevent smash.
-  - Far-hip base placement to stabilize entry.
-- Structure rules
-  - Do not enter without far-hip base; entry becomes smashable.
-- Opponent main counters
-  - Smashing pressure during entry; collapsing before base is set.
+  - Pinching legs to stay attached while you “wait for the leg” and re-catch it as it travels.
+  - Ankle catch to re-connect as the backstep opens the window.
+- Structure rules / acceptance criteria
+  - Do not chase the backstep with open knees; the attachment is maintained by pinching and timing the catch.
+  - The follow happens during the backstep: you track the direction they move and catch the leg when it presents (explicit “wait for that leg” cue).
+- Opponent main counters (as described)
+  - Backstep with knee opening and clearing if your legs are not pinched.
 - Primary continuations
-  - Saddle established as alternate entanglement outcome.
+  - Re-catch the ankle as they backstep -> go deeper with the leg positioning -> transition into your chosen re-attack hub (backside 50/50 or double 50/50).
 - Abort criteria
-  - If you cannot hip lift and base: return to rebuild mode and re-open conditions.
+  - If you lose attachment and the leg clears completely, return to K-guard build rather than forcing a late chase.
 - Common failure patterns + correction cues
-  - Skipping hip lift -> restore lever/space first.
-  - Entering without far-hip base -> treat as unstable; re-base before progressing.
+  - Failure: trying to follow while knees are open.
+    - Correction cue: pinch legs first; then track and catch the ankle on timing.
 - End state
-  - Saddle entanglement established from conditional branch.
+  - Re-established entanglement (backside 50/50 or double 50/50) while denying the opponent a clean reset.
 
----
+#### 6.2.7 Reverse Aoki (Heel Exposure + Two-Hand Reinforcement + Body Alignment)
 
-### 4.4 Volume 4 — Upper-Body Overlay (Shotgun Armbar, Sweeps, Triangle, Choibar)
-
-#### 4.4.1 Upper-Body Trigger Logic (When To Switch Off Lower-Body Battle)
-- Entry conditions
-  - You are attacking lower body from K Guard but opponent uses upper body/frames to stall and you cannot win the knee-lift battle.
+- Entry condition(s)
+  - You have heel access during/backstep sequences and can secure heel exposure strongly enough to begin the reverse Aoki mechanics.
 - Primary controls
-  - Hip lift to create space for elbow/shoulder isolation.
-- Structure rules
-  - Treat upper-body attacks as punishment when lower-body progress is structurally stalled.
-- Opponent main counters
-  - Strong frames; elbow placement to mat; grip fighting to prevent isolation.
+  - Heel grip combined with a two-hand reinforcement concept (left hand assists/lifts the right hand to strengthen the grip and pressure).
+  - Ribcage/back positioning to keep the heel exposure strong (explicit cue to move the ribcage back as part of exposure).
+- Structure rules / acceptance criteria
+  - Exposure rule: exposing the heel “like this” is framed as much stronger; if the opponent is tall, you may need to move hips back as well to maintain the exposure.
+  - Two-hand rule: every Aoki lock variation described requires using both hands; left hand supports the right hand to reinforce the finish.
+  - Thumb orientation rule: for reverse Aoki, point the thumb to your chest and keep it facing your chest (this is repeated as a non-negotiable alignment).
+  - Reinforcement rule: grab your forearm (not your wrist) as the finishing reinforcement; make a fist as part of the reinforcement detail.
+  - Closing rule: close right shoulder and right elbow to the hip; put the right shoulder down while bringing right elbow to right hip (used to create tension through the foot).
+  - Depth rule: do not be “too deep” in the configuration where the opponent’s knee structure reduces finishing strength; the transcript contrasts a weaker too-deep state vs a stronger adjusted alignment.
+  - Finish rule: extend knees away from the body as part of the completion detail once the exposure and reinforced grip are set.
+- Opponent main counters (as described)
+  - Escape concept mentioned: “turn and extend your leg” is described as the easiest escape from the reverse Aoki configuration.
+  - Opponent height/space (tall posture) reducing heel exposure if hips/ribcage are not adjusted back.
 - Primary continuations
-  - Shotgun armbar line.
-  - Triangle setup/finish when armbar line is not available.
-  - Flower sweep / mirror lock / choibar branches as presented.
+  - If the opponent’s backstep is creating the heel window: catch heel -> use momentum to get to the elbow -> adjust heel position higher to the top side of the chest -> lift hips to create side alignment -> transition into the reinforced reverse Aoki finish.
+  - If the configuration becomes weak due to depth/alignment: adjust exposure (ribcage back, heel position) before re-applying extension finish.
 - Abort criteria
-  - If isolation is not present: return to structure rebuild and re-open the trigger.
+  - If you cannot maintain heel exposure with thumb-to-chest alignment and two-hand reinforcement, return to the controlling hub (backside 50/50/double 50/50) rather than forcing.
 - Common failure patterns + correction cues
-  - Staying in stalled lower-body battle too long -> switch when trigger condition is met.
+  - Failure: grabbing the wrist instead of forearm when reinforcing.
+    - Correction cue: grab the forearm; make a fist; keep thumb facing chest.
+  - Failure: opening the chest / losing ribcage-back exposure.
+    - Correction cue: keep ribcage back; expose heel first, then lock shoulder/elbow to hip.
+  - Failure: being too deep where the finish feels weak.
+    - Correction cue: adjust depth/alignment until the finish becomes strong; do not accept the weak state.
 - End state
-  - Clean transition into upper-body isolation without losing base/connection.
+  - (LEGLOCK FINISH) or a controlled return to the entanglement hub with maintained heel exposure.
 
-#### 4.4.2 Shotgun Armbar (Isolation and Finishing Alignment)
-- Entry conditions
-  - Opponent’s arm is used to stop legs/deny progress and becomes accessible to isolate.
-- Primary controls (as described)
-  - Grab/control the elbow line first.
-  - Prevent the arm from getting “too deep” (avoid losing the window to isolate).
-  - Place wrist into armpit as part of finishing alignment.
-- Structure rules
-  - Precision is emphasized; thumb direction is used as an alignment reference.
-  - Hand placement detail: place hand above elbow; finger-on-elbow reference used to guide pressure.
-  - Use the leg frame as needed while isolating (framing described during armbar setup).
-- Opponent main counters
-  - Gripping/pulling while you try to set wrist-to-armpit.
-  - Pulling arm deeper to escape the isolation window.
-- Primary continuations
-  - Once alignment is set (wrist to armpit; thumb direction managed): break grip and finish by applying the final pressure.
-- Abort criteria
-  - If wrist cannot be seated to armpit: do not rush grip break; reset alignment first.
-- Common failure patterns + correction cues
-  - Breaking grips before alignment -> set wrist-to-armpit and thumb alignment first.
-- End state
-  - Armbar finish achieved from correct isolation/alignment.
+#### 6.2.8 High Backstep
+- No transcript-derived content available for this technique.
 
-#### 4.4.3 Shotgun Armbar Variations (Grip Responses)
-- Entry conditions
-  - Opponent changes grips/frames while you maintain elbow control.
+#### 6.2.9 Matrix (Backtake-Oriented Hub + Lift/Stand-Up Choice)
+
+- Entry condition(s)
+  - You have maintained backside attachment and can establish the matrix position as a control hub while the opponent reacts/turns.
 - Primary controls
-  - Maintain elbow capture while adapting to grip configuration.
-- Structure rules
-  - “Idea is the same” across grip looks: isolate elbow line, set wrist-to-armpit alignment, then finish.
-- Opponent main counters
-  - Alternate grips on leg/arm; posting elbow on mat to change angle.
+  - Matrix hook used to lift the opponent and preserve connection as you attempt to take the back.
+  - Grip selection on the opponent’s leg/heel line (shallow vs deep is presented as a decision with trade-offs).
+- Structure rules / acceptance criteria
+  - Lift rule: you lift your partner with the matrix hook to create the ability to take the back rather than staying static while they put their back to the mat.
+  - Reaction-follow rule: if the opponent drops to the hip, you must follow; do not wait (timing is emphasised).
+  - Two-grip decision rule: shallow grip vs deep grip are framed as different choices depending on outcome; shallow is framed as “probably better” for maintaining base and taking the back via crab-style control, while deep can compromise base.
+  - Stand-up option: the transcript explicitly frames standing up and taking the back from a different angle as a desirable solution when needed.
+- Opponent main counters (as described)
+  - Putting the back to the mat to deny back exposure if you do not lift/follow.
+  - Dropping to a hip to change the alignment; success depends on your immediate follow.
 - Primary continuations
-  - Re-route to best finishing grip while preserving elbow control.
+  - From matrix: connect to X-hook position (explicitly framed as a strong connection) when the opponent’s movement creates the transition.
+  - Use crab-style control for back take from the shallow-grip configuration.
 - Abort criteria
-  - If elbow control is lost: re-capture elbow before attempting to finish.
+  - If your base is compromised by grip choice (deep grip causing instability), revert to a shallower control that preserves base, or stand up to take the back from a better angle.
 - Common failure patterns + correction cues
-  - Chasing the finish while elbow slips -> elbow is the anchor; re-grip.
+  - Failure: waiting while opponent drops to the hip.
+    - Correction cue: follow immediately; do not wait.
+  - Failure: choosing grip depth that compromises base when your goal is back control.
+    - Correction cue: prefer shallow grip when the goal is crab/backtake control.
 - End state
-  - Armbar finish maintained across grip variations.
+  - (BACKTAKE) or transition into [X-HOOK HUB] while maintaining continuous control.
 
-#### 4.4.4 Flower Sweep (Post/Elbow Reactions)
-- Entry conditions
-  - Opponent places/elbows/posts in a way that creates sweep leverage from the same K Guard scenario.
+#### 6.2.10 X-Hook Hub (Transition From Matrix / Reaction Follow)
+
+- Entry condition(s)
+  - Opponent drops to the hip and you follow immediately, transitioning into the X-hook position.
 - Primary controls
-  - Use the opponent’s base reaction (post/elbow placement) to generate the sweep.
-- Structure rules
-  - Sweep appears as a reaction-based option when upper-body pressure is available.
-- Opponent main counters
-  - Changing base to remove posting arm; re-centering weight.
+  - Immediate hip lift (momentum requirement) as the opponent drops; you “lift hips as well” to stay connected.
+  - Removal/clearing of the opponent’s foot line as part of establishing the X-hook configuration (explicit cue: “get rid of that foot here”).
+- Structure rules / acceptance criteria
+  - Timing rule: you cannot stay static as the opponent drops; you must use momentum and lift hips immediately.
+  - Leg-placement options exist (knee hold vs ankle hook), and the transcript states both are valid; a preference is expressed for holding the knee as a control option.
+- Opponent main counters (as described)
+  - Dropping quickly to the hip to make slow transitions fail (if you wait, you lose the window).
 - Primary continuations
-  - Sweep to top once base is compromised.
+  - From X-hook: proceed into the “leg drop” sequence (framed as the first taught option from the hub).
 - Abort criteria
-  - If post is removed and leverage is gone: return to armbar/triangle branches or rebuild.
+  - If you fail the immediate follow and lose the connection, return to matrix controls or stand up to re-angle rather than forcing a late X-hook entry.
 - Common failure patterns + correction cues
-  - Sweeping without reaction-based leverage -> treat as unavailable until reaction appears.
+  - Failure: staying in place when opponent drops.
+    - Correction cue: lift hips immediately; transition on momentum.
 - End state
-  - Top position via reaction-based sweep.
-- Coverage note
-  - Coverage incomplete due to missing or insufficient transcript content.
+  - A stable X-hook hub with access to leg-drop/backtake sequences.
 
-#### 4.4.5 Mirror Lock (Upper-Body Lock Option)
-- Entry conditions
-  - Named as an upper-body option within the upper-body chapter.
+#### 6.2.11 X-Hook “Leg Drop” (Leg Drag Outcome Family)
+
+- Entry condition(s)
+  - You are in X-hook and have chosen the shallow grip configuration needed for the leg drop.
 - Primary controls
-  - No transcript-derived detail available beyond the label “mirror lock.”
-- Structure rules
-  - No transcript-derived content available for this technique.
-- Opponent main counters
-  - No transcript-derived content available for this technique.
+  - Shallow grip is used to enable the leg drop (explicitly stated).
+  - Knee as base: knee placement is treated as the base-control variable that determines success.
+- Structure rules / acceptance criteria
+  - Base rule: move your knee far away from the opponent’s hip to establish a reliable base for the leg drop; keeping the knee close is framed as problematic for base.
+  - Control progression: the grip on the ankle transitions to the far hip as the sequence progresses (explicitly stated as a grip transition during the leg drop setup).
+- Opponent main counters (as described)
+  - Base disruption if your knee is too close to their hip during the leg drop attempt.
 - Primary continuations
-  - No transcript-derived content available for this technique.
+  - Use the leg drop sequence to progress into positional advancement/back exposure outcomes (titles indicate leg drag; transcript frames “leg drop” as the taught option).
 - Abort criteria
-  - No transcript-derived content available for this technique.
+  - If base is compromised (knee too close, instability), reset the base variable (knee farther away) before continuing.
 - Common failure patterns + correction cues
-  - No transcript-derived content available for this technique.
+  - Failure: knee too close to opponent’s hip -> unstable base.
+    - Correction cue: knee far away from hip; re-anchor base before the leg drop.
 - End state
-  - No transcript-derived content available for this technique.
+  - Positional advancement outcome from X-hook (leg drop/drag family) with maintained base and control.
 
-#### 4.4.6 Triangle Setup (From Stalled Armbar Line)
-- Entry conditions
-  - Armbar line is “not there” or opponent keeps grip/structure that blocks clean armbar completion.
-- Primary controls (setup priorities)
-  - Keep head controlled (head lift is described as an easy escape route).
-  - Place knee into armpit line; leg goes on top of neck line to begin triangle structure.
-- Structure rules
-  - Create angle before trying to finish; do not attempt to finish square.
-  - Arm positioning trade-off appears:
-    - Under armpit is described as less risky.
-    - Under leg can create stronger angle but increases smash-pass risk.
-- Opponent main counters
-  - Strong grip and posture; head-lift escape behavior.
-- Primary continuations
-  - Proceed into triangle finish mechanics (4.4.7).
-- Abort criteria
-  - If head control is lost and posture rises: re-control head and re-create angle before closing.
-- Common failure patterns + correction cues
-  - Closing without angle -> grab shin/shoe + step on hip to angle first.
-- End state
-  - Triangle established with angle and head control maintained.
+#### 6.2.12 X-Hook Backtake 1
+- No transcript-derived content available for this technique.
 
-#### 4.4.7 Triangle Finish (Placement, Angle, and Gap-Closing Mechanics)
-- Entry conditions
-  - Triangle structure is closed or nearly closed but requires angle/placement to finish reliably.
+#### 6.2.13 X-Hook Backtake 2
+- No transcript-derived content available for this technique.
+
+### 6.3 Volume 3 – Frontside
+
+#### 6.3.1 Angle For Outside Leg Locks (Frontside Gate)
+
+- Entry condition(s)
+  - Backside attacks are being denied because the opponent is standing/clearing the far hip/matrix line.
+  - You can keep contact but need a higher-percentage route than forcing backside.
 - Primary controls
-  - Hold the head throughout the finishing sequence (head-lift escape prevention).
-- Structure rules (finish gates)
-  - Knee pit hooks the neck line; missing this makes finishing difficult.
-  - Leg covers over the shoulder line; shoulder closes the second side of the neck.
-  - Create a better angle before squeezing (grab shin/shoe + step on hip).
-  - Before squeezing: point both knees to the same side.
-  - Gap removal cue: set the right knee into the left-knee line first, then squeeze.
-- Opponent main counters
-  - Head lift and posture recovery; surviving due to finishing gap.
+  - Angle creation so you are not square in front of the opponent (frontside attacks require a “good angle” before committing).
+  - Underhooking/going underneath as the recurring method to preserve angle when the opponent moves back.
+- Structure rules / acceptance criteria
+  - If you cannot access far hip/matrix/backside hubs, do not stall; route to frontside and build the outside-leglock angle.
+  - When the opponent moves back, the system response is to follow and go underneath again to maintain the angle (do not accept a reset at long range).
+- Opponent main counters (as described)
+  - Standing posture + stepping back to deny far hip/matrix lines.
+  - Clearing the grip/connection to force you square and disconnected.
 - Primary continuations
-  - Angle creation -> knee alignment -> gap removal -> squeeze.
-- Abort criteria
-  - If you cannot achieve angle and knee alignment: reset the angle first rather than squeezing a loose triangle.
+  - From the frontside angle gate, route into:
+    - Aoki lock family (inside / belly down / outside).
+    - Outside heel hook family (inside angle / outside angle).
+    - Leg switch branch when the opponent’s knee/hip line opens the window.
 - Common failure patterns + correction cues
-  - Squeezing with a big gap -> point knees same side, close right knee into left knee, then squeeze.
-- End state
-  - Strong finish once placement, angle, and knee alignment remove the gap.
+  - Failure: staying square while trying to force outside heel hook/Aoki.
+    - Correction cue: “create a good angle” and go underneath when needed; angle precedes finishing.
 
-#### 4.4.8 Choibar (Transcript Term Appears As “Troy Bar” / Triangle-Armbar Link)
-- Entry conditions
-  - Opponent achieves chest-to-chest pressure; choibar is introduced as different from “regular Troy Bar.”
-- Primary controls (as described)
-  - Switch from lower-body battle to shoulder control.
-  - Use a V-grip on the neck (explicitly referenced).
-  - Extend left leg and push head close (distance/head positioning effect described).
-  - Place left leg inside the arm (described as different from the regular version).
-  - Right foot is used to maintain/control distance (explicit function noted).
-- Structure rules
-  - Shoulder control is prioritized during the switch.
-  - Distance control via right foot is treated as a key stabilizer in the configuration.
-- Opponent main counters
-  - Trying to catch/hold their own side to prevent the arm attack (explicitly referenced reaction).
+#### 6.3.2 Aoki Lock – Inside (Frontside Aoki Base Mechanics)
+
+- Entry condition(s)
+  - You have frontside angle and heel access while facing the opponent (often after switching to outside ashi to face the same way).
+- Primary controls
+  - Maintain angle while facing the opponent; if the opponent is moving back, follow and go underneath to keep the angle.
+  - Heel control is progressively refined:
+    - Earlier method: inner side of elbow.
+    - Current preference: control the heel with the middle of the forearm (improves control and reduces the opponent’s ability to “put the heel back inside”).
+- Structure rules / acceptance criteria
+  - The heel must stay exposed; if the opponent can put the heel back inside, the attack collapses.
+  - Upper-body alignment for exposure:
+    - Move ribcage back to expose the heel when the opponent’s posture/space makes the heel hard to keep.
+    - When needed, adjust hips back as well (especially vs a taller/standing opponent) to preserve exposure.
+  - Grip options (two valid configurations)
+    - Option A: primary hand controls the heel; secondary hand lifts/supports the primary to increase height/strength of control.
+    - Option B: alternate secondary support that still preserves heel exposure and control; both are treated as viable if they prevent heel re-insertion.
+  - Directional alignment cues
+    - Head/shoulder line moves forward in the finishing alignment while the ribcage-back movement is used to expose the heel (exposure step precedes hard finishing tension).
+- Opponent main counters (as described)
+  - Putting the heel back inside to kill exposure.
+  - Creating posture/space (standing) that reduces your ability to keep heel exposure without ribcage/hip adjustment.
 - Primary continuations
-  - Progress the arm-attack line once head/shoulder/distance controls are set.
-- Abort criteria
-  - If shoulder control and distance are not secured: re-secure those controls before forcing the arm entry.
+  - If heel exposure is weak: ribcage back -> re-expose heel -> secondary hand lifts primary -> re-set forearm-heel control point.
+  - If opponent moves back: follow -> go underneath -> re-assert frontside angle gate -> re-attack.
 - Common failure patterns + correction cues
-  - Losing distance control -> re-establish right-foot distance control before inserting/finishing.
-- End state
-  - Choibar configuration established as an upper-body finishing branch.
-- Coverage note
-  - Coverage incomplete due to missing or insufficient transcript content.
-
-
-## 5.0 DIAGRAM SET
-
-### 5.1 Gate Checklist Loop (Structure -> Off-Balance Permission)
-~~~text
-+-----------------------------+
-|   [K GUARD STRUCTURE GATES] |
-+-----------------------------+
-| Gate A: scoop / under-knee  |
-| Gate B: knee behind elbow   |
-| Gate C: knees separated     |
-| Gate D: secondary leg = bar |
-+--------------+--------------+
-               |
-               v
-+-----------------------------+
-| [OFF-BALANCE GATE]          |
-| "Knee off the mat?"         |
-+--------------+--------------+
-               |
-             {OR}
-      +--------+--------+
-      |                 |
-      v                 v
-  YES (permission)   NO / HEAVY
-      |                 |
-      v                 v
-[ROUTE / ATTACK]   [REBUILD MODE]
-                   - knee shield -> space
-                   - hip lift -> lever back
-                   - re-acquire scoop (must)
-                   - re-check gates -> retry
-~~~
-
-### 5.2 Routing Decision (Backside Availability vs Frontside Denial)
-~~~text
-+--------------------------------------+
-|            [ROUTING DECISION]        |
-+--------------------------------------+
-| Backside attachment available?       |
-| (behind-knee access not denied)      |
-+-------------------+------------------+
-                    |
-                  {OR}
-        +-----------+-----------+
-        |                       |
-        v                       v
-      YES                      NO
-        |                       |
-        v                       v
-+---------------------+   +------------------------------+
-| [BACKSIDE LANE]     |   | [FRONTSIDE LANE]             |
-| -> [BACKSIDE 50/50] |   | -> [ANGLE HUB: SAME-DIRECTION]|
-+---------------------+   +------------------------------+
-~~~
-
-### 5.3 Backstep Handling (Prevent vs Follow; Attachment Priority)
-~~~text
-               Opponent initiates backstep / high backstep
-                               |
-                             {OR}
-                 +-------------+-------------+
-                 |                           |
-                 v                           v
-        [PREVENT BACKSTEP]             [FOLLOW BACKSTEP]
-        - chest toward mat             - attachment first
-        - lower-body extension         - track hips through turn
-        - reduce free step-out         - return to best hub line
-                 |                           |
-                 +-------------+-------------+
-                               |
-                               v
-                        [BACKSIDE 50/50 HUB]
-~~~
-
-### 5.4 Frontside Angle Gate (Alignment Before Outside Locks)
-~~~text
-+----------------------------------+
-| [FRONTSIDE HUB: ANGLE CREATION]  |
-+----------------------------------+
-| Gate: same-direction alignment   |
-| (do not attack without alignment)|
-+------------------+---------------+
-                   |
-                 {OR}
-        +----------+----------+
-        |                     |
-        v                     v
-   Alignment won         Alignment lost
-        |                     |
-        v                     v
-(Aoki / Outside HH)      Reset to angle creation
-(Threat cycling)         (do not force finishes)
-(Leg switch -> sweep)
-(Far Side K -> reverse X outcomes)
-~~~
-
-### 5.5 Heavy Base Availability Checks (Branch Only When “On”)
-~~~text
-+--------------------------------------+
-| [HEAVY BASE / KNEE-LIFT STALL]       |
-+--------------------------------------+
-| First: REBUILD MODE                  |
-| - knee shield -> space               |
-| - hip lift -> lever back             |
-| - scoop re-acquire (non-negotiable)  |
-+-------------------+------------------+
-                    |
-                    v
-        +----------------------------------+
-        | Availability checks (do not force)|
-        +------------------+---------------+
-                           |
-                         {OR}
-            +--------------+--------------+
-            |                             |
-            v                             v
-   Post (hand) appears?             No post yet
-            |                             |
-          YES                             v
-            |                   Far-leg capture available?
-            v                             |
- (OUTCOME) Back roll sweep              {OR}
- - prerequisite: post exists     +--------+--------+
- - key retention: carry knee     |                 |
-                                v                 v
-                       YES -> (OUTCOME) Saddle   NO -> go to upper-body trigger
-                       - transfer middle->far
-                       - hip lift + far-hip base
-~~~
-
-### 5.6 Upper-Body Overlay Trigger (Shotgun Armbar vs Triangle)
-~~~text
-+-------------------------------------+
-| [UPPER-BODY OVERLAY TRIGGER]        |
-+-------------------------------------+
-| Condition: lower-body progress stalls|
-| + defensive posts/frames expose arm/|
-| neck lines                          |
-+-------------------+-----------------+
-                    |
-                  {OR}
-        +-----------+-----------+
-        |                       |
-        v                       v
-(OUTCOME) Shotgun Armbar   (OUTCOME) Triangle
-- isolate elbow line       - head control retained
-- wrist to armpit align    - angle creation gate
-- alignment before finish  - placement + gap removal
-~~~
-
-## 6.0 DRILLING PROGRESSIONS
-
-### 6.1 K Guard Structure Gate Drill (Knee Hide + Secondary Leg + No Knee Pinch)
-- Start state
-  - Partner kneeling in front (or standing variation as shown), you are entering K Guard structure.
-- Repetition goal
-  - Arrive in K Guard with the bottom knee hidden behind the elbow line and the secondary leg placed as a barrier.
-- Checkpoints (must hit every rep)
-  - Bottom knee stays behind the elbow (do not flare the knee outside the elbow line).
-  - Do not bring the knees together (knee pinch is treated as a structural error that makes disengage/pass easier).
-  - Secondary leg is active as a barrier (prevents easy step-in/staple while primary connection is built).
-- Failure triggers to reset the rep
-  - Bottom knee drifts outside the elbow line.
-  - Knees pinch together.
-  - Secondary leg becomes passive and the partner can step in and collapse the structure.
-
-### 6.2 Off-Balance Gate Drill (Get the Knee Off the Mat Before “Go Around”)
-- Start state
-  - Partner kneeling; you are in K Guard entry structure and preparing to progress.
-- Repetition goal
-  - Off-balance with push/pull to get the partner’s knee off the mat before rotating around for attacks.
-- Variations by partner posture (drill all three as separate reps)
-  - Partner’s head high (upright posture)
-    - Place the blade of the foot to the ribs (clean placement).
-    - Push with the lower body and pull with the upper body to lift the knee off the mat.
-  - Partner leaning forward (head low; hard to place the blade of the foot)
-    - Insert a knee shield to create the distance required for blade-of-foot placement.
-    - Once the blade of the foot is on the ribs, extend the working knee away from the chest to keep structure.
-    - Re-run push/pull off-balance to lift the knee.
-  - Partner uses a combat base (heavy posture that makes “go around” weak)
-    - Treat early “go around” as a structural error.
-    - Use the knee shield and come up to rebuild posture/space, then re-initiate off-balance.
-- Constraints
-  - If the knee is still planted and stable, do not progress to rotation-based offense.
-  - Maintain structure while off-balancing (do not sacrifice the knee hide / barrier leg to chase movement).
-
-### 6.3 Scoop Grip Recovery Drill (Loss of Scoop = Immediate Priority Shift)
-- Start state
-  - Partner begins to grab/staple your leg and force you toward half guard when your under-knee control is compromised.
-- Repetition goal
-  - Rebuild under-knee control (scoop) before resuming offense.
-- Key checkpoints
-  - Treat the moment of losing the scoop as the moment the guard becomes vulnerable to collapse.
-  - Re-establish the scoop connection first; offense resumes only after the connection is back.
-
-### 6.4 Lasso-to-K Guard Recovery Drill (When the Bottom-Leg Battle Is Lost)
-- Start state
-  - Partner wins the low-leg retention battle and threatens to collapse/control your bottom leg.
-- Repetition goal
-  - Use lasso as a safety wedge, then transition back into K Guard entry structure.
-- Sequence checkpoints (repeatable order)
-  - Frame to create enough space to insert the lasso.
-  - Insert the lasso and stabilize (“safe” position).
-  - Break the partner’s grip and lift hips as needed to reopen space for the K Guard entry.
-  - Transition from lasso wedge back into K Guard structure (under-knee access and connection restored).
-- Constraint
-  - Lasso is used as a stabilization bridge; transition back to the K Guard entry once structure is regained.
-
-### 6.5 Reverse De La Riva to K Guard Entry Drill (Connection → Free Bottom Leg → Immediate Scoop)
-- Start state
-  - You are in reverse de la Riva connection.
-- Repetition goal
-  - Convert reverse DLR into K Guard entry without allowing the partner to staple the leg into half guard/reverse DLR counters.
-- Checkpoints
-  - Establish the “foot between you and partner” barrier when available (improves safety and spacing).
-  - As soon as entry alignment opens, go immediately for the scoop grip and then look for unbalance.
-  - Treat reverse DLR as a reliable place to find grips; once grips are acquired, transition into K Guard structure rather than stalling.
-
-### 6.6 Backside 50/50 Hub to Reverse Aoki Drill (Backstep Reaction → Grip Switch → Finish Mechanics)
-- Start state
-  - You have entered backside 50/50 off K Guard (including versus a standing opponent as shown).
-- Repetition goal
-  - When the partner backsteps, switch from heel-hook grip to ankle-hook grip and run reverse Aoki mechanics with correct body positioning.
-- Sequence checkpoints
-  - As the backstep begins, switch from heel-hook grip to ankle-hook grip (grip change tied to the reaction).
-  - Maintain hip orientation as described (stay on the outside hip rather than flattening).
-  - Build the V-grip under the knee as a prerequisite for the finishing mechanics.
-  - Create distance before chasing heel exposure (distance is treated as the first requirement).
-  - Expose the heel by moving the ribcage back (do not “open the chest” forward).
-  - Reverse Aoki finishing alignment cue: thumb points to the chest.
-  - If the opponent is tall, move hips back as needed to keep exposure and alignment.
-  - Finish by moving the elbow back once exposure is achieved.
-- Constraints
-  - Do not expose the heel by opening the chest; exposure is built by ribcage-back space creation.
-  - Do not skip the V-grip under-knee prerequisite if the finish is not structurally available.
-
-### 6.7 Roll-Through Positioning Drill (End the Roll in a Strong Outside Position)
-- Start state
-  - You are running a roll-through transition (frontside/outside leg lock pathway context).
-- Repetition goal
-  - Switch the legs during/after the roll so you end “immediately in a good spot” on the outside with strong bridging ability.
-- Checkpoints
-  - Do not stay all the way on the elbow during the finishing phase; move to the described “middle” upper-body position to use hips effectively.
-  - Switch the legs so that after finishing the roll you land on the outside in a structurally strong position.
-  - End-state cue: landing position allows easy bridging and hip-forward movement into the primary finish mechanics.
-- Constraint
-  - Treat the end position after the roll as the drill’s success criterion (not the roll itself).
-
-### 6.8 Back Roll Sweep Drill (Prerequisite: Opponent Posts a Hand)
-- Start state
-  - Partner is heavy and lifting pressure makes it hard to lift them off the mat; partner is not using hands initially.
-- Repetition goal
-  - Create a hand post, then execute the back roll sweep while carrying the knee through the roll.
-- Sequence checkpoints
-  - Create the condition: drive/push to force the partner to use a hand for base.
-  - Once the post exists, initiate the back roll sweep.
-  - Key retention cue: carry the knee through the roll (“take the knee with you”).
-- Constraint
-  - If the partner is not posting, treat the sweep as not yet available; first create the post condition.
-
-### 6.9 Saddle Branch Drill (Heavy Middle Leg → Control Transfer to Far Leg → Base on Far Hip)
-- Start state
-  - Partner is very heavy on the middle leg; lifting that leg is difficult.
-- Repetition goal
-  - Take saddle on the far leg by switching scoop grip from the middle leg to the far leg with correct hip lift and base placement.
-- Sequence checkpoints
-  - Lift hips to clear the K Guard leg and create the space required for leg travel.
-  - Switch scoop grip from the middle leg to the far leg (control transfer is the central action).
-  - Establish a good base on the far hip; without this base the partner can smash the saddle.
-  - Use the lift-and-clear cycle to prevent the partner collapsing the entry as you switch targets.
-- Constraints
-  - Do not enter the saddle without far-hip base; entry without base is treated as structurally weak and smashable.
-  - Hip lift is treated as required to clear and transfer; skipping hip lift degrades entry quality.
-
-### 6.10 Triangle Mechanics Drill (Angle Gate + Head Control + Shin/Leg Placement)
-- Start state
-  - Upper-body exposure exists off K Guard configurations; triangle becomes available as a branch.
-- Repetition goal
-  - Establish triangle with correct placement and finish mechanics.
-- Checkpoints
-  - Keep head control (lifting the head is treated as a primary escape route).
-  - Place the knee pit so it hooks the neck line (precision placement requirement).
-  - Create angle before attempting to close and finish (grab your own shin; step on the hip to create angle).
-  - Arm positioning choice as shown
-    - Under-armpit option treated as lower risk.
-    - Under-leg option creates stronger angle but increases smash-pass risk.
-  - Finish mechanics cues
-    - Leg covers over the shoulder line.
-    - Knees point to the same side during final compression.
-    - Remove gaps by correct leg/heel positioning rather than squeezing a loose configuration.
-
-
-## 7.0 APPLICATION SCENARIOS
-
-### 7.1 Kneeling Opponent With Upright Posture (Clean Off-Balance Window)
-- Trigger / recognition
-  - Opponent kneeling with posture high enough that blade-of-foot placement to the ribs is available without needing a spacer first.
-- Objective
-  - Lift the opponent’s knee off the mat (permission to progress to rotation/routing).
-- Actions
-  - Place the blade of the foot to the ribs (not a lazy foot-on-hip placement).
-  - Pair lower-body push with upper-body pull to shift their base and lift the knee.
-  - Extend the working knee away from the chest to keep the lever strong and prevent collapse.
-- Success criteria
-  - Knee comes off the mat and the opponent’s base is disrupted enough that continuation is stable.
-- Failure modes / fixes
-  - Foot cannot be placed cleanly because posture drops mid-entry.
-    - Switch immediately to the knee-shield spacer sequence (see 7.2) rather than forcing the same entry.
-
-### 7.2 Kneeling Opponent Leaning Forward (Foot Placement Denied Until Space Is Made)
-- Trigger / recognition
-  - Opponent’s chest/head drops forward and blocks clean blade-of-foot placement to the ribs.
-- Objective
-  - Create space first, then re-run the off-balance.
-- Actions
-  - Insert a knee shield to create the distance required for correct blade-of-foot placement.
-  - Place the blade of the foot on the ribs from the created distance.
-  - Keep extending the controlling knee away from the chest so the lever stays strong and does not collapse.
-  - Run push/pull to lift the knee off the mat.
-- Constraints
-  - Do not proceed to “go around” offense while the knee is still planted and stable.
-- Success criteria
-  - You can keep the leg “in place” while off-balancing, and the knee lifts off the mat.
-
-### 7.3 Opponent Uses Combat Base (Going Around Is Weak Until Structure Changes)
-- Trigger / recognition
-  - Opponent kneeling but switching to combat base to resist off-balance and/or to punish rotation attempts.
-- Objective
-  - Prevent weak “go around” attempts; change structure and re-open the off-balance window.
-- Actions
-  - Treat early “go around” as structurally weak in combat base and do not commit to it.
-  - Use the knee shield and come up (posture change) instead of staying flat and trying to rotate around a stable base.
-  - Use the knee shield plus upper-body connection (gable-grip framing described in transcript) to change the angle of the opponent’s shin and disrupt base.
-  - Lift the hips as part of the structural adjustment when the opponent’s weight pins the primary battle.
-- Success criteria
-  - The opponent’s shin angle and base are altered enough that attacks can be set up again (knee begins to become liftable / base becomes movable).
-- Failure modes / fixes
-  - Staying flat and “stubbornly” pushing while their base remains stable.
-    - Switch to the “knee shield + come up” solution immediately.
-
-### 7.4 Opponent Closes Distance To Staple Your Leg (Half Guard / Reverse DLR Collapse Attempt)
-- Trigger / recognition
-  - Opponent steps closer and begins to collapse distance to force you into half guard or reverse DLR-like containment.
-- Objective
-  - Win the anti-collapse race: insert the knee to the chest and acquire the scoop grip immediately.
-- Actions
-  - Bring the knee to the chest as the opponent steps in (prevents easy stapling angle).
-  - Go immediately for the scoop grip (explicit “no K guard without the scoop grip” constraint appears in transcript).
-  - Use the hand to stop the opponent’s foot/ankle from coming closer to your hips when they step forward.
-  - Rebuild the two-grip structure shown (scoop + secondary control) before attempting to progress.
-- Success criteria
-  - Scoop grip is established while distance is managed, and the opponent cannot force the collapse into half guard/reverse DLR containment.
-- Failure modes / fixes
-  - Attacking while “holding nothing” on the leg.
-    - Treat this as an immediate reset to scoop acquisition rather than continuing offense.
-
-### 7.5 Opponent Backsteps Out of the Entanglement (Backstep Is the Main Problem)
-- Trigger / recognition
-  - You reach a strong lower-body finishing structure and the opponent attempts to backstep to change geometry and escape.
-- Objective
-  - Prevent or neutralize the backstep by changing your body orientation and lower-body structure, then continue to exposure/finish.
-- Actions (prevention/neutralization sequence described in transcript)
-  - Use the lower body as described rather than “turning the knee down” into a weaker configuration.
-  - Scissor/cross the legs to place the knees at (or close to) the same level and shift the opponent’s knee off the mat onto your bottom hip.
-  - Turn the chest to face the mat and extend the lower body (knee extension away from the chest) to reduce the opponent’s ability to backstep freely.
-  - Re-run exposure from this stabilized structure; continuation may route into the frontside finishing scenario depending on the resulting alignment.
-- Success criteria
-  - The opponent cannot sit back and re-base via backstep; heel exposure becomes achievable without losing control.
-- Failure modes / fixes
-  - Allowing the opponent to backstep before your scissoring/extension structure is in place.
-    - Prioritize leg structure first (knees level + chest-to-mat orientation + extension), then return to exposure.
-
-### 7.6 Opponent Backsteps While You Have Heel/Leg Control (Backstep → Backside 50/50 → Reverse Aoki)
-- Trigger / recognition
-  - Opponent backsteps during the entanglement while you are controlling the leg/heel line.
-- Objective
-  - Use the backstep as the trigger to transition into backside 50/50 and apply reverse Aoki mechanics.
-- Actions (timing + mechanics checkpoints from transcript)
-  - As the backstep begins, wait for the leg timing and capture the ankle.
-  - Go deeper with the leg position and use the capture to enter backside 50/50.
-  - Choose the reverse Aoki option from the backside 50/50 hub when appropriate.
-  - Create distance first (distance is identified as the first requirement before exposure).
-  - Expose the heel by moving the ribcage back (explicit constraint: do not “open the chest” to expose).
-  - Finishing alignment cue: thumb points to the chest during reverse Aoki.
-  - If the opponent is very tall, move the hips back to maintain exposure and alignment.
-  - Finish by moving the elbow back once exposure is achieved.
-- Opponent escape model (explicit in transcript)
-  - Primary escape cue referenced: extending the leg.
-- Success criteria
-  - You maintain attachment through the backstep, create the required distance, expose without opening the chest, and apply the finishing alignment.
-- Failure modes / fixes
-  - Trying to expose by opening the chest forward.
-    - Replace with ribcage-back space creation before attempting to lock.
-
-### 7.7 Heavy Opponent Who Refuses To Post Hands (Upper-Body Attacks Hard → Back Roll Sweep Branch)
-- Trigger / recognition
-  - Opponent is very heavy on the primary leg and is not using hands for base; upper-body attack setup is difficult.
-- Objective
-  - Create a basing hand, then execute the back roll sweep while carrying the knee through the roll.
-- Actions
-  - Recognize the constraint: if they are not posting, upper-body setup is difficult and the roll is not yet “available.”
-  - Force the condition by making them base with an arm (explicit prerequisite).
-  - Once they post, roll over the right shoulder as described.
-  - Carry the knee through the roll (“take the knee with you”) so it is difficult for them to win the post-roll battle and stay on top.
-- Success criteria
-  - You achieve the roll with the knee carried through, and the opponent cannot remain on top after the transition.
-- Failure modes / fixes
-  - Rolling without first creating the post.
-    - Re-run the prerequisite creation until the post exists.
-
-### 7.8 Heavy Base Prevents Knee Lift (Lower-Body Stall → Shotgun Armbar → Triangle If Armbar Not There)
-- Trigger / recognition
-  - You are going for the leg but cannot lift the knee off the mat due to heavy base.
-- Objective
-  - Switch to an upper-body punishment sequence that does not require lifting the knee.
-- Actions (shotgun armbar branch)
-  - Lift the hips instead of continuing to fight for knee lift.
-  - Move upper body back to expose the opponent’s elbow on your ribs (explicit positioning outcome).
-  - Adjust the wrist into the armpit (explicit adjustment checkpoint).
-- Triangle branch (when armbar is “not there”)
-  - If the armbar is not available, place the knee to the armpit line and put the thigh on top of the neck line.
-  - Create a greater angle (explicit requirement) and go up with the hips to improve control.
-  - Treat head lift as the easiest escape route; keep the head controlled as the triangle is built.
-- Success criteria
-  - You convert the stall into a reliable upper-body attack sequence without losing the control that made the branch possible.
-- Failure modes / fixes
-  - Continuing to insist on knee lift when base remains heavy.
-    - Switch immediately to hip-lift-based upper-body entry (armbar/triangle decision).
-
-
-## 8.0 FOUR-WEEK CURRICULUM
-
-### 8.1 Week 1 — Volume 1: Structure, Gates, and Entries
-- Primary outcomes to build
-  - Win and hold K Guard structure without collapse into half guard.
-  - Win knee-off-the-mat off-balancing before attempting any rotation-based offense.
-  - Rebuild structure from multiple starting positions (seated, supine, north-south, reverse DLR).
-- Technical focus (order is gating-based)
-  - K Guard structural gates
-    - Bottom knee hidden behind the elbow line (avoid flaring knee outside elbow).
-    - Knees separated (avoid pinching knees together).
-    - Secondary leg actively used as a barrier (do not allow easy step-in/staple).
-    - Under-knee control acquired (scoop/reverse scoop concept).
-  - Off-balance gate (knee-off-the-mat)
-    - Upright posture: blade-of-foot placement to ribs + push/pull to lift knee.
-    - Forward posture: knee shield to create distance → blade-of-foot placement → push/pull.
-    - Heavy base: hip lift and structural rebuild rather than “going around” early.
-  - Entry families
-    - Seated lower-body entry sequence (hip close → far-hip extension → stop foot closing to hips → immediate under-knee control).
-    - Seated upper-body bridge entry when leg access is denied (upper-body control → create space → reacquire under-knee control).
-    - Supine entry emphasis on preventing early two-hand control on both legs (asymmetry principle) and rebuilding low-leg retention to reach under-knee access.
-    - Lasso as a safety wedge when the bottom-leg battle is lost (frame → lasso wedge → rebuild entry).
-    - North-south conversion (frame → insert barrier → foot inside → rebuild to under-knee control).
-    - Reverse DLR conversion (solve head distance to free bottom leg → extend to far hip → immediate under-knee control).
-- Drilling progression (constraint-based)
-  - Structure gate drill with immediate resets on gate failures (knee outside elbow, knees pinched, barrier leg passive).
-  - Off-balance gate drill with posture-based variations (upright vs leaning vs combat base).
-  - Scoop recovery drill (loss of under-knee control triggers immediate recovery before offense).
-  - Entry ladder rounds: each rep must end in the same gated K Guard structure before any routing choice is attempted.
-
-### 8.2 Week 2 — Volume 2: Backside Lane (Backside 50/50 Hub + Reaction Tracking)
-- Primary outcomes to build
-  - Route to backside when opponent orientation makes it available and stabilize backside 50/50 as the hub.
-  - Maintain attachment through backstep/high-backstep reactions (follow hips, do not reset).
-  - Add secondary threats (reverse Aoki) and conditional back exposure routes (matrix/X-hook) without forcing denied entries.
-- Technical focus (hub + reactions)
-  - Backside entry conditions and attachment priorities
-    - Backside access is treated as a triggered lane; attachment precedes completion (do not lose hip connection chasing hooks).
-  - Backside 50/50 as the hub
-    - Enter off the K Guard structure after gates are won (off-balance + control).
-    - If secondary leg is pinned/controlled, clear the pin before finalizing the hub.
-  - Inside heel hook development from hub (control-first sequencing)
-    - Stabilize entanglement before chasing heel exposure.
-    - Use consolidation (double 50/50) when mirrored/contested rather than losing the exchange.
-  - Backstep/high-backstep handling
-    - Backstep is treated as a primary opponent reaction; follow hip rotation rather than letting separation reset the position.
-  - Reverse Aoki branch (reaction-linked)
-    - Use backstep timing as the trigger for grip/position changes described in the transcript (distance first; exposure without opening the chest; alignment cueing).
-  - Matrix/X-hook routes (condition-dependent)
-    - Matrix is treated as available only when behind-knee control is available; denial triggers routing change rather than forcing.
-    - X-hook sequences used to create leg drag and back exposure with controlled build-up (no disconnected stand-up).
-- Drilling progression (hub retention)
-  - Backside 50/50 hub entry reps with a “secondary leg pinned” starting constraint (must clear before hub completion).
-  - Backstep follow rounds: partner backsteps on cue; bottom must maintain attachment and arrive in a stable continuation.
-  - Reverse Aoki reps starting from backstep trigger timing (distance-first and exposure constraints enforced).
-  - Conditional entry drill: partner denies behind-knee hook; bottom must route away (no forced matrix attempts).
-
-### 8.3 Week 3 — Volume 3: Frontside Lane (Angle-First Outside Leg Locks + Dilemmas)
-- Primary outcomes to build
-  - Route frontside when backside hooks are denied and achieve same-direction alignment as a hard gate.
-  - Run outside-leg-lock threats (Aoki/outside heel hook) from a stable aligned hub with off-balancing to prevent heavy stepping.
-  - Use threat cycling and leg-switch dilemmas to create sweep branches when defense over-commits.
-  - Add heavy-base solutions (backroll prerequisite; saddle branch logic) when knee-lift stalls.
-- Technical focus (alignment + dilemmas)
-  - Frontside entry conditions
-    - Denial signals trigger frontside routing (knee opened; behind-knee/matrix-style attachment unavailable).
-  - Angle creation as the gate for outside leg locks
-    - Same-direction facing treated as prerequisite; hip switching used to create the alignment while maintaining control grips.
-    - Mobility constraint: excess tension in the non-driving leg is treated as a limiter to rotation; relaxation supports clean alignment.
-  - Aoki and outside heel hook lines
-    - Shared requirement: alignment first, control first, then finishing line selection.
-    - Belly-down completion treated as a reaction-dependent completion path, not a default.
-  - Off-balancing within the aligned hub
-    - Forward/backward off-balancing used to stop the opponent stepping heavy and collapsing the position.
-  - Threat cycling and leg switch
-    - Cycling threats while keeping the hub (do not reset).
-    - Leg switch as a dilemma that can branch to sweep when defense commits.
-  - Heavy-base branches
-    - Backroll sweep requires a posted hand; carry the knee through the roll.
-    - Saddle branch framed as control transfer to far leg under heavy middle-leg pressure with hip lift and far-hip base placement.
-- Drilling progression (gates enforced)
-  - Angle gate drill: partner denies backside; bottom must achieve same-direction alignment before any finish attempts.
-  - Off-balance integration: aligned hub maintained while running forward/backward off-balancing to prevent stepping collapse.
-  - Threat cycling rounds: cycle between aligned threats without losing alignment; if alignment fails, reset to angle creation rather than forcing.
-  - Backroll prerequisite drill: reps only “count” if the post condition is created first and the knee is carried through the roll.
-  - Saddle branch reps with strict constraints (hip lift + far-hip base placement required before proceeding).
-
-### 8.4 Week 4 — Volume 4: Upper-Body Overlay (Shotgun Armbar + Triangle + Reaction Punishments)
-- Primary outcomes to build
-  - Convert stalled lower-body progress into upper-body attacks without abandoning the structural connection that created the opening.
-  - Execute shotgun armbar with the transcript’s key checkpoints (hip lift, armpit-foot shoulder control, alignment-first finishing).
-  - Execute triangle setup/finish with head-control and placement constraints (knee pit to neck; angle creation before finishing; compression rules).
-- Technical focus (reaction-based selection)
-  - Upper-body trigger logic
-    - Heavy base / stalled knee-lift battle becomes a trigger to branch to upper-body rather than forcing low-value rotation.
-  - Shotgun armbar (core line + invariants across variations)
-    - Hip lift to create space and isolate the elbow line.
-    - Foot-in-armpit shoulder control to prevent extraction.
-    - Finishing alignment set before ripping grips (orientation cues as described).
-    - Maintain hip height until isolation is secure (avoid dropping hips early).
-  - Triangle setup and finish
-    - Head control treated as a retention rule (head-lift escape prevention).
-    - Placement: knee pit hooks the neck line; leg must cover over the shoulder line.
-    - Angle creation sequence: shin control + step on hip to create angle before closing.
-    - Compression: knees point to the same side; remove gaps with correct leg/heel action rather than squeezing a loose configuration.
-    - Arm position selection is treated as a risk trade-off (under-armpit lower risk vs under-leg higher angle/higher smash risk) as described in transcript.
-  - Post/frame punishments (sweep/lock branches)
-    - Posts/frames that appear during leg defense are treated as triggers for upper-body punishments rather than separate unrelated attacks.
-- Drilling progression (branching under constraints)
-  - Heavy-base scenario rounds: partner commits heavy base; bottom must choose upper-body branch and hit the defined checkpoints.
-  - Armbar invariant reps: rotate through resistance/grip looks; finish must preserve the same isolation/alignment checkpoints.
-  - Triangle finish checklist reps: head control maintained throughout; placement and compression constraints enforced.
-
-- Coverage incomplete due to missing or insufficient transcript content.
-
-
-## Annex A – Extracted Key Passages
-
-- K Guard structural prerequisite
-  - No K Guard progression is treated as valid without establishing the scoop grip / under-knee control connection.
-
-- First battle framing
-  - The knee-off-the-mat battle is treated as the first decisive gate; rotation-based offense is delayed until the opponent’s knee is lifted/off-balanced.
-
-- Foot placement constraint for off-balancing
-  - Blade-of-foot placement to the ribs is treated as the preferred off-balancing lever; if posture denies placement, space must be created first (knee shield) before re-placing.
-
-- Combat base warning
-  - “Going around” early against a combat-base posture is treated as structurally weak; change the structure (knee shield + come up / hip lift) before attempting to progress.
-
-- Anti-collapse rule
-  - Under-knee control (scoop) is treated as the primary anti-collapse mechanism that prevents the opponent from grabbing/stapling the leg into half guard.
-
-- Supine guard principle
-  - Pointing both legs in the same direction is treated as allowing the opponent easy two-hand control on both legs; asymmetry (one up/one down) is used to reduce early grip domination.
-
-- Lasso as safety wedge
-  - When the bottom-leg battle is lost, lasso is used as an immediate safety wedge to stop collapse and rebuild entry alignment back toward K Guard.
-
-- Backstep as the central opponent reaction
-  - Backstep is treated as the main problem to solve in the leg entanglement; prevention and follow mechanics are built specifically to deny clean disengagement.
-
-- Backstep prevention cue
-  - Turning the chest toward the mat and extending the lower body is used to reduce the opponent’s ability to freely backstep and re-base.
-
-- Backstep follow constraint
-  - When the backstep begins, attachment is treated as the priority; follow the hips through the geometry change rather than accepting separation and resetting.
-
-- Reverse Aoki sequencing priorities
-  - Distance creation is treated as the first requirement before heel exposure.
-  - Heel exposure is created by moving the ribcage back rather than “opening the chest.”
-  - Finishing alignment cue: thumb points toward the chest during the reverse Aoki configuration.
-
-- Heavy base branch prerequisite
-  - Back roll sweep is treated as unavailable until the opponent posts a hand; the post is created first, then the roll is executed.
-
-- Back roll sweep retention cue
-  - Success requires carrying the opponent’s knee through the roll (“take the knee with you”) to prevent the opponent stabilizing and staying on top.
-
-- Saddle branch condition
-  - When the opponent is very heavy on the middle leg and the primary knee-lift battle stalls, control is transferred to the far leg as the entry to the saddle branch.
-
-- Saddle entry constraints
-  - Hip lift is used to clear space for the leg travel and reduce smash pressure during entry.
-  - A stable base on the far hip is treated as required; without it the saddle entry is smashable.
-
-- Shotgun armbar entry logic
-  - When heavy base stalls lower-body progress, hip lift is used to create the space needed to isolate the elbow line for the armbar.
-
-- Armbar finishing alignment rule
-  - Wrist/hand orientation is treated as a prerequisite for the finish; poor alignment allows the elbow to rotate out and survive.
-
-- Triangle setup priorities
-  - Head control is treated as a primary retention rule because head lift is a primary escape route.
-  - Angle creation precedes finishing attempts (shin control + step on hip to create the angle).
-
-- Triangle finishing mechanics cues
-  - Knee pit placement must hook the neck line precisely.
-  - Leg must cover over the shoulder line.
-  - Knees point to the same side during compression to remove the finishing gap.
-
-
-## Annex B – Terminology
-
-- K Guard
-  - Definition: An open-guard structure built around a primary leg connection and rotational mobility, with strict structural gates that must be satisfied before offense.
-  - Usage context: Used as the core platform for routing into backside and frontside attack lanes and for branching into upper-body punishments when lower-body progress stalls.
-
-- Knee-off-the-mat
-  - Definition: The off-balance condition where the opponent’s knee is lifted from the mat, indicating their base is compromised enough to permit rotation-based progressions.
-  - Usage context: Treated as the first major gate; if the knee is still planted/heavy, offense is delayed and structure/off-balance is rebuilt.
-
-- Off-balance
-  - Definition: A base disruption created by coordinated push/pull and alignment control, used to lift the knee and destabilize posture/stance.
-  - Usage context: Built with blade-of-foot placement to ribs plus upper-body pull; if posture denies placement, a knee shield spacer is used first.
-
-- Blade-of-foot placement
-  - Definition: Using the edge of the foot as a firm lever on the opponent’s ribs to generate effective push for off-balancing.
-  - Usage context: Preferred lever for the knee-lift battle; contrasted with weaker, less precise placements.
-
-- Knee shield
-  - Definition: A spacing frame created with the shin/knee line to keep pressure off and create the distance needed to insert stronger levers.
-  - Usage context: Inserted when opponent leans forward/heavy and denies blade-of-foot placement; used to re-create the off-balance window.
-
-- Scoop grip
-  - Definition: Under-knee control connection used to anchor the opponent’s leg and prevent collapse into half guard.
-  - Usage context: Presented as a non-negotiable control gate (“no K guard without the scoop grip”); loss of scoop triggers immediate recovery before attacking.
-
-- Reverse scoop grip
-  - Definition: A secondary under-knee control configuration used when standard scoop access is contested or when the opponent’s grip fight changes the leg angle.
-  - Usage context: Appears as part of the secondary-leg/secondary-control layer that stabilizes structure and supports “go-around” progressions.
-
-- Secondary leg / second barrier
-  - Definition: The non-primary leg used as an active barrier to prevent stepping, stapling, and collapse while the primary connection and routing are built.
-  - Usage context: Treated as a structural requirement; placement adjusts based on whether you’re winning the off-balance battle or defending against leg stapling.
-
-- Knee hide (knee behind elbow line)
-  - Definition: Structural rule keeping the bottom knee hidden behind the elbow line rather than flared outside.
-  - Usage context: Treated as a guard integrity constraint; breaking this rule invites stuffing/collapse/counters during rotation attempts.
-
-- Knee separation (anti-knee-pinch)
-  - Definition: Structural rule keeping knees apart to preserve hip mobility and prevent easy collapse/disengage.
-  - Usage context: Mentioned as a guard integrity constraint; pinching knees together is treated as making the position easier to shut down.
-
-- Backside
-  - Definition: Routing lane where you attack by accessing positions behind the opponent’s hip line as they turn away/run.
-  - Usage context: Selected when opponent orientation exposes backside access; feeds the backside 50/50 hub and inside-heel-hook development.
-
-- Frontside
-  - Definition: Routing lane where you attack facing the same direction as the opponent, used when backside hooks are denied.
-  - Usage context: Selected when the opponent opens the knee and prevents behind-knee attachments; built around angle creation for outside leg locks.
-
-- Backside 50/50
-  - Definition: A hub entanglement used to stabilize control and generate primary finishing lines in the backside lane.
-  - Usage context: Central hub for inside heel hook threats and transitions; platform for following backsteps while maintaining attachment.
-
-- Double 50/50
-  - Definition: A stabilization/consolidation configuration used when the entanglement becomes mirrored/contested.
-  - Usage context: Used to prevent escape and re-open finishing opportunities when direct lines degrade.
-
-- Inside heel hook
-  - Definition: Primary finishing family developed from backside hub control.
-  - Usage context: Built with control-first sequencing from backside 50/50; includes alternate completion geometry when opponent rotation changes the line.
-
-- Reverse Aoki
-  - Definition: A complementary lower-body locking family used as a secondary threat in the backside lane.
-  - Usage context: Often tied to backstep timing; includes explicit sequencing constraints (distance first; exposure without “opening the chest”; alignment cue).
-
-- Backstep / high backstep
-  - Definition: Defensive geometry change where the opponent steps around to clear entanglement or change alignment.
-  - Usage context: Treated as the main problem to solve; requires either preventive structure (chest-to-mat + extension) or follow mechanics (stay attached and track hips).
-
-- Chest-to-mat orientation
-  - Definition: Turning the torso toward the mat to reduce the opponent’s ability to backstep freely and re-base.
-  - Usage context: Used as part of the anti-backstep control response, paired with lower-body extension.
-
-- Matrix
-  - Definition: A backside control/transition route that depends on successful behind-knee attachment.
-  - Usage context: Condition-dependent; if behind-knee hook is denied and only side-of-knee access exists, forcing it is treated as low value and routing changes.
-
-- X-hook
-  - Definition: A hooking configuration used to control the leg line and connect to leg-dragging and back exposure routes.
-  - Usage context: Leads into leg drag and backtake progressions; requires connection maintenance during build-up.
-
-- Leg drag
-  - Definition: A dragging mechanic from X-hook control used to create back exposure and positional advantage.
-  - Usage context: Treated as a route to back takes when the leg line can be controlled and moved across.
-
-- Angle creation (frontside)
-  - Definition: The process of achieving same-direction alignment with the opponent as a prerequisite for outside leg locks.
-  - Usage context: Treated as the foundational gate in the frontside lane; achieved via hip switching while maintaining knee/ankle control.
-
-- Same-direction alignment (“same way”)
-  - Definition: Facing the same direction as the opponent, enabling structurally valid outside leg lock mechanics.
-  - Usage context: Treated as a hard prerequisite; outside leg locks are considered low value without it.
-
-- Aoki lock
-  - Definition: Frontside outside-leg-lock family run from an aligned hub, with multiple finishing lines.
-  - Usage context: Includes inside/outside variations and a belly-down completion pathway when opponent reaction presents it.
-
-- Belly-down completion
-  - Definition: Finishing orientation where the attacker rotates belly-down as part of completing a lock line.
-  - Usage context: Treated as reaction-dependent rather than default; used when defensive rotation opens the pathway.
-
-- Outside heel hook
-  - Definition: Outside-leg-lock finishing family used in the frontside lane once alignment is achieved.
-  - Usage context: Presented with inside/outside line switching based on defense while preserving the aligned hub.
-
-- Threat cycling / combining submissions
-  - Definition: Maintaining the same hub alignment while switching between finishing lines to create dilemmas.
-  - Usage context: Used to avoid resets; the hub is preserved while threats alternate based on the opponent’s defense.
-
-- Leg switch
-  - Definition: A switching action that changes the leg configuration to create a dilemma between submission line improvement and sweep.
-  - Usage context: Used when defense over-commits; can branch into sweep outcomes.
-
-- Far Side K
-  - Definition: A frontside control/transition concept that links into reverse X-style mechanics for sweeps and build-ups.
-  - Usage context: Used as a positional bridge from K Guard attack structure into reverse X and wrestle-up style outcomes.
-
-- Reverse X
-  - Definition: A leg control configuration connected via Far Side K that manages base and supports sweeps/build-ups.
-  - Usage context: Used to prevent step-through pressure and to enable controlled elevation and positional progression.
-
-- Wrestle-up / build-up
-  - Definition: A controlled rise from the guard while maintaining meaningful leg/hip connection to finish sweeps or take the back.
-  - Usage context: Emphasized as “under control,” avoiding disconnected stand-ups that let the opponent re-face and clear.
-
-- Back roll sweep
-  - Definition: A heavy-base solution sweep executed via shoulder roll once the opponent posts a hand.
-  - Usage context: Requires the prerequisite of a posted hand; success depends on carrying the opponent’s knee through the roll.
-
-- Saddle
-  - Definition: Alternate entanglement branch used when heavy base on the middle leg makes the primary battle low value, shifting control to the far leg.
-  - Usage context: Entered via control transfer (middle leg to far leg) with hip lift and far-hip base placement as key constraints.
-
-- Shotgun armbar
-  - Definition: Upper-body submission line used as a punishment when lower-body progress stalls, emphasizing hip lift and shoulder control for isolation.
-  - Usage context: Treated as the flagship upper-body branch; finishing requires alignment-first sequencing (hand/wrist orientation checks).
-
-- Triangle
-  - Definition: Upper-body submission branch used when armbar line is not available, emphasizing head control, placement precision, and angle creation.
-  - Usage context: Includes explicit retention/finish constraints (knee pit placement to neck line; angle creation before closure; compression cues).
-
-- Flower sweep
-  - Definition: Upper-body-driven sweep branch that punishes defensive posts/frames.
-  - Usage context: Triggered when the opponent commits a post while defending lower-body progress.
-
-- Mirlock
-  - Definition: Upper-body lock/punishment option presented as a reaction-based branch.
-  - Usage context: Treated as an alternate response to defensive structures without abandoning the lower-body connection.
-
-- Choibar
-  - Definition: Upper-body submission branch included as an additional reaction-based option.
-  - Usage context: Presented alongside shotgun armbar/triangle as part of the upper-body overlay.
-
-- Lasso
-  - Definition: A safety wedge structure used to stabilize when the bottom-leg retention battle is lost.
-  - Usage context: Used as a bridge to rebuild entry structure and re-access K Guard rather than as an endpoint.
-
-
-## Annex C – Additional Notes
-
-- System spine is “gates → routing → outcomes,” not a linear technique list.
-  - Gates are treated as hard prerequisites: if the gate is not satisfied, the solution is to rebuild the gate rather than forcing the next step.
-  - Routing is treated as conditional and opponent-driven: backside is taken when available; frontside is used when denial signals appear.
-
-- “No K guard without the scoop grip” is a governance rule, not a preference.
-  - The scoop grip is framed as the primary anti-collapse control that stops the opponent’s easiest shutdown (grabbing/stapling into half guard).
-  - Practical training implication: the moment the scoop is lost should be trained as an automatic state change (offense pauses; recovery sequence begins).
-
-- Knee-off-the-mat is treated as the first battle that determines whether rotation is safe.
-  - The system repeatedly frames knee-off-the-mat as permission to “go around.”
-  - Practical training implication: build explicit training rounds where the only win condition is lifting the knee; no attacks allowed until the knee lifts.
-
-- The “secondary leg barrier” is treated as a structural requirement with adaptive placement.
-  - Secondary leg is not decorative; it is framed as the second barrier that prevents stepping and collapse while primary control is being built.
-  - Practical training implication: include barrier-leg-only rounds where the partner’s primary goal is to step in and staple, and your goal is to keep the barrier functional while you rebuild scoop.
-
-- Supine entry notes emphasize grip denial and asymmetry.
-  - Pointing both legs in the same direction is framed as an error because it enables easy two-hand control.
-  - Practical training implication: supine entry reps should start with the opponent trying to secure two grips; your job is to prevent it through asymmetry and framing before you attempt K Guard entry.
-
-- Lasso is framed as a rescue wedge, not a separate system.
-  - Lasso appears explicitly as a stabilizing bridge when bottom-leg retention is compromised.
-  - Practical training implication: treat lasso as a “safety switch” sequence: if bottom-leg battle is lost, immediately stabilize with lasso, then rebuild the K Guard entry gates.
-
-- Backstep is treated as the primary defensive macro-reaction that must be anticipated.
-  - The system frames backstep as the main reason otherwise strong leg positions fail.
-  - Two solutions are repeatedly indicated:
-    - Prevention: body orientation and extension (chest-to-mat + lower-body extension) to reduce backstep freedom.
-    - Follow: when backstep begins, maintain attachment and track hip rotation rather than accepting separation.
-  - Practical training implication: run constraint rounds where the top’s only objective is to backstep and disengage and the bottom’s only objective is to prevent or follow without losing connection.
-
-- Heavy base is treated as a branch trigger (not a reason to force the same battle).
-  - When knee-off-the-mat cannot be won, the system points to heavy-base alternatives that have prerequisites.
-  - Back roll sweep is explicitly condition-based: it requires the opponent to post a hand and requires carrying the knee through the roll.
-  - Saddle is treated as a structured alternative that depends on control transfer and far-hip base placement.
-  - Practical training implication: train heavy-base branches as conditional plays with explicit “availability checks” (post exists? far-leg capture available?).
-
-- Upper-body overlay is framed as punishment for predictable leg-defense structure, not as unrelated attacks.
-  - When lower-body progress stalls (heavy base/defensive posture), upper-body routes appear as high-value punishments.
-  - Shotgun armbar is framed around isolation mechanics and alignment-first finishing; triangle is framed around head control and angle creation.
-  - Practical training implication: include “stall-to-punish” rounds where the bottom’s only allowed attacks are upper-body branches once a stall trigger appears (e.g., inability to lift knee for X seconds).
-
-- The system’s “do not” rules are execution-critical and should be treated as acceptance criteria.
-  - Do not progress to rotation offense while knee is planted/heavy.
-  - Do not attack without under-knee control (scoop).
-  - Do not allow knee flare outside the elbow line.
-  - Do not pinch knees together.
-  - Do not expose heel by opening the chest in reverse Aoki contexts; expose by moving ribcage back.
-  - Practical training implication: enforce hard resets when these violations occur to make the rules automatic.
-
-
-## Annex D – Master System Diagram (ASCII)
-
-### D.1 Legend (Conventions)
-- Hubs: [HUB]
-- Outcomes/end states: (OUTCOME)
-- Transitions: A -> B
-- Mutually exclusive primary branches: {OR}
-
-### D.2 Macro System Map (Gates -> Routing -> Outcomes)
-~~~text
-+----------------------+
-|  [OPEN GUARD CONTACT]|
-+----------+-----------+
-           |
-           v
-+----------------------+
-| [K GUARD STRUCTURE]  |
-|  Gates (must hold):  |
-|  - scoop / under-knee |
-|  - knee behind elbow  |
-|  - knees separated    |
-|  - secondary leg = bar|
-+----------+-----------+
-           |
-           v
+  - Failure: accepting a shallow/low heel control that lets the heel re-enter.
+    - Correction cue: elevate the primary hand with secondary support; maintain forearm-based heel control that blocks re-insertion.
+
+#### 6.3.3 Aoki Lock – Belly Down (Weight-Above Trigger + Finish Direction)
+
+- Entry condition(s)
+  - The opponent’s body weight is directly above you and the standard line is compromised; the system routes to a belly-down finish direction.
+- Primary controls
+  - Use the same angle-preservation logic (go underneath / follow) to keep the heel line, then drop belly down as the finishing direction when weight is stacked above.
+- Structure rules / acceptance criteria
+  - Belly-down is treated as a primary option when:
+    - The opponent’s weight is directly above you (you need a different finishing vector).
+    - You can keep heel access but cannot finish cleanly while staying square/under stacked pressure.
+- Opponent main counters (as described)
+  - Stacking weight directly above to stall the standard finishing line.
+- Primary continuations
+  - If weight stacks above: route belly-down and immediately attack the belly-down Aoki line rather than forcing a weaker vector.
+- Common failure patterns + correction cues
+  - Failure: trying to finish in-place while weight is directly above.
+    - Correction cue: switch to belly-down finishing direction when the weight-above trigger occurs.
+
+#### 6.3.4 Aoki Lock – Outside (Outside Ashi Facing Alignment)
+
+- Entry condition(s)
+  - You switch to outside ashi and face the same direction as the opponent, enabling the outside-Aoki alignment without losing angle.
+- Primary controls
+  - Outside ashi facing alignment + backheeling / going underneath as needed to preserve angle when the opponent moves/steps back.
+- Structure rules / acceptance criteria
+  - When the opponent attempts to step the foot to the mat (to stabilise/escape), deny that step by:
+    - Maintaining the angle.
+    - Backheeling and going underneath to keep the leg line controlled.
+- Opponent main counters (as described)
+  - Stepping the foot to the mat to stabilise and clear the line.
+- Primary continuations
+  - Maintain angle -> deny the step -> secure Aoki control line -> continue to finishing or to off-balance branch when the opponent creates space.
+
+#### 6.3.5 Off-Balance Forward (When Head/Weight Line Allows)
+
+- Entry condition(s)
+  - You have two legs controlling and the opponent’s alignment allows forward unbalancing (head not “too high,” forward pressure line available).
+- Primary controls
+  - Two-leg control creates an easy forward unbalance when the opponent’s posture is available.
+- Structure rules / acceptance criteria
+  - Forward unbalance is not always available; it is conditional on the opponent’s head/weight distribution.
+  - If the opponent’s head is high and they are not moving forward, forward unbalance is not the primary answer (route to backward unbalance instead).
+- Opponent main counters (as described)
+  - Head high posture that removes forward unbalance opportunity.
+- Primary continuations
+  - If forward unbalance is available: use it to create a positional advantage for the next attack layer (reposition / leglock line).
+
+#### 6.3.6 Off-Balance Backward (Default When Forward Is Denied)
+
+- Entry condition(s)
+  - Forward unbalance is denied because the opponent’s head is high / posture prevents forward loading.
+- Primary controls
+  - Backward unbalancing to create a reaction that opens repositioning and angle recovery.
+- Structure rules / acceptance criteria
+  - When forward is not available, backward becomes the setup:
+    - “Unbalance backwards” to force the opponent’s step/clear reaction.
+    - Use that reaction to reposition and re-establish the correct angle for the next attack.
+- Opponent main counters (as described)
+  - Maintaining high head posture to prevent forward unbalance.
+  - Clearing/stepping as the reactive defence once you unbalance.
+- Primary continuations
+  - Backward unbalance -> opponent clears/steps -> follow and create angle -> re-enter the frontside gate (Aoki / outside heel hook / leg switch).
+
+#### 6.3.7 Outside Heel Hook – Inside Angle (Outside Ashi, Inside Angle Variant)
+
+- Entry condition(s)
+  - You have inside angle from outside ashi and can begin outside heel hook collection.
+- Primary controls
+  - Foot distance rule: do not keep the opponent’s foot very close to your body when collecting (distance improves toe/heel control).
+  - Upper body connection rule: move head closer to the opponent to strengthen upper-body connection.
+  - Toe position rule: do not allow toes in the armpit (reduces ability to bend toes / lift heel effectively).
+  - Grip options
+    - Primary preference: a grip that moves the opponent’s foot farther from your body (reduces closeness and makes toe capture easier).
+    - Alternate: C-grip on the ankle is listed as an option.
+- Structure rules / acceptance criteria
+  - Thumb orientation: when catching the heel/toes, point the thumb to the mat (avoid catching with thumb facing the wrong direction).
+  - Heel collection shape: close the elbow so the opponent cannot easily slip the heel; correct collection looks like the opponent is “stepping on” your biceps.
+  - If elbow is open, heel slip becomes likely; elbow closure is treated as a non-negotiable.
+- Opponent main counters (as described)
+  - Slipping the heel when your elbow is open or your collection is shallow.
+- Primary continuations
+  - If foot is too close: re-create distance -> capture toes with elbow -> collect heel -> close elbow -> apply lower body finishing pressure.
+  - If heel begins to slip: re-collect with thumb-to-mat orientation and re-close the elbow.
+
+#### 6.3.8 Outside Heel Hook – Outside Angle (Angle/Reaction Dependent)
+
+- Entry condition(s)
+  - You have the outside heel hook line but the finishing choice depends on angle and the opponent’s reaction.
+- Primary controls
+  - Two primary finishing options are presented for heel hooks; selection is reaction/angle dependent.
+- Structure rules / acceptance criteria
+  - Do not force one finishing method regardless of angle; choose based on:
+    - Current angle you hold.
+    - Whether the opponent is stepping back/clearing/turning.
+- Primary continuations
+  - If opponent steps back: follow and re-create the angle (go underneath again) before recommitting to the finish.
+  - If angle is stable: proceed with the selected finishing option using the collection rules (toes not in armpit, elbow closed, thumb-to-mat).
+
+#### 6.3.9 Combining Subs Together (Ankle Lock ⇄ Heel Hook ⇄ Leg Switch)
+
+- Entry condition(s)
+  - You are in a frontside leg entanglement and begin with an ankle lock line, but the opponent’s knee/leg reaction changes the available finish.
+- Primary controls
+  - Use the ankle lock threat to force knee/leg reactions that open heel hook or leg switch.
+- Structure rules / acceptance criteria
+  - When the opponent turns the knee inside during ankle lock attack, the response is to transition rather than stall.
+  - The leg switch is treated as the bridge:
+    - If you switch legs but “lose the heel” (heel slips), you do not freeze; you re-open the leg configuration and re-collect with correct angle.
+- Opponent main counters (as described)
+  - Turning knee inside to nullify the initial ankle lock line.
+  - Heel slipping when collection and elbow closure are not maintained.
+- Primary continuations
+  - Ankle lock attempt -> opponent turns knee inside -> transition (leg switch / heel hook collection) -> re-attack with correct angle.
+  - Additional example shown: when the opponent opens the knee, leg switch leads to back takes and submissions (leg switch becomes a routing tool, not a single finish).
+
+#### 6.3.10 Leg Switch – Dilemma (Open-Knee Reaction Tree)
+
+- Entry condition(s)
+  - The opponent opens the knee/creates a window while you are attacking from frontside.
+- Primary controls
+  - Switch grips and switch legs to redirect the leg line without losing control.
+- Structure rules / acceptance criteria
+  - Leg switch is linked to multiple outcomes:
+    - Immediate back take.
+    - Backside 50/50 re-entry.
+    - Inside heel hook re-entry.
+- Primary continuations
+  - Switch -> push opponent forward -> settle into the new alignment -> choose outcome (back take vs backside hub vs finish) based on the opening created.
+
+#### 6.3.11 Leg Switch – Sweep (Push/Angle Conversion)
+
+- Entry condition(s)
+  - You have switched and can push the opponent forward into a sweepable alignment.
+- Primary controls
+  - Push-forward action paired with the leg switch to place the opponent into a compromised base.
+- Structure rules / acceptance criteria
+  - The push-forward is used to land in a position where you can:
+    - Build up to the elbow.
+    - Transition into reverse X guard build-up.
+    - Finish or take the back depending on the opponent’s step/clear response.
+- Primary continuations
+  - Switch -> push forward -> secure ankle lock grip as an anchor -> build to elbow -> (sweep/back take/transition).
+
+#### 6.3.12 Far Side K (Transition Option: Reverse X Build-Up)
+
+- Entry condition(s)
+  - From a leg switch alignment you can secure an ankle-lock style grip and place the opponent’s leg across your body.
+- Primary controls
+  - Ankle grip used as a temporary anchor while you place the leg across and begin to build.
+- Structure rules / acceptance criteria
+  - The ankle grip is described as a way to slow/control while you change the leg’s position across your body.
+  - The follow-up is a build-up sequence (reverse X guard mentioned as a build option).
+- Primary continuations
+  - Anchor ankle -> place leg across -> build to elbow -> reverse X guard build-up -> back take/sweep as the opponent reacts.
+
+#### 6.3.13 Backroll Sweep (Heavy-On-Leg Trigger)
+
+- Entry condition(s)
+  - The opponent is very heavy on the leg line and you cannot lift them off the mat in the standard direction.
+- Primary controls
+  - Use legs (especially top leg) to push in a chosen direction to create the roll/sweep lane.
+  - Shin push is used to steer the opponent’s weight.
+- Structure rules / acceptance criteria
+  - The sweep requires taking the knee with you during the roll (explicit reminder).
+  - The sequence emphasises immediate lifting of the leg during/after the roll to prevent the opponent winning the battle.
+- Opponent main counters (as described)
+  - Heavy pressure on the leg that blocks standard lift-based entries.
+- Primary continuations
+  - Push with shin/top leg -> roll -> lift the leg immediately -> complete sweep to top.
+
+#### 6.3.14 Saddle (Far-Leg Saddle When Opponent Is Heavy On Middle Leg)
+
+- Entry condition(s)
+  - The opponent is very heavy on the middle/primary leg and you are not able to lift it for the standard attack.
+- Primary controls
+  - Transition principle: take the saddle on the far leg when the middle leg is too heavy to lift.
+  - Base requirement: strong base on the right knee (explicitly stated) to prevent being smashed/forced back to the hip.
+  - Knee control + chest-forward line to prevent the opponent clearing and smashing the entry.
+- Structure rules / acceptance criteria
+  - Do not accept a “saddle with one leg” configuration; it is framed as a losing state (opponent can put weight on you and smash).
+  - Be close to the opponent’s ankle/hip line; if you are too far, it becomes easy to clear.
+  - When extending the leg to create finishing/entry tension, simultaneously open and control the knee so the opponent cannot force you back on your hip.
+- Opponent main counters (as described)
+  - Heavy pressure on the primary leg.
+  - Smashing the saddle if your base is weak or you are on the hip.
+  - Forcing you back on the hip by controlling your alignment if you are not close enough or not controlling the knee.
+- Primary continuations
+  - If middle-leg lift is denied: transition to far-leg saddle -> establish right-knee base -> secure knee control + chest forward -> proceed to attacks from saddle alignment.
+
+### 6.4 Volume 4 – Upperbody
+
+#### 6.4.1 Shotgun Armbar (Primary Setup: Elbow Exposure + Grip Break)
+
+- Entry condition(s)
+  - Upper-body exposure opens while you are in K-guard alignment and the opponent posts elbow/arm in a way that can be isolated.
+- Primary controls
+  - Two grip options lead to the armbar (both treated as valid; the “idea is the same”).
+  - Highest-percentage entry is framed as starting by grabbing the opponent’s elbow, then breaking the grip as needed.
+- Structure rules / acceptance criteria
+  - Elbow orientation rule: if the opponent’s thumb faces your back, it becomes easy for them to turn the elbow inside and escape.
+  - Grip-breaking is treated as essential before you “put everything in place” for the finish.
+  - Hip lift + elbow opening:
+    - Lift hips to create separation.
+    - Open the opponent’s elbow as part of preventing easy escapes and creating finishing alignment.
+  - Depth control rule: do not let the arm get too deep (deep insertion makes escapes easier when you open).
+- Opponent main counters (as described)
+  - Turning the elbow inside to escape.
+  - Escaping when the arm is too deep or the elbow is not opened.
+- Primary continuations
+  - Grab elbow -> open elbow -> break grip -> re-align hips and leg frames -> finish.
+- Common failure patterns + correction cues
+  - Failure: allowing the thumb/elbow to rotate into the “easy escape” orientation.
+    - Correction cue: address elbow rotation early; open elbow and break grip before committing.
+
+#### 6.4.2 Shotgun Armbar 2 (Knee-Off-Mat Denied → Hip Lift Substitution)
+
+- Entry condition(s)
+  - The opponent’s base prevents lifting the knee off the mat (the standard base-breaking route is denied).
+- Primary controls
+  - Substitute hip lift to create the same exposure and armbar alignment when knee lift is not available.
+- Structure rules / acceptance criteria
+  - When knee-off-mat is not attainable, do not stall; lift hips instead to create the armbar window.
+  - Wrist placement requirement: adjust the wrist into the armpit correctly as part of completing the armbar structure.
+- Opponent main counters (as described)
+  - Base stability that blocks knee-off-mat.
+- Primary continuations
+  - Hip lift -> wrist-to-armpit alignment -> finish or transition to the follow-up option when the first line is not there.
+
+#### 6.4.3 Shotgun Armbar 3 (Escape Follow: Backheel + Shoulder-Close Finish)
+
+- Entry condition(s)
+  - The opponent begins to build up to the elbow and start escaping the armbar.
+- Primary controls
+  - Backheeling with the leg to keep connection and stop the escape.
+  - Shoulder-close rule: keep the opponent’s shoulder close to the mat while re-entering the shotgun armbar finish line.
+  - Supplemental control: shoulder-grip/crunch-like control (grip on shoulder) and shin-to-neck pressure to control posture.
+- Structure rules / acceptance criteria
+  - As the opponent escapes, you backheel to maintain connection and re-establish the shotgun armbar line.
+  - Use shin against the neck and push head closer to the mat to stabilise posture for finishing.
+  - Chest-to-triceps closeness is emphasised when breaking grips and rebuilding alignment.
+- Opponent main counters (as described)
+  - Building up to elbow and escaping.
+- Primary continuations
+  - Escape begins -> backheel -> shoulder close to mat -> re-collect finishing position -> break grip -> finish.
+
+#### 6.4.4 Flower Sweep (Scissor Finish From K-Guard Off-Balance)
+
+- Entry condition(s)
+  - You can off-balance the opponent over the head and have the leg positioning to initiate the scissor action.
+- Primary controls
+  - Scissor legs to rotate the opponent and come up on top.
+- Structure rules / acceptance criteria
+  - The sweep is framed as applying the same core idea as prior off-balancing: off-balance first, then scissor and come on top.
+- Opponent main counters (as described)
+  - Base stability; if off-balance is not achieved, scissor becomes harder to convert.
+- Primary continuations
+  - Off-balance over head -> scissor legs -> come on top.
+
+#### 6.4.5 Mirlock (Middle Lock) (Overhook Control + Hips-Back Power Line)
+
+- Entry condition(s)
+  - You have an overhook-style upper-body connection from K-guard but need a submission line that does not collapse into the opponent turning your overhook into their underhook.
+- Primary controls
+  - Wide base creation + correct arm usage (power comes from hip/arm alignment rather than squeezing).
+  - Step-on-hip distance management:
+    - Step on the hip with the left leg.
+    - Move hips back and lift the overhook very close to the chest.
+- Structure rules / acceptance criteria
+  - Avoid allowing the opponent to resist in a way that turns your overhook into their underhook (this is framed as the key failure mode if alignment is wrong).
+  - Elbow-to-knee spacing rule:
+    - Do not keep the opponent’s elbow very close to your knee (creates an escape pathway).
+  - Distance-building sequence
+    - Hips back + overhook high to chest.
+    - Use the left leg stepping on hip to maintain distance.
+    - Bring the knee onto the chest to stabilise distance (distance is treated as a precondition for the lock).
+  - Rib placement alignment
+    - Move hips back until the opponent’s elbow is on your ribs (explicitly described as a key alignment cue).
+- Opponent main counters (as described)
+  - Resistance that converts your overhook into their underhook.
+  - Closing distance by forcing elbow/knee proximity and collapsing your structure.
+- Primary continuations
+  - Create wide base -> hips back -> overhook high -> step on hip -> knee on chest -> elbow to ribs alignment -> apply the lock line.
+
+#### 6.4.6 Triangle Setups (Grip Break → Shin-to-Elbow → Angle)
+
+- Entry condition(s)
+  - You can grab the head and create an angle from K-guard alignment; opponent is using grips that can be broken or redirected.
+- Primary controls
+  - Head control to anchor posture.
+  - Knee insertion to the inside (knee goes in, then lift) to create angle and open the triangle lane.
+  - Shin placement refinement:
+    - Do not keep shin on the shoulder line when the grip is strong.
+    - Slide shin to the elbow to improve leverage for breaking the grip and entering.
+- Structure rules / acceptance criteria
+  - Always create the angle before breaking the grip (angle first, then grip break).
+  - If the opponent keeps the grip strong:
+    - Transition shin from shoulder to elbow.
+    - Use the knee lift to open the lane and reset the angle.
+- Opponent main counters (as described)
+  - Strong grip that blocks initial triangle entry.
+  - Defensive posture/base that prevents knee insertion if you try without angle.
+- Primary continuations
+  - Head control -> angle -> knee inside + lift -> shin to elbow if needed -> triangle entry alignment -> proceed to finish mechanics.
+
+#### 6.4.7 Triangle Finish (Knee-Pit Hook + Knee Direction + Angle Extension)
+
+- Entry condition(s)
+  - Triangle is locked but finish is not yet secure due to angle/neck/shoulder placement variables.
+- Primary controls
+  - Neck capture quality:
+    - Hook the neck with the knee pit (priority finishing detail).
+  - Knee direction
+    - Point knees to the top before squeezing (pre-squeeze alignment).
+  - Angle creation method
+    - Grab your own shin and step on the hip to improve angle.
+- Structure rules / acceptance criteria
+  - If you do not hook the neck with the knee pit, the opponent can survive and it becomes hard to finish.
+  - The “easiest escape” described is lifting up and escaping; maintaining side angle and knee-pit hook counters this.
+  - Two control options during angle creation:
+    - Maintain head control.
+    - Or use arm placement control (armpit control) as a less risky option, with the trade-off that it is harder to create angle.
+  - Before squeezing:
+    - Point knees to the top.
+    - Maintain head/angle control.
+- Opponent main counters (as described)
+  - Lifting up to escape the triangle.
+  - Gripping/positioning that prevents angle creation if you do not step and control properly.
+- Primary continuations
+  - Knee-pit hook -> knees point up -> step on hip and improve angle -> squeeze to finish.
+
+#### 6.4.8 Choibar (Troy Bar) (K-Guard Variant With Distance Control)
+
+- Entry condition(s)
+  - The opponent gets chest-on-chest pressure on you during K-guard attack attempts; the armbar entry becomes available as a response.
+- Primary controls
+  - Shoulder control is prioritised during the switch into the Troy bar.
+  - Leg positioning is used to maintain and control distance (right foot placement is described as enabling distance control).
+- Structure rules / acceptance criteria
+  - The Troy bar from K-guard is framed as different than “regular” Troy bar due to the distance-control requirements and how the opponent can otherwise create annoying defensive structure.
+  - Knee closure rule
+    - Close the knee; do not open it (closing is treated as essential to keep the structure stable and prevent defensive space).
+  - Anti-escape alignment
+    - Keep the shoulder close to the mat while you apply the finishing structure.
+- Opponent main counters (as described)
+  - Creating annoying defensive structure when you go to the “regular” variant without the described leg/distance control.
+  - Catching their own side/positioning to prevent arm attacks (mentioned as a defence you must anticipate by controlling distance and shoulder line).
+- Primary continuations
+  - Switch from leg attack context -> control shoulder -> set right foot for distance -> close knee -> keep shoulder close -> apply finish mechanics.
+
+
+## 7.0 DIAGRAM SET
+
+### 7.1 Legend and Conventions
+
+- [HUB] = positional / decision hub (a stable place to pause, assess, and choose a branch)
+- (OUTCOME) = end state (finish, sweep, backtake, reset)
+- {OR} = primary branch point (mutually exclusive primary paths)
+- A -> B = transition
+- Arrow labels = short labels only, used when the transcript provides a named link (e.g., “follow backstep”)
+
+### 7.2 Master Macro Map (System Overview)
+
+- Use this first: it shows the whole system as “Build -> Route -> Attack Families -> Outcomes -> Rebuild loop.”
+- If anything fails, trace backward to the first broken gate (usually scoop grip, knee-off-mat, bottom knee alignment, or secondary leg).
+
+[K-ENTRY CONTEXTS]
+  {OR} Seated / Supine / Top-Recovery
+        |
+        v
 +------------------------------+
-| [OFF-BALANCE GATE]           |
-|   "Knee off the mat?"        |
-+-----------+------------------+
-            |
-     {OR}   |--------------------------------------------+
-            |                                            |
-            v                                            v
-+--------------------------+                  +---------------------------+
-| YES: [ROUTING DECISION]  |                  | NO/HEAVY: [REBUILD MODE] |
-+-----------+--------------+                  | - knee shield -> space    |
-            |                                 | - hip lift -> lever back  |
-     {OR}   |                                 | - re-acquire scoop (must) |
-            |                                 | - re-attempt off-balance  |
-   +--------+---------+                       +-------------+-------------+
-   |                  |                                     |
-   v                  v                                     v
-+-------------------+  +-------------------------------+   +----------------------------+
-| [BACKSIDE LANE]   |  | [FRONTSIDE LANE]              |   | [UPPER-BODY OVERLAY]       |
-| -> [BACKSIDE HUB] |  | -> [ANGLE HUB: SAME-DIRECTION]|   | Trigger: stalled progress  |
-|    (Backside 50/50)|  |    alignment is the gate     |   | or defensive posts/frames  |
-+-----+------+------+  +-------------+-----------------+   +--------------+-------------+
-      |   |   |                      |   |   |                         |
-      |   |   |                      |   |   |                         |
-      |   |   +--> (OUTCOME) Matrix (ONLY if behind-knee hook is available)            |
-      |   +------> (OUTCOME) X-hook -> leg drag -> back exposure -> back take          |
-      +---------> (OUTCOME) Inside HH lines                                            |
-      +---------> (OUTCOME) Reverse Aoki lines                                          |
-      +---------> (OUTCOME) Double 50/50 consolidate -> re-attack                       |
-                                                                                       |
-                                         +--> (OUTCOME) Aoki family (inside/outside)   |
-                                         |            + belly-down completion (when presented)
-                                         +--> (OUTCOME) Outside HH lines (inside/outside)
-                                         +--> (OUTCOME) Threat cycling (hub retained)
-                                         +--> (OUTCOME) Leg switch dilemma -> sweep branch
-                                         +--> (OUTCOME) Far Side K -> reverse X -> wrestle-up/sweep/back exposure
-                                         +--> (OUTCOME) Back roll sweep (requires post) / Saddle branch (far-leg capture)
-
-Note (reaction spine): opponent backsteps/high backsteps -> stay attached -> follow hips -> return to best hub.
-~~~
-
-
-### D.3 Entry Map (Connection Points -> K Guard Structure)
-~~~text
-+---------------------------+
-|      [ENTRY FAMILY]       |
-+-------------+-------------+
-              |
-            {OR}
-              |
-  +-----------+-----------+-----------+-----------+-----------+-----------+
-  |                       |                       |                       |
-  v                       v                       v                       v
-+------------------+   +-------------------+   +------------------+   +--------------------+
-| Seated (low-body) |   | Seated (bridge)  |   | Supine (low-leg) |   | Supine (lasso wedge)|
-+---------+---------+   +---------+---------+   +---------+--------+   +----------+----------+
-          |                       |                       |                       |
-          v                       v                       v                       v
-  under-knee access        upper-body control      asym legs (1 up/1 down)   bottom-leg battle lost
-          |                       |                       |                       |
-          v                       v                       v                       v
- hip close -> far-hip ext    create space/alignment   frame / break grips          insert lasso wedge
-          |                       |                       |                       |
-          v                       v                       v                       v
- stop foot closing to hips    re-acquire under-knee    re-acquire under-knee       stabilize -> rebuild alignment
-          |                       |                       |                       |
-          +-----------+-----------+-----------+-----------+-----------+-----------+
-                      |
-                      v
-            +----------------------+
-            |  [K GUARD STRUCTURE] |
-            |  (gates re-applied)  |
-            +----------------------+
-
-Additional conversions:
-- North-south: frames -> insert barrier -> foot inside -> re-acquire under-knee -> [K GUARD STRUCTURE]
-- Reverse DLR: maintain connection -> solve head distance -> free bottom leg -> far-hip ext -> immediate scoop -> [K GUARD STRUCTURE]
-~~~
-
-
-### D.4 Routing Map (Backside vs Frontside Selection)
-~~~text
-+-----------------------------+
-|     [ROUTING DECISION]      |
-+--------------+--------------+
-               |
-               v
-+---------------------------------------------+
-| Check: is backside attachment available?     |
-| (opponent turns away / runs; behind-knee     |
-|  access not denied)                          |
-+----------------+----------------------------+
-                 |
-               {OR}
-                 |
-      +----------+----------+
-      |                     |
-      v                     v
-+---------------------+   +----------------------------------+
-| YES -> [BACKSIDE]   |   | NO -> [FRONTSIDE]                |
-| -> [BACKSIDE 50/50] |   | Denial signals: knee opened;     |
-| -> Inside HH         |   | behind-knee hook unavailable;    |
-| -> Reverse Aoki      |   | backside hooks not available     |
-| -> Double 50/50      |   | -> [ANGLE HUB: SAME-DIRECTION]  |
-| -> Matrix (conditional)|  | -> Aoki / Outside HH / dilemmas |
-| -> X-hook -> backtake|   | -> sweep / Far Side K / branches |
-+---------------------+   +----------------------------------+
-~~~
-
-
-### D.5 Heavy Base Branch Map (Availability Checks)
-~~~text
-+------------------------------------+
-| [OFF-BALANCE FAILS: KNEE HEAVY]    |
-+------------------+-----------------+
+|          [K-BUILD]           |
+|  (Structural gates to pass)  |
+|  - (Scoop Grip)              |
+|  - (Knee Off The Mat)        |
+|  - (Bottom Knee Behind Elbow)|
+|  - (Secondary Leg Layer)     |
++------------------------------+
+        |
+        v
++------------------------------+
+|      [ROUTING GATE]          |
+|   {OR} Backside / Frontside  |
+|        / Upperbody Trigger   |
++------------------------------+
+   |                |                 |
+   v                v                 v
+[BACKSIDE HUB]   [FRONTSIDE HUB]   [UPPERBODY HUB]
+   |                |                 |
+   v                v                 v
+(LEGLOCK)        (LEGLOCK/SWEEP)   (SUBMISSION/SWEEP)
+   |                |                 |
+   v                v                 v
+(OUTCOME)        (OUTCOME)         (OUTCOME)
+   \_______________|_________________/
                    |
                    v
-+------------------------------------+
-| [REBUILD MODE]                     |
-| - knee shield -> create space      |
-| - hip lift -> restore lever        |
-| - re-acquire scoop (non-negotiable)|
-+------------------+-----------------+
-                   |
-                   v
-+---------------------------------------------+
-| Availability checks (do not force branches) |
-+------------------+--------------------------+
-                   |
+            [RESET -> K-BUILD]
+
+### 7.3 K-Guard Build (Detailed Gate Diagram)
+
+- Read this as “do not route until these are stable.”
+- The diagram order is the practical order implied by the transcript: control first (scoop), base disruption (knee-off-mat), then protective alignment, then secondary leg to lock angle.
+
+            +------------------------------------+
+            |              [K-BUILD]             |
+            |------------------------------------|
+            | Gate 1: (Scoop Grip)               |
+            |   - No ‘empty hand’ states         |
+            | Gate 2: (Knee Off The Mat)         |
+            |   - Off-balance to lift base       |
+            | Gate 3: (Bottom Knee Behind Elbow) |
+            |   - Protect vs counters/passing    |
+            | Gate 4: (Secondary Leg Layer)      |
+            |   - Preserve angle, stop squaring  |
+            +------------------------------------+
+                          |
+                          v
+                   +--------------+
+                   | [ROUTE GATE] |
+                   +--------------+
+                     {OR}    {OR}
+                      |        |
+                      v        v
+                [BACKSIDE]  [FRONTSIDE]
+                       \      /
+                        \    /
+                         v  v
+                   [UPPERBODY TRIGGER]
+                 (when pressure exposes arms/head)
+
+### 7.4 Entry Families Into K (Same Build, Different Starts)
+
+- The key “use” is: regardless of entry, you always land back on [K-BUILD].
+- If an entry fails, you do not “force” K; you correct the entry-specific gate (distance, grips, frames) and re-run the entry.
+
                  {OR}
-                   |
-        +----------+-----------+
-        |                      |
-        v                      v
-+-------------------------+  +--------------------------------------+
-| Opponent posts a hand?  |  | No post yet                          |
-+-----------+-------------+  +------------------+-------------------+
-            |                                   |
-          YES                                   v
-            |                        +------------------------------+
-            v                        | Far-leg capture available?   |
-+-------------------------------+    +--------------+---------------+
-| (OUTCOME) Back roll sweep     |                   |
-| - prerequisite: post exists   |                 {OR}
-| - key retention: carry knee   |                   |
-+-------------------------------+          +--------+--------+
-                                          |                 |
-                                          v                 v
-                               +--------------------+   +---------------------------+
-                               | YES -> (OUTCOME)   |   | NO -> arms/neck exposed?  |
-                               | Saddle branch      |   +------------+--------------+
-                               | - transfer control |                |
-                               |   middle -> far    |              {OR}
-                               | - hip lift + base  |                |
-                               +--------------------+      +---------+---------+
-                                                          |                   |
-                                                          v                   v
-                                              +--------------------+   +------------------------+
-                                              | YES -> (OUTCOME)   |   | NO -> return to rebuild|
-                                              | Upper-body overlay |   | and re-attempt off-balance|
-                                              | (shotgun armbar /  |   +------------------------+
-                                              | triangle / others) |
-                                              +--------------------+
-~~~
++----------------------+        +----------------------+        +----------------------+
+|     [SEATED]         |        |      [SUPINE]        |        |     [TOP-RECOVERY]   |
+|----------------------|        |----------------------|        |----------------------|
+| (Lower Body Entry)   |        | (Low Leg -> K)       |        | (North-South -> K)   |
+| (Upper Body Entry)   |        | (Lasso -> K)         |        | (RDLR -> K)          |
++----------+-----------+        +----------+-----------+        +----------+-----------+
+           |                               |                               |
+           v                               v                               v
+       +-------------------------------------------+
+       |                 [K-BUILD]                 |
+       +-------------------------------------------+
+
+### 7.5 Backside Track (Volume 2 Spine) — “Backstep Is a Required Continuation”
+
+- Primary “use”: decide what to do when the opponent backsteps to clear your backside alignment.
+- The transcript’s emphasis: follow backstep; upgrade to double 50/50 when clearing is occurring; use matrix/X-hook as a backtake family.
+
++------------------+
+|  [BACKSIDE HUB]  |
++------------------+
+        |
+        v
++------------------------+
+| (Backside 50/50)       |
++------------------------+
+   |           |            \
+   v           v             \
+(Inside HH) (Inside HH         \
+ Backside)  Frontside)          \
+   |           |                 v
+   |           |           +-------------------+
+   |           |           | [FOLLOW BACKSTEP] |
+   |           |           +-------------------+
+   |           |                 |
+   |           |                 v
+   |           |           +-------------------+
+   |           |           | (Double 50/50)    |
+   |           |           | - knee-pit cover  |
+   |           |           | - knee-to-knee    |
+   |           |           | - pinch/scissor   |
+   |           |           +-------------------+
+   |           |                 |
+   |           |                 v
+   |           |              (OUTCOME)
+   |           |          {OR} Finish / Re-attack / Re-route
+   |           |
+   v           v
++---------------------------+        +---------------------------+
+| (Reverse Aoki Inside)     |        | (Reverse Aoki Outside)    |
+| - thumb to chest          |        | - thumb to chest          |
+| - reinforce forearm grip  |        | - reinforce forearm grip  |
+| - shoulder/elbow to hip   |        | - shoulder/elbow to hip   |
++---------------------------+        +---------------------------+
+                 \                         /
+                  \                       /
+                   v                     v
+                 (OUTCOME)           (OUTCOME)
+
+Backtake family from backside:
++------------------+    ->    +------------------+    ->    +-----------------------+
+| (Matrix)         |          | [X-HOOK HUB]      |          | (Leg Drag / Backtake) |
+| - lift + follow  |          | - hip lift timing |          | (OUTCOME)             |
++------------------+          +------------------+          +-----------------------+
+
+### 7.6 Frontside Track (Volume 3 Spine) — “Angle Gate Before Attacks”
+
+- Primary “use”: do not select Aoki/outside heel hook unless the angle gate is satisfied.
+- The transcript repeatedly uses “follow and go underneath again” when opponent moves back to deny angle.
+- Off-balance and leg switch are treated as structured reroutes when finishing is denied.
+
++--------------------+
+|  [FRONTSIDE HUB]   |
++--------------------+
+        |
+        v
++-------------------------------+
+| (Angle For Outside Leg Locks) |
+| - if opponent moves back:     |
+|   follow + go underneath      |
++-------------------------------+
+        |
+        v
+     {OR}--------------------------------------------------------------+
+      |                 |                   |            |             |
+      v                 v                   v            v             v
+(Aoki Inside)     (Aoki Belly Down)   (Aoki Outside)  (Outside HH)  (Off-Balance)
+      |                 |                   |            |             |
+      v                 v                   v            v             v
+(OUTCOME)           (OUTCOME)           (OUTCOME)    (OUTCOME)   {OR} Forward / Backward
+      \____________________             ___________________/             |
+                           \           /                                  v
+                            v         v                              (Reaction)
+                       (Combining Subs)                               (Reposition)
+                            |                                            |
+                            v                                            v
+                     (Leg Switch Family) ----------------------------> (Re-angle)
+                            |
+                            v
+                     {OR} (Sweep) / (Backtake) / (Backside Re-route) / (Saddle)
+
+Saddle conditional (when middle leg is too heavy to lift):
+(Heavy Middle Leg) -> (Take Far-Leg Saddle) -> (OUTCOME)
+
+### 7.7 Upperbody Track (Volume 4 Spine) — “Pressure Creates the Branch”
+
+- Primary “use”: when the opponent commits chest-to-chest pressure to shut down legs, route into the upperbody attacks rather than insisting on leglocks.
+- This is a conditional hub: you do not force it when upperbody exposure isn’t there.
+
++------------------+
+|  [UPPERBODY HUB] |
++------------------+
+   {OR}-------------------------------+
+    |        |         |        |     |
+    v        v         v        v     v
+(Shotgun) (Triangle) (Mirlock) (Choibar) (Flower Sweep)
+    |        |         |        |        |
+    v        v         v        v        v
+(OUTCOME) (OUTCOME) (OUTCOME) (OUTCOME) (OUTCOME)
+
+Shotgun armbar continuation:
+(Shotgun) -> (Opponent builds to elbow) -> (Backheel follow) -> (Re-collect) -> (OUTCOME)
+
+### 7.8 Continuation Loop (Anti-Reset Rule)
+
+- This is the “do not accept a reset” diagram.
+- When a line is denied, you pick the nearest named continuation hub instead of disengaging.
+
++-------------------+
+|    [K-BUILD]      |
++-------------------+
+        |
+        v
++-------------------+
+|  [ROUTE GATE]     |
++-------------------+
+   |         |           |
+   v         v           v
+[BACKSIDE] [FRONTSIDE] [UPPERBODY]
+   |         |           |
+   v         v           v
+(backstep?) (angle denied?) (pressure ends?)
+   |         |           |
+   v         v           v
+[FOLLOW]  (off-balance / leg switch)  [RESET -> K-BUILD]
+   |
+   v
+(Double 50/50)
+   |
+   v
+(OUTCOME) -> [RESET -> K-BUILD]
+
+### 7.9 Quick “Debug” Map (What Failed?)
+
+- If you’re getting passed: the failure is almost always a broken build gate (empty hand / knee exposed / no secondary leg / opponent wins inside).
+- If you’re getting reset: you failed to run the continuation rule (didn’t follow backstep; didn’t re-angle by going underneath).
+- If leglocks are denied by posture/pressure: route to off-balance or upperbody branch rather than forcing.
+
+(Attack failing)
+  -> check (Scoop Grip)
+  -> check (Knee Off The Mat)
+  -> check (Bottom Knee Behind Elbow)
+  -> check (Secondary Leg Layer / Knee Control if inside-win)
+  -> then choose correct hub: [BACKSIDE] / [FRONTSIDE] / [UPPERBODY]
+
+
+## 8.0 APPLICATION SCENARIOS
+
+### 8.1 Kneeling Opponent: Winning the First Battle (Knee Off The Mat)
+
+- Situation cues
+  - Opponent is kneeling/combat base and stable.
+  - K-guard structure is being contested before attacks are available.
+- Primary problem
+  - If the opponent’s knee stays planted and they can connect to your knee/structure, they can lift/collapse and force you into a degraded guard (including forced half guard outcomes).
+- Decision rule
+  - If knee-off-the-mat battle is not won, prioritise off-balance and structural rebuilding over committing to submissions.
+- Actions
+  - Use blade-of-foot + upper-body pull to create off-balance that disrupts the opponent’s knee base.
+  - Maintain scoop grip priority (do not accept an “empty hand”).
+  - Re-establish bottom knee “behind the elbow” alignment before routing.
+- Desired outcomes
+  - Opponent’s base disrupted enough to complete K-guard build and open routing gate (backside/frontside).
+
+### 8.2 Opponent Connects to Your Knee: Collapse Threat Management
+
+- Situation cues
+  - Opponent grabs/connects to your knee and begins lifting/collapsing the structure.
+- Primary problem
+  - Knee control by the opponent is a direct pathway to breaking the guard’s structural gate.
+- Decision rule
+  - If opponent knee control is strong enough to lift/collapse, do not force attacks; rebuild structure.
+- Actions
+  - Rebuild the knee-off-the-mat battle (off-balance first).
+  - Re-secure scoop grip if compromised.
+  - Restore bottom knee behind elbow alignment.
+- Desired outcomes
+  - Remove the opponent’s ability to lift/collapse; return to a stable K-guard build.
+
+### 8.3 “Empty Hand” in No-Gi: Forced Half Guard Risk
+
+- Situation cues
+  - Your controlling hand is not holding anything meaningful during K-guard build.
+- Primary problem
+  - Opponent can connect/grab and force you into half guard.
+- Decision rule
+  - If controlling hand is empty, fix grip layer before attacking.
+- Actions
+  - Prioritise scoop grip immediately.
+  - If scoop grip is not available: create “some kind of off-balance” to open the access window, then re-grip.
+- Desired outcomes
+  - Scoop grip re-established; anti-collapse anchor restored.
+
+### 8.4 Opponent Wins Inside vs Secondary Leg: Knee Control Correction
+
+- Situation cues
+  - You are trying to re-place the secondary leg (foot back on the thigh) and the opponent wins inside with a reverse/inside response.
+  - You are losing the battle to re-place the foot.
+- Primary problem
+  - If you cannot restore secondary leg placement, the opponent can step knee outside and circle around to pass.
+- Decision rule
+  - If you cannot re-place secondary leg due to inside-win, switch to knee control.
+- Actions
+  - Control the opponent’s knee to prevent easy knee-outside + circle-to-pass.
+  - Rebuild secondary leg placement after knee control stabilises the line.
+- Desired outcomes
+  - Angle preserved; routing gate re-opens (backside/frontside attacks available).
+
+### 8.5 Seated Entry: Opponent Steps Close to Force Half Guard / RDLR
+
+- Situation cues
+  - You are seated and initiating the lower-body K entry.
+  - Opponent begins stepping/coming closer to your hips.
+- Primary problem
+  - Opponent proximity enables forcing you into half guard or reverse de la Riva during entry.
+- Decision rule
+  - If opponent is stepping close, stop foot-to-hip closure before shooting K-guard.
+- Actions
+  - Use the described posting/controlling hand to stop the opponent’s foot from coming closer to your hips.
+  - Maintain “below the knee” focus so sitting on the hand is not structurally decisive.
+  - Open the heel and bring hips/butt closer to the heel before committing the K-guard shot.
+- Desired outcomes
+  - Clean seated-to-K entry without conceding forced half guard/RDLR.
+
+### 8.6 Seated Entry: Opponent Grabs Ankles During Upper-Body K Entry
+
+- Situation cues
+  - You are entering from seated with upper-body connection and the opponent grabs your ankles.
+- Primary problem
+  - Ankle grab slows/stalls the entry and can disrupt the hip-to-heel connection step.
+- Decision rule
+  - If ankles are grabbed, break the grip before continuing the entry sequence.
+- Actions
+  - Grab the wrist and break the grip as described.
+  - Re-establish near-leg connection (explicit requirement).
+  - Continue with hip-to-heel movement and angle opening (extend secondary foot while opening angle).
+- Desired outcomes
+  - Entry proceeds with near-leg connection intact; K-guard build can be completed.
+
+### 8.7 Supine Scenario: Legs Aligned = Easy Two C-Grips and Pass Cycling
+
+- Situation cues
+  - You are forced into supine guard.
+  - Both legs are pointed in the same direction; opponent can take two C-grips.
+- Primary problem
+  - Opponent controls both legs and can initiate pass cycles; bottom leg battle is lost and they can start going around.
+- Decision rule
+  - If legs are aligned, fix leg orientation before attempting to counter to K.
+- Actions
+  - “One leg up, one leg down” orientation to deny easy two-grip control.
+  - Use grip framework (“one grip here, one grip here”) to keep knees closer when direct framing is not available.
+  - If opponent begins going around: frame with upper body, break grips, re-establish low-leg retention structure.
+  - Counter into K-guard once the defensive structure is restored.
+- Desired outcomes
+  - Defensive stability restored; path opens to supine -> K-guard counter rather than extended defence.
+
+### 8.8 Supine Scenario: Bottom Leg Battle Lost → Lasso to Rebuild → K
+
+- Situation cues
+  - Opponent is kneeling.
+  - Opponent has won the battle against your bottom leg and is starting to go around your guard.
+- Primary problem
+  - Without an anchor, opponent can run around while you are rebuilding, preventing clean K-guard re-entry.
+- Decision rule
+  - If bottom leg battle is lost and opponent is going around, use lasso as the safety anchor first.
+- Actions
+  - Frame and insert lasso to become safe.
+  - Break grips from the safe anchor.
+  - Push opponent forward, reconnect to the leg line, then transition into K-guard build.
+- Desired outcomes
+  - Safety regained; controlled rebuild into K-guard rather than guard collapse.
+
+### 8.9 North-South Pressure: Arms-Only Frames Fatigue → Knees Frame → Foot Insert → Scoop
+
+- Situation cues
+  - Opponent is passing with north-south style top alignment.
+  - Arms-only framing is tiring and unstable.
+- Primary problem
+  - Sustained top pressure burns arms; without a structural frame you cannot build the distance required to enter K.
+- Decision rule
+  - If arms-only frames are fatiguing, switch to knee framing to create distance.
+- Actions
+  - Use at least one knee to frame and create distance.
+  - Insert the foot between you and the opponent, placing it to the inside/toward the armpit line.
+  - Immediately look for scoop grip to begin unbalancing and re-enter K-guard build.
+- Desired outcomes
+  - Pressure broken; K-guard recovery entry achieved with immediate scoop access.
+
+### 8.10 RDLR to K: Too Close to Place Bottom Leg on Hip → Create Distance First
+
+- Situation cues
+  - You have RDLR but you are very close; bottom leg cannot be placed on the hip cleanly.
+- Primary problem
+  - Being too close blocks the structural placements needed for K-guard entry.
+- Decision rule
+  - If too close, distance creation is mandatory before knee-to-chest and extension.
+- Actions
+  - Frame with top leg and arms to move the head away and create distance.
+  - Bring knee closer to the chest after distance is created.
+  - Extend the leg and look for the far hip as part of the entry sequence.
+  - Shoot into K-guard build once the distance window exists.
+- Desired outcomes
+  - Clean RDLR -> K transition without forcing the entry at the wrong range.
+
+### 8.11 Backside Continuation: Opponent Backsteps → Follow (Don’t Reset)
+
+- Situation cues
+  - You are in backside track and opponent initiates backstep to clear and change orientation.
+- Primary problem
+  - Backstep can create a full disengagement if you do not maintain attachment.
+- Decision rule
+  - Backstep is treated as a predictable reaction; follow it as a system requirement.
+- Actions
+  - Pinch legs (do not chase with open knees).
+  - “Wait for the leg” and catch the ankle on timing as the backstep opens the window.
+  - Re-establish hub: backside 50/50 or transition into double 50/50 to stop clearing.
+- Desired outcomes
+  - Backstep denied as a reset; re-attack hubs re-established.
+
+### 8.12 Double 50/50: Stopping the Backstep Escape
+
+- Situation cues
+  - Opponent is attempting to backstep out and open the knee line; standard backside 50/50 is being cleared.
+- Primary problem
+  - If knees are not pinched/scissored, opponent opens the knee and clears.
+- Decision rule
+  - If opponent’s backstep is clearing the line, upgrade to double 50/50 with knee-pit coverage and pinch.
+- Actions
+  - Cover knee pit with knee pit; bring knees close together.
+  - Pinch/scissor legs to deny knee opening.
+  - Point knee to ceiling during the transition; time the switch as the backstep happens (“wait for that leg”).
+  - If opponent stands tall: maintain knee-to-knee and manage connection rather than letting space break the hub.
+- Desired outcomes
+  - Backstep stopped; hub stable enough to re-attack with the same mechanics.
+
+### 8.13 Frontside Angle Gate: Opponent Stands and Clears Far Hip / Matrix Lines
+
+- Situation cues
+  - Opponent stands/steps back and denies far hip control; backside matrix line is not available.
+- Primary problem
+  - Forcing backside when far hip/matrix lines are denied reduces control and can produce resets.
+- Decision rule
+  - If far hip/matrix lines are denied, route to frontside and rebuild the outside-leglock angle.
+- Actions
+  - Follow the opponent’s movement; go underneath again to preserve angle.
+  - Establish “Angle For Outside Leg Locks” gate before selecting Aoki/outside heel hook branches.
+- Desired outcomes
+  - Frontside hub established with correct angle; attacks become viable again.
+
+### 8.14 Off-Balance Selection: Forward Denied by High Head → Backward Unbalance
+
+- Situation cues
+  - You have two legs controlling but opponent’s head is high; forward unbalance is not available.
+- Primary problem
+  - Trying to force forward unbalance against high-head posture wastes time and loses momentum.
+- Decision rule
+  - If head is high and forward loading is denied, use backward unbalance as the default.
+- Actions
+  - Unbalance backward to force the opponent’s clearing/stepping reaction.
+  - Use the reaction to reposition and re-establish the frontside angle for the next attack (Aoki/outside heel hook/leg switch).
+- Desired outcomes
+  - Predictable reaction forced; angle restored for next threat.
+
+### 8.15 Saddle Entry Choice: Middle Leg Too Heavy to Lift → Take Far-Leg Saddle
+
+- Situation cues
+  - Opponent is very heavy on the middle/primary leg; you cannot lift it for the standard line.
+- Primary problem
+  - Persisting on the heavy middle leg stalls and risks being smashed.
+- Decision rule
+  - If middle leg is too heavy to lift, transition to saddle on the far leg.
+- Actions
+  - Establish a strong base on the right knee (explicit requirement).
+  - Maintain knee control and chest-forward alignment so opponent cannot clear and smash.
+  - Avoid “saddle with one leg” configuration (treated as a losing state).
+  - Stay close (too far makes clearing easy); extend leg while opening/controlling knee to prevent being forced back to hip.
+- Desired outcomes
+  - Saddle established without being smashed; far-leg route replaces stalled middle-leg line.
+
+### 8.16 Upper-Body Branch Trigger: Chest-to-Chest Pressure Opens Arm/Head Attacks
+
+- Situation cues
+  - Opponent commits chest-to-chest pressure while you are in K-guard structure, creating upper-body engagement.
+- Primary problem
+  - If you only insist on lower-body attacks, you miss the conditional upper-body openings created by the opponent’s pressure.
+- Decision rule
+  - When chest-to-chest engagement exposes the arm/head, route into upper-body hub attacks.
+- Actions (attack family routing)
+  - Shotgun armbar: grab elbow, break grip, manage elbow rotation (thumb orientation) to prevent turning elbow inside; hip lift and elbow opening as needed.
+  - Triangle setups: create angle first; if grip is strong, slide shin from shoulder to elbow to break grip and enter; knee-in then lift.
+  - Mir lock: create wide base; step on hip; move hips back; lift overhook close to chest; align elbow to ribs; avoid elbow-too-close-to-knee escape line.
+  - Choi bar: control shoulder; set distance with foot placement; close knee; keep shoulder close to mat for stability.
+  - Flower sweep: off-balance over head, then scissor legs to come on top.
+- Desired outcomes
+  - (SUBMISSION FINISH) or (SWEEP TO TOP), with a reset option back to K-guard build if the opponent’s defence denies completion.
+
+
+## 9.0 DRILLING PROGRESSIONS
+
+### 9.1 K-Guard Build Progression (Structural Gate First)
+
+- Goal: make the K-guard “build checklist” automatic before routing to backside/frontside.
+- Start position: open guard with opponent kneeling/combat base.
+- Steps (loop)
+  - Establish scoop grip (no “empty hand”).
+  - Win the knee-off-the-mat battle via off-balance (blade-of-foot + upper-body pull concept).
+  - Set bottom knee “behind the elbow” alignment.
+  - Place secondary leg to preserve angle and prevent squaring/inside-wins.
+  - If opponent wins inside and you cannot re-place the secondary leg: switch to knee control, then rebuild secondary leg placement.
+- Terminal condition: you can hold structure long enough to choose routing (backside or frontside) without being forced into half guard or having the knee collapsed.
+
+### 9.2 Entry-to-Build Progression (Named Entry Contexts → Same Checklist)
+
+- Goal: reach the same K-guard build from multiple entry contexts without losing the structural gates.
+- Loop the same “build checklist” after each entry.
+
+- Seated entries
+  - Seated → K (lower body): stay below the knee, connect to heel, bring hips/butt closer to heel, prevent the foot stepping close to your hips.
+  - Seated → K (upper body): establish upper-body grip first, then secure near-leg connection; if ankles are grabbed, break grip via wrist control before continuing.
+
+- Supine entries
+  - Supine → K (low leg): avoid both legs pointing the same direction; use “one leg up, one leg down” to prevent easy double C-grips; rebuild to K when structure returns.
+  - Supine → K (lasso): when bottom-leg battle is lost and opponent is going around, insert lasso to become safe, break grips, then push forward and rebuild to K.
+
+- Top-pressure recoveries
+  - North-south → K: switch from arms-only framing to knee framing, build distance, insert foot between bodies (inside/armpit line), then secure scoop and rebuild.
+  - RDLR → K: if too close to establish, frame with top leg/arms to move head away and create distance; knee-to-chest → extend → shoot to K and rebuild.
+
+### 9.3 Backside Continuation Progression (Backstep as the Trigger)
+
+- Goal: treat the opponent’s backstep as a predictable reaction and maintain attachment into stronger hubs.
+- Start position: backside hub / backside 50/50 access.
+- Steps (reaction loop)
+  - Opponent initiates backstep → pinch legs (do not chase with open knees).
+  - “Wait for the leg” timing → catch ankle as it travels.
+  - Re-enter backside 50/50 {OR} upgrade to double 50/50 when the backstep is clearing the knee line.
+  - From double 50/50: knee-pit coverage + knee-to-knee pinch; re-attack using the same finishing mechanics.
+- Optional branch: reverse Aoki exposure/finish details (thumb to chest, forearm reinforcement grip, shoulder/elbow to hip line, ribcage/hips back when needed to preserve exposure).
+
+### 9.4 Frontside Angle Progression (Angle Gate → Threat Selection)
+
+- Goal: angle creation is the gate; finishing attempts happen only after the angle is established/maintained.
+- Start position: frontside hub (angle for outside leg locks).
+- Steps (loop)
+  - Create/maintain frontside angle; if opponent moves back, follow and go underneath again.
+  - Select attack family based on what stays exposed:
+    - Aoki lock (inside) → maintain forearm-based heel control; prevent heel re-insertion.
+    - Aoki lock (belly down) when weight is stacked directly above.
+    - Aoki lock (outside) when outside ashi facing alignment is established and opponent tries to step foot to mat.
+    - Outside heel hook lines: keep toes out of armpit, close elbow to prevent heel slip, thumb-to-mat orientation when collecting.
+  - If forward off-balance is denied (head high): switch to backward off-balance to force a clearing reaction, then re-enter the angle gate.
+  - When knee/leg reactions open the window: leg switch to reroute into sweep/backtake/backside re-entry options.
+  - If middle leg is too heavy to lift: take far-leg saddle with strong right-knee base; avoid “saddle with one leg” and prevent being forced back to hip.
+
+### 9.5 Upper-Body Branch Progression (Conditional Punishment Tree)
+
+- Goal: when chest-to-chest pressure/upper-body engagement appears, route into upper-body submissions without abandoning lower-body structure.
+- Start position: K-guard alignment with upper-body exposure.
+- Steps (routing loop)
+  - Shotgun armbar line: grab elbow → break grip → manage elbow rotation (avoid easy “elbow turns inside” escape) → hip lift and elbow opening as needed.
+  - If knee-off-the-mat route is denied: use hip lift substitution (armbar 2).
+  - If opponent begins to build up and escape: use backheel connection + keep shoulder close to mat while re-collecting (armbar 3).
+  - Triangle: angle first; if grip is strong, slide shin from shoulder to elbow to break grip and open lane → triangle finish cues (knee-pit hooks neck, knees point up, step on hip to improve angle).
+  - Mir lock: wide base, step on hip, hips back, overhook high to chest; avoid elbow-too-close-to-knee escape line; align elbow to ribs.
+  - Choi bar: control shoulder, manage distance via foot placement, close knee, keep shoulder close to mat.
+
+### 9.6 Inside-to-Outside Roll-Through Drill (Position-Fidelity Ending Rule)
+
+- Goal: stop “bad roll endings” where you roll but end in a weak alignment; ensure every roll ends in a usable attacking position.
+- Start position: inside alignment before the roll.
+- Core rule (explicitly stated): “every time you roll, you should end up in a good position.”
+- Steps
+  - Initiate the roll from inside.
+  - During the roll, switch the legs so you finish on the outside (inside → outside transition).
+  - Land with a finishing-ready upper-body posture (not fully on elbow, not fully on shoulder; settle into the “middle/sweet spot” posture used for strong pressure application).
+  - Immediately connect and stabilise (bridge/hips-forward option described) so the end position is attack-capable rather than a transient stop.
+
+
+## 10.0 FOUR-WEEK CURRICULUM
+
+### 10.1 Week 1 — Build, Structure, and Entries (Volume 1 Spine)
+
+- Session 1 — K-Guard Build Checklist (Structural Gates)
+  - Primary objectives
+    - Knee off the mat battle as the first win condition.
+    - Scoop grip as the anti-collapse anchor (no “empty hand”).
+    - Bottom knee “behind the elbow” alignment.
+    - Secondary leg placement as the angle-lock that enables routing.
+  - Content focus
+    - 6.1.1 K-Guard Build Checklist
+    - 6.1.2 Scoop Grip
+    - 6.1.3 Bottom Knee Behind Elbow
+    - 6.1.4 Knee Off The Mat Battle
+    - 6.1.5 Secondary Leg Placement
+  - Constraints to enforce
+    - If knee is being controlled/lifted/collapsed, rebuild before attacking.
+    - If controlling hand is empty, re-grip before routing.
+
+- Session 2 — Seated Entries (Lower-Body and Upper-Body)
+  - Primary objectives
+    - Seated-to-K entries without conceding forced half guard / RDLR.
+    - Maintain “below the knee” priority and hip-to-heel connection.
+    - Handle ankle-grab disruption with wrist grip-break response.
+  - Content focus
+    - 6.1.6 Seated → K (Lower Body)
+    - 6.1.7 Seated → K (Upper Body)
+  - Scenario gates
+    - If opponent steps close toward hips: stop foot-to-hip closure before shooting K.
+
+- Session 3 — Supine and Top-Pressure Recoveries Into K
+  - Primary objectives
+    - Supine structure to prevent easy double C-grips (one leg up / one leg down).
+    - Lasso safety anchor when bottom-leg battle is lost.
+    - North-south recovery: knees frame → distance → foot insert → scoop.
+    - RDLR distance-first entry: frame → head away → knee to chest → extend → shoot to K.
+  - Content focus
+    - 6.1.8 Supine Framework → K Counter (Low Leg Retention)
+    - 6.1.9 Supine → K (Lasso)
+    - 6.1.10 North-South → K
+    - 6.1.11 RDLR → K
+  - Constraints to enforce
+    - No arms-only framing under north-south pressure (switch to knee framing).
+    - No forcing K entry from RDLR when too close (distance creation is mandatory).
+
+### 10.2 Week 2 — Backside Track (Volume 2 Spine)
+
+- Session 4 — Backside Hubs and 50/50 Platform
+  - Primary objectives
+    - Route cleanly from K-build into backside hub.
+    - Use backside 50/50 as a stabilising attack platform (not a single-attempt finish).
+  - Content focus
+    - 6.2.1 Backside Hub
+    - 6.2.2 Backside 50/50
+    - 6.2.3 Inside Heel Hook (Backside) (routing and exposure rules only)
+
+- Session 5 — Follow the Backstep and Double 50/50 Upgrade
+  - Primary objectives
+    - Treat backstep as a predictable reaction; follow on timing (“wait for the leg”).
+    - Upgrade to double 50/50 when the opponent is clearing the knee line.
+    - Enforce pinch/scissor and knee-pit coverage rules to stop clearing.
+  - Content focus
+    - 6.2.6 Follow-The-Backstep
+    - 6.2.5 Double 50/50
+  - Constraints to enforce
+    - No chasing with open knees.
+    - Knees close together and pinched as the non-negotiable control rule.
+
+- Session 6 — Backside Finishing/Transition Options: Reverse Aoki, Matrix → X-Hook
+  - Primary objectives
+    - Reverse Aoki: thumb-to-chest alignment, forearm reinforcement, shoulder/elbow-to-hip closure, ribcage/hips back when needed.
+    - Matrix continuity: lift/follow rules, grip depth trade-offs for base.
+    - X-hook entry on timing: opponent drops → you lift hips immediately; establish X-hook and leg-drop base rule.
+  - Content focus
+    - 6.2.7 Reverse Aoki (Inside/Outside)
+    - 6.2.9 Matrix
+    - 6.2.10 X-Hook Hub
+    - 6.2.11 X-Hook “Leg Drop”
+  - Constraints to enforce
+    - Immediate follow when opponent drops to hip (no waiting).
+    - Base rule on leg drop (knee far away from opponent’s hip).
+
+### 10.3 Week 3 — Frontside Track (Volume 3 Spine)
+
+- Session 7 — Frontside Gate: Angle for Outside Leg Locks + Re-Angle Rule
+  - Primary objectives
+    - Build/hold the outside-leglock angle before selecting threats.
+    - When opponent moves back: follow and go underneath again to maintain angle.
+  - Content focus
+    - 6.3.1 Angle For Outside Leg Locks
+
+- Session 8 — Aoki Family and Off-Balance Branching
+  - Primary objectives
+    - Aoki (inside): forearm-based heel control to prevent heel re-insertion; ribcage/hips back to maintain exposure vs posture/space.
+    - Aoki (belly down): weight-above trigger for finishing direction.
+    - Aoki (outside): outside ashi facing alignment; deny foot-to-mat stabilisation.
+    - Off-balance selection: forward if available; backward when head is high / forward denied.
+  - Content focus
+    - 6.3.2 Aoki Lock – Inside
+    - 6.3.3 Aoki Lock – Belly Down
+    - 6.3.4 Aoki Lock – Outside
+    - 6.3.5 Off-Balance Forward
+    - 6.3.6 Off-Balance Backward
+
+- Session 9 — Outside Heel Hook + Combination and Leg Switch Routing
+  - Primary objectives
+    - Outside heel hook collection rules: toes not in armpit, elbow closed to prevent heel slip, thumb-to-mat when collecting.
+    - Combining subs together: ankle lock threat forces knee reactions that open transitions.
+    - Leg switch as a structured reroute into sweep/backtake/backside re-entry; route to saddle when middle leg is too heavy to lift.
+  - Content focus
+    - 6.3.7 Outside Heel Hook – Inside Angle
+    - 6.3.8 Outside Heel Hook – Outside Angle (selection logic only)
+    - 6.3.9 Combining Subs Together
+    - 6.3.10 Leg Switch – Dilemma
+    - 6.3.11 Leg Switch – Sweep
+    - 6.3.13 Backroll Sweep
+    - 6.3.14 Saddle
+
+### 10.4 Week 4 — Upper-Body Branch + Integrated Routes (Volume 4 + System Integration)
+
+- Session 10 — Shotgun Armbar Series (Entry, Substitution, Escape Follow)
+  - Primary objectives
+    - Elbow control and grip-break priority before “putting everything in place.”
+    - Prevent easy elbow-inside turn escape (thumb/elbow orientation rule).
+    - Hip lift substitution when knee-off-mat route is denied.
+    - Escape follow: backheel connection and keep shoulder close to mat while re-collecting.
+  - Content focus
+    - 6.4.1 Shotgun Armbar
+    - 6.4.2 Shotgun Armbar 2
+    - 6.4.3 Shotgun Armbar 3
+
+- Session 11 — Triangle Branch + Mirlock + Choi Bar (Upper-Body Families)
+  - Primary objectives
+    - Triangle setups: angle first; shin-to-elbow grip-break solution when grip is strong; knee-in then lift.
+    - Triangle finish: knee-pit hook on neck, knees point up, step on hip to improve angle; manage easiest “lift up” escape.
+    - Mirlock: wide base, step on hip, hips back, overhook high to chest; avoid elbow-too-close-to-knee; elbow-to-ribs alignment.
+    - Choi bar: shoulder control + distance management via foot placement; close knee; keep shoulder close to mat.
+  - Content focus
+    - 6.4.6 Triangle Setups
+    - 6.4.7 Triangle Finish
+    - 6.4.5 Mirlock
+    - 6.4.8 Choibar
+
+- Session 12 — Integration Day: Route Selection Under Resistance (Backside ↔ Frontside ↔ Upper-Body)
+  - Primary objectives
+    - Start from K-guard build; opponent’s job is to force collapse, backstep, stand and clear, or pressure chest-to-chest.
+    - You must respond by routing to the correct hub without losing connection.
+  - Required routing demonstrations (system-level)
+    - Build → Backside hub → (Backstep reaction) → Follow backstep → Double 50/50 upgrade.
+    - Build → Frontside angle gate → Aoki/outside heel hook selection → off-balance branch when finishing is denied.
+    - Build (or frontside) → Leg switch → Far side K / backroll sweep / saddle when middle leg is heavy.
+    - Any point opponent commits chest-to-chest pressure → route to upper-body hub (shotgun armbar / triangle / mirlock / choibar) or flower sweep.
+  - Content focus (integration set)
+    - 6.1.x build + entries
+    - 6.2.x follow backstep + double 50/50 + matrix/x-hook
+    - 6.3.x angle gate + Aoki + outside heel hook + off-balance + leg switch + saddle
+    - 6.4.x upper-body branch + flower sweep
+
+
+## 11.0 OPERATIONAL COMMAND GLOSSARY (USER)
+
+### 11.1 Core initiation commands
+
+- "Start a new BIO for [Instructional Title]"
+  - Resets continuity for the BIO document.
+  - Subsequent outputs are assumed to belong to the newly started BIO.
+  - Use when switching instructionals or when you want a clean document boundary.
+
+- "BIO contents" / "Give me contents section"
+  - Generates the unnumbered Contents section for the current BIO.
+  - Defines the authoritative section list and heading text that all later sections must match.
+
+### 11.2 Section and annex retrieval commands
+
+- "Give me Section X" / "Section X"
+  - Outputs only Section X, continuing the same BIO document (no repeated title block).
+  - Must follow the established headings and numbering from BIO contents.
+
+- "Give me Sections X and Y"
+  - Outputs only Sections X and Y in one response, continuing the same BIO document.
+  - If full density is not feasible in one response, output must not silently reduce density; split explicitly.
+
+- "Give me Annex [Letter]" / "Annex [Letter]"
+  - Outputs only the specified annex, continuing the same BIO document.
+  - Use only if annexes are defined in the governing Jigoro Text for the current BIO.
+
+### 11.3 Regeneration commands (replacement without re-structuring)
+
+- "Regenerate Section X"
+  - Replaces the prior version of Section X.
+  - Must preserve the same heading text, numbering, and ordering already defined by BIO contents (unless you explicitly request restructuring).
+
+- "Regenerate Annex [Letter]"
+  - Replaces the prior version of Annex [Letter] (if annexes exist in the current standard).
+  - Must preserve the same annex title and ordering already defined by BIO contents.
+
+### 11.4 Density control commands (explicit overrides)
+
+- "Summarise Section X"
+  - Produces a reduced-density summary of Section X only.
+  - Does not change the canonical “full density” version unless you explicitly request replacement.
+
+- "Full density"
+  - Forces maximum detail for the requested section(s) (unless the section is explicitly designated lower-density in the standard, e.g., Executive Summary).
+
+### 11.5 Formatting and transport commands
+
+- "In a copy box"
+  - Return the requested content inside a single fenced code block (transport wrapper only).
+
+- "Markdown headers"
+  - Enforce markdown heading syntax for headings/subheadings inside the deliverable.
+
+- "ASCII diagram"
+  - Provide a diagram using fixed-width ASCII characters.
+  - Apply manual hard-wrapping only to diagram lines (width limit per the current standard); do not hard-wrap normal bullets/prose.
+
+### 11.6 Workflow shortcuts (common project flow)
+
+- "Next"
+  - Continue to the next required section in the BIO’s defined physical order (as established by the current BIO contents and governing Jigoro Text).
+  - Must not introduce sections/annexes not present in the current standard.
+
+
+## 12.0 PRE-OUTPUT LINT CHECKLIST (ASSISTANT)
+
+### 12.1 Structural compliance (document integrity)
+
+- Headings use markdown only and stay consistent (no mixed heading styles mid-document).
+- Output is a continuation of the same document:
+  - No repeated top-level title unless explicitly requested.
+  - No duplicated section headers already delivered.
+- Section numbering and header text match the authoritative Contents section for this BIO.
+- Do not introduce sections/appendices/annexes not defined in the current governing Jigoro Text for this project.
+
+### 12.2 Source fidelity (transcript-derived requirement)
+
+- All technical content is transcript-derived.
+- No “standard BJJ” additions unless explicitly allowed by the current governing manual for this project.
+- No instructor/platform/video meta narration.
+- If transcript coverage is insufficient:
+  - Output only what exists.
+  - Add the required incomplete-coverage line (if that rule exists in the current governing manual).
+
+### 12.3 Density and note style (execution quality)
+
+- Default is high-density notes; avoid long paragraphs.
+- Encode:
+  - Conditions / triggers (when/if).
+  - Decision forks (A vs B).
+  - Constraints and “do not” rules.
+  - Timing cues and sequencing.
+  - Failure patterns and corrections (when present).
+- Avoid:
+  - Repeating points without new constraints/cues.
+  - Motivational/teaching filler that does not change execution decisions.
+
+### 12.4 Formatting and wrapping rules
+
+- Bullets use "-" with consistent indentation.
+- No manual hard-wrapping of prose/bullets.
+- ASCII diagrams only:
+  - Hard-wrapped to the project’s width limit.
+  - Use fixed-width characters and consistent symbols.
+
+### 12.5 Output transport rules (copy/paste safety)
+
+- Return the requested content in a single fenced code block when requested.
+- No extraneous preamble outside the code block for deliverables.
+- No trailing spaces.
+- Ensure the content pastes cleanly into a markdown file without edits.
 
 
 
-## Annex E – Common Failure Patterns
 
-- Attacking without under-knee control (scoop not established)
-  - Failure pattern: attempting to rotate, “go around,” or finish while not connected under the knee.
-  - Likely cause: skipping the control gate in favor of speed or because the leg is “there.”
-  - What goes wrong: opponent grabs/staples the leg and forces half guard / collapses the structure.
-  - Corrective rules/cues
-    - “No offense without scoop.” Treat scoop recovery as the immediate priority state change.
-    - Rebuild distance with frames, then re-acquire scoop before re-entering.
-  - Where it belongs in system: Structure gates (K Guard structure build) / scoop recovery drill.
 
-- Trying to “go around” while the knee is still planted/heavy (off-balance gate not won)
-  - Failure pattern: rotating around a stable kneeling base without first lifting the knee off the mat.
-  - Likely cause: confusing “position achieved” with “permission to rotate.”
-  - What goes wrong: structure collapses, hips get pinned, entries become weak and easily stuffed.
-  - Corrective rules/cues
-    - Run the off-balance gate first (blade-of-foot push + upper-body pull) until the knee lifts.
-    - If posture denies foot placement, insert knee shield to create space, then re-place the blade of the foot.
-  - Where it belongs in system: Off-balance gate drill (upright vs leaning vs heavy/combat base).
 
-- Poor foot placement for off-balancing (blade-of-foot not on ribs when required)
-  - Failure pattern: using a weak contact point so push/pull does not meaningfully lift the knee.
-  - Likely cause: accepting “good enough” placement rather than rebuilding distance for correct placement.
-  - What goes wrong: knee remains planted; attacker escalates force and loses structure.
-  - Corrective rules/cues
-    - If the opponent leans forward and blocks placement, insert knee shield first, then re-place blade-of-foot on ribs.
-    - Extend working knee away from chest to keep lever strong during off-balance.
-  - Where it belongs in system: Off-balance gate variations by opponent posture.
 
-- Bottom knee flares outside the elbow line (knee-hide rule violated)
-  - Failure pattern: bottom knee drifts outside the elbow line while building/attacking from K Guard.
-  - Likely cause: chasing rotation without maintaining guard integrity constraints.
-  - What goes wrong: easier stuffing/countering/collapse as the knee becomes accessible and structure loosens.
-  - Corrective rules/cues
-    - Reset immediately when knee flares; rebuild with knee behind elbow before re-attempting rotation.
-  - Where it belongs in system: K Guard structure gate drill (knee hide acceptance criterion).
 
-- Knees pinch together (knee separation rule violated)
-  - Failure pattern: knees come together during structure build, off-balance, or rotation attempts.
-  - Likely cause: squeezing as a stability crutch, reducing hip mobility.
-  - What goes wrong: opponent can disengage/collapse structure more easily; rotation and re-guarding become slow.
-  - Corrective rules/cues
-    - Maintain knee separation as a constant structural checkpoint; reset reps when knees pinch.
-  - Where it belongs in system: K Guard structure gate drill / off-balance gate reps.
 
-- Secondary leg becomes passive (second barrier disappears)
-  - Failure pattern: secondary leg fails to act as a barrier while primary connection is being built.
-  - Likely cause: focusing only on the primary leg connection and ignoring step-in/staple threats.
-  - What goes wrong: opponent steps in, staples, and collapses structure before routing/attacks can happen.
-  - Corrective rules/cues
-    - Treat secondary leg as a required barrier: it must actively deny stepping/stapling while scoop is being built/maintained.
-    - If barrier is compromised, rebuild barrier first, then resume progression.
-  - Where it belongs in system: Structure gates / secondary-leg barrier concept.
-
-- Supine entry error: both legs pointed the same way (easy two-hand control)
-  - Failure pattern: presenting both legs in the same direction from supine and allowing opponent to secure two grips.
-  - Likely cause: failing to apply the asymmetry principle early in the entry.
-  - What goes wrong: opponent wins double grips, collapses retention, and prevents clean K Guard entry.
-  - Corrective rules/cues
-    - Keep asymmetry (one leg up, one leg down) to deny easy two-hand control.
-    - Frame and break grips before attempting to enter K Guard structure.
-  - Where it belongs in system: Supine-to-entry pathway / low-leg entry checks.
-
-- Forcing matrix-style entry when behind-knee hook is denied (conditional entry ignored)
-  - Failure pattern: attempting matrix routes without the required behind-knee attachment.
-  - Likely cause: treating matrix as a universal answer rather than condition-dependent.
-  - What goes wrong: low-value forcing attempts; loss of connection; opponent clears and re-faces.
-  - Corrective rules/cues
-    - If behind-knee hook is not available and only side-of-knee access exists, abandon and route to a different lane (frontside/angle work).
-  - Where it belongs in system: Backside lane conditional routes / routing denial rules.
-
-- Losing the exchange on backstep (separation occurs instead of prevention/follow)
-  - Failure pattern: opponent backsteps and you lose attachment, forcing a reset.
-  - Likely cause: treating backstep as a surprise rather than the central defensive reaction.
-  - What goes wrong: opponent disengages and escapes the entanglement; attack dies.
-  - Corrective rules/cues
-    - Prevention: chest-to-mat orientation + lower-body extension to limit free backstep.
-    - Follow: track hips through the rotation and maintain attachment; return to best hub rather than resetting.
-  - Where it belongs in system: Backstep prevention and backstep-follow drills.
-
-- Reverse Aoki exposure error: “opening the chest” to expose heel
-  - Failure pattern: trying to expose the heel by opening chest/leaning forward.
-  - Likely cause: misunderstanding the exposure mechanic and prioritizing reach over structure.
-  - What goes wrong: exposure fails; structure opens; opponent extends/clears.
-  - Corrective rules/cues
-    - Distance first.
-    - Expose heel by moving ribcage back (not by opening chest).
-    - Apply alignment cue given: thumb points toward the chest; finish by moving elbow back once exposure is achieved.
-  - Where it belongs in system: Backstep-triggered reverse Aoki sequence.
-
-- Back roll sweep attempted without the prerequisite (no opponent post)
-  - Failure pattern: initiating the back roll sweep when opponent has not posted a hand.
-  - Likely cause: skipping the availability check under heavy base.
-  - What goes wrong: roll does not topple base; opponent stays stable and remains on top.
-  - Corrective rules/cues
-    - Create the post first (force the basing hand).
-    - Only then initiate the roll.
-  - Where it belongs in system: Heavy-base branch availability checks / back roll sweep drill.
-
-- Back roll sweep retention error: failing to carry the knee through the roll
-  - Failure pattern: rolling but letting the opponent’s knee line slip/free during the transition.
-  - Likely cause: focusing on the roll itself rather than knee retention.
-  - What goes wrong: opponent stabilizes and wins the post-roll battle; sweep fails.
-  - Corrective rules/cues
-    - “Take the knee with you” as the non-negotiable retention cue.
-  - Where it belongs in system: Back roll sweep key retention constraint.
-
-- Saddle branch structural failure: entering without hip lift and far-hip base placement
-  - Failure pattern: attempting saddle entry without creating space and without establishing base on the far hip.
-  - Likely cause: rushing control transfer under heavy pressure.
-  - What goes wrong: entry becomes smashable; opponent collapses and kills the branch.
-  - Corrective rules/cues
-    - Hip lift to clear space for transfer.
-    - Control transfer middle leg -> far leg as the central action.
-    - Establish far-hip base before proceeding.
-  - Where it belongs in system: Heavy-base alternative branch (saddle) prerequisites.
-
-- Triangle setup error: square finishing attempt without angle creation
-  - Failure pattern: trying to close/finish the triangle while square, without stepping on the hip and creating angle.
-  - Likely cause: treating closure as the finish rather than a checkpoint.
-  - What goes wrong: limited choke mechanics; increased escape opportunities.
-  - Corrective rules/cues
-    - Create angle first (grab shin; step on hip).
-    - Maintain head control to prevent the head-lift escape.
-  - Where it belongs in system: Upper-body overlay (triangle branch) finishing gate.
-
-- Triangle placement error: knee pit not hooking the neck line / shoulder coverage missing
-  - Failure pattern: triangle is “closed” but lacks precise placement, leaving a gap.
-  - Likely cause: imprecise leg placement and rushing compression.
-  - What goes wrong: choke does not seal; opponent survives and begins posture/escape work.
-  - Corrective rules/cues
-    - Knee pit must hook the neck line.
-    - Leg must cover over the shoulder line.
-    - Finish with knees pointed to the same side and gap removal via correct leg/heel action (not squeezing a loose shape).
-  - Where it belongs in system: Triangle finish mechanics checkpoints.
-
-- Shotgun armbar finishing error: ripping grips before alignment is set (hand/wrist orientation wrong)
-  - Failure pattern: attempting full extension and grip breaks without first setting finishing alignment.
-  - Likely cause: prioritizing speed over alignment.
-  - What goes wrong: elbow rotates out; opponent survives and extracts arm.
-  - Corrective rules/cues
-    - Set wrist/hand orientation first (alignment check), then break grips and extend.
-    - Maintain hip height until isolation is secure.
-  - Where it belongs in system: Upper-body overlay (shotgun armbar) invariant checkpoints.
-
-- Coverage incomplete due to missing or insufficient transcript content.
