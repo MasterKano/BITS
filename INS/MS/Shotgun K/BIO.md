@@ -1021,10 +1021,55 @@ Upper-body branch from the K-Guard connection: arm and head attack families plus
   - Positional advancement outcome from X-hook (leg drop/drag family) with maintained base and control.
 
 #### 6.2.12 X-Hook Backtake 1
-- No transcript-derived content available for this technique.
+
+- Starting position / entry trigger
+  - You are in matrix-style connection and the opponent starts dropping to their near hip.
+  - Immediate timing rule: lift your hips as they drop; do not wait; use momentum to switch into X-hook.
+
+- X-hook configuration (the backtake platform)
+  - Two common hook placements are used:
+    - Hooking behind/around the knee line.
+    - Hooking the ankle line.
+  - Preference detail: holding at/near the knee while using the foot on the inside line is presented as the preferred option for control.
+
+- Control and base requirements before taking the back
+  - Use a shallow grip initially to create/finish the leg-drop style stabilisation.
+  - Build a strong base with the posting knee by moving it far away from the opponent’s hip (if the knee is too close to their body, you lose base).
+  - Grip progression: the initial ankle control can transition to controlling the far hip once base is established.
+  - Bottom-leg “escape” action is used to build into the leg-drop configuration (leg positioning that prevents easy turning-in).
+
+- Stability rule inside leg-drop (to keep the backtake available)
+  - Close the knee and open the foot to make it hard for the opponent to escape.
+  - Opponent’s escape requirement is described as: step on the mat, open the knee, and turn to face you; your control aims to deny this by keeping the knee closed and foot open.
+
+- Backtake mechanics (from stable X-hook / leg-drop)
+  - Goal cue: expose the opponent’s lower back.
+  - Hip placement cue: bring your butt very close to your heel; bring your knee very close to their body.
+  - Finishing movement: kick with the lead leg and use a back-heel action with the trailing leg to rotate behind and take the back.
+  - End state: you arrive in back control after the kick + back-heel sequence.
 
 #### 6.2.13 X-Hook Backtake 2
-- No transcript-derived content available for this technique.
+
+- Starting position / scenario
+  - Same X-hook / matrix-based entry context, but executed as a more dynamic backtake (including when the opponent is standing/moving).
+
+- Timing and movement rule (same core constraint)
+  - As the opponent moves to the hip line, you lift your hips with them and switch immediately into X-hook; do not pause in matrix while they are dropping.
+
+- Foot / blade placement and angle management
+  - Use the blade of the foot as a controlling wedge before initiating the backtake sequence (blade placement is used to stabilise the transition and keep the lower-back exposure pathway open).
+  - Maintain the “expose lower back” objective during every micro-step (do not take the back by drifting away from the hip line).
+
+- Hip and knee proximity cues (re-stated as the backtake engine)
+  - Bring butt close to heel and knee close to the opponent to keep the rotation tight and prevent them turning to face you mid-transition.
+
+- Clearing and stepping sequence (dynamic finish)
+  - Use the lead leg to clear their leg line as needed, then step/move back with the base leg to complete the angle behind them.
+  - Head-position constraint: do not keep your head too close; being very close with the head makes the movement harder to execute cleanly.
+
+- End state
+  - Back control is taken off the same X-hook platform, with the dynamic version emphasising step/clear mechanics and head-distance discipline.
+ 
 
 ### 6.3 Volume 3 – Frontside
 
@@ -2287,10 +2332,261 @@ Shotgun armbar continuation:
 - Ensure the content pastes cleanly into a markdown file without edits.
 
 
+## 13.0 TERMINOLOGY
+
+### 13.1 Core positional terms
+
+- K-Guard
+  - A guard structure built around a strong connection to the opponent’s near leg (commonly via scoop control) plus a secondary-leg layer that preserves angle and prevents squaring.
+  - Used as a routing platform into {OR} backside attacks, frontside attacks, or upper-body attacks when pressure exposes them.
+
+- Backside
+  - Orientation track where the opponent’s hip/leg line is controlled from the “backside” angle, feeding 50/50-family hubs, backstep-following, and backtake families (matrix/X-hook).
+
+- Frontside
+  - Orientation track where the system prioritises creating the correct angle for outside-leg attacks (Aoki/outside heel hook) and uses off-balancing/leg switching to maintain advantage.
+
+- Backside Top / Backside Bottom
+  - Named reference hubs to distinguish how you are oriented relative to the opponent when operating on the backside track, used to stabilise before committing to entanglement/attack.
+
+- Frontside Top / Frontside Bottom
+  - Named reference hubs to distinguish how you are oriented relative to the opponent on the frontside track, used to stabilise and satisfy the “angle gate” before attacking.
+
+### 13.2 Structural gates and alignment cues
+
+- Knee Off The Mat
+  - A primary stability objective versus a kneeling opponent: disrupt their base so the knee is no longer anchored, enabling stronger angle control and safer attack entry.
+
+- Scoop Grip
+  - Primary lower-body control that prevents “empty hand” collapse and stops the opponent from easily forcing you into half guard while you build K-guard.
+
+- Reverse Scoop Grip
+  - A defensive/positional response that can win inside position against your secondary-leg placement, often forcing you to correct by controlling the opponent’s knee before re-layering your foot.
+
+- Secondary Leg
+  - The additional leg layer placed onto/around the opponent to preserve the attack angle, deny squaring, and open routing to backside/frontside tracks.
+
+- Bottom Knee “Behind the Elbow”
+  - A protective alignment cue for the bottom leg that reduces counter-timing and prevents the opponent initiating passing sequences off your exposed bottom knee.
+
+- Inside Win / Winning Inside
+  - Opponent’s success in taking the inside positional lane against your leg placement, commonly preventing you from re-placing your foot on the thigh and threatening pass-arounds.
+
+- Knee Control (Correction)
+  - A corrective control point used when you lose the inside battle and cannot re-place the secondary leg; controlling the knee prevents the opponent stepping knee-outside and circling to pass.
+
+### 13.3 Entry context terms
+
+- Seated To K (Lower Body)
+  - Entry family where you connect to the near leg from seated (typically prioritising control below the knee/heel connection) before shooting into K-guard structure.
+
+- Seated To K (Upper Body)
+  - Entry family where an upper-body connection precedes the lower-body connection; still requires near-leg connection to complete a functional K-guard.
+
+- Supine Guard To K (Low Leg)
+  - Recovery/entry family from supine where low-leg structure and leg-direction management prevent easy grip control and allow re-entry into K-guard.
+
+- Supine Guard To K (Lasso)
+  - A safety-anchor recovery from supine using a lasso-style hook to stabilise, break grips, and then rebuild into K-guard.
+
+- North-South To K
+  - Recovery entry where knee framing and foot insertion between bodies create space for re-connecting to the leg line and rebuilding K-guard.
+
+- Reverse De La Riva To K (RDLR To K)
+  - Entry family where distance creation precedes the knee-to-chest and extension steps needed to shoot into K-guard without being too close to build structure.
+
+### 13.4 Backside entanglement hubs and continuation terms
+
+- Backside 50/50
+  - A stabilising leg-entanglement hub on the backside track used to control the leg line and feed inside heel hook routes and continuation actions.
+
+- Double 50/50
+  - An upgraded 50/50-family hub used specifically to stop knee-line clearing during backstep defence; emphasises knee-pit coverage and leg pinch/scissor control.
+
+- Inside Heel Hook (Backside)
+  - Inside heel hook option accessed from backside entanglement/hub alignment.
+
+- Inside Heel Hook (Frontside)
+  - Inside heel hook option accessed after orientation/angle changes from backside work.
+
+- Follow The Backstep
+  - Continuation requirement when the opponent backsteps to clear: maintain attachment and recatch on timing rather than accepting a reset.
+
+- Backstep
+  - A common opponent reaction/escape attempt that changes orientation and can clear entanglements if you fail to maintain leg pinch and timing.
+
+- High Backstep
+  - A specific backstep variation referenced as a named chapter topic; treated as part of the backside reaction/continuation family.
+
+- Reverse Aoki (Inside / Outside)
+  - A finishing family that uses strong heel exposure plus strict hand/arm alignment and reinforcement concepts; appears as inside/outside variants tied to exposure and orientation.
+
+- Heel Exposure
+  - The state where the heel is accessible/isolated enough to apply finishing mechanics; maintaining exposure is treated as a prerequisite before committing to finish pressure.
+
+### 13.5 Frontside angle, attack, and reroute terms
+
+- Angle For Outside Leg Locks
+  - The frontside “gate” concept: establish the correct angle before committing to outside heel hooks/Aoki lines; re-angle (often by going underneath) when the opponent moves back.
+
+- Aoki Lock (Inside)
+  - Frontside Aoki variant tied to inside alignment and heel control/exposure maintenance.
+
+- Aoki Lock (Belly Down)
+  - Aoki variant referenced as belly-down finishing direction, typically selected when weight/pressure alignment makes the standard vector low percentage.
+
+- Aoki Lock (Outside)
+  - Aoki variant tied to outside-facing alignment and denial of the opponent’s ability to step/plant the foot to stabilise.
+
+- Outside Heel Hook (Inside Angle)
+  - Outside heel hook option where the inside angle is retained; commonly emphasises collection quality (toe/heel control) and preventing heel slip.
+
+- Outside Heel Hook (Outside Angle)
+  - Outside heel hook option referenced as an outside-angle finish family; selection is tied to angle and opponent reaction.
+
+- Off-Balance Forward
+  - A setup branch that uses forward unbalancing when posture/weight distribution makes it available.
+
+- Off-Balance Backward
+  - A setup branch used when forward unbalancing is denied; backward unbalance forces reactions that reopen angle or transitions.
+
+- Combining Subs Together
+  - Threat-layering concept where one submission threat forces defensive reactions that open the next (e.g., ankle/heel hook dilemmas, or transitions created by knee reactions).
+
+- Leg Switch
+  - A reroute mechanism that changes which leg is attacked/controlled to create dilemmas, sweeps, re-entanglements, or backtakes when the opponent’s reaction closes the initial line.
+
+- Far Side K
+  - A named transition topic on the frontside track; used as an organisational label for a specific routing/position choice.
+
+- Backroll Sweep
+  - A sweep mechanic referenced as a backroll-based conversion when the opponent’s weight/pressure makes standard lifting/turning difficult.
+
+- Saddle
+  - A leg entanglement hub referenced as a finishing/position option; also used as a reroute when a leg is too heavy to lift and you shift to a different leg line.
+
+### 13.6 Backtake and positional advancement terms
+
+- Matrix
+  - A backside backtake-oriented hub using leg hooks and timing (lift/follow) to prevent the opponent from dropping and denying back exposure.
+
+- X Hook
+  - A hook-based control hub linked from matrix sequences; used to stabilise and transition into leg-drag/backtake outcomes.
+
+- Leg Drag (from X Hook)
+  - A positional advancement family referenced as “X Hook Leg Drag,” typically involving base management and leg-line control to pass/advance.
+
+- Backtake
+  - Outcome node where the system converts entanglements and hooks (matrix/X-hook/leg switch routes) into back exposure and back control.
+
+### 13.7 Upper-body branch terms
+
+- Upperbody (Upperbody Hub)
+  - The branch where upper-body attacks become available from K-guard context when pressure/engagement exposes arms/head.
+
+- Shotgun Armbar
+  - Armbar family referenced as “shotgun,” featuring entries, follow-ups, and escape-containment variants.
+
+- Flower Sweep
+  - Sweep family referenced as “flower sweep,” used as an upper-body-linked conversion to top position.
+
+- Mirlock (also appears as “Middle Lock”)
+  - Upper-body submission/control family referenced with both labels in the material; treated as a distinct attack option in the upper-body volume.
+
+- Triangle Set Ups
+  - Entry methods for triangle attacks, typically involving angle creation and grip management before locking.
+
+- Triangle Finish
+  - Finishing mechanics and alignment priorities after the triangle is locked.
+
+- Choibar (also appears in transcript as “Troy Bar”)
+  - Armbar/upper-body finishing family referenced with this transcript token; treated as a distinct upper-body attack option.
+
+### 13.8 Grip and hand-position terms
+
+- C-Grip
+  - A hand shape/control reference used for controlling ankle/leg lines and stabilising transitions when standard grips are slipping or during re-collection.
+
+- Grip Break (Wrist Control)
+  - A defensive-to-offensive action where wrist control is used to remove an opponent’s ankle-grab or other stalling grip that blocks entry progression.
+
+- Reinforcement Grip (Forearm vs Wrist)
+  - A reinforcement choice referenced in finishing contexts (notably Aoki-family variants) where the forearm is used as the preferred reinforcement control point over the wrist in the described alignment.
+
+### 13.9 Movement and timing cues
+
+- Go Underneath
+  - A re-angling method used to preserve attack angle when the opponent steps/moves back, particularly in frontside angle maintenance.
+
+- Backheel (Connection Maintenance)
+  - A leg action used to maintain attachment during opponent movement/escape attempts, especially in upper-body armbar follow-ups.
+
+- Timing Window (“Wait for the leg”)
+  - A timing cue for backstep-following: you don’t chase early; you track and catch as the leg travels and presents.
 
 
+## 14.0 ADDITIONAL NOTES
 
+### 14.1 System shape (how the pieces are meant to connect)
 
+- The system is structured as a build-and-route framework rather than a single “move list.”
+  - The K-guard build is treated as the prerequisite platform; backside and frontside are downstream routing tracks.
+  - Upper-body attacks function as a conditional branch that appears when defensive pressure or engagement exposes arm/head lanes.
 
+- The primary organisational spine used throughout the material is:
+  - Build gates (stability and angle preservation) → routing gate (backside/frontside/upperbody) → attack families → continuation rules → outcomes → reset back into build.
+  - Most “failures” are explained by a missing build gate or a broken continuation rule rather than “bad finishing.”
 
+### 14.2 The build gates are the real “technique” under pressure
+
+- Scoop grip is treated as a non-negotiable control layer in no-gi because an “empty hand” state allows easy collapse into half guard.
+- Knee-off-the-mat is treated as the first battle against kneeling opponents; off-balancing is positioned as the tool that wins this battle.
+- Bottom-knee “behind the elbow” is treated as a protective alignment that reduces counter-timing and prevents easy pass initiation.
+- Secondary leg placement is treated as the angle-lock that makes routing possible; when it fails due to the opponent winning inside, the correction is knee control before attempting to re-layer the secondary leg.
+
+### 14.3 Continuation rules are explicitly built into the curriculum (anti-reset logic)
+
+- Backside
+  - The opponent’s backstep is treated as a predictable and recurring defensive action.
+  - Following the backstep is framed as mandatory; failure to do so yields resets.
+  - Double 50/50 is presented as an upgrade hub specifically for stopping knee-line clearing during backstep defence.
+
+- Frontside
+  - Frontside attacks are gated by angle; you do not commit to Aoki/outside heel hook families without satisfying the angle gate.
+  - When the opponent moves back, the corrective action is to follow and go underneath again to restore angle rather than accepting separation.
+
+- Upper-body branch
+  - Upper-body attacks are treated as the system’s “punishment layer” when leg attacks are being shut down by pressure or when the opponent over-commits to chest-to-chest engagement.
+
+### 14.4 Common “why it stops working” explanations embedded in the material
+
+- K-guard collapses into half guard
+  - Typically explained by missing scoop grip (“empty hand”) or opponent connecting to your knee before you win knee-off-the-mat.
+- Opponent circles around and passes
+  - Often linked to losing secondary leg placement and allowing the opponent to win inside without applying the knee-control correction.
+- Opponent escapes leglocks by clearing
+  - Often linked to failure to follow backstep on timing, or failure to upgrade to double 50/50 when clearing is occurring.
+- Frontside leglocks feel low percentage
+  - Often linked to attempting finishes without first satisfying the angle gate (and/or failing to re-angle by going underneath when opponent steps back).
+- Upper-body submissions fail to stabilise
+  - Often linked to not solving grip-breaking and elbow-rotation/alignment prerequisites before committing to the finish.
+
+### 14.5 Practical use notes (how to apply the document efficiently)
+
+- Debugging approach under live resistance
+  - When a sequence fails, diagnose by gates:
+    - Build gates (scoop / knee-off-mat / bottom knee / secondary leg) first.
+    - Routing gate second (did you choose backside vs frontside vs upper-body based on the actual opening?).
+    - Continuation rule third (did you follow backstep? did you re-angle by going underneath?).
+    - Only then evaluate finishing mechanics.
+
+- Training emphasis suggestion consistent with the system
+  - Spend early rounds on building and holding the K-guard gates long enough to make routing decisions.
+  - Spend later rounds on “forced reactions” (opponent backsteps; opponent steps back; opponent pressures chest-to-chest) and demonstrate the correct continuation branch without pausing.
+
+### 14.6 High-level framing statements (from Intro)
+
+- K-guard is positioned as a top-tier guard choice within the overall guard “hierarchy” used in practice, specifically highlighted as reliable against high-level opponents.
+- Core claim of the system: K-guard is not limited to lower-body attacks; it is explicitly framed as a platform to attack every limb (leg attacks plus integrated upper-body attacks).
+- The system emphasis is on building repeatable “connection types” that keep you attached to the opponent through common defensive movements, so the guard remains offensive instead of collapsing into a purely defensive shell.
 
