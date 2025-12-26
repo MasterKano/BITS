@@ -125,8 +125,9 @@ LEGEND
 - {CUE/TOKEN} = rule/constraint/phrase as used in transcript
 - ==> = primary conversion lane
 - --> = secondary option
-- <--> = bidirectional / recycle loop
+- <--> = bidirectional / recycle
 
+```
 ================================================================================
 DIAGRAM A — MASTER FLOW (leg entanglement defense -> create exposure -> convert to upper-body lanes -> back/pass; finish threats remain available)
 ================================================================================
@@ -263,7 +264,7 @@ DIAGRAM D — FAILURE / RECOVERY LOOPS (explicitly named: “failed backtake”,
           +--> {cranial shift} + re-acquire upper-body lane
           +--> [tight waist] / [underhook passing] / [cross body ride] / [chest-to-chest]
           +--> re-enter DIAGRAM B (turn away / turn toward / turtle / post-frame)
-
+```
 
 ## 2.0 EXECUTIVE SUMMARY
 
