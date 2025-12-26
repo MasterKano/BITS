@@ -351,13 +351,296 @@ Notes
 
 ### 3.8 Volume 8 — Rolling commentary (excluded from primary extraction)
 - Commentary over the rolling footage; not structured as primary technical instruction.
-- Treated as out-of-scope for technical extraction in this BIO (any later extraction must still be strictly transcript-derived).
+- Treated as out-of-scope for technical extraction in this BIO (any later extraction must still be strictly transcript-
 
 
+## 4.0 Core concepts
+
+### 4.1 Leg entanglements as a dilemma engine (backtake vs pass)
+- Primary objective: convert lower-body exchanges into upper-body outcomes.
+- Build simultaneous threats so the defender cannot cover everything at once.
+- Default expectation: leave with a positional upgrade every exchange.
+  - Back attaches cleanly → take the back.
+  - Back is denied → convert immediately into a pass lane (do not “chase hooks” from a slipping attachment).
+- Passing is a designed branch, not a consolation outcome.
+- System success metric: reliability of conversion under resistance, not how “dominant” the entanglement looks.
+
+### 4.2 Conversion mindset (win reactions; leave with something)
+- Conversion loop:
+  - Stay safe in the entanglement.
+  - Force a predictable reaction.
+  - Select the correct method family (roll/invert/step/come-up).
+  - Land in a stable upper-body lane (pin/attachment).
+  - Finish as back or pass depending on what the defender gives.
+- Opportunistic sequences are valid when failure still yields top control (or another stable lane).
+- Do not reset to neutral after an exchange unless forced; always route into a continuation lane.
+
+### 4.3 Cranial shift (lower-body control → upper-body control)
+- Definition: shift control priority from legs/hips to head-and-shoulders line.
+- Why it matters:
+  - “Past the legs” is not the same as “able to finish.”
+  - Upper-body control is what stabilizes pins and makes chest-to-back attachment possible.
+- Operational cues:
+  - Follow the head line; keep your head aligned with theirs as they rotate.
+  - When head control is slipping, fix it first before continuing.
+  - Transition into upper-body anchors (tight waist, underhooks, head-and-arm circle) as soon as the reaction is created.
+
+### 4.4 Upper vs lower back exposure (what “counts” as back access)
+- Lower-back exposure ≠ completion.
+- Completion state:
+  - Chest-to-upper-back connection.
+  - Centre lines aligned.
+- Exposure must be paired with an upper-body connection; exposure without connection is transient.
+- Upper-body connection must be no-gi functional (cannot rely on belt-style pulling).
+- If upper-back exposure cannot be maintained, route into pin/passing lanes rather than forcing back attachment.
+
+### 4.5 Hips-and-knees alignment (containment rules and diagnostics)
+- Containment rule:
+  - Hips inside your knees → back is available.
+  - Hips outside your knees → back connection is degrading.
+- Continuous diagnostic during rolls/inversions/build-ups:
+  - If containment is lost, expect hook insertion to fail; switch branch.
+- Directional control objective:
+  - Point the opponent’s knees away from you → pass/back becomes available.
+- Maintain structural integrity while transitioning (do not separate controls while “climbing” to the upper body).
+
+### 4.6 Rule of the Achilles (constraint that governs what is possible)
+- Achilles control is a major limiter on conversion freedom.
+- If the opponent maintains meaningful Achilles control:
+  - Back-chasing routes become low percentage.
+  - Forward-pressure upgrades are constrained.
+- If Achilles control is absent/cleared:
+  - Angle changes, come-ups, and back-chasing routes open up.
+- Treat Achilles control as a gating check before committing to certain branches (especially pressure-forward advancements).
+
+### 4.7 Knee-down theory (mode shift to forward pressure)
+- Knee-down is a functional control upgrade (not “knee touching the mat”).
+- Functional prerequisites:
+  - Separate the opponent’s legs.
+  - Create posture that supports forward pressure (heel-to-butt cue).
+- Outside-ashi contexts support knee-down pressure-forward advancement more readily than irimi contexts.
+- Achilles control blocks effective knee-down pressure-forward work (dependency link to 4.6).
+
+### 4.8 Elbow vs shoulder battle (inside-position gate)
+- Problem state:
+  - Opponent keeps elbow inside your shoulder line and keeps the hand inside → you cannot come forward effectively.
+- Target state:
+  - Your shoulder inside their elbow line (win inside shoulder position).
+- Method concept:
+  - Push/force the elbow across to reverse the relationship.
+- Why it matters:
+  - Winning this gate unlocks either chest-to-chest pins (pass) or chest-to-back routes (back), depending on shoulder-line availability.
+
+### 4.9 Top-side shoulder rule (chest-to-back vs chest-to-chest filter)
+- Decision filter:
+  - Top-side shoulder in front of the bottom-shoulder line → chest-to-back route.
+  - Top-side shoulder behind that line → chest-to-chest pins and pass-first route.
+- The rule is applied through a stable “coming forward” base (post foot/hand structures).
+- Frames/posts commonly interfere; clear them, then re-check the shoulder relationship before committing.
+
+### 4.10 Reaction-led branching (turn away / turn toward / turtle / frames)
+- Primary reaction categories that drive branch selection:
+  - Turn away → upper-back exposure and chest-to-back attachment routes.
+  - Turn toward → accept chest-to-chest pins and pass-first control, or re-route to regain exposure.
+  - Turtle / attempted turtle → tight-waist capture as the anchor; finish as back or pass.
+  - Post/frame → clearance step required before pressure/attachment.
+- Treat method families as tools chosen by reaction, not fixed scripts.
+
+### 4.11 Hip square vs hip stagger (method selection cue)
+- Hip orientation cue for selecting method family:
+  - Hips square → forward-roll style routes are favored.
+  - Hips staggered/angled → hip-based “fall to hip / hipdrop” style routes are favored.
+- Use this as a quick selector when deciding between roll families under resistance.
+
+### 4.12 Knee–elbow connection (anti-recovery structure; timing windows)
+- Maintain knee–elbow connection as a default structural rule during transitions.
+- Purpose:
+  - Prevent re-insertion of legs/feet and recovery of inside position.
+  - Deny space that enables re-guarding and re-squaring.
+- Timing window:
+  - Opponent must separate knee–elbow to move/build/escape; attack during that separation.
+
+### 4.13 Cross-lat / cross-shoulder post (primary frame problem + clearance requirement)
+- Common defensive barrier: cross-lat / cross-shoulder post blocks forward pressure and denies shoulder-line advantages.
+- Operational rule:
+  - Clear the post/frame before expecting shoulder-rule execution or consistent forward-pressure progress.
+- Clearance concept:
+  - Track the posting structure, break its function, flatten/redirect posture, then proceed.
+
+### 4.14 Wedges (anti-explosive control during build-ups and angle changes)
+- Wedges are structural blocks that remove explosive options while you build height or change angle.
+- Purpose:
+  - Prevent sudden run-outs/rotations as you come up.
+  - Stabilize the moment you transition from lower-body control to upper-body control.
+- Use wedges as “control-before-movement” mechanics in build-up phases.
+
+### 4.15 Come-up milestones (build to standing / build to a knee as conversion finishers)
+- Come-up milestones are treated as conversion finishers when grounded exposure stalls:
+  - Build to a knee.
+  - Build to standing.
+- Why they matter:
+  - Upgrades the exchange from entanglement-only to top-control-ready.
+  - Makes pass lanes (tight waist, underhooks, north-south, body-lock routes) more stable.
+- Come-up requires structural safety:
+  - Foot safety and Achilles constraint awareness.
+  - Knee–elbow connection and wedges to prevent reversals.
+
+### 4.16 No-gi connection replacements (trap grip / cross-trap grip; pulling vs pushing)
+- Replace belt-style pulling with no-gi connection solutions that maintain upper-back exposure.
+- Trap grip / cross-trap grip as named connection families.
+- Functional distinction:
+  - Some connections excel at pulling/keeping the upper back connected.
+  - Some connections are weaker for pushing/flattening; switch connections as posture/shoulders change.
+- Connection choice determines whether you can maintain chest-to-upper-back long enough to complete the back take or must route into chest-to-chest pins and pass.
 
 
+## 5.0 SYSTEM OVERVIEW
 
+Scope note (transcript-derived)
+- This BIO’s technical systems are driven by Volumes 1–6. Volume 7 transcript content is effectively missing. Volume 8 is rolling commentary and is not treated as primary technical instruction for system extraction.
 
+### 5.1 Irimi Ashi (entries, defensive goals, conversion targets)
+- System purpose
+  - Use Irimi Ashi exchanges as a controlled environment to force predictable turns and expose the back.
+  - When back attachment is denied, convert immediately to top control and passing (rather than resetting or forcing hooks).
+- Gating constraints (what must be true before “chasing” outcomes)
+  - Foot safety: “hiding your foot” is treated as a prerequisite for attempting extended conversions.
+  - Achilles constraint: the “rule of the Achilles” is treated as a major limiter on what conversions are realistically available while the opponent has strong Achilles control.
+  - Lower-body alignment: maintain hips/knees alignment while you transition toward upper-body control (otherwise you lose the backtake connection).
+- Primary conversion families (how Irimi produces back/pass)
+  - Backtake families framed in the content:
+    - Hipdrop-style back takes versus inversion-based back takes (explicit comparison).
+    - Forward-roll back takes versus inversion (explicit comparison).
+    - Half-roll sequences that route into underhook passing/back access.
+  - Top-control conversion lanes repeatedly linked to Irimi outcomes:
+    - Tight waist as a stabilizing anchor (including as the default branch after failed backtakes).
+    - Underhook passing as a pass-first branch that retains backtake follow-ups.
+    - North-south as a forward-step reroute when direct back attachment is blocked.
+- Reaction branches (the “decision tree” Irimi is expected to run)
+  - Opponent turtles or attempts turtle: tight-waist style capture becomes the anchor for back/pass.
+  - Opponent turns away vs turns toward: backtake selection and pass-first selection are framed as reaction-driven choices rather than fixed sequences.
+- “Camping” integration
+  - Irimi includes stepping/backstepping routes into “outside camping positions” and “backstepping to camping positions” as stabilizing top states to continue the pass/back dilemma.
+
+### 5.2 Butterfly Ashi (standing builds, offense-to-conversion framing)
+- System purpose
+  - Use Butterfly Ashi as a hub that naturally opens either passing or backtaking opportunities based on reactions.
+  - Use stand-up/build-up mechanics to finish conversions when grounded exposure stalls.
+- Key conversion levers emphasized in the material
+  - Underhook acquisition as a bridge from lower-body entanglement advantage to upper-body control and back access.
+  - Heel hook threat used to force reactions that open backtakes (and/or passing), consistent with the broader dilemma model.
+- System outputs
+  - Passing and backtake options are presented as paired outcomes (not separate “chapters” of unrelated techniques).
+  - “Intro to Irimi Ashi offense” appears here as an inter-system link: Butterfly sequences are presented as able to feed into Irimi-style offensive branches when the opponent’s reactions and leg positioning present it.
+
+### 5.3 Outside Ashi (cross-body ride and back exposure pathways)
+- System purpose
+  - Use Outside Ashi to upgrade into heavier forward pressure, stabilize through frames, and convert into either back takes or guard passes with high repeatability.
+- Core control upgrades emphasized
+  - Knee-down theory as a key control upgrade that enables forward pressure and passing/back lanes (treated as a meaningful “mode shift,” not a cosmetic detail).
+  - The elbow vs shoulder battle as an inside-position gate for coming forward effectively.
+  - The top-side shoulder rule as a positional decision filter for choosing chest-to-back versus chest-to-chest outcomes.
+  - “Clearing a cross lat” as a repeated frame-clearing problem that must be solved to apply the above.
+- Primary conversion lanes named in the content
+  - Backstep to cross body ride as a major route; with an explicit failure branch:
+    - Failed cross body ride is routed to guard passing rather than abandoning the exchange.
+  - Full roll to side body lock as another stabilization route feeding back/pass.
+  - Chest-to-chest passing as a core route that is explicitly linked to backtakes (passing pressure and back exposure are treated as connected).
+- Backtake method families consolidated in this system
+  - Backtakes from inversion as a repeated family.
+  - “V grip and scoot” as a named movement/grip idea that feeds roll-based exposure.
+  - Half-roll/full-roll to back as a roll-depth family, tied to achieving the correct exposure and connection.
+  - Two explicitly named completion families:
+    - Knee-drop method for taking the back.
+    - Rolling method for taking the back.
+- System outputs
+  - Back takes and guard passes are treated as paired outcomes, including explicit “heel hooks to backtakes/passing” dilemma framing.
+- Inter-system links present in the material
+  - Outside Ashi is explicitly tied into top-side “ushiro/oshiro” style sequences via “clearing the knee from top ushiro” and “V grip from top oshiro transition.”
+
+### 5.4 Top Ushiro (top-side control, passing/backtake integration)
+- Token alignment (traceability)
+  - Chapter heading uses “Top Ushiro.” Transcript tokens appearing around this content include “tapo shiro,” “toposhiro,” and “top oshiro.” (Normalization mapping belongs in 13.0, but the system is treated here as one cluster.)
+- System purpose
+  - Provide a top-side upper-body control framework that reliably produces either:
+    - Back takes, when the opponent’s reaction opens attachment, or
+    - Guard passes, when the opponent blocks back attachment and accepts pins.
+- Primary levers and lanes as organized in the content
+  - Underhook to guard pass / back take as a central fork.
+  - Back head-and-arm lanes explicitly tied to both backtakes and guard passes.
+  - Kimura leverage used as a route to either:
+    - Rotate into back exposure (kimura to back), or
+    - Force and stabilize passing outcomes (kimura to guard pass).
+  - 3/4 mount to cross body ride as a top-control connection that feeds back exposure and/or passing stability.
+- Inter-system role
+  - Serves as a return point from Cross Ashi sequences (“moving back to top ushiro”) when the exchange stabilizes into top control rather than continuing as a pure leg entanglement fight.
+
+### 5.5 Cross Ashi (leg extraction framework into body lock/back)
+- System purpose
+  - Use Cross Ashi to extract the primary leg, come up to top control, and convert into body-lock-to-back or pass/back dilemmas.
+- Gating constraints and recurring problems called out
+  - Foot safety: “hiding your foot” appears as a repeated prerequisite before attempting extended extraction/conversion.
+  - “Beating a cross lat post” is treated as a common resistance problem in the come-up/extraction phase.
+- Primary conversion lanes emphasized
+  - Primary leg extraction → build to a knee → body lock → back as the main “spine” of the system.
+  - Backstep options immediately after extraction as stabilization and/or angle-change into other top-control lanes.
+  - Roll to cross body ride as a route when the direct come-up/back line is resisted.
+  - Backtakes from inversion and half-roll to backstep as recurring method families to keep access when the opponent’s reactions block the first line.
+  - Misdirectional backtakes/passes as a concept for exploiting defensive anticipation (keeping the dilemma alive).
+  - Explicit return link: moving back to Top Ushiro when the leg exchange resolves into top-side control.
+- System outputs
+  - Body lock to back is treated as a reliable terminal outcome.
+  - Heel hook to back appears as a dilemma branch: the finish threat is used to force reactions that open back conversion rather than committing only to the finish.
+
+### 5.6 Inside Ashi (transfer logic; heel hook to back)
+- System purpose
+  - Use Inside Ashi as an entanglement that often resolves by transferring to Outside Ashi or by using roll/backstep families to reach upper-body control lanes.
+- Key pathways emphasized in the content
+  - Transfer to Outside Ashi as an explicit inter-system solution (Inside Ashi is not treated as isolated; it feeds Outside Ashi control upgrades).
+  - Half-roll to backstep as a repeated exit/angle-change family.
+  - Heel hook to back as a dilemma branch: finish threat used to open back conversion.
+
+### 5.7 50/50 (separation, extraction, and backtake lanes)
+- Token alignment (traceability)
+  - The transcript does not lean on the literal “50/50” token as strongly as the chapter headings; it uses specific variants including “far hip ashi,” “cross waist ashi,” “criss cross ashi,” and “backside 50/50.”
+- System purpose
+  - Treat the position as a separation/extraction problem first: separate legs, then convert into passing/backtakes and body-lock access rather than stalling in symmetrical entanglement.
+- Core priorities emphasized
+  - Half-roll to back step and stand-up/build-to-standing appear as main ways to resolve stalemates and create angle.
+  - Separating legs is treated as the gateway to clean passing/backtake work.
+  - Extraction to body lock/backtakes is treated as a primary conversion.
+- Specific backtake lanes named
+  - Far leg butterfly hook to back take as a named route.
+  - Backside 50/50 to backtake as a named orientation-based route.
+  - Variant naming (far hip ashi / cross waist ashi / criss cross ashi) is treated as a family of related shapes feeding the same separation/extraction → pass/back outcomes.
+
+### 5.8 “Camping positions” (where they appear and why)
+- System purpose
+  - “Camping” is presented as a stabilization layer: reach a position where the opponent is constrained to predictable, limited rotation (often described as “half rotation”), then run the pass/back dilemma from a secure base.
+- Where it appears
+  - Explicitly in Irimi Ashi conversion material (outside camping positions; forward-step and backstep entries).
+  - Reappears as a repeated destination in broader stepping/backstepping sequences that aim to stabilize after the opponent’s turn reactions.
+- Operational role
+  - It is not presented as an endpoint; it is presented as a platform that:
+    - makes passing predictable when the opponent tries to re-guard, and
+    - makes backtakes available when the opponent turns away/explodes out of pins.
+
+### 5.9 Back exposure methods (knee-drop vs rolling, inversion vs forward-roll)
+- The content organizes “methods” as families selected by reaction and alignment rather than as one fixed sequence:
+  - Hipdrop backtake family versus inversion family (explicit comparison within Irimi material).
+  - Forward-roll family versus inversion family (explicit comparison within Irimi conversion material).
+  - Half-roll family (appears as a bridge into underhook passing/back access; also appears in Cross/Inside/50-50 family exits).
+  - Full-roll family (used to reach stabilizing top-control states such as side body lock and to complete exposure when alignment is correct).
+  - Knee-drop family (explicitly named as a backtake method in Outside Ashi material; linked to knee-down theory and forward pressure prerequisites).
+  - Rolling method family (explicitly named as a backtake method; paired with knee-drop method as the other primary completion family in Outside Ashi).
+  - Stand-up/build-to-standing family (appears in Irimi/Butterfly/50-50 family as a finishing mechanic when grounded conversion stalls).
+  - Step families that redirect exposure into top-control lanes:
+    - Forward step to north-south.
+    - Backstep to cross body ride.
+    - Step/backstep into camping positions.
+- Across families, two repeated requirements are emphasized:
+  - Exposure must become upper-back exposure with a usable upper-body connection (the cranial shift).
+  - Lower-body alignment must be maintained (hips/knees control) so the opponent cannot drift out of your structure while you climb to attachment or pin.
 
 
 
