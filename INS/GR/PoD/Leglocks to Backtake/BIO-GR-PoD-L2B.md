@@ -1,106 +1,144 @@
 # BIO CONTENTS — Gordon Ryan: Pillars of Defense — Leg Locks to Back Takes
 
-1.0 MASTER SYSTEM MAP (ASCII)
+- 1.0 Master system map (ascii)
+- 2.0 Executive summary
+- 3.0 Volume index
+  - 3.1 Volume 1 — Foundations + Irimi ashi intro
+  - 3.2 Volume 2 — Irimi conversions (back/pass chains; turtle; camping; north-south)
+  - 3.3 Volume 3 — Butterfly ashi (stand-ups; underhooks; heel hook leverage)
+  - 3.4 Volume 4 — Outside ashi (knee-down; ride/body lock; frame clearing; backtake methods)
+  - 3.5 Volume 5 — Top ushiro + Cross ashi (underhooks/kimura; extraction; body lock to back)
+  - 3.6 Volume 6 — Inside ashi + 50/50 family (transfers; separation/extraction; backstep exits)
+  - 3.7 Volume 7 — Rolling footage (excluded)
+  - 3.8 Volume 8 — Rolling commentary (excluded)
 
-2.0 EXECUTIVE SUMMARY
+- 4.0 Core concepts
+  - 4.1 Dilemma model (back vs pass)
+  - 4.2 Conversion mindset (win reactions; leave with something)
+  - 4.3 Cranial shift (legs -> head/shoulders)
+  - 4.4 Upper vs lower back exposure
+  - 4.5 Hips-inside-knees containment
+  - 4.6 Achilles constraint
+  - 4.7 Knee-down theory (functional pressure)
+  - 4.8 Elbow vs shoulder gate
+  - 4.9 Top-side shoulder rule
+  - 4.10 Reaction-led branching (turn away/toward/turtle/post)
+  - 4.11 Hip orientation method selection (square vs stagger)
+  - 4.12 Knee–elbow connection (structure + timing)
+  - 4.13 Cross-lat post (frame barrier)
+  - 4.14 Wedges (anti-explosive control)
+  - 4.15 Come-up milestones (knee/standing)
+  - 4.16 No-gi connection replacements (trap/cross-trap)
 
-3.0 VOLUME INDEX
-- 3.1 Volume 1 — Part 1 + Intro to Irimi Ashi
-- 3.2 Volume 2 — Part 2 (Irimi Ashi conversions)
-- 3.3 Volume 3 — Part 3 (Butterfly Ashi)
-- 3.4 Volume 4 — Part 4 (Outside Ashi)
-- 3.5 Volume 5 — Part 5 (Top Ushiro + Cross Ashi)
-- 3.6 Volume 6 — Part 6 (Inside Ashi + 50/50)
-- 3.7 Volume 7 — Part 7 (Rolling footage; excluded from technical extraction)
-- 3.8 Volume 8 — Part 8 (Rolling commentary; excluded from technical extraction)
-  
-4.0 CORE CONCEPTS
-  - 4.1 Overview of the “Leg Locks to Back Takes” premise
-  - 4.2 Theory: exposure hierarchy and conversion mindset
-  - 4.3 Cranial shift (concept + purpose)
-  - 4.4 Upper vs lower back exposure (decision logic)
--   4.5 Hips and knees (control priorities and alignment)
--   4.6 Rule of the Achilles (constraints and implications)
-  - 4.7 Knee-down theory (when/why it matters)
-- 4.8 Elbow vs shoulder battle (frame/inside-position principle)
-- 4.9 Top-side shoulder rule (chest-to-chest/back access heuristic)
+- 5.0 System overview
+  - 5.1 Primary objective + conversion loop
+  - 5.2 Reaction forks and lane mapping
+  - 5.3 Stabilization layers (tight waist; underhooks; camping; ride; north-south)
+  - 5.4 Method-family selector rules
+  - 5.5 Completion standards (back vs pass)
 
-5.0 SYSTEM OVERVIEW
-  - 5.1 Irimi Ashi (entries, defensive goals, conversion targets)
-  - 5.2 Butterfly Ashi (standing builds, offense-to-conversion framing)
-  - 5.3 Outside Ashi (cross-body ride and back exposure pathways)
-  - 5.4 Top Ushiro (top-side control, passing/backtake integration)
-  - 5.5 Cross Ashi (leg extraction framework into body lock/back)
-  - 5.6 Inside Ashi (transfer logic; heel hook to back)
-  - 5.7 50/50 (separation, extraction, and backtake lanes)
-  - 5.8 Camping positions (where they appear and why)
-  - 5.9 Back exposure methods (knee-drop vs rolling, inversion vs forward-roll)
+- 6.0 Technique library
+  - 6.1 Foundations (gates + standards)
+  - 6.2 Irimi ashi (foot hiding; backtake families; tight waist branch)
+  - 6.3 Irimi chains (roll families; turtle; camping; north-south; pass-after-fail)
+  - 6.4 Butterfly ashi (stand-ups; underhooks; heel hook leverage)
+  - 6.5 Outside ashi (ride/body lock; knee-down; frame clearing; completion families)
+  - 6.6 Top ushiro + Cross ashi (underhooks/head-arm/kimura; extraction -> body lock)
+  - 6.7 Inside ashi + 50/50 (transfer; separation/extraction; stall breakers; named routes)
+  - 6.8 Volume 7 (excluded)
+  - 6.9 Volume 8 (excluded)
 
-6.0 TECHNIQUE LIBRARY
-  - 6.1 Part 1 — Foundations (Intro; Overview; Theory; Cranial shift; Upper vs lower back exposure; Hips and knees; Rule of the Achilles)
-  - 6.2 Intro to Irimi Ashi (Hiding your foot; Basic recap; Hipdrop backtakes vs inversions; Failed backtake to tight waist guard pass)
-  - 6.3 Part 2 — Irimi Ashi conversions / passing-backtake chains
-  - 6.4 Part 3 — Butterfly Ashi
-  - 6.5 Part 4 — Outside Ashi
-  - 6.6 Part 5 — Top Ushiro + Cross Ashi
-  - 6.7 Part 6 — Inside Ashi + 50/50
-  - 6.8 Part 7 — Rolling footage (excluded from technical extraction)
-  - 6.9 Part 8 — Rolling commentary (excluded from technical extraction)
-
-7.0 DIAGRAM SET
-  - 7.1 Master decision tree: leg entanglement → back exposure → finish vs conversion
-  - 7.2 Irimi Ashi conversion map (inversion vs forward-roll branches)
-  - 7.3 Camping position entry/exit map
-  - 7.4 Outside Ashi → cross-body ride → body lock/back map
-  - 7.5 Cross Ashi primary leg extraction map
+- 7.0 Diagram set
+  - 7.1 Master decision tree (entanglement -> lane -> back/pass)
+  - 7.2 Irimi conversion map (selectors + failure branches)
+  - 7.3 Camping entry/exit map
+  - 7.4 Outside ashi map (ride/pressure + gates + completions)
+  - 7.5 Cross ashi extraction map (extract -> come-up -> body lock)
   - 7.6 50/50 separation/extraction map
 
-8.0 APPLICATION SCENARIOS
-  - 8.1 Opponent turns away: capture + back exposure sequence selection
-  - 8.2 Opponent turns toward you: prevent square-up and re-route to back
-  - 8.3 Opponent turtles: immediate backtake vs pass-first choices
-  - 8.4 Losing back head-and-arm: recovery to pass/backtake
-  - 8.5 Failed backtake: conversion to tight waist / underhook passing
-  - 8.6 Frame battles (cross-lat post, shoulder/elbow battle) in live resistance
+- 8.0 Application scenarios
+  - 8.1 Foot safety not solved
+  - 8.2 Opponent inverts to recover
+  - 8.3 Backtake denied -> convert to pass
+  - 8.4 Turn toward defense (pin/pass)
+  - 8.5 Turn away defense (attach back)
+  - 8.6 Turtle/attempted turtle (tight waist anchor)
+  - 8.7 Outside ashi pressure mode (separation + posture)
+  - 8.8 Cross-lat post barrier (clear first)
+  - 8.9 Shoulder-rule ambiguity (re-check after clearing frames)
+  - 8.10 50/50 stalemate (stall breakers)
+  - 8.11 Head-line slip during come-up (close head line)
 
-9.0 DRILLING PROGRESSIONS
-  - 9.1 Concept-to-mechanics: cranial shift + hip-knee alignment
-  - 9.2 Positional sequences: Irimi Ashi → forward roll vs inversion backtake
-  - 9.3 Passing/backtake dilemmas from key entanglements
-  - 9.4 Extraction ladders: Cross Ashi primary leg extraction → body lock/back
-  - 9.5 50/50 separation ladders into passing/backtakes
+- 9.0 Drilling progressions
+  - 9.1 Constraint drills (foot; Achilles)
+  - 9.2 Alignment/exposure drills (upper-back; containment)
+  - 9.3 Reaction-led branch drilling (away/toward/turtle/post)
+  - 9.4 Method-family progressions (hipdrop/inversion; roll families)
+  - 9.5 Outside ashi pressure ladders (separation; knee-down; gates)
+  - 9.6 Stabilization drilling (camping/ride/north-south)
+  - 9.7 50/50 resolution progressions (separate/extract; stall breakers)
+  - 9.8 Positional games (back-or-pass; no hook chase; frame clearing)
 
-10.0 FOUR-WEEK CURRICULUM
-  - 10.1 Week 1 — Foundations + Irimi Ashi baseline conversions
-  - 10.2 Week 2 — Irimi Ashi chains + camping positions
-  - 10.3 Week 3 — Butterfly/Outside Ashi: cross-body ride and frame clearing
-  - 10.4 Week 4 — Top Ushiro/Cross Ashi + Inside Ashi/50-50 integration
+- 10.0 Four-week curriculum
+  - 10.1 Week 1 (foundations + irimi spine)
+  - 10.2 Week 2 (reaction branching + camping)
+  - 10.3 Week 3 (outside ashi pressure + gates + completions)
+  - 10.4 Week 4 (top ushiro/cross ashi/50-50 resolutions)
 
-11.0 FAILURE PATTERNS
-  - 11.1 Losing back head-and-arm: common causes + corrections
-  - 11.2 Failed backtake: typical failure points → pass-first solutions
-  - 11.3 Foot exposure (hiding your foot failures) and recovery
-  - 11.4 Inversion/rolling failures (timing, angle, hip-knee misalignment)
-  - 11.5 Cross-lat post / frame-clearing failures
+- 11.0 Failure patterns
+  - 11.1 Hook-chasing without completion
+  - 11.2 Containment leak (hips outside knees)
+  - 11.3 Achilles constraint ignored
+  - 11.4 Cosmetic knee-down (no separation/posture)
+  - 11.5 Inside-position gate lost (elbow vs shoulder)
+  - 11.6 Cross-lat post not cleared
+  - 11.7 Head-line leak during come-up
+  - 11.8 Turn-toward mis-branch (should pass)
+  - 11.9 Turn-away mis-branch (should attach back)
+  - 11.10 Failure-branch omitted (no pass conversion)
+  - 11.11 Late turtle capture (anchor too late)
+  - 11.12 50/50 symmetry stall (no stall breaker)
 
-12.0 KEY PASSAGES
-  12.1 Passages defining the theory and conversion mindset
-  12.2 Passages defining cranial shift + exposure hierarchy
-  12.3 Passages defining rule of the Achilles
-  12.4 Passages defining knee-down theory and shoulder/elbow battles
-  12.5 Passages linking heel hooks to backtakes/passing dilemmas
+- 12.0 Key passages
+  - 12.1 Dilemma framing
+  - 12.2 Conversion objective (legs -> upper body)
+  - 12.3 Pass/back as paired branches
+  - 12.4 Upper-back completion standard
+  - 12.5 Cranial shift
+  - 12.6 Head-line gate
+  - 12.7 Hips-inside-knees diagnostic
+  - 12.8 Hip orientation method selector
+  - 12.9 Achilles constraint
+  - 12.10 Knee-down prerequisites + dependency
+  - 12.11 Inside-position + cross-lat barrier
+  - 12.12 Top-side shoulder rule
 
-13.0 TERMINOLOGY
-  13.1 Entanglement names (Irimi/Butterfly/Outside/Cross/Inside/50-50) as used in transcript
-  13.2 Camping positions (transcript usage)
-  13.3 Cranial shift (transcript usage)
-  13.4 Cross lat (transcript usage)
-  13.5 Top ushiro / top oshiro token normalization map (if required by transcript)
+- 13.0 Terminology
+  - 13.1 System/position tokens
+  - 13.2 Traceable normalization mappings
+  - 13.3 Core concept terms
+  - 13.4 Method-family labels
+  - 13.5 Control-lane labels
+  - 13.6 Failure-pattern tokens
 
-14.0 ADDITIONAL NOTES
+- 14.0 Additional notes
+  - 14.1 Operational defaults
+  - 14.2 Diagnostics checklist
+  - 14.3 Reaction -> lane mapping
+  - 14.4 Gate/shoulder-rule reminders
+  - 14.5 Method-family selection rules
+  - 14.6 Stabilization layers (reset without resetting)
+  - 14.7 Common stall states + immediate solutions
+  - 14.8 Coverage boundary notes
 
-15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (OPTIONAL)
-
+- 15.0 Supplement (not transcript-derived) (optional)
+  - 15.1 How to use this BIO (playbook)
+  - 15.2 Reliability micro-cues
+  - 15.3 Troubleshooting matrix
+  - 15.4 Drilling games
+  - 15.5 Skill ladders
+  - 15.6 Training hygiene
+  - 15.7 Personalization prompts
 
 ## 1.0 MASTER SYSTEM MAP (ASCII)
 
