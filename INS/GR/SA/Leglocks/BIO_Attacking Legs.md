@@ -1199,8 +1199,6 @@ PATH: INS/gr-satl/bio-gr-satl.md
   - follow mechanics and hub transfers are the system’s default way to maintain advantage rather than accepting resets.
 
 
-PATH: INS/gr-satl/bio-gr-satl.md
-
 ## 7.0 DIAGRAM SET
 
 ### 7.1 Macro flow: hub selection → inside-position gate → control → dilemmas → outcomes
@@ -1541,8 +1539,6 @@ PATH: INS/gr-satl/bio-gr-satl.md
   - Treat mutual ashi as a priority/timing hub: win the sequence (“last mover”) and exit into a non-mutual finishing platform.
 
 
-PATH: INS/gr-satl/bio-gr-satl.md
-
 ## 8.0 APPLICATION SCENARIOS
 
 ### 8.1 Inside-position scramble: both players hunting legs (who gets to attack first)
@@ -1728,25 +1724,804 @@ PATH: INS/gr-satl/bio-gr-satl.md
   - Exiting mutuality without hip governance, allowing the opponent to clear and reset.
 
 
+## 9.0 DRILLING PROGRESSIONS
+
+### 9.1 Foundational connection and “no separation” standard (baseline for all hubs)
+
+- Baseline pass/fail (applies across irimi/outside/cross/50-50/mutual)
+  - Pass: partner cannot create separation (“daylight”) between bodies while pulling/withdrawing/turning; your position moves with them as a connected unit.
+  - Fail: partner pulls away and you stay behind; you end up reaching late for foot/heel with no structure; knee line clears.
+
+- Progression (connection-first)
+  - Step 1: Static entanglement establishment reps
+    - Build the entanglement structure until the “no separation” feeling is consistent (do not chase finishes yet).
+  - Step 2: Partner adds basic withdrawal (extraction attempts)
+    - Your job: follow the leg and keep attachment; re-secure knee-line clamp before any breaking pressure.
+  - Step 3: Add posture/pressure changes (forward pressure)
+    - Your job: preserve structure under pressure and choose the correct counter-family (elbow-position structure, post-ashi wedge, belly-down line).
+  - Step 4: Add rotational defense (rolling)
+    - Your job: apply “follow the leg” and “single roll” governance rather than resetting.
+
+### 9.2 Volume 1 drill blocks (base reps before stress testing)
+
+- 9.2.1 “Basic drills” block (as a base layer)
+  - Intent: encode entanglement structure + attachment + lane awareness before integrating finishes.
+  - Technical checkpoints (what the drill must produce)
+    - Inside-position awareness: you can feel when you have (or lose) inside lanes and respond by pummeling rather than forcing.
+    - Knee-line attachment: partner cannot simply pull out once you clamp; if they can, treat as structure failure and rebuild.
+    - Continuity habits: when partner moves, you follow; you do not pause and then re-grip late.
+
+- 9.2.2 Achilles lock drill block (straight-lock threat as the first forcing tool)
+  - Intent: build a credible straight-lock threat that forces meaningful defensive reactions (the base for the Achilles ↔ heel-hook dilemma).
+  - Stress cues (what you check during reps)
+    - Partner tries to pull away: you maintain attachment; no separation.
+    - Partner tries to pressure forward: you preserve the lock structure (do not let posture collapse kill the break line).
+  - Failure pattern and correction
+    - Failure: partner repeatedly pulls foot out cleanly.
+    - Correction: treat it as a connection problem (rebuild tightness) rather than a “finish harder” problem.
+
+- 9.2.3 Cowboy drill block (movement/alignment control during finishing)
+  - Intent: rehearse maintaining correct leg/hip relationship during the finishing moment so defenses (heel slip, pressure, rotation) do not instantly break alignment.
+  - Use-case encoded by the drill
+    - You can keep your finishing alignment while the partner moves/adjusts, rather than requiring a static partner to finish.
+
+### 9.3 Stress test protocols (repeatable resistance checks embedded throughout)
+
+- 9.3.1 Stress test (general)
+  - Goal: validate that position is stable before you treat finishing mechanics as relevant.
+  - What partner should try (the most common “truth tests”)
+    - Pull away to create separation and clear the knee line.
+    - Apply forward pressure to crush posture and drive heel slip.
+    - Rotate/roll to strip exposure and reset.
+  - Pass criteria
+    - You remain “sticky” (attached) during each attempt; you can keep or immediately re-secure the entanglement.
+  - Fail criteria
+    - Any consistent extraction where you must chase late with hands while your legs/hips are no longer controlling the opponent.
+
+- 9.3.2 Irimi-specific stress test emphasis (connection + pressure management)
+  - Partner tasks
+    - Withdraw the leg repeatedly (basic extraction).
+    - Drive forward pressure repeatedly (simulate crush/heel-slip pressure).
+  - Attacker tasks (structure-first)
+    - Maintain high-quality attachment (no separation).
+    - Select the appropriate pressure counter-family:
+      - Elbow-position structure (hands high, chin low, elbow managed) when pressure threatens posture and alignment.
+      - Post-ashi wedge when you need a stronger mechanical platform against forward drive.
+      - Belly-down line when posture/rotation dictates that finish vector.
+
+- 9.3.3 Outside-ashi stress test emphasis (hip control + back-exposure denial)
+  - Partner tasks
+    - Turn away during exposure moments to create back-exposure lanes.
+    - Roll to strip heel exposure.
+  - Attacker tasks
+    - Treat “deny back exposure” as a live constraint; if exposure opens turn-away lanes, stop and rebuild hip governance.
+    - Re-run exposure pathways only when safety constraint is satisfied.
+
+### 9.4 Continuity drilling (roll governance, attachment through movement, leg switching)
+
+- 9.4.1 Following a leg (attachment through motion)
+  - Drill objective: partner moves (withdrawal/roll/turn) and you remain connected to the moving leg so you do not end in late chases.
+  - Resistance ladder
+    - Light movement → continuous movement → partner attempts to “leave the entanglement” with committed withdrawals/turns.
+  - Pass/fail
+    - Pass: your attachment survives; you stay on the leg line.
+    - Fail: partner’s movement creates a gap; you lose the leg and must reach.
+
+- 9.4.2 Switching legs (continuity when primary target clears)
+  - Drill objective: when the primary target leg becomes non-viable, you transfer to the other leg (or transfer hub) without resetting to neutral.
+  - Trigger conditioning
+    - Partner intentionally clears the primary leg line mid-sequence; your job is immediate transfer rather than insistence.
+
+- 9.4.3 Single-roll governance (roll outcome control)
+  - Drill objective: partner rolls defensively; you structure attachment and angle so the roll resolves into maintained control rather than repeated resets.
+  - Key constraint to encode
+    - The roll must not create separation; if it does, treat as structural failure and rebuild attachment mechanics before increasing resistance.
+
+### 9.5 Heel-slip recovery progressions (two named recovery families)
+
+- 9.5.1 “High hands” recovery reps (structure-first heel-slip defense)
+  - Drill objective: when heel slip begins, re-secure exposure and restore finishing alignment without allowing the same defense to immediately re-strip.
+  - Technical checklist cues to encode during reps
+    - Knees pinched.
+    - Heel/line alignment oriented into your breaking mechanics.
+    - Posture/bridge alignment preserved under pressure.
+  - Resistance ladder
+    - Partner lightly slips → partner aggressively drives forward while slipping → partner combines slip with rotation.
+
+- 9.5.2 Roll-through recovery reps (movement-first heel-slip defense)
+  - Drill objective: when forward pressure + heel slip collapses the position, roll-through to re-establish a stable entanglement rather than fighting from collapse.
+  - Pass/fail
+    - Pass: roll-through results in a re-established control platform (not a scramble reset).
+    - Fail: roll-through becomes a disengagement and you lose the leg line.
+
+### 9.6 “Locked legs / stalemate” breaking progressions (double trouble + dilemma escalation)
+
+- 9.6.1 Double trouble reps (two-leg constraint)
+  - Drill objective: partner locks defensively; you use two-leg control to force openings rather than waiting or repeatedly failing to expose one heel.
+  - Success indicator
+    - The opponent is forced to open a line (by reacting) and you regain a clean exposure path.
+  - Failure pattern
+    - You treat double trouble as static holding (no forced reaction) and the stalemate remains.
+
+- 9.6.2 Toe hold ↔ knee bar dilemma reps (when used to defeat stalls)
+  - Drill objective: partner defends one line with alignment; you take the paired line rather than persisting into a stabilized defense.
+  - Pass criteria
+    - Clear, immediate conversion on defense trigger (defense dictates the switch).
+
+### 9.7 50/50 drilling progression (gates → separation → dilemmas)
+
+- Gate sequence to drill in order (internal order constraint)
+  - Step 1: Inside-knee position gate
+    - Drill until you can consistently establish/repair inside-knee relationship before attacking.
+  - Step 2: Hand-fight constraint
+    - Drill grip exchanges until you can prevent losing grips that stall your attacks or concede counters.
+  - Step 3: Separation work
+    - Drill separation creation as the condition that makes dilemma pairs usable rather than theoretical.
+  - Step 4: Dilemma pairs
+    - Toe hold ↔ separation.
+    - Toe hold ↔ heel hook.
+  - Step 5: Backside 50/50 transitions + follow mechanics
+    - Drill following movement so partner’s roll/turn becomes transition (not reset).
+
+### 9.8 Mutual ashi drilling progression (priority rule → controlled exits)
+
+- 9.8.1 “Going last” timing reps (priority sequencing)
+  - Drill objective: do not initiate blindly; recognize/induce partner commitment and respond to end in advantage.
+  - Pass/fail
+    - Pass: your response is structurally advantaged (control/exposure improves).
+    - Fail: you initiate first and concede reactive counter opportunities.
+
+- 9.8.2 Rolling-through exit reps (leave mutuality into a favorable hub)
+  - Drill objective: use roll-through as a controlled exit that maintains attachment and lands you in a favorable entanglement family.
+  - Constraint
+    - Exit must preserve hip governance (far-hip control concept) so partner cannot rotate free mid-transition.
 
 
+PATH: INS/gr-satl/bio-gr-satl.md
+
+## 10.0 FOUR-WEEK CURRICULUM
+
+### 10.1 Week 1 — Foundations: lanes, connection, straight-lock threat, continuity habits
+
+- Session objective
+  - Build the base “no separation” standard, understand inside-position lanes, and establish a credible Achilles threat as the first forcing tool.
+- Content spine
+  - Inside-position battle (feet/knees inside): recognize, win, repair.
+  - Connection standard: entanglement tightness such that partner cannot pull away and create separation.
+  - Basic drills block (structure + lane awareness).
+  - Achilles lock drill block (credible straight-lock threat).
+  - Continuity basics: follow the leg; switch legs.
+- Key constraints to enforce
+  - No finishing attempts unless connection passes a light stress test (partner tries to pull out; you stay attached).
+  - If inside lanes are lost, pummel first; do not “attack through” lane loss.
+- Stress test focus (end-of-session validation)
+  - Partner tries basic extraction repeatedly.
+  - Pass criteria: you remain attached; no late chasing.
+
+### 10.2 Week 2 — Irimi ashi engine: pressure management, heel-slip recovery, Achilles ↔ heel hook dilemma
+
+- Session objective
+  - Build a stable irimi ashi platform that survives pressure and integrates heel-slip recovery and the Achilles ↔ heel hook forcing pair.
+- Content spine
+  - Setting irimi ashi (structure-first).
+  - Stress test checkpoints (extraction + forward pressure).
+  - Countering forward pressure families:
+    - elbow-position structure,
+    - post-ashi wedge,
+    - belly-down line when dictated.
+  - Achilles ↔ heel hook dilemma sequencing (convert on defense trigger).
+  - Heel slip recoveries:
+    - “high hands” recovery,
+    - roll-through recovery.
+- Key constraints to enforce
+  - Pressure problem is solved structurally first (posture, wedge, connection), not by pulling harder.
+  - Heel slip is treated as expected; recovery is drilled as a required skill, not an “emergency only.”
+- Stress test focus
+  - Partner drives forward pressure while attempting heel slip.
+  - Pass criteria: you maintain connection and can either recover heel or roll-through to a stable platform.
+
+### 10.3 Week 3 — Outside/cross hubs: hip control, back-exposure denial, pummeling and passing-a-leg upgrades
+
+- Session objective
+  - Learn to expose heels safely in outside ashi (with back-exposure denial), and learn cross-ashi upgrades that defeat defensive leg locking and create stable exposures.
+- Content spine
+  - Outside ashi:
+    - hip control methods (scissoring; cross-shin style control),
+    - heel exposure pathways (belly-down, post-ashi, post-feet, cross-shin),
+    - safety check: deny turn-away/back exposure during exposure moments.
+    - heel-slip roll counter (outside-ashi slip response).
+  - Cross ashi / shoelace:
+    - identify cross-ashi issues (structure problems),
+    - leg pummeling to re-win inside lanes,
+    - passing-a-leg ladder:
+      - leg lace,
+      - 2-on-1 ankle pass,
+      - half dracula,
+      - double dracula,
+    - exposure escalation:
+      - single-heel exposure → dual-heel exposure → force reaction → finish.
+- Key constraints to enforce
+ына
+  - Outside ashi: if exposure opens a turn-away lane, stop and rebuild hip governance before finishing.
+  - Cross ashi: upgrade-first (pummel/pass) before finish attempts.
+- Stress test focus
+  - Outside ashi: partner attempts turn-away + roll during exposure.
+  - Cross ashi: partner locks legs and attempts primary escape/extraction.
+
+### 10.4 Week 4 — Endgame hubs: toe hold/top ushiro forcing, 50/50 gates and dilemmas, mutual ashi priority exits
+
+- Session objective
+  - Integrate secondary forcing tools (toe holds/top ushiro), solve 50/50 with internal gates and dilemma engines, and apply mutual ashi priority rules (“going last”) to exit into favorable hubs.
+- Content spine
+  - Toe holds:
+    - belly-down vs belly-up exposure,
+    - belly-down vs belly-up finishing mechanics,
+    - toe hold → heel hook transition rule,
+    - recapture knee tool,
+    - calf slice switch (alternate constraint line),
+    - toe hold ↔ knee bar dilemma (stall breaker).
+  - Top ushiro:
+    - entry and use as a hub for combined toe/heel exposure,
+    - locked-legs problem solving using double trouble within this hub.
+  - 50/50:
+    - inside-knee position gate,
+    - hand-fight constraint,
+    - separation work,
+    - dilemma pairs:
+      - toe hold ↔ separation,
+      - toe hold ↔ heel hook,
+    - backside 50/50 transitions + follow mechanics.
+  - Mutual ashi:
+    - “going last” timing rule,
+    - roll-through exit,
+    - far-hip control concept during exits.
+- Key constraints to enforce
+  - 50/50 is solved in order: knee gate → grips → separation → dilemmas (do not skip the order).
+  - Mutual ashi: avoid initiating first into equal access; win by sequencing and controlled exit.
+
+### 10.5 Weekly structure template (how to run each week’s practice block)
+
+- Warm-up (10–15 min)
+  - Hub-specific entry/structure reps emphasizing “no separation” connection standard.
+- Technical reps (20–30 min)
+  - 1–2 core sequences for the week, drilled with immediate conversion on defense triggers (dilemma logic).
+- Resistance rounds (10–15 min)
+  - Positional sparring starting from the week’s primary hub with a defined defender objective (extract, roll, pressure, turn-away).
+- Stress test (5–10 min)
+  - Re-run the week’s stress test criteria and record whether structure survives the common defensive actions.
 
 
+## 11.0 FAILURE PATTERNS
+
+### 11.1 Inside-position failure: losing lanes while “attacking”
+
+- What goes wrong
+  - You initiate exposure/finishing while your feet/knees are not inside the opponent’s feet/knees.
+  - You lose inside lanes mid-attack and continue anyway, turning the exchange into a mutual-attack race.
+- Why it happens (structural cause)
+  - Lane control is treated as “nice to have” rather than an attack-permission gate.
+  - Focus shifts to heel/foot chasing; legs stop doing denial work.
+- Typical symptoms
+  - Opponent pummels inside and immediately gains their own entry to your legs.
+  - You feel forced to rush finishing mechanics because the opponent is threatening counters.
+- Corrections (decision rules)
+  - If inside position is unclear or lost: pummel / re-win lanes first, then re-apply the threat engine.
+  - If you can’t re-win inside lanes from the current hub: switch legs or transfer hubs rather than forcing.
+- Drill fix
+  - Start every positional round with a lane goal: first 10–15 seconds are lanes only; no grips/finishes until lanes are clearly won.
+
+### 11.2 Connection failure: separation appears and you keep “working”
+
+- What goes wrong
+  - Partner pulls away and you allow daylight; you continue pulling on locks while the leg is already clearing.
+- Why it happens
+  - Treating the submission grip as “control” instead of treating body-to-body attachment and knee-line clamp as control.
+- Typical symptoms
+  - Foot/heel repeatedly slips out during normal withdrawal attempts.
+  - You are constantly reaching and re-gripping instead of staying attached.
+- Corrections
+  - If separation appears: finishing attempt is over; rebuild entanglement structure first.
+  - Re-run stress test logic: if the position does not survive simple withdrawal, do not invest in breaking mechanics.
+- Drill fix
+  - “No daylight” rounds: partner’s only job is to pull away; your only job is to stay attached (no finishing allowed).
+
+### 11.3 Knee-line failure: allowing the opponent to clear before exposure is stabilized
+
+- What goes wrong
+  - The opponent’s knee line clears during exposure attempts, turning the position into foot chasing.
+- Why it happens
+  - You chase heel/foot early without first stabilizing the leg relationship and clamp.
+- Typical symptoms
+  - Exposure is momentary; heel appears then disappears as the knee line retracts.
+  - You repeatedly “almost had it” but never get sustained exposure.
+- Corrections
+  - Treat knee-line governance as a prerequisite to exposure and breaking.
+  - If the knee line is drifting free, stop the exposure attempt and re-secure the control layer.
+- Drill fix
+  - Knee-line retention rounds: attacker scores only by keeping the knee line trapped for time; not by finishing.
+
+### 11.4 Forward-pressure failure: posture collapses and you try to “pull harder”
+
+- What goes wrong
+  - Opponent drives forward pressure into the entanglement; your posture collapses and your finish becomes weaker.
+- Why it happens
+  - Missing the structural solutions (elbow positioning; high hands/chin low; post-ashi wedge; directional belly-down option).
+- Typical symptoms
+  - Hands drop, chin rises; you feel compressed and lose leverage.
+  - Heel slip accelerates because structure degrades under pressure.
+- Corrections (selection rule)
+  - If pressure threatens posture: apply elbow-position structure (hands high, chin low, elbow managed) before continuing.
+  - If pressure remains dominant: build post-ashi wedge.
+  - If the pressure/rotation dictates: accept belly-down line while maintaining knee-line control.
+- Drill fix
+  - Pressure rounds: defender’s only job is forward pressure; attacker’s job is to select the correct counter-family on time.
+
+### 11.5 Heel-slip failure: “catching” the heel without anti-slip structure
+
+- What goes wrong
+  - Heel exposure is obtained briefly, but heel slips immediately; you re-catch repeatedly with no durable control.
+- Why it happens
+  - Exposure is treated as the finish; anti-heel-slip structure is not rebuilt after the slip begins.
+- Typical symptoms
+  - The heel slides out at the moment you apply finishing rotation or as the opponent pressures forward.
+- Corrections (recovery rule)
+  - As soon as heel slip starts: choose a recovery family (high-hands or roll-through) rather than “fight the slip” in place.
+  - Recovery is only “complete” if it restores a state where the same defense cannot immediately re-strip the heel.
+- Drill fix
+  - Start reps from “heel starting to slip” and require the recovery to finish with stable exposure (not just a re-grip).
+
+### 11.6 Roll failure: opponent rolls and you lose attachment (late chasing)
+
+- What goes wrong
+  - Defensive rolling creates separation; you end up reaching after the roll resolves.
+- Why it happens
+  - Lack of follow-the-leg habit; single-roll governance not applied; focus on hands instead of maintaining structural attachment.
+- Typical symptoms
+  - After a roll you are no longer connected at the knee line.
+  - Opponent resets and you must rebuild from scratch repeatedly.
+- Corrections
+  - Treat rolling as expected; follow the leg during the roll.
+  - If the roll is breaking your connection, treat it as a structural failure and reduce pace until attachment survives.
+  - If the primary target clears during the roll: switch legs or transfer hubs rather than chasing late.
+- Drill fix
+  - Roll-only rounds: defender must roll; attacker must maintain attachment and re-land in control without re-gripping late.
+
+### 11.7 Refusal-to-roll failure: stalling on a defended line instead of reconfiguring
+
+- What goes wrong
+  - Opponent refuses to roll and defends patiently; you persist on the same line until they peel and extract.
+- Why it happens
+  - Missing the forced reconfiguration solution (figure-four switch) and/or failing to execute it decisively.
+- Typical symptoms
+  - The position “feels stuck,” and time passes with no improved exposure.
+  - Opponent peels and slowly clears the leg.
+- Corrections
+  - When refusal-to-roll defense stabilizes: execute the figure-four switch promptly and structurally (no slow transitions that open extraction windows).
+- Drill fix
+  - Defender is instructed “no rolling allowed”; attacker must hit the reconfiguration on a clear trigger.
+
+### 11.8 Outside-ashi safety failure: heel exposure attempt gives a turn-away lane (back exposure risk)
+
+- What goes wrong
+  - You chase heel exposure and the opponent turns away; your back becomes exposed or your control collapses as they rotate.
+- Why it happens
+  - Hip governance is insufficient during the exposure moment; safety check is not treated as mandatory.
+- Typical symptoms
+  - The best exposure moments coincide with the opponent’s easiest turn-away opportunities.
+- Corrections (safety hierarchy)
+  - If exposure opens turn-away lane: stop and re-govern hips before reattempting exposure.
+  - Choose exposure pathways only if they satisfy the back-exposure denial constraint.
+- Drill fix
+  - Outside-ashi safety rounds: defender’s goal is turn-away; attacker scores by preventing the turn-away lane while keeping exposure progression.
+
+### 11.9 Cross-ashi “issues” failure: trying to finish before upgrading structure (pummeling/pass-a-leg skipped)
+
+- What goes wrong
+  - You attempt to finish from cross ashi while the known structural issues are unresolved; opponent clears/rotates out.
+- Why it happens
+  - Pummeling and passing-a-leg upgrades are treated as optional instead of mandatory problem-solving steps.
+- Typical symptoms
+  - You can enter cross ashi but cannot keep it long enough to expose reliably.
+  - Exposure attempts repeatedly stall against leg locking or rotation.
+- Corrections
+  - Upgrade-first rule: pummel to re-win lanes, then pass-a-leg/lace/dracula to improve constraint, then expose, then finish.
+  - If single-heel exposure is denied repeatedly: escalate to dual-heel exposure concept to force reactions.
+- Drill fix
+  - Cross-ashi ladder rounds: attacker must demonstrate pummel → pass-a-leg → exposure progression before finishing is allowed.
+
+### 11.10 50/50 failure: skipping internal order (knee gate → grips → separation → dilemmas)
+
+- What goes wrong
+  - You attempt attacks without establishing inside-knee relationship or without winning the hand fight; you stall or get countered.
+- Why it happens
+  - Treating 50/50 like a normal ashi where grips alone create the finish; ignoring that symmetry requires internal gates.
+- Typical symptoms
+  - Attacks feel “blocked” and you cannot create separation.
+  - Opponent wins the hand fight and you become the defender.
+- Corrections (sequencing rule)
+  - Fix inside-knee position first.
+  - Solve hand fight second (win grips/deny grips).
+  - Create separation third.
+  - Then run dilemma pairs (toe hold ↔ separation; toe hold ↔ heel hook).
+- Drill fix
+  - Constraint rounds: attacker is not allowed to attack until each gate is demonstrated (coach/partner calls “gate met”).
+
+### 11.11 Mutual-ashi failure: initiating first into equal access (losing the sequence)
+
+- What goes wrong
+  - You commit first without control advantage; opponent responds and wins the exchange.
+- Why it happens
+  - Ignoring the priority rule “going last” and treating mutual ashi like a normal unilateral attack hub.
+- Typical symptoms
+  - You feel you must rush because both have access, but your rush creates openings for counters.
+- Corrections
+  - Apply “going last”: induce/detect opponent commitment, then exit into advantage.
+  - Use roll-through exit as a controlled transition (not disengagement) while keeping hip governance (far-hip control concept) so opponent cannot rotate free.
+- Drill fix
+  - Mutual timing rounds: attacker must “wait” for a partner commitment cue before executing exit; initiating first is scored as failure.
 
 
+## 12.0 KEY PASSAGES
+
+### 12.1 Inside-position battle as the governing priority (lanes decide offense/defense)
+
+- Inside position (feet and knees inside the opponent’s feet and knees) is treated as the primary positional battle that determines who can attack legs first and who is forced into defense.
+- Winning inside position functions as an attack-permission gate: if inside lanes are not won, forcing finishes becomes a race and invites counter-attacks.
+- Inside lanes are not static; the system expects continuous pummeling and lane repair when the opponent re-enters lanes.
+
+### 12.2 “No separation” as the definition of real control (entanglement quality standard)
+
+- A stable entanglement is defined by the inability of the opponent to pull away and create daylight between bodies; if they can create separation, finishing attempts are premature.
+- Stress tests are used as the validation mechanism: if basic withdrawal, pressure, or rolling repeatedly breaks the position, the correct response is rebuilding structure rather than attempting stronger breaking mechanics.
+
+### 12.3 Achilles ↔ heel hook as the primary forcing engine (dilemma logic)
+
+- Achilles pressure is used not only as a finish but as a forcing threat that produces predictable defensive reactions which open heel-hook exposure.
+- Heel-hook threats are used to force defenses that reopen the Achilles bite; the system expects immediate conversion when defense stabilizes one line.
+- The dilemma fails when either threat is not credible (poor connection on Achilles; unstable heel exposure that slips instantly).
+
+### 12.4 Forward pressure is solved structurally (posture, elbow position, wedge, directional finish)
+
+- Forward pressure is treated as a predictable defensive method that collapses posture and increases heel-slip risk.
+- Structural responses (rather than “pull harder”) are emphasized:
+  - elbow-position management (hands high; chin low; elbow controlled),
+  - post-ashi wedge creation against crush,
+  - belly-down finishing line when pressure/rotation dictates.
+
+### 12.5 Heel slip is expected and is solved by named recovery families (not by improvisation)
+
+- Heel slip is treated as a recurring event during exposure/finishing; recovery is a required skill, not an emergency improvisation.
+- Two recovery families are emphasized:
+  - high-hands style recovery (re-secure heel and restore alignment under forward pressure),
+  - roll-through recovery (re-establish a stable entanglement when pressure + slip collapses structure).
+
+### 12.6 Rolling is not an escape if attachment is maintained (follow + roll governance)
+
+- Defensive rolling is treated as an expected response; the system’s default is to follow the leg and govern roll outcomes rather than accept resets.
+- Single-roll governance is used as a framing principle: structure the position so rolling resolves into a predictable end state rather than infinite escape.
+
+### 12.7 Cross-ashi issues are solved by upgrades (pummel and pass-a-leg), not by forcing breaks
+
+- Cross ashi is presented with known structural issues; the correct approach is “upgrade-first”:
+  - re-win inside lanes via pummeling,
+  - apply passing-a-leg families (lace/dracula) to increase constraint and improve exposure.
+- Dual-heel exposure functions as an escalation when single-heel hunting stalls, forcing reactions that reopen a clean finish line.
+
+### 12.8 Outside-ashi requires a safety constraint: deny back exposure during exposure moments
+
+- Outside-ashi heel exposure is pursued only with continuous denial of the opponent’s turn-away lane that would create back exposure.
+- Any exposure method that opens an easy turn-away lane is treated as structurally incorrect and must be changed by re-governing hips and adjusting control before reattempting exposure.
+
+### 12.9 50/50 is solved by internal gates and dilemma sequencing (order matters)
+
+- 50/50 is treated as a symmetric hub requiring an internal order:
+  - inside-knee position gate,
+  - hand-fight/grip constraint,
+  - separation work,
+  - dilemma pairs (toe hold ↔ separation; toe hold ↔ heel hook),
+  - backside 50/50 transitions and follow mechanics.
+- Skipping the order leads to stalls or counters.
+
+### 12.10 Mutual ashi is governed by priority sequencing (“going last”) and controlled exits
+
+- Mutual ashi is treated as a special case where committing first can be a losing decision.
+- “Going last” is presented as a priority rule: respond to the opponent’s commitment and exit mutuality into a favorable hub.
+- Roll-through exits and far-hip control are used to convert mutual access into stable advantage rather than blind finishing races.
 
 
+## 13.0 TERMINOLOGY
+
+### 13.1 Positional hubs and entanglement names
+
+- Irimi Ashi Garami
+  - Primary entanglement hub used to establish tight connection and run straight-lock pressure into heel-hook opportunities; includes specific counters for extraction, forward pressure, heel slip, and roll responses.
+- Inside Ashi Garami
+  - Entanglement family referenced as a core strategic hub; used as a transfer destination when it improves control/exposure relative to other hubs.
+- Outside Ashi Garami
+  - Entanglement hub built to access heel exposure lines while requiring explicit control choices to deny turn-away/back exposure.
+- Cross Ashi
+  - Entanglement family with specific “issues” that must be solved via pummeling and positional upgrades before finishing attempts become reliable.
+- 50/50
+  - Symmetric entanglement hub requiring internal rules (inside-knee position, separation, hand-fight solutions) and dilemma stacking to prevent stalemate.
+- Mutual Ashi
+  - Mutual-entanglement problem class where both players have access; governed by timing/priority rules (notably “going last”) and controlled exits.
+- Butterfly Ashi
+  - Entanglement variant used as a transition from irimi when geometry/pressure makes it the better platform.
+- Stretch Ashi
+  - Entanglement/structure referenced as a response to primary leg escape attempts (used to maintain attachment and prevent full extraction).
+- Backside 50/50
+  - 50/50 configuration/transition space used to maintain advantage through opponent movement and to continue attacks as the opponent turns/rolls.
+- Cross Waist 50/50
+  - 50/50 configuration variant referenced as part of the 50/50 subsystem.
+
+### 13.2 Exposure and orientation language
+
+- Heel exposure
+  - The state where the heel is available to be secured for heel-hook finishing mechanics; treated as something you create and stabilize from control, not something you “grab and hope.”
+- Belly-down
+  - Orientation used for both exposure and finishing mechanics (notably Achilles/toe-hold lines) when opponent pressure/rotation dictates that finishing vector.
+- Belly-up
+  - Orientation used for toe-hold exposure/finishing when the geometry supports it without needing to turn belly-down.
+- Posture “kneeling opponent”
+  - Scenario label for exposure mechanics that apply specifically when the opponent is kneeling rather than standing/squared.
+
+### 13.3 Control structures and control mechanics labels
+
+- Inside position (inside lanes)
+  - Priority condition defined as keeping feet and knees inside the opponent’s feet and knees; treated as the core positional battle that drives offense/defense access.
+- Inside knee position
+  - Specific 50/50 requirement: an internal structural gate that must be achieved/maintained for the hub to function safely and effectively.
+- Knee line
+  - The line/threshold governing whether the opponent can withdraw/clear their leg; treated as a control prerequisite before exposure and breaking become reliable.
+- Hip control
+  - Control requirement used to stabilize exposure and prevent rotation/turn-away; emphasized particularly in outside-ashi.
+- Leg scissoring (hip scissoring)
+  - Named hip-control method for outside-ashi to limit hip mobility and stabilize exposure.
+- Cross shin
+  - Named hip-control method for outside-ashi to pin/steer hips while building/maintaining heel exposure.
+- Post ashi
+  - Named structure used against forward pressure (includes placing a foot to the hip and creating a wedge platform) to prevent collapse and enable stronger breaking.
+- Post feet
+  - Named exposure/control format referenced within outside-ashi heel exposure pathways.
+
+### 13.4 Named dilemmas and “engine” pairings
+
+- Achilles / Heel Hook dilemma
+  - Forcing pair: Achilles threat drives predictable defense that opens heel exposure; heel-hook threat drives defense that reopens Achilles pressure/bite.
+- Toe hold / Separation dilemma
+  - Forcing pair (notably in 50/50): toe-hold threat interferes with clean separation; separation attempts create alignment that reopens toe-hold opportunities.
+- Toe hold / Heel hook dilemma
+  - Forcing pair: toe-hold threat changes alignment/rotation that exposes heel-hook lines; heel-hook defense can reopen toe-hold control.
+- Toe hold / Knee bar dilemma
+  - Forcing pair used to defeat “locked” or stabilized defenses by switching to the paired break line when the opponent over-commits to defending the first line.
+- Double Trouble
+  - Two-leg constraint method used to counter “locked legs” and other stall states by controlling/threatening both legs to force openings.
+
+### 13.5 Transitions, escapes, and continuity language
+
+- Extraction
+  - Defensive action: opponent withdraws/clears the trapped leg (often by pulling away and attempting to clear the knee line).
+- General escape directions
+  - Umbrella label for the opponent’s main defensive vectors (withdrawal/extraction, rotation/roll, pressure-based defense, heel slip).
+- Following a leg
+  - Continuity rule: maintain attachment to the moving target leg through opponent movement (rolls, turns, withdrawals) rather than losing connection and re-gripping late.
+- Switching legs
+  - Continuity rule: when the primary target leg clears or becomes non-viable, transfer to the other leg or to a new hub rather than resetting.
+- Single roll theory
+  - Roll-governance framing: structure the position so the opponent’s roll resolves into a controllable outcome rather than infinite rolling escape.
+- Rolling through (roll-through)
+  - Recovery/transition method used when pressure and/or heel slip collapses the structure; roll to re-establish a stable entanglement rather than fight from collapse.
+- Going last
+  - Mutual-ashi priority rule: avoid committing first into equal access; respond to the opponent’s commitment to exit mutuality into advantage.
+
+### 13.6 Technique and subsystem labels
+
+- Basic Achilles lock
+  - Baseline straight-lock attack used as both a finish and a forcing threat.
+- Figure-4 Achilles
+  - Achilles lock variant used within cross-ashi structures as part of the Achilles threat family.
+- Reverse Figure-4 Achilles
+  - Achilles lock variant used to adjust alignment/pressure when defenses change.
+- Toe hold
+  - Submission family with explicit belly-up and belly-down exposure/finishing mechanics and transitions to heel hooks.
+- Knee bar
+  - Submission family referenced as a concept set and as a dilemma pair with toe holds in certain stall-breaking contexts.
+- Heel hook
+  - Submission family requiring controlled heel exposure and anti-heel-slip structure; includes inside/outside heel-hook emphasis.
+- Wrist-to-wrist toe hold
+  - Named toe-hold application referenced as a solution in the “high leg” defensive scenario class.
+- Heel knee bar
+  - Named knee-bar line integrated as an addition within the outside-ashi material.
+
+### 13.7 Passing-a-leg and upgrade-family labels (cross-ashi / shoelace subsystem)
+
+- Leg pummeling
+  - Active leg-position improvement method used to regain inside lanes and solve cross-ashi structural issues before finishing.
+- Leg lace
+  - Passing-a-leg upgrade used to increase constraint and create more reliable heel exposure.
+- Passing a leg — 2 on 1 ankle
+  - Passing-a-leg control configuration used as a step in upgrading exposure/control.
+- Half Dracula
+  - Passing-a-leg variant used to improve exposure and convert to heel-hook lines.
+- Double Dracula
+  - Passing-a-leg escalation used to further constrain the opponent and improve exposure reliability.
+- Shoelace Ashi
+  - Cross-ashi-related configuration used as a context for catching the heel and for heisting-based dilemmas.
+- Heisting dilemma
+  - Named forcing concept from shoelace-ashi context where movement threat forces reactions that open exposure.
+
+### 13.8 Top-position label within the toe-hold subsystem
+
+- Top Ushiro
+  - Positional hub introduced as part of the toe-hold volume; used to create heel-hook and toe-hold exposure and to defeat locked-leg defenses via constraint methods.
+- Moving to Top Ushiro
+  - Transition label for reaching the top-ushiro hub when exposure is difficult or legs are locked.
+
+### 13.9 Defense-specific labels
+
+- Heel slip
+  - Defensive event: the heel begins to slide out of control during exposure/finishing; treated as expected and addressed with named recovery families.
+- High hands
+  - Named recovery approach used to counter heel slip by re-securing control with higher hand positioning and restoring finishing alignment.
+- Semi sankaku
+  - Named entanglement constraint referenced in the 50/50 material, with a corresponding “separating” problem/solution focus.
+- High leg
+  - Scenario label describing a defensive posture/leg position that requires specific counters rather than forcing standard entries.
+- Recapturing a knee
+  - Named control-recovery action used during toe-hold/transition sequences when knee-line control is threatened.
+- Calf slice switch
+  - Named switch option in the toe-hold volume used to redirect defense and create new openings when primary lines stall.
 
 
+## 14.0 ADDITIONAL NOTES
+
+### 14.1 System identity: a hub-and-engine leglock game (positions as platforms, dilemmas as forcing)
+
+- The system is structured around:
+  - named entanglement hubs (irimi/outside/cross/50-50/mutual/top-ushiro) that each change control/exposure geometry,
+  - forcing engines (dilemma pairs) that convert opponent defense into new exposure.
+- Practical implication:
+  - “Knowing moves” is insufficient; success depends on consistently applying:
+    - inside-position lane control,
+    - connection/no-separation standard,
+    - control-layer prerequisites (knee line + hips),
+    - immediate conversions when the defense closes a line.
+
+### 14.2 Control-first philosophy: exposure is not a finish, it is a state you stabilize
+
+- Repeated emphasis appears via:
+  - stress tests (prove the position is real before finishing),
+  - heel-slip recovery (assume exposure attempts will be contested),
+  - roll-following (assume opponent will try to move to escape).
+- Practical reading:
+  - The system treats “exposure without stability” as false exposure (it will not survive resistance).
+
+### 14.3 Why inside position is elevated to a “master gate”
+
+- Inside lanes determine:
+  - who can enter first,
+  - who must defend,
+  - whether exchanges become mutual-attack races.
+- The system repeatedly routes back to lane repair (pummeling) when lanes are lost.
+- Practical training implication:
+  - Dedicated lane-only rounds are a high leverage training tool because they build the true permission structure for attacks.
+
+### 14.4 Why “no separation” is treated as the defining control metric (and why stress tests matter)
+
+- The stress test concept is used to prevent:
+  - false confidence (positions that only work when the opponent is passive),
+  - premature focus on breaking mechanics when the platform is unstable.
+- “No separation” functions as a universal quality filter:
+  - if the opponent can pull away and create daylight, they can usually clear the leg line eventually.
+- Practical implication:
+  - Measuring entanglement quality by “could I finish a compliant partner” is replaced by “could they extract if they try.”
+
+### 14.5 Dilemma logic as the system’s conversion engine (what makes it work vs fail)
+
+- Dilemma success depends on two prerequisites:
+  - both threats are credible (they require real defensive action),
+  - conversion happens early (defense trigger causes immediate switch).
+- Dilemma failure patterns are consistent:
+  - one threat is not credible (e.g., Achilles without tight connection; heel exposure that slips immediately),
+  - conversion is delayed (attacker insists on the defended line until defense stabilizes).
+
+### 14.6 Risk management: outside-ashi back-exposure denial is not optional
+
+- Outside-ashi is treated as a “higher exposure, higher constraint” hub:
+  - heel exposure is more available,
+  - but it is only usable if hip governance denies turn-away/back exposure routes.
+- Practical implication:
+  - Outside-ashi training should explicitly score:
+    - “exposure created while denying turn-away” (success),
+    - “exposure created but turn-away lane opened” (failure, even if heel was briefly caught).
+
+### 14.7 Cross-ashi as an “upgrade-first” subsystem (why passing-a-leg families exist)
+
+- Cross-ashi is presented with known “issues” that require upgrades:
+  - pummeling to re-win lanes,
+  - passing-a-leg families (lace/dracula) to increase constraint and force exposure.
+- The system treats “upgrade-first” as the correct default:
+  - if exposure is not stable, upgrade structure rather than force finish attempts.
+- Dual-heel exposure is framed as an escalation tool:
+  - when one-heel hunting stalls, expose both to force reactions.
+
+### 14.8 Toe hold/top-ushiro as an escalation layer against stalls and locked legs
+
+- Toe hold is treated as:
+  - a finish line,
+  - a forcing threat that creates heel-hook conversion opportunities,
+  - a dilemma partner (toe hold ↔ heel hook; toe hold ↔ separation; toe hold ↔ knee bar).
+- Top ushiro is positioned as:
+  - a hub that supports combined toe/heel exposure,
+  - a method to defeat locked-leg defenses when lower hubs stall.
+
+### 14.9 50/50 is solved by internal order (gates and sequencing, not improvisation)
+
+- The system frames 50/50 as:
+  - symmetry plus constraints: inside-knee positioning, hand-fight, separation.
+- The order is treated as a required sequence:
+  - knee gate → grip/hand-fight solution → separation → dilemma pairs → transitions (backside 50/50) → follow mechanics.
+- Practical implication:
+  - 50/50 training should be organized as “gates first,” not as “try heel hooks from 50/50.”
+
+### 14.10 Mutual ashi is a timing problem (priority rule decides winner)
+
+- Mutual ashi is framed as:
+  - both have access; initiating first can be a mistake.
+- “Going last” is treated as a priority rule that:
+  - reduces reactive counter risk,
+  - increases the chance that your action resolves the exchange into advantage.
+- Roll-through exits plus hip governance (far-hip control concept) are the conversion mechanism:
+  - mutuality is solved by exiting into a favorable hub, not by accepting mutual finishing races.
+
+### 14.11 Reading/usage guidance for this BIO (how to consume it efficiently)
+
+- Recommended consumption order for training use (derived from how the system itself prioritizes constraints)
+  - Start with Section 7 (Diagram set) to get the hub/engine overview.
+  - Then Section 6 (Technique library) to understand each hub’s toolset and dilemma logic.
+  - Then Section 11 (Failure patterns) to identify what must be trained to prevent collapse under resistance.
+  - Then Section 9 (Drilling progressions) to convert system rules into training steps.
+  - Then Section 8 (Application scenarios) to map the tools to opponent behaviors.
+- Practical note
+  - This order matches the system’s internal logic (gates/constraints → engines → outcomes) rather than reading chronologically by volume.
 
 
+## 15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (optional)
 
+### 15.1 Clarifying cross-domain naming consistency (safety note for transcripts)
 
+- Some labels in transcripts (especially auto-transcribed) may appear inconsistent (e.g., “irimi/inside ashi,” “cross/shoelace,” “ushiro” spelling variants).
+- Suggested handling rule
+  - Preserve transcript language inside the BIO when it is clear what is meant.
+  - When a term is obviously corrupted, normalize to the most standard label but keep the transcript token in parentheses once (e.g., “Top Ushiro (top ushiro)”) so future searches still find it.
+- Rationale
+  - Keeps fidelity while preventing the system map from fragmenting into duplicate nodes caused by transcription noise.
 
+### 15.2 Practical “minimum viable training loop” (fast start without losing the system)
 
+- Loop structure (repeat weekly)
+  - 10 min: lanes + connection standard (no attacks).
+  - 15 min: one hub’s control platform reps (e.g., irimi ashi structure + stress test).
+  - 15 min: one dilemma pair reps (Achilles ↔ heel hook or toe hold ↔ heel hook).
+  - 10 min: positional resistance from the hub with defender using one scripted defense (extract OR roll OR forward pressure).
+  - 10 min: failure review: identify which of the three defenses broke the structure and repair that constraint next session.
+- Intended benefit
+  - Preserves the system’s “control-first” identity while letting you progress quickly without needing to cover all hubs at once.
 
+### 15.3 Optional tagging method for future VN/SYS promotion (workflow aid)
 
+- When promoting content into SYS pages later, a lightweight tag scheme can prevent bloat:
+  - [GATE]: inside position, inside-knee gate, hand-fight gate, separation gate.
+  - [CONTROL]: knee line, hip governance, anti-turn-away, anti-heel-slip.
+  - [ENGINE]: dilemma pairs (Achilles↔HH, ToeHold↔HH, ToeHold↔Sep, ToeHold↔KB), double trouble.
+  - [CONTINUITY]: follow leg, switch legs, single roll, roll-through.
+  - [RISK]: back exposure, pressure collapse, heel slip, locked legs.
+- Use
+  - Add tags only when extracting to SYS, not inside the main BIO, to keep BIO clean while keeping SYS searchable.
 
+### 15.4 Coverage completeness note (strictly about this BIO build)
+
+- This BIO was generated from the provided transcript for “Systematically Attacking the Legs” and the chapter title list you supplied; if future volumes/transcripts are added, update Section 3 and Section 6 accordingly.
 
 
 
