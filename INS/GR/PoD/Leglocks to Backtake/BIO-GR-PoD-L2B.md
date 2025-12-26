@@ -43,8 +43,6 @@
   - 6.5 Outside ashi (ride/body lock; knee-down; frame clearing; completion families)
   - 6.6 Top ushiro + Cross ashi (underhooks/head-arm/kimura; extraction -> body lock)
   - 6.7 Inside ashi + 50/50 (transfer; separation/extraction; stall breakers; named routes)
-  - 6.8 Volume 7 (excluded)
-  - 6.9 Volume 8 (excluded)
 
 - 7.0 Diagram set
   - 7.1 Master decision tree (entanglement -> lane -> back/pass)
@@ -140,14 +138,9 @@
 
 ## 1.0 MASTER SYSTEM MAP (ASCII)
 
-ASCII WIDTH RULE (user override): diagrams may be hard-wrapped; max 170 characters/line. Non-diagram prose is not hard-wrapped.
-
-COVERAGE / BOUNDARIES (transcript-derived)
 - Vol 1–6: mapped (technical instruction present).
-- Vol 7: transcript file is effectively empty; Part 7 rolling footage cannot be mapped.
-- Vol 8: rolling commentary; not treated as primary technical instruction for this BIO.
 
-TRACEABLE TOKEN NOTES (do not silently rename)
+NOTES
 - katakitame (transcript token; treated as a head-and-arm lane token; appears in Vol 4 transcript)
 - tapo shiro (transcript token; appears across Vol 1,4,5,6,8 transcripts)
 - top oshiro (transcript token; appears in Vol 5 transcript)
