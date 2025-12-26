@@ -9,8 +9,6 @@
   - 3.4 Volume 4 — Outside ashi (knee-down; ride/body lock; frame clearing; backtake methods)
   - 3.5 Volume 5 — Top ushiro + Cross ashi (underhooks/kimura; extraction; body lock to back)
   - 3.6 Volume 6 — Inside ashi + 50/50 family (transfers; separation/extraction; backstep exits)
-  - 3.7 Volume 7 — Rolling footage (excluded)
-  - 3.8 Volume 8 — Rolling commentary (excluded)
 
 - 4.0 Core concepts
   - 4.1 Dilemma model (back vs pass)
