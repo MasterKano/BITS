@@ -1,4 +1,6 @@
-# Kano Scroll v3.4 — BITS Training Guidance Manual
+PATH: Kano-Scroll.md
+
+# Kano Scroll v3.5 — BITS Training Guidance Manual
 
 ## 0. Purpose
 
@@ -8,6 +10,9 @@
 - Ensure technical training content is derived from:
   - [I] raw transcript
   - [B] BIO report generated from that transcript
+- Separate manuals, separate scopes:
+  - Kano Scroll governs: repo structure, VN, sessions, SYS promotion workflow.
+  - Jigoro Text (BIO Instructions) governs: BIO generation outputs, including the Technique Library inside the BIO.
 - Enable replication in a new chat with memory off by following the Startup Protocol.
 
 ## 1. Definitions
@@ -33,6 +38,7 @@
 - One unified Systems library: `SYS/` only.
 - No per-instructional duplicate systems folders.
 - Technical content must be [I]/[B]-derived unless user explicitly requests technical [G].
+- Technique Library lives inside the BIO report and is governed by Jigoro Text (BIO Instructions); do not reproduce a Technique Library as a Kano Scroll artifact.
 - Use short file names and headings; avoid redundant “System – …” labels.
 
 ## 3. Repo Structure (BITS)
@@ -47,17 +53,17 @@
 
 ### 3.2 Per instructional folder
 
-    INS/<instr>/
-      README.md
-      bio-<tag>.md
-      VN/
-      sessions/
-      transcripts/
+INS/<instr>/
+  README.md
+  bio-<tag>.md
+  VN/
+  sessions/
+  transcripts/
 
 ### 3.3 Unified systems
 
-    SYS/<domain>/
-      <topic>.md
+SYS/<domain>/
+  <topic>.md
 
 ### 3.4 BIO standard (recommended)
 
@@ -75,14 +81,43 @@
 - `INS/<instr>/README.md` links to:
   - bio, VN, sessions, transcripts
   - relevant unified systems pages
+  - the BIO Technique Library section anchor inside `bio-<tag>.md` (fast lookup)
 
 ## 5. Workflow
 
-### 5.1 VN (Viewing Notes)
+### 5.1 VN (Viewing Notes) — operator-grade standard (locked)
 
 - Location: `INS/<instr>/VN/vX.md`
-- Contents: subchapter-structured notes derived from [I]/[B]
-- Purpose: study + extraction for sessions and unified system updates
+- Source: [I]/[B]-derived only (technical). No technical [G] inside VN.
+- Purpose:
+  - study + retrieval while watching
+  - extraction inputs for sessions and unified system updates
+  - optional pointer layer into BIO sections where relevant (Technique Library remains inside BIO)
+- Format (locked):
+  - `# VIEWING NOTES – <Instructional>`
+  - `## X.0 Volume X — <title>`
+  - `### X.Y <subchapter title>`
+  - For every subchapter, output these fields in this exact order:
+    - Key concepts
+    - Position–structure
+    - Decision rules (IF/THEN)
+    - Failure signatures + fixes
+    - Completion checks
+    - System tags
+- Drills/games rule (locked):
+  - Include “Drills/Games” only if explicitly present in [I]/[B].
+  - Do not output filler lines like “No drills stated.”
+- Operator-grade density rules (locked):
+  - Prefer conditional/operator bullets over narrative prose.
+  - Include explicit constraints/gates named in the subchapter when present (e.g., Achilles constraint, hips-inside-knees, head line, cross-lat post, shoulder rule).
+  - Include explicit failure signatures and immediate corrections when present in [I]/[B].
+- Density targets (per subchapter):
+  - Key concepts: 3–6 bullets
+  - Position–structure: 2–4 bullets
+  - Decision rules: 3–8 bullets (minimum 2 explicit forks)
+  - Failure signatures + fixes: 2–6 paired bullets
+  - Completion checks: 2–4 bullets
+  - System tags: 3–8 tags
 
 ### 5.2 Sessions (per instructional)
 
@@ -109,17 +144,18 @@
   - [I] transcript → [B] BIO → VN / sessions / SYS updates
 - BIO is stored per instructional at:
   - `INS/<instr>/bio-<tag>.md`
+- Technique Library is produced inside the BIO report (Jigoro Text standard), not as a Kano Scroll artifact.
 - If BIO is not available, VN and sessions may be generated directly from [I] (transcript-only mode).
 
 ## 6. Links and Anchors
 
 - Use relative markdown links.
 - Keep headings short to keep anchor IDs short.
-- Use anchors only for high-utility sections (entries, cues, drills).
+- Use anchors only for high-utility sections (entries, cues, drills, decision trees).
 
 ## 7. Output Rules (assistant behaviour)
 
-These rules exist to keep outputs copy/paste-safe and consistent across new chats:
+These rules exist to keep Kano Scroll outputs copy/paste-safe and consistent across new chats:
 
 - All deliverables must be returned in a single fenced code block (markdown).
 - The first line of any deliverable must state the target path, e.g.:
@@ -127,18 +163,22 @@ These rules exist to keep outputs copy/paste-safe and consistent across new chat
   - `PATH: INS/s2g3/sessions/S01-s2g3.md`
 - No citations/footnotes. Links are allowed.
 - No unnecessary preamble; deliver the requested file content.
+- Scope boundary:
+  - Kano Scroll governs VN/sessions/SYS and repo-facing guidance outputs.
+  - BIO generation outputs follow Jigoro Text (BIO Instructions) and may impose additional formatting rules.
 
 ## 8. Startup Protocol (new chat, memory off)
 
 To start a new instructional project, provide in this order:
 
-1. Paste `Kano Scroll` (this manual) OR confirm it is the governing standard.
-2. Provide the instructional tag + folder name (short), e.g. `s2g3`.
-3. Provide:
+1. Paste `Kano Scroll` (this manual) OR confirm it is the governing standard for repo workflow outputs.
+2. If BIO work is required, paste/confirm the governing Jigoro Text (BIO Instructions) standard separately.
+3. Provide the instructional tag + folder name (short), e.g. `s2g3`.
+4. Provide:
    - [I] transcript file(s) (txt), and
    - [B] BIO report (md/txt), if available
-4. Provide the chapter/subchapter titles + timestamps (paste or txt).
-5. Command sequence:
+5. Provide the chapter/subchapter titles + timestamps (paste or txt).
+6. Command sequence:
    - `Index: root`
    - `Index: instructional <instr>`
    - `VN <tag> v1`
@@ -155,7 +195,7 @@ Common commands (short form):
 - `Index: instructional <instr>`
   - Generate content for `INS/<instr>/README.md` (local dashboard with links).
 - `VN <tag> vX`
-  - Generate Viewing Notes for volume X (from [I]/[B]).
+  - Generate Viewing Notes for volume X (from [I]/[B]) using the locked operator-grade VN standard.
 - `Session 0X <tag>`
   - Generate a session plan for session 0X, stored under the instructional’s sessions folder.
 - `System <domain>/<topic>`
@@ -166,14 +206,17 @@ Common commands (short form):
   - Output [I]/[B]/[G] tags on relevant bullets (only when requested).
 - `Tag sources: off`
   - Default mode; no source tags.
+- BIO commands (cross-manual note):
+  - Commands like `BIO Contents`, `Next`, `Section X`, `Regenerate Section X` are governed by Jigoro Text (BIO Instructions), not Kano Scroll.
 
 ## 10. Change Control
 
 - “Locked” items (once explicitly locked):
   - session headline list for an instructional
   - repo naming conventions for that project
+  - VN subchapter field order + operator-grade density standard
 - To change a locked item, the user must explicitly request the change.
 
 ---
 
-End — Kano Scroll v3.4
+End — Kano Scroll v3.5
