@@ -7,9 +7,9 @@
 
 ## Contents
 
-### 0. Executive Summary
+0. Executive Summary
 
-### 1. Instructional Volume Content
+1. Instructional Volume Content
 - 1.1 Volume 1 – Introduction, Concepts & Training Methods  
 - 1.2 Volume 2 – Special Study: Cow Catcher  
 - 1.3 Volume 3 – Special Study: Uki Waza  
@@ -19,7 +19,7 @@
 - 1.7 Volume 7 – Underhook & Pinch Headlock Series  
 - 1.8 Volume 8 – Upper Body Takedowns for Older/Less Athletic Athletes  
 
-### 2. System Overview
+2. System Overview
 - 2.1 Role of Upper Body Takedowns in Jiu Jitsu  
 - 2.2 The Central Problem of Takedowns in Jiu Jitsu  
 - 2.3 Advantages and Disadvantages of Upper Body Takedowns  

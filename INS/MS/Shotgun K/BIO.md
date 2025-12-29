@@ -92,7 +92,7 @@ Reader Guide: This BIO is ordered for linear reading; proceed top-to-bottom.
 
 - K-Guard is treated as an open-guard attacking platform (primarily vs a kneeling opponent) designed to access lower-body submissions, upper-body submissions, sweeps, and back takes from one connected framework.
 
-- The build is defined by “knee off the mat” structure + a scoop-style control on the near leg as the stabilising control that prevents the opponent from easily forcing half guard and collapsing the position.
+- The buildl; is defined by “knee off the mat” structure + a scoop-style control on the near leg as the stabilising control that prevents the opponent from easily forcing half guard and collapsing the position.
 
 - Entry families feed the same build and checklist: seated entries (lower-body and upper-body), supine entries (low-leg and lasso-style routes), and top-facing entries (north-south to K) plus reverse de la Riva to K.
 
