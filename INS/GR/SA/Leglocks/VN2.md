@@ -1,5 +1,3 @@
-PATH: INS/gr-satl/VN/v2.md
-
 # VIEWING NOTES – Systematically Attacking the Legs (Gordon Ryan)
 
 ## 2.0 Volume 2
