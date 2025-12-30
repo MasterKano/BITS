@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/ashi-hierarchy.md
+
 # System: Ashi Hierarchy and Hub Network
 
 ## Purpose
