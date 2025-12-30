@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/positions-ashi/cross-ashi-garami-double-trouble-platform.md
+
 # System: Cross Ashi Garami (Inverted Heel Hook + Double Trouble Platform)
 
 ## Purpose

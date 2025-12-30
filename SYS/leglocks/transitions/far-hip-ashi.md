@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/transitions/far-hip-ashi.md
+
 # System: Far-Hip Ashi (Safety Shell + Asymmetry Rebuild)
 
 ## Purpose

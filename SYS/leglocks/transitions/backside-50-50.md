@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/transitions/backside-50-50.md
+
 # System: Backside 50/50 (High-Offence Asymmetry Upgrade)
 
 ## Purpose

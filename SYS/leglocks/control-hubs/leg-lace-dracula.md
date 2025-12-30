@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/control-hubs/leg-lace-dracula.md
+
 # System: Leg Lace / Dracula Controls (Two-Leg Immobilisation)
 
 ## 1. Purpose

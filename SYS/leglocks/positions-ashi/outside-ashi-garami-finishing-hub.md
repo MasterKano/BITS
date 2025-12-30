@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/positions-ashi/outside-ashi-garami-finishing-hub.md
+
 # System: Outside Ashi Garami (Primary Asymmetrical Finishing Hub)
 
 ## Purpose

@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/control-hubs/double-trouble.md
+
 # System: Double Trouble (Two-Leg Control Hub)
 
 ## 1. Purpose

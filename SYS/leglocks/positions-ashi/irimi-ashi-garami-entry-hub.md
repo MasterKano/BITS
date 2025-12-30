@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/positions-ashi/irimi-ashi-garami-entry-hub.md
+
 # System: Irimi Ashi Garami (Entry Hub)
 
 ## Purpose

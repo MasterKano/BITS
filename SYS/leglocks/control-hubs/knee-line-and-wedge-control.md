@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/control-hubs/knee-line-and-wedge-control.md
+
 # System: Knee Line and Wedge Control
 
 ## Purpose

@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/submissions/straight-ankle-achilles.md
+
 # System: Straight Ankle (Achilles) Mechanics + Dilemma Use
 
 ## 1. Purpose

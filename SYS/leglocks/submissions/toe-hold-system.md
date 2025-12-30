@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/submissions/toe-hold-system.md
+
 # System: Toe Hold (Fast-Onset Threat + Dilemmas)
 
 ## 1. Purpose

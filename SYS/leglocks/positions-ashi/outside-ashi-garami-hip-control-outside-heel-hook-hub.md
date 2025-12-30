@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/positions-ashi/outside-ashi-garami-hip-control-outside-heel-hook-hub.md
+
 # System: Outside Ashi Garami (Hip Control + Heel Exposure Hub)
 
 ## Purpose

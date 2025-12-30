@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/transitions/butterfly-ashi.md
+
 # System: Butterfly Ashi (Connector Hub)
 
 ## 1. Purpose

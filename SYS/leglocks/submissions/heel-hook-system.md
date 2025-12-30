@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/submissions/heel-hook-system.md
+
 # System: Heel Hook (Inside vs Outside Mechanics + Priorities)
 
 ## 1. Purpose

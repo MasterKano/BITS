@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/positions-ashi/inside-ashi-garami-outside-hh-oriented-cross-family.md
+
 # System: Inside Ashi Garami (Cross-Family Variant, Outside Heel Hook Orientation)
 
 ## Purpose

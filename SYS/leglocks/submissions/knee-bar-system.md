@@ -1,3 +1,5 @@
+PATH: SYS/leglocks/submissions/knee-bar-system.md
+
 # System: Knee Bar (Lat / Heel-Knee-Bar Structures)
 
 ## 1. Purpose
