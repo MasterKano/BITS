@@ -1,6 +1,6 @@
 PATH: Kano-Scroll.md
 
-# Kano Scroll v3.5 — BITS Training Guidance Manual
+# Kano Scroll v3.6 — BITS Training Guidance Manual
 
 ## 0. Purpose
 
@@ -33,6 +33,12 @@ PATH: Kano-Scroll.md
 - Technical content: mechanics, positions, grips, transitions, decision rules, prescribed drills/games.
 - Non-technical: repo structure, markdown, scheduling, note-taking workflow.
 
+### 1.4 SYS vocabulary
+
+- **Domain**: a top-level subject folder under `SYS/` (e.g. `SYS/Leglocks/`).
+- **Topic page**: a single canonical file under a domain (e.g. `SYS/Leglocks/ashi-family-map.md`).
+- **Domain index**: an optional `SYS/<domain>/README.md` that maps and links the topic pages.
+
 ## 2. Non-Negotiables
 
 - One unified Systems library: `SYS/` only.
@@ -63,7 +69,8 @@ INS/<instr>/
 ### 3.3 Unified systems
 
 SYS/<domain>/
-  <topic>.md
+  README.md                (optional domain index)
+  <topic>.md               (canonical topic page)
 
 ### 3.4 BIO standard (recommended)
 
@@ -82,6 +89,9 @@ SYS/<domain>/
   - bio, VN, sessions, transcripts
   - relevant unified systems pages
   - the BIO Technique Library section anchor inside `bio-<tag>.md` (fast lookup)
+- Optional: `SYS/<domain>/README.md` links to:
+  - each canonical topic page in that domain
+  - a “canonical map” of what belongs where (anti-duplication)
 
 ## 5. Workflow
 
@@ -134,9 +144,32 @@ SYS/<domain>/
 ### 5.3 Unified systems updates (promotion rule)
 
 - After reviewing VN or running sessions, promote durable insights into `SYS/`.
-- Unified system pages remain concise and navigable:
+
+#### 5.3.1 Canonical topic pages (anti-duplication)
+
+- Each `SYS/<domain>/<topic>.md` is **canonical** for that topic.
+- When a new instructional covers the same topic:
+  - update the existing canonical topic page (do not create a duplicate topic file)
+  - add/expand sections as needed, but keep the page concise and navigable
+- Canonical topic pages remain concise and navigable:
   - purpose, key positions, entries, cues, offense/defense, drills, errors, notes
 - Avoid duplicating entire VN inside systems pages.
+
+#### 5.3.2 Source traceability inside SYS (recommended)
+
+- SYS pages may include a short **Sources** section for traceability (links only; no footnotes):
+  - link to the relevant `INS/<instr>/bio-<tag>.md` section anchor (if useful)
+  - link to the relevant VN volume file and (optionally) subchapter anchors
+  - link to the relevant transcript file when needed
+- Keep this section short and stable; it exists to jump back to detail/video context.
+
+#### 5.3.3 Domain index pages (optional, recommended for large domains)
+
+- `SYS/<domain>/README.md` exists to:
+  - group topic pages into a small number of buckets (navigation)
+  - define what is “in-scope” for the domain
+  - list canonical topic pages (to prevent duplication)
+  - optionally maintain a lightweight mapping of “instructionals contributing to this domain” (links only)
 
 ### 5.4 BIO role in this workflow
 
@@ -219,4 +252,4 @@ Common commands (short form):
 
 ---
 
-End — Kano Scroll v3.5
+End — Kano Scroll v3.6
