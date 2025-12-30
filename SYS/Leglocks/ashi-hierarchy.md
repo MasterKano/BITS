@@ -36,6 +36,19 @@
 - **Global strategic rules**
   - Prefer **asymmetry**: aim to spend most time in Outside / Cross / Inside / Backside / Far-Hip / Ushiro.
   - Treat **symmetry** (50/50, Mutual) as a **problem to solve**, not a place to live.
+### Default hierarchy (movement)
+
+- **Entry → Consolidation → Endpoint**
+  - **Irimi** → **Outside / Cross / Inside** → **Backside 50/50 / Far-Hip / Ushiro**
+- If you enter directly into **symmetry** (50/50 / Mutual), your first job is to **solve it** (inside-knee, heel safety, separation) and exit.
+
+### Role clarity by hub family
+
+- **Irimi:** acquire + stabilise + start dilemmas; upgrade.
+- **Outside:** hip control + back-safety + methodical heel exposure; transition when they high-leg/turn/roll.
+- **Cross/Inside:** power hubs; manage back exposure and inversion; use two-leg control when available.
+- **Backside/Far-Hip/Ushiro:** finish or convert to top control; highest-value outcomes.
+
 - **Primary control conditions**
   - **Knee line first:** if the knee line is not owned, prioritise re-wedging / hip-chasing / re-pummelling over finishing pressure.
   - **Hips close:** shorten distance; extended hips make retention and finishing unreliable.
