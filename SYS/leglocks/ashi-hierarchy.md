@@ -144,7 +144,8 @@
 - Failure to reset when the position becomes unidentifiable; forcing low-percentage finishes instead of rebuilding structure.
 
 ## Sources
-- INS/GR/SATL/ (BIO/VN/transcripts) (adjust to your actual folder name)
+- INS/GR/SATL/ (BIO/VN/transcripts)
+- INS/JD/ETS/Leglocks/
 
 ## Personal Notes
 - Preferred “A-game” hubs (rank):
