@@ -1,355 +1,395 @@
-# VIEWING NOTES – Systematically Attacking the Legs
-## 6.0 Volume 6
-### 6.1 Intro To 50/50 (0:00 - 1:58)
-- Key concepts
-  - 50/50 is inherently symmetrical: both people have access to attacks; both can cross/lock configurations that create mutual danger.
-  - Preference is to create asymmetry inside 50/50 (separating configurations) rather than “generic” mirrored 50/50 where both feet are equally available.
-  - 50/50 has a legitimate “safety” use-case: when knee-line is controlled/trapped, the position is structurally hard to get crushed, hard to get passed, and back exposure is limited relative to looser leg entanglements.
-  - The core optimisation problem in 50/50 is “foot safety”: selecting leg configurations that reduce opponent access to your feet while preserving your access to theirs.
-- Position–structure
-  - Standard 50/50 (mutual leg entanglement with shared knee-line battle).
-  - “Separated” 50/50 configurations (legs not crossed/stacked in the typical mirrored way; goal is asymmetric exposure and control).
-- Key cues
-  - Treat “generic 50/50” as unstable: immediately work toward a configuration that makes your feet safer than theirs.
-  - Make “knee-line trapped” the baseline safety condition before committing to extended hand-fights/finishing.
-- System tags
-  - 50/50
-  - Leg-configuration selection
-  - Foot-safety optimisation
+# VIEWING NOTES – Systematically Attacking the Legs (Gordon Ryan)
 
-### 6.2 Attack Until You're Defending (1:58 - 4:47)
+## 6.0 Volume 6 — 50/50 → Backside 50/50 / Double 50 → Mutual Ashi → Far-Hip Ashi + Gripping
+
+### 6.1 Intro to 50/50 (the “symmetrical exception” + why you still use it) (00:09–02:06)
+
 - Key concepts
-  - Primary rule: stay on offence until you are forced onto defence.
-  - The decisive event in 50/50 exchanges is leg separation (yours or theirs).
-    - If you are actively separating their legs, you are “winning the 50/50 battle.”
-    - If they separate your legs, you are now “losing” and must immediately address it.
-  - Beginner failure pattern: continuing offence while your legs are being separated (delayed recognition) → you get broken before you stabilise.
+  - 50/50 is **symmetrical**: both athletes can access each other’s feet, so it conflicts with an “asymmetry-first” leglock philosophy.
+  - Default preference: **asymmetrical Ashi** (outside / inside / cross Ashi). In 50/50 he often seeks to **separate feet** and transfer to **outside Ashi**.
+  - Legitimate 50/50 use-case: **containment** against explosive opponents:
+    - Hard to get crushed / passed.
+    - If **knee-line is trapped**, back exposure is limited.
+  - Central optimization problem: **foot safety** (make *your* feet safer than *theirs* via leg configuration choices).
+
 - Position–structure
-  - 50/50 as a continuous race:
-    - Your objective: separate their legs / extract / transition.
-    - Their objective: separate your legs / access your heel line / force you to defend.
+  - Generic mirrored 50/50 (high mutual danger).
+  - “Safer” 50/50 variants are created by:
+    - **inside-knee down** structure,
+    - **leg-cross choice** (semi-sankaku vs full figure-four),
+    - **separation of opponent’s feet** to create asymmetry.
+
+- Completion checks
+  - You can state *why* you are in 50/50: containment vs transition hub.
+  - You have a plan to create **asymmetry** (separate their feet or change entanglement).
+
+- System tags
+  - #50-50 #symmetry-problem #asymmetry-goal #containment #foot-safety
+
+
+### 6.2 “Attack until you’re defending” (the separation trigger) (02:06–04:23)
+
+- Key concepts
+  - Prime rule in heelhook-enabled 50/50: **stay offensive until forced defensive**.
+  - The decisive event is **leg separation**:
+    - If you separate **their** feet → you’re “winning” (asymmetry creation).
+    - If they separate **your** feet → you are “losing” and must **immediately** defend/reconnect.
+
+- Decision rules (hard triggers)
+  - IF you feel **your feet uncross / legs separating**, THEN **pause offense** → sit forward → reconnect your ankles/structure → then resume separating them.
+  - IF you are not actively mid-break (no committed finishing tension), THEN default to **defend-first** the moment your legs separate.
+
+- Failure signatures + fixes
+  - Failure: “I see heel so I chase it” while my legs are separating → you get beaten in the race.
+    - Fix: treat **leg separation sensation** as an alarm; reconnect first.
+  - Failure: slow recognition → opponent gets heel connection before you stabilize.
+    - Fix: train the recognition: “legs separate = forward + reconnect.”
+
+- Completion checks
+  - In live exchange you can *immediately* switch to reconnection behavior on separation.
+
+- System tags
+  - #50-50 #priority-rule #separation-trigger #defense-switch
+
+
+### 6.3 Inside-knee position (knee down = posture/handfight denial) (04:23–07:19)
+
+- Key concepts
+  - Inside-knee + **knee to the floor** is a core stabilizer:
+    - Reduces opponent’s ability to access **head** control.
+    - Forces them toward lesser access (often only the **near arm**).
+  - Also improves your ability to create distance to finish (belly-down paths become harder for them to handfight).
+
+- Position–structure (operational)
+  - Invert/turn the knee inward → **drive knee down**.
+  - Resulting geometry: your knees are more “in front” of opponent’s torso, blocking clean routes to head/elbow.
+
 - Decision rules
-  - If you feel your legs separating (or they separate your feet): stop your current attack and re-connect/re-stabilise first.
-  - If you separate their legs first: keep pressure and continue separating until you reach a dominant asymmetry or a transition.
-- Key cues
-  - “Leg separation sensation” is the hard trigger: defence now, offence later.
-  - When you must defend: come forward and address reconnection before their heel-hook/toe-hold cycle starts.
-- System tags
-  - 50/50 priority rule
-  - Separation battle
-  - Defence trigger cues
+  - IF opponent is climbing toward your **head/elbow**, THEN prioritize inside-knee down before extended handfighting/finishing.
+  - IF you already have heel connection, THEN inside-knee down becomes a **handfight suppressor layer**.
 
-### 6.3 Inside Knee Position (4:47 - 6:46)
-- Key concepts
-  - Inside-knee orientation is a major defensive structure in 50/50: it changes what the opponent can meaningfully access above your legs.
-  - Safety effect described: when the inside-knee position is established, opponent’s path to “head control” is reduced and they are forced into lesser access (hands/near arm rather than head/whole posture control).
-  - Inside-knee position supports offence by making heel control more robust (harder for opponent to reach/peel hands) once a heel connection exists.
-- Position–structure
-  - Inside knee turned/inverted inward with a “knee-down” emphasis (knee driven toward floor) as a stabilising anchor.
-  - Heel/sole catching sequence begins from this stable inside-knee structure (catching the sole/foot to begin control cycles).
-- Key cues
-  - Use inside-knee position as your default “safe working posture” before deep hand-fighting or finishing.
-  - If opponent starts climbing toward posture control, prioritise the inside-knee structure that blocks meaningful access.
-- System tags
-  - Inside-knee defensive structure
-  - Heel-control stabilisation
-  - Posture-denial in 50/50
+- Failure signatures + fixes
+  - Failure: knee not down → opponent reaches head quickly and kills extension.
+    - Fix: make **knee-down** a non-negotiable checkpoint before you try to extend away.
 
-### 6.4 Separating A Semi Sankaku (6:46 - 10:24)
+- Completion checks
+  - Opponent cannot meaningfully access your head without first spending time lifting/kicking your knee off the floor.
+
+- System tags
+  - #inside-knee #knee-down #handfight-denial #posture-control
+
+
+### 6.4 Separating semi-sankaku vs full figure-four (tradeoffs + separation method) (07:19–10:50)
+
 - Key concepts
-  - “Semi-sankaku” style leg locking reduces available wedging around the legs and can allow straighter leg extraction if you do not add extra wedge/control.
-  - When legs are open, you gain choice: you can pass across for improved exposure/finishing routes, or maintain a controlling grip (e.g., Achilles control) while you complete separation.
-  - There is an explicit tradeoff framework:
-    - More aggressive separation/exposure vs staying safer from toe-hold threats during the separation phase.
-- Position–structure
-  - Access point: reaching “through the hole” to catch the heel/foot.
-  - Separation method described: scooting away to open the opponent’s feet/legs and create space for passing/separating decisions.
-  - Additional wedging concept: adding structure that lets you relinquish a primary control (e.g., an Achilles-style hold) without losing the leg and without allowing a clean pull-out.
+  - Two common leg-crosses you must solve:
+    - **Semi-sankaku (crossed ankles)**: safer from toe holds, but **less wedging**.
+    - **Full figure-four**: stronger **wedging** (harder straight pull-out) but increases toe-hold exposure.
+  - Primary separation mechanic: **don’t hand-fight legs with hands** → **scoot your whole body away** to open their feet.
+
+- Position–structure (semi-sankaku separation)
+  - Reach “through the hole” → catch sole/heel → **scoot away** → feet open.
+  - Once open, you choose:
+    - Pass across → transition to outside Ashi, or
+    - Catch → proceed into breaking cycle (cowboy drill referenced as entry).
+
 - Decision rules
-  - If semi-sankaku structure is limiting your wedge and they can pull straight out: add wedge before changing hands/committing to a higher exposure.
-  - If feet are open: decide whether your priority is (a) toe-hold safety or (b) faster heel exposure, based on match circumstances.
-- Key cues
-  - Separation is not just “pulling”; it is wedge creation + space management + timing your hand transfers.
-- System tags
-  - Semi-sankaku separation problem
-  - Wedge creation
-  - Toe-hold safety vs exposure tradeoff
+  - IF opponent is slippery and can straight-pull out when you release Achilles control, THEN you need **more wedging** (full triangle/figure-four style).
+  - IF toe-hold threat level is high (opponent is elite toe-holder), THEN prefer configurations that keep you **toe-hold safe** while you separate.
 
-### 6.5 Toehold / Separation Dilemma (10:24 - 14:09)
+- Failure signatures + fixes
+  - Failure: trying to “peel open” with arms only → they keep legs crossed.
+    - Fix: **scoot-away** separation as primary lever.
+
+- Completion checks
+  - You can consistently force the “feet open” state without exhausting grips.
+
+- System tags
+  - #semi-sankaku #figure-four #wedging-tradeoff #separation-mechanics
+
+
+### 6.5 Toe-hold ↔ separation dilemma (open the legs or break them) (10:50–14:13)
+
 - Key concepts
-  - Common stall: opponent’s leg configuration prevents you from getting a hand through to grab the second leg/foot needed for clean separation.
-  - Solution is a dilemma: threaten a toe hold to force a reaction that opens the legs.
-  - Outcome logic:
-    - If opponent does not respect the toe-hold threat → you finish (or create immediate breaking pressure).
-    - If opponent respects the toe-hold threat → they alter leg configuration / open the legs → you re-enter separation and transition options.
-  - Figure-four and back-heel pinching mechanics are used as “staying power” while setting the dilemma and forcing the opening.
+  - Problem: full figure-four often blocks your hand from reaching the second foot → separation stalls.
+  - Solution: threaten toe hold to force one of three reactions:
+    1) No reaction → toe hold break risk.
+    2) Unlocks legs → legs open → separation/transitions.
+    3) Switches to semi-sankaku → you loop: release → catch → scoot-away separation again.
+  - Important framing: toe hold here is often a **positional lever**, not “I must finish toe hold.”
+
 - Position–structure
-  - Initial: blocked access to second foot/leg due to their locking configuration.
-  - Action: threaten toe hold to compel leg opening.
-  - Re-entry: once they return to a semi-sankaku style lock (common defensive response), you release/catch and re-start separation work from the new opening.
+  - Toe hold threat mechanics described (control long lever end, lock, pinch/back-heel mechanics).
+  - Key effect: figure-four makes defensive roll difficult for them → increases break risk.
+
 - Decision rules
-  - When you cannot reach the second leg: do not force a bad reach; create the toe-hold dilemma first.
-  - If they return to semi-sankaku: treat it as a loop, not an end-state; release → catch → re-enter separation cycle.
-- Key cues
-  - Toe hold is used here as a positional tool (leg-opening lever), not only as a “finish now” submission.
-- System tags
-  - Toe-hold as separator
-  - Dilemma forcing
-  - Separation loop vs leg locks
+  - IF you cannot reach the second foot because of figure-four, THEN **threaten toe hold** before forcing bad reaches.
+  - IF they switch to semi-sankaku, THEN treat as loop: **release → recatch → separate**.
 
-### 6.6 Toehold / Heelhook Dilemma (14:09 - 15:41)
+- Failure signatures + fixes
+  - Failure: you stay stuck trying to thread the hand through figure-four.
+    - Fix: toe hold as the **opening tool**.
+
+- Completion checks
+  - You can reliably produce an “open legs” reaction from a stalled figure-four.
+
+- System tags
+  - #toe-hold #dilemma #separation-tool #looping-restart
+
+
+### 6.6 Toe-hold ↔ heelhook / knee target switching (legs separate = pick best break) (14:13–15:45)
+
 - Key concepts
-  - Continuation of dilemma logic: toe hold forces leg separation, which immediately opens heel hook (and knee-line) options.
-  - Once the legs separate, the system treats “heel” and “knee” targets as parallel routes depending on what opens first.
+  - Toe hold often forces **leg separation**, which immediately exposes heel/knee targets.
+  - Once legs separate, you must **switch targets** quickly (heel vs knee) rather than remaining fixed on toe hold.
+
 - Decision rules
-  - If toe hold forces separation: immediately select the best available target (heel vs knee) rather than staying fixed on the toe hold.
-- Key cues
-  - “Legs separate” is the go-signal: transition instantly to the highest-percentage break available.
-- Drills (only as referenced)
-  - Cowboy drill is referenced as part of the breaking sequence once the opening is achieved.
-- System tags
-  - Toe-hold-to-heelhook dilemma
-  - Target switching (heel/knee)
+  - IF legs separate (by your force or their defense), THEN immediately choose:
+    - heelhook (point knees / cowboy-style elevation mechanics referenced), OR
+    - knee attack (if that line is higher percentage in the moment).
 
-### 6.7 Countering The Hand Fight (15:41 - 22:33)
+- Completion checks
+  - You can transition off the toe-hold threat without pause the instant legs open.
+
+- System tags
+  - #target-switching #toe-hold-to-heelhook #separation-go-signal
+
+
+### 6.7 Countering the handfight (50/50 finishing posture is “extension-first”) (15:45–22:37)
+
 - Key concepts
-  - 50/50 finishing posture differs from other Ashi positions:
-    - In many Ashi positions: keep a bend in opponent’s leg.
-    - In 50/50: emphasis shifts toward more leg extension as part of the finishing structure.
-  - Core defensive problem: opponent hand-fighting can win faster by accessing toe holds (often “comes on” sooner than a heel hook) if you let them reach your hands/head freely.
-  - Inside-knee position is re-used as a major hand-fight suppressor:
-    - Bringing the knee inside early changes opponent access paths (near arm access only; head access becomes difficult).
-  - “Give the hand” concept:
-    - If opponent is trying to anchor/drag you down via arm grips, extending and offering the hand can force weaker/arbitrary grips.
-    - Then you whip the hand free and re-lock before they can turn that grip into posture-breaking leverage.
-  - 2-on-1 grip stripping heuristic:
-    - If opponent has a strong 2-on-1: you cannot “fight both hands at once” by pulling straight.
-    - You weaken one grip, then rapidly weaken the other (alternating pattern described as “pinky high / pinky low” cycling).
-- Position–structure
-  - Heel hook locked in 50/50 → opponent tries to access arms/head to prevent your break and/or initiate their own.
-  - Knee inside posture + extension posture combine to deny their best hand-fighting lanes and preserve your breaking alignment.
+  - 50/50 differs from many Ashi: finishing posture emphasizes **more leg extension** (deny their reach to your hands/head).
+  - Primary threat: opponent comes forward to **hands/head**, and toe hold pressure often arrives **faster** than your heelhook if you allow hand access.
+  - Inside-knee down is re-used as the main **handfight suppressor**.
+  - “Give the hand” tactic:
+    - If they have an arbitrary grip, **extend and offer** → then whip free → re-lock before they convert to posture-breaking control.
+  - 2-on-1 stripping heuristic:
+    - Don’t pull straight. Alternate weakening: “pinky high / pinky low” cycling.
+
+- Operational protocol (when heel is locked)
+  1) Lock heel control → create **extension away** (deny head access).
+  2) Bring **inside knee** position in as early as possible.
+  3) Choose safer foot-cross (often semi-sankaku to avoid toe-hold race while you handfight).
+  4) If they grip-fight:
+     - Arbitrary grip → give/extend → whip out → re-lock.
+     - Strong 2-on-1 → pinky high/low cycling → break reinforcement → re-lock.
+  5) Resume breaking mechanics once hand access is cleared.
+
+- Failure signatures + fixes
+  - Failure: extending while they’re pulling you down → chin separates from hands; hands drop; you lose position.
+    - Fix: “give hand” to break the **pulling structure**, then whip free.
+
+- Completion checks
+  - Opponent can only access near arm; head access is delayed/denied long enough to finish.
+
+- System tags
+  - #handfight #inside-knee #extension-finish #2on1-stripping #give-the-hand
+
+
+### 6.8 Cross-waist 50/50 (dominant control: deny head/elbow access) (22:37–27:45)
+
+- Key concepts
+  - Cross-waist is a high-control configuration that **shuts down** opponent’s ability to reach your head/elbow.
+  - Requirement: you must first create **space**; if they are too close you can’t route the leg across the waist.
+  - Opponent forward pressure changes entry selection:
+    - If they come forward hard → **high-leg over** becomes preferred.
+
+- Position–structure (entry logic)
+  - Clear grips → extend away → route leg across waist OR high-leg over depending on distance.
+  - Grip detail for control: prefers **false grip over Achilles** (short lever; harder for them to kick your hand off).
+
 - Decision rules
-  - If opponent begins accessing your arm(s): prioritise inside-knee structure and grip stripping before recommitting to a break.
-  - If opponent establishes a 2-on-1: use alternating strip mechanics to break reinforcement rather than brute pulling.
-  - If opponent’s toe hold threat is developing faster than your heel hook: you must shut down hand access first or you lose the race.
-- Key cues
-  - “They can only access the near arm” is treated as a safe hand-fight state; “they can access head/posture” is treated as danger.
-  - When they latch a random/arbitrary grip: extend/give → whip out → re-lock.
-- System tags
-  - 50/50 hand-fighting
-  - Inside-knee suppression
-  - 2-on-1 stripping mechanics
-  - Toe-hold race awareness
+  - IF they are too close to route across, THEN clear one grip → extend away → re-attempt.
+  - IF they drive forward while handfighting, THEN high-leg over to chop through arms and lock cross-waist.
+  - IF cross-waist is available, THEN treat it as “best available” and prioritize it over looser 50/50 finishes.
 
-### 6.8 Cross Waist 50/50 (22:33 - 33:35)
+- Completion checks
+  - With knee down + cross-waist, opponent cannot meaningfully scoot angle to head/elbow without eating breaking pressure.
+
+- System tags
+  - #cross-waist-50-50 #space-creation #false-grip #anti-handfight
+
+
+### 6.9 Kneeling/standing build-up dilemma (knock back vs invert under) (27:45–31:20)
+
 - Key concepts
-  - Cross-waist configuration is a dominant control goal because it denies opponent access to your head/elbow and makes defence extremely difficult.
-  - Space creation is mandatory: if opponent is too close, you cannot throw/route the leg across the waist; you must extend away and clear grips first.
-  - Forward pressure by opponent changes the solution:
-    - The further they come forward, the more “high-leg over” becomes the preferred entry into cross-waist control.
-  - Once cross-waist is established (knee down + cross-waist control), opponent’s best defence is constrained; they are forced toward “lay back” responses while breaking pressure accumulates.
-- Position–structure
-  - Initial control includes false grip control over Achilles and/or control grips used to deny the opponent kicking hands off.
-  - Sequence theme:
-    - Clear grip battle → create space by extension → route leg across waist (or high-leg over depending on opponent forwardness) → knee down stabilisation → break.
-  - Common opponent counter behaviour: building up to a knee/standing from 50/50; treated as a recurring situation that must be anticipated during cross-waist attempts.
+  - Common event: opponent builds to knee/standing to load weight over foot and reduce heel exposure.
+  - Dilemma based on shoulders vs hips:
+    - Shoulders over hips (upright) → you can **sit them back** down.
+    - Shoulders far in front of hips (leaning forward) → invert underneath to enter **backside 50/50**.
+
+- Operational decision rule
+  - IF shoulders are over hips and knee can be opened, THEN knock them back to seated.
+  - IF shoulders are far in front and knee is hard to open, THEN catch far leg/lat grip and invert under → backside 50/50.
+
+- Completion checks
+  - You can read posture quickly and pick the correct branch without stalling.
+
+- System tags
+  - #posture-dilemma #backside-50-50-entry #kneeling-opponent
+
+
+### 6.10 Backside 50/50 hub → cross-waist / double 50 / criss-cross (31:20–41:08)
+
+- Key concepts
+  - Backside 50/50 + double 50 are described as **extremely strong breaking windows**, but more transitional than cross Ashi (harder to “hold forever”).
+  - Opponent escape cluster:
+    - High-leg over to return belly-up.
+    - Step leg up and push back to relieve pressure.
+    - Strip grips (often while getting broken).
+  - Timing wedge: **invert knee before** they complete back-step/high-leg.
+
+- Branching responses (high-density)
+  - IF opponent high-legs to come forward:
+    - Unlock feet as needed → place foot wedge in midline → **knee inversion** → often best: **cross-waist** off the transition → belly-down finish.
+  - IF opponent steps leg up to push back:
+    - Capture **far hip** first (anti-runaway handle).
+    - If you can’t reach ankle due to size discrepancy, push **back of kneecap** to create turn.
+    - Goal: create bend + cover into **double 50** for a short catastrophic breaking window.
+  - IF opponent strips grips while you’re turning:
+    - Maintain turning structure; they often lose while stripping.
+  - IF opponent high-legs off double 50:
+    - Option A: cross-waist.
+    - Option B: follow into **bottom-side criss-cross Ashi** and finish belly-down.
+
+- Irreversibility cue
+  - Once “right knee points down” (turning structure set), treat it as **commitment**: continue turn; don’t reset.
+
+- Failure signatures + fixes
+  - Failure: you allow them to come forward to head/elbow before wedge is set.
+    - Fix: knee inversion + wedging must happen **as** they initiate high-leg/back-step.
+
+- Completion checks
+  - You can convert backside 50/50 reactions into one of: cross-waist, double 50, criss-cross without giving head/elbow access.
+
+- System tags
+  - #backside-50-50 #double-50 #cross-waist #criss-cross-ashi #knee-inversion #far-hip-control
+
+
+### 6.11 Following the roll (hips forward = they carry your weight) (41:08–44:32)
+
+- Key concepts
+  - After leg separation, opponent often bails into a roll.
+  - Your job is not to be dragged—your job is to **drive weight into them** through the rotation:
+    - Point knees opposite roll direction.
+    - Hips come forward so roll becomes labored.
+  - “Misdirectional” escape from 50/50 is treated as ineffective; if they roll wrong they expose themselves.
+  - Missing the heel is not panic-worthy: restart cycle; back exposure is limited relative to looser entanglements.
+
 - Decision rules
-  - If opponent is too close to route leg across: clear one grip, extend away, re-attempt when space exists.
-  - If opponent drives forward (closing distance while hand-fighting): high-leg over becomes preferred to beat their forward pressure and lock cross-waist.
-  - When you can get cross-waist: treat it as “best available” and prioritise it over looser 50/50 finishes.
-- Key cues
-  - “Knee on the floor” is emphasised as a stabilising condition that blocks meaningful access to your upper body.
-  - Once cross-waist is locked: maintain breaking pressure while opponent’s defensive options narrow.
-- System tags
-  - Cross-waist 50/50
-  - Space-creation entries
-  - Anti-hand-fight structure
+  - IF they roll, THEN follow immediately (no pause).
+  - IF you can’t get cross-waist after roll, THEN at minimum create **extension + wedge** and re-enter breaking cycle.
+  - IF legs open during roll landing, THEN consider transferring to **outside Ashi** instead of staying in 50/50.
 
-### 6.9 Sweep/Inversion Dilemma Vs Kneeling Opponent (33:35 - 36:57)
+- Completion checks
+  - You can keep connection through roll and re-establish wedge/extension on the other side.
+
+- System tags
+  - #roll-follow #hips-forward #wedge-reset #50-50-to-outside-ashi
+
+
+### 6.12 Mutual Ashi intro (the “outside heelhook 50/50” shootout) (44:32–47:31)
+
 - Key concepts
-  - Against back-step/high-leg behaviours from a kneeling opponent, knee inversion is used as a wedge and as a timing anchor.
-  - Core dilemma: opponent’s attempt to back-step/high-leg creates openings for either (a) re-entanglement into backside 50/50 or (b) sweeping/inverting pathways that produce a dominant follow-up.
-  - Far-hip capture is used to prevent the opponent “running away” once they attempt to come out/over the top.
-- Position–structure
-  - Knee inversion is used pre-emptively as opponent initiates back-step/high-leg.
-  - Follow-up structure includes:
-    - Capturing far hip to prevent distance creation.
-    - Head movement toward far leg and foot placement behind opponent’s knee to introduce a bend and create a controllable finishing angle.
+  - Mutual Ashi = mutual outside heelhook exposure; legs are split so you can’t hide feet with normal leg-crosses.
+  - Strategic preference: avoid choosing it; prefer transferring to **far-hip Ashi** when possible.
+  - Typical entry causes: losing a leg pummel, leaving a leg behind; some half-guard elevation scenarios.
+
+- Completion checks
+  - You identify Mutual Ashi as unstable and immediately seek: “go last” + transfer pathway.
+
+- System tags
+  - #mutual-ashi #shootout #outside-heelhook-risk
+
+
+### 6.13 Going last (initiative timing rule) (47:31–50:32)
+
+- Key concepts
+  - In mutual-Ashi shootouts, first committed exposure (falling/turning to expose heel) often exposes your own heel.
+  - Preferred strategy: let opponent “go first,” then counter so you end with the last meaningful action.
+
 - Decision rules
-  - If opponent high-legs through: unlock/follow and re-establish the dominant entanglement rather than letting them clear and reset.
-  - If opponent tries to come out/over with pressure: capture far hip immediately to stop the exit and force the position back into your breaking cycle.
-- Key cues
-  - “Knee inverted before they complete the back-step” is the timing priority.
-  - Far-hip control is the “no escape” handle when they try to create distance.
-- System tags
-  - Back-step countering
-  - Inversion wedge timing
-  - Far-hip anti-exit
+  - IF opponent drops/turns first to expose, THEN treat as their error → counter exposure and begin your breaking cycle.
 
-### 6.10 Backside 50/50 Transitions (36:57 - 40:55)
+- System tags
+  - #initiative-timing #go-last #shootout-management
+
+
+### 6.14 Rolling through (force outside Ashi via heel elevation + knee lever) (50:32–54:30)
+
 - Key concepts
-  - Backside 50/50 is presented as a hub with many transition families depending on opponent reactions.
-  - A key pattern: opponent tries to strip grips while defending → they accumulate breaking pressure while stripping and often lose anyway.
-  - “Double 50” transition off backside 50 is highlighted as a strong follow-up, especially when opponent’s high-leg behaviour opens it.
-  - Size/discrepancy adaptation: if you cannot grab the ankle reliably, you can still force the required turn using pushes on the back of the kneecap (no need for perfect ankle capture).
-  - Irreversibility cue: once the turning structure is set (described as “right knee points down”), the opponent has limited recourse.
-  - Defensive priority: if opponent drives forward to access your head/elbow, respond immediately rather than allowing them to win the upper-body battle.
-- Position–structure
-  - Backside 50/50 → opponent high-legs → follow into transitions (double 50 / crisscross ashi) that preserve your breaking control while denying their escape.
-  - Far-hip control appears again as the “stop moving away” handle when they try to create distance during transitions.
+  - Resolution method: elevate heel off floor (reduces base), lever knee across, bump body off-line → lock → apply pressure → force roll → transfer to **outside Ashi** → finish.
+  - Toe hold can accelerate the reaction (break pressure comes on sooner) to trigger the roll/transition.
+
+- Operational checkpoints
+  - “Heel off the floor” before you commit to the roll-through exposure.
+  - “Catch then lock immediately” to deny re-base time.
+
 - Decision rules
-  - If opponent high-legs quickly: follow through rather than trying to hold the original configuration.
-  - If you cannot secure ankle due to size/position: push kneecap to create the turn that leads to belly-down breaking alignment.
-  - If opponent comes forward to your upper body: address elbow/head access first, then continue your break sequence.
-- Key cues
-  - “Partner coming forward” is the alarm: elbow/head access must be denied early.
-  - “Right knee points down” functions as a commitment signal: continue the turn; do not reset.
-- System tags
-  - Backside 50/50 hub
-  - Double 50 transitions
-  - Far-hip control
-  - Size-adaptive finishing
+  - IF they force you to a hip, THEN raise hips and re-apply elevation mechanics to regain heel height.
+  - IF toe hold is available and you need faster reaction, THEN use it to induce roll and feed to outside Ashi.
 
-### 6.11 Following A Roll (40:55 - 44:54)
+- System tags
+  - #roll-through #heel-elevation #outside-ashi-transfer #toe-hold-accelerant
+
+
+### 6.15 Far-hip Ashi (preferred safety lock out of mutual Ashi) (54:30–58:12)
+
 - Key concepts
-  - After you separate their legs, the opponent’s primary escape attempt is rolling; roll direction selection matters.
-  - Correct response is not to be “dragged” by the roll; it is to follow in a way that keeps your weight driving into them so they carry it through the rotation.
-  - “Misdirectional” escape attempts are treated as unreliable here: if they try to roll the wrong way, they turn back into the heel hook cycle.
-  - If you miss the heel hook during the follow: you can restart the cycle rather than switching to another submission purely out of fear of a back-take.
-  - Wedge + unwind concept: after following, create extension and unwind into your break rather than staying square and letting them re-square.
-  - Transitions can be made from 50/50 into other Ashi families once legs are open (irimi/outside ashi pathways referenced).
-- Position–structure
-  - 50/50 → opponent roll attempt → you follow with hips forward → re-establish wedge/extension → re-enter breaking cycle.
+  - Far-hip Ashi is the preferred conversion because it:
+    - Makes it hard for them to attack your legs,
+    - Puts “two legs in front of them” to block handfighting access,
+    - Narrows their options to: lean back, pass legs across (still under break), or roll through (you follow to outside Ashi).
+  - Key safety benefit: even if heel slips and they come back, your feet are still safer when ankles are crossed/locked far-hip.
+
 - Decision rules
-  - If opponent rolls: follow immediately; do not pause and “watch the roll.”
-  - If you cannot get the preferred cross-structure after the roll: at minimum create extension and wedge so they cannot freely reset.
-- Key cues
-  - “Hips come forward” is the core follow mechanic: they carry your weight as they roll.
-  - “Missed heel hook” is not a reset signal; it is a restart signal (return to the cycle rather than panic-switching).
-- System tags
-  - Roll-follow mechanics
-  - Wedge + unwind
-  - 50/50-to-Ashi transitions
+  - IF in mutual Ashi and far-hip is reachable, THEN prioritize far-hip lock before prolonged exposure work.
+  - IF they roll through, THEN follow and transfer to outside Ashi.
 
-### 6.12 Intro To Mutual Ashi (44:54 - 46:54)
-- Key concepts
-  - Mutual Ashi is framed as the “50/50 of outside heel hooks” (mutual exposure, mutual access, shootout risk).
-  - Structural limitation: legs cannot be crossed/locked in the way you would prefer for safety and control.
-  - Strategic preference: do not choose mutual Ashi deliberately; prefer far-hip Ashi when possible.
-  - Typical cause: you end up there by losing a leg pummel / leaving a leg behind rather than choosing the position.
-- Position–structure
-  - Common entry described: opponent pummels inside your legs and pulls the leg through, catching you with an exposed leg.
-  - Another described entry: half-guard/knee-shield/butterfly-style scenarios where your outside foot position becomes an inside mutual leg alignment during elevation/transition.
-- Key cues
-  - Treat mutual Ashi as “unstable” and prioritise moving to a safer lock (far-hip).
 - System tags
-  - Mutual Ashi
-  - Leg pummel losses
-  - Outside heel-hook shootout risk
+  - #far-hip-ashi #safety-lock #anti-handfight #outside-ashi-endpoint
 
-### 6.13 Going Last (46:54 - 49:47)
-- Key concepts
-  - “Going last” principle: in mutual-Ashi shootouts, the person who initiates the first committed exposure often loses because initiating exposes their own heel.
-  - The system preference is to let the opponent “go first,” then counter and end with the last meaningful action that determines the break.
-- Position–structure
-  - Mutual Ashi → opponent sits/falls to expose heel → you respond with structured counters that roll them through and place them into your breaking alignment.
-- Decision rules
-  - If opponent initiates heel exposure by falling/sitting first: follow and counter rather than racing them in the same direction.
-- Key cues
-  - First-mover exposure: falling to the hip to expose a heel inherently exposes your own heel; treat that as the opponent’s error to exploit.
-- System tags
-  - Mutual Ashi shootout management
-  - Initiative timing
 
-### 6.14 Rolling Through (49:47 - 54:20)
-- Key concepts
-  - Rolling-through sequence is used to resolve mutual-Ashi instability by forcing a transition into a stronger entanglement (outside Ashi) while maintaining control.
-  - Heel elevation is a key mechanical enabler: lifting the heel/foot off the floor reduces their ability to base/escape and makes the roll-through controllable.
-  - Knee leverage mechanics: using your knee to lever their knee across while bumping their body off-line.
-  - Once the catch is established: lock and immediately apply breaking pressure to force a defensive roll; as they roll, you transfer to outside Ashi and finish.
-  - Toe hold can be used as an accelerant: it produces breaking pressure sooner and can provoke the reaction that makes the transition cleaner.
-- Position–structure
-  - Mutual Ashi → opponent sits → you bump/lever → raise hips to elevate heel → false grip ankle → lock → break pressure → opponent rolls → outside Ashi → finish.
-- Decision rules
-  - If opponent forces you to a hip: raise hips and re-apply the cowboy-style elevation mechanics to regain heel height and re-lock.
-  - If toe hold is available and you want faster reaction: apply it to force the roll that enables outside-Ashi transfer.
-- Key cues
-  - “Heel off the floor” is treated as a checkpoint before committing to the roll-through/lock.
-  - “Catch then lock immediately” is emphasised: hesitation gives them room to re-base.
-- Drills (only as referenced)
-  - Cowboy drill is referenced as the elevation mechanic that comes into effect as hips rise.
-- System tags
-  - Mutual Ashi resolution
-  - Roll-through transitions
-  - Outside Ashi transfer
-  - Toe-hold accelerant
+### 6.16 Gripping (engine vs transmission; climb to tighter circles) (58:12–01:10:55)
 
-### 6.15 Far Hip Ashi (54:20 - 57:50)
 - Key concepts
-  - Far-hip Ashi is positioned as the preferred “safe lock” compared to mutual Ashi because it prevents the opponent from freely attacking your legs and restricts hand-fighting access.
-  - The opponent’s option set is narrowed:
-    - They can lean back (still under breaking pressure).
-    - They can attempt to transfer legs across (still under breaking pressure).
-    - They can roll through (you follow and transition to outside Ashi).
-  - Safety principle: it is better to establish the far-hip lock before exposing your heel whenever possible; heel slip creates exposure windows that far-hip structure reduces.
-- Position–structure
-  - Far-hip lock as a wedge: you “lock in place” and restrict their ability to push you off-line.
-  - Two legs in front of opponent during hand-fight attempts: they cannot easily access your hands, so they get broken while reaching.
-  - Roll-through follow-up: as they roll through, you transfer to outside Ashi and finish.
-- Decision rules
-  - If you are in mutual Ashi and can reach far-hip: prioritise moving there to remove the shootout.
-  - If they roll: follow and transfer to outside Ashi rather than trying to hold mutual-Ashi exposure.
-- Key cues
-  - “They can’t get to my hands” is treated as the far-hip success condition for safe breaking.
-- System tags
-  - Far-hip Ashi
-  - Anti-hand-fight structure
-  - Outside Ashi transition endpoint
+  - Control first: Ashi structure (engine) precedes grip sophistication (transmission). Grips can produce “false positives” if your Ashi is loose.
+  - Circle principle: smaller circle = tighter lock; but you can’t always start at tightest.
+  - Progression model: **connect hands first**, then climb tighter:
+    - ten-finger → palm-to-palm → wrist-to-wrist → (reverse) figure-four when appropriate.
 
-### 6.16 Gripping (57:50 - 1:10:58)
-- Key concepts
-  - Grips are framed as “gears” (transmission analogy): one grip can work, but multiple grips allow better control and higher reliability against resisting opponents.
-  - Priority stack:
-    - First build rock-solid Ashi control (ashi-garami structure, wedge, knee-line control).
-    - Then refine breaking mechanics.
-    - Gripping sophistication comes last; strong grips cannot rescue weak positional control (“false positives” happen when people win with strength despite bad structure).
-  - Circle principle:
-    - The smaller the closed hand circle, the intrinsically tighter the lock.
-    - Grip progression presented as “climbing to smaller circles” rather than forcing the tightest grip immediately.
-- Grip families referenced (with use-cases)
-  - Ten-finger grip
-    - Weakest / largest circle; used to test mechanics (“if you can break with this, mechanics are good”).
-    - Used when the floor blocks tighter grips (hands wedged into the mat) and you cannot lock palm-to-palm/wrist-to-wrist initially.
-  - Palm-to-palm grip
-    - Intermediate tightening step once you can climb from ten-finger.
-  - Wrist-to-wrist grip
-    - Tight grip with lower slippage tendency; commonly preferred for belly-down finishing.
-  - Reverse figure-four grip
-    - Used in scenarios where it is mechanically appropriate; but it requires releasing tension to switch into it, so it is not always available as an immediate choice.
-    - Changes belly-up mechanics to behave more like belly-down mechanics (reducing slippage and improving finishing reliability).
-  - Wrist-watch grip / false grip (control-oriented grips)
-    - Used to catch/control and prevent the opponent from kicking hands off, particularly in 50/50 contexts.
-- Decision rules (grip selection + transition)
-  - If the floor prevents you from locking a tighter grip: start ten-finger to get hands connected, then climb.
-  - Do not force “tightest circle now” if structure does not allow it; climb: ten-finger → palm-to-palm → wrist-to-wrist.
-  - Prefer wrist-to-wrist when belly-down finishing is available; be cautious switching to reverse figure-four if it requires releasing critical tension at a bad time.
-  - When belly-up and facing inverted configurations: avoid grips that create high slippage risk; reverse figure-four can reduce slippage and restore reliable mechanics.
-- Mechanical cues tied to gripping/finishing integration
-  - “Climb to tighter circle” rather than forcing: connect first, then tighten.
-  - When opponent uses hands in the finish: hips go up high (posture and leverage amplify the finish).
-  - Inverted/inversion-specific finishing: extension emphasis appears; grip choice affects whether you “open” or “crunch” mechanics (described changes when switching to reverse figure-four).
-  - Reverse figure-four: reduces slippage and allows finishing mechanics that mirror belly-down alignment; upper-body mechanics adjust (elbow-to-hip emphasis referenced).
-- System tags
-  - Gripping progression (gear model)
-  - Circle-size tightening principle
-  - Grip transitions under constraint (floor interference)
-  - Slippage management
-  - Belly-up vs belly-down finishing mechanics
+- Grip families + operational use
+  - Ten-finger
+    - Use when floor blocks tighter connections; establishes connection.
+    - Diagnostic: if you can break with ten-finger, mechanics are strong.
+  - Palm-to-palm
+    - Intermediate tightening step after ten-finger.
+  - Wrist-to-wrist
+    - Tight, low slippage; commonly preferred for belly-down finishing.
+  - Reverse figure-four
+    - Strong, but switching can risk slippage if you must release tension mid-transition.
+    - Often preferred when belly-up / slippage risk is lower and you can safely switch.
+  - False grip / wrist-watch grip
+    - Control grips (not final finishing grips): prevent partner from kicking hands off, especially in 50/50.
 
-### 6.17 Outro (1:10:58 +)
-- Key concepts
-  - Emphasis is on if/then problem-solving density: “if partner does X, do Y,” chained through transitions rather than isolated finishes.
-  - 50/50 content is integrated with updated gripping concepts and transition logic to improve control-to-break reliability.
+- Decision rules (high utility)
+  - IF floor blocks palm-to-palm/wrist-to-wrist, THEN ten-finger first → use back-heel to pull off shoulder → climb.
+  - IF finishing belly-down, THEN default preference: wrist-to-wrist (use ten-finger/palm-to-palm as stepping stones).
+  - IF belly-up and slippage risk is lower, THEN reverse figure-four becomes attractive; mechanics shift to “crunch-toes-to-butt / heel-to-chin” style (more like belly-down).
+  - IF switching grips requires releasing critical tension while opponent is driving weight in, THEN avoid the switch (stay wrist-to-wrist).
+
+- Completion checks
+  - You can explain your grip choice as a constraint solution (floor, orientation, slippage risk), not preference-only.
+
 - System tags
-  - If/then transition chaining
-  - 50/50 + gripping integration
+  - #grip-progression #circle-principle #wrist-to-wrist #reverse-figure-four #false-grip
+
+
+### 6.17 Outro (decision-tree density + chaining) (01:10:55–01:13:49)
+
+- Key concepts
+  - Emphasis on **if/then chaining** through transitions rather than isolated submissions.
+  - Volume integrates 50/50 positional solutions with upgraded gripping logic.
+
+- System tags
+  - #decision-tree #transition-chaining #systems-thinking
