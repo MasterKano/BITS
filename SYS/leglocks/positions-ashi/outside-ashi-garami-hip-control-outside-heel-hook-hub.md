@@ -5,6 +5,7 @@
 - Serve as a primary finishing platform for outside heel hooks while maintaining an Achilles–heel hook dilemma layer to force reactions and open exposure.
 - Provide reliable transition pathways into Cross/Inside Ashi, Backside 50/50, and Far-Hip Ashi as the defender high-legs, turns, kneels, posts, or rolls.
 - Encode the operating rule: hip control is the gate; if hips rotate freely, heel exposure and breaking mechanics are imaginary.
+- Provide explicit “leg → top” exits when heel lanes die or your heel becomes threatened (links only).
 
 ## Key Positions
 - Outside Ashi baseline (supine)
@@ -21,11 +22,13 @@
 - Kneeling-opponent Outside Ashi
   - Defender drops to knees to turn out; attacker maintains hip pin + heel exposure while denying turn-behind and re-pummel.
 - Counter-high-leg configurations
-  - Re-capture structure using scissor + cross-shin; when heel access is blocked, use toe-hold threat (wrist-to-wrist style) as a separator tool to open the leg.
+  - Re-capture structure using scissor + cross-shin; when heel access is blocked, use toe-hold threat as a separator tool to open the leg.
 - Transitions
   - Outside → Cross/Inside Ashi when defender turns/high-legs/inverts and outside-heel access degrades.
   - Outside → Backside 50/50 when a roll/separation creates clean asymmetry amplification.
   - Outside → Far-Hip when your heel line is threatened or symmetry/mutual exposure is forming.
+- Top outcomes (cross-domain links)
+  - If you separate legs and come up: stabilize in a top hub before hunting back/finishes.
 
 ## Key Cues
 - Hip control is the engine
@@ -40,96 +43,77 @@
   - Treat high-leg as a trigger: re-capture knee-line with scissor/cross-shin; do not let them step over into safety.
   - If heel access is blocked by the high-leg configuration, use toe-hold threat to force opening, then return to outside-heel exposure.
 - Follow the roll, don’t chase the foot
-  - Rotate hips/torso with their hip line; preserve wedges; land in a named hub (Outside again, belly-down, Backside, or Far-Hip) rather than random leg shapes.
+  - Rotate hips/torso with their hip line; preserve wedges; land in a named hub (Outside again, belly-down, Backside, or Far-Hip).
 - Heel slip is a structure failure first
   - If the heel slips: hips close + rebuild scissor/cross-shin + correct hand position, then re-expose; do not reach while extended.
 - Dilemma framing (Achilles ↔ heel)
-  - Achilles pressure is tether/control to force reactions; when they react to relieve pressure or hide heel, convert to heel exposure and finish or transition.
+  - Achilles pressure is tether/control to force reactions; when they react to relieve pressure or hide heel, convert to heel exposure.
 
 ## ASCII System Diagram
 
 Legend:
 - [HUB] = stable positional platform
-- (OUTCOME) = finish / sweep / transition endpoint
-- -> = preferred transition
+- (GATE) = must be true
 - {OR} = branch selection
-- ! = safety gate (if failed, rebuild/transition before continuing)
+- -> = preferred transition
+- ! = safety condition; if failed, rebuild/transition first
 
 ~~~text
-                         (ENTRY / UPGRADE)
-            [Irimi] -------------------------------> [Outside Ashi]
-                                                        |
-                                                        v
-                                         +---------------------------+
-                                         | CONTROL GATE (! must be)  |
-                                         | - knee-line owned         |
-                                         | - hips close              |
-                                         | - scissor clamp active    |
-                                         | - cross-shin brake active |
-                                         | - your heel protected     |
-                                         +-------------+-------------+
-                                                       |
-                                                       v
-                                    +--------------------------------------+
-                                    |         [Outside Ashi] (Hip Clamp)   |
-                                    +-----------+--------------+-----------+
-                                                |              |
-                          +---------------------+              +----------------------+
-                          |                                            |
-                          v                                            v
-                 (DEFENCE: HIGH-LEG)                          (DEFENCE: TURN/KNEEL)
-                          |                                            |
-                          v                                            v
-            +---------------------------+                 +---------------------------+
-            | Re-capture first          |                 | Deny turn-behind first    |
-            | - scissor clamp           |                 | - scissor stays engaged   |
-            | - cross-shin brake        |                 | - cross-shin hip brake    |
-            +-------------+-------------+                 +-------------+-------------+
-                          |                                            |
-                          v                                            v
-                   {OR} exposure choice                         {OR} exposure choice
-                  /                 \                           /                 \
-                 v                   v                         v                   v
-      (heel access appears)   (heel blocked)        (heel access appears)   (heel blocked)
-               |                   |                      |                    |
-               v                   v                      v                    v
-     (Heel exposure family)   (Toe-hold tool)    (Heel exposure family)   (Toe-hold tool)
-     - cross-shin lane         -> force opening  - kneeling lane          -> force opening
-     - post / post-feet        -> return to heel - post variants          -> return to heel
-     - belly-down posture      exposure family   - belly-down posture     exposure family
-               |                   |                      |                    |
-               +---------+---------+                      +---------+----------+
-                         |                                          |
-                         v                                          v
-                    ! SAFETY CHECK                             ! SAFETY CHECK
-                    - your heel safe                            - your heel safe
-                    - knee-line stable                          - knee-line stable
-                    - hips constrained                           - hips constrained
-                         |                                          |
-                         +-------------------+----------------------+
-                                             |
-                                             v
-                                    {OR} outcome selection
-                                   /         |          \
-                                  v          v           v
-                            (Finish)    (Sweep / Top)  (Transition)
-                           - outside HH - stabilise    - [Far-Hip] if heel threatened
-                           - achilles                 - [Backside] if separation amplifies
-                           - toe-hold                 - [Cross/Inside] if outside lane dies
-
-(DEFENCE: ROLL/SPIN) resolver (any time they commit to a roll)
--------------------------------------------------------------
-[Outside Ashi] -> follow the leg (hips rotate) -> {OR} landing:
-  -> [Outside Ashi] (control maintained) -> continue exposure workflow
-  -> [Backside 50/50] (clean amplify) -> (high-offence finish / sweep-top)
-  -> [Far-Hip Ashi] (heel threatened / mutual forming) -> insulate -> re-attack
-~~~text
-
-Operational use:
-- Run the CONTROL GATE before exposure: if you cannot name your clamp/brake and knee-line status, rebuild first.
-- Treat each defence as a scripted branch: re-capture hip control first, then choose an exposure family.
-- Toe-hold is positioned as a configuration tool: it forces opening/separation when heel access is blocked, then you return to heel exposure.
-- Roll/spin is resolved by where you LAND: Outside (continue), Backside (amplify), Far-Hip (insulate).
+                    +----------------------+
+[arrival: irimi/post]|     [OUTSIDE]       |
+----------->---------+----------+-----------+
+                               |
+                               v
+                     +---------+----------+
+                     | (GATE) HIP CONTROL |
+                     | scissor + cross    |
+                     | knee-line owned    |
+                     | your heel safe     |
+                     +---------+----------+
+                               |
+                               v
+               +---------------+----------------+
+               |   DEFENCE REACTION (script)    |
+               +------+-----------+-------------+
+                      |           |
+          +-----------+--+     +--+-----------+
+          | high-leg     |     | turn/kneel   |
+          +------+-------+     +------+-------+
+                 |                    |
+                 v                    v
+        +--------+--------+   +-------+--------+
+        | re-wedge first  |   | deny turn-behind|
+        | scissor + cross |   | keep hip clamp  |
+        +----+------------+   +----+------------+
+             |                     |
+             v                     v
+      {OR} exposure lane     {OR} exposure lane
+      - cross-shin           - kneeling lane
+      - post / post-feet     - post variants
+      - belly-down           - belly-down
+             \                     /
+              v                   v
+            +--+-----------------+--+
+            | ! SAFETY CHECK        |
+            | knee-line stable      |
+            | hip rotation denied   |
+            | your heel protected   |
+            +--+-----------------+--+
+               |
+               v
+        {OR} finish / transition / top
+        - outside HH / achilles / toe
+        - cross/inside / backside / far-hip
+        - separate -> top hub
+                               |
+                               v
+                 +-------------+-------------+
+                 | roll/spin resolver        |
+                 | follow leg -> land {OR}:  |
+                 | [OUTSIDE] / [BACKSIDE] /  |
+                 | [FAR-HIP]                 |
+                 +---------------------------+
+~~~
 
 ## Decision Rules
 - Control gate (before exposure)
@@ -161,6 +145,8 @@ Operational use:
   - Start with defender on knees in Outside Ashi; attacker chooses: heel exposure finish OR sweep/transition without losing hip pin.
 - Achilles-to-heel dilemma drill
   - Start with Achilles tether; defender gives one scripted reaction (turn/roll/pull knee); attacker responds with pre-defined heel exposure or transition.
+- Top outcome conversion reps (cross-domain)
+  - Start in Outside; defender “wins knee-line clearance” cue; attacker separates safely and lands in a top hub.
 
 ## Common Mistakes
 - Allowing hips to rotate (weak scissor/cross-shin), creating back exposure or losing heel line.
@@ -179,3 +165,10 @@ Operational use:
 - My highest-percentage finish from Outside (Achilles vs outside HH):
 - My best follow-the-roll landing hub (belly-down vs Backside vs Far-Hip):
 - My most common failure (what causes it):
+
+## Links
+- Platform/branching page: `outside-ashi-garami-finishing-hub.md`
+- Connectors: `../transitions/post-ashi.md`, `../transitions/backside-50-50.md`, `../transitions/far-hip-ashi.md`
+- Cross-family: `cross-ashi-garami-double-trouble-platform.md`
+- Top outcomes (cross-domain): `../../top/camping.md`, `../../top/north-south.md`, `../../top/body-lock.md`, `../../top/tight-waist.md`, `../../top/cross-body-ride.md`
+- Meta: `../../meta/constraint-gates.md`, `../../meta/conversion-loop.md`
