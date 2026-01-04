@@ -1,5 +1,3 @@
-PATH: SYS/leglocks/transitions/post-ashi.md
-
 # System: Post Ashi (Standing/Posting Reaction Hub)
 
 ## 1. Purpose
