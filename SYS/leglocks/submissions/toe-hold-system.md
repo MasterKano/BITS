@@ -11,14 +11,16 @@ Toe holds are treated as a **fast-onset threat** that:
 In this instructional context, toe holds are used strategically to:
 - separate legs in 50/50 and similar battles,
 - punish high-leg and rotational defences that hide heels,
-- create structured dilemmas rather than one-off attempts.
+- create structured dilemmas rather than one-off attempts,
+- sit inside the broader **Achilles ↔ heel hook** dilemma environment as one of the “available attacks” when connection/control errors occur (POD mention is conceptual, not mechanical).
 
 ## 2. When to Use It
 Use toe holds when:
 - the defender locks/crosses legs to hide heel lines,
 - you are in symmetric environments (50/50, mutual) and need a quick reaction tool,
 - the defender’s defensive rotation makes heel hooks difficult to expose,
-- you want a reliable “force-move” option before transitioning.
+- you want a reliable “force-move” option before transitioning,
+- you need an additional submission-threat lane in leg pummelling exchanges where the opponent is trying to expose **Achilles / heel hook / toe hold** opportunities (POD frames toe hold as part of the threat set, not a standalone module).
 
 ## 3. Mechanical Requirements (Core Concept)
 True breaking pressure is **coupled force**:
@@ -60,6 +62,27 @@ If you only pull one direction, the submission is often pain-only and unreliable
 - Toe Hold → Knee bar (when they extend/turn)
 - Toe Hold → Backside/Far-Hip (if rotation carries you there)
 - Toe Hold → Top control/pass (if they overreact and give position)
+
+### 8.1 ASCII decision map (≤130 chars/line)
+~~~
+                 (LOCKED / CROSSED LEGS) or (HEEL HIDDEN)
+                              |
+                              v
+                         [Toe Hold]
+                              |
+                +-------------+-------------+
+                |                           |
+        (they keep lock)              (they unlock / separate)
+                |                           |
+                v                           v
+        (tap / forced reaction)        (SEPARATION achieved)
+                                            |
+                              +-------------+-------------+
+                              |             |             |
+                              v             v             v
+                        [Heel Hook]     [Knee Bar]   (Top / Pass / Back take)
+                         (ruleset)      (if leg extends)
+~~~
 
 ## 9. Drilling Progressions
 ### 9.1 Technical
