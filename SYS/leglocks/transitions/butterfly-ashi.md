@@ -1,5 +1,3 @@
-PATH: SYS/leglocks/transitions/butterfly-ashi.md
-
 # System: Butterfly Ashi (Connector Hub)
 
 ## 1. Purpose
@@ -7,6 +5,7 @@ Butterfly Ashi is a **connector configuration** that prioritises mobility, hip-f
 - Preserve **knee-line control** during forward pressure, standing/posting reactions, and early roll attempts.
 - Improve **angle creation** for heel exposure when base Irimi alignment becomes stagnant or compromised.
 - Create reliable transitions back into higher-control hubs (especially **Outside Ashi**) or into other families (Cross/Inside, Backside 50/50, Far-Hip) depending on defender reactions.
+- Convert leg entanglement turbulence (height change / pressure / rotation) into predictable landing hubs and, when available, top outcomes.
 
 ## 2. When to Use It
 Use Butterfly Ashi when:
@@ -27,6 +26,10 @@ Butterfly Ashi is characterised by:
   - re-centering to Irimi,
   - upgrading to Outside Ashi,
   - rotating into Cross/Inside families when the defender turns.
+
+Operational identity:
+- It is a **mobile retention shape** for height/pressure/rotation changes.
+- The hook is not decoration; it must *track hips* and *deny clean posture* long enough to land in a better hub.
 
 ## 4. Entry Triggers and Typical Entries
 ### 4.1 From Irimi under forward pressure
@@ -56,6 +59,8 @@ Use this quick checklist before escalating to submissions or transitions:
    - Briefly relax aggressive gripping (without fully letting go) and confirm the position doesn’t immediately unravel.
 5) **Far leg awareness is active**
    - If the far leg is free to post/pummel/stand, your next action must address it (hook, clamp, angle, or transition).
+6) **Your heel safety is acceptable**
+   - If the exchange is drifting symmetric while your heel is exposed, resolve to Far-Hip / exit / Backside (with control) rather than lingering.
 
 ## 6. Primary Roles in the System
 ### 6.1 Mobility and hip-following
@@ -94,6 +99,7 @@ Your defensive priorities:
 - Maintain hip proximity (no long-chain positions).
 - Prevent clean stand-ups by controlling or blocking far leg access.
 - Be willing to **reset** to Irimi/Outside if structure degrades.
+- If your heel becomes threatened during the connector phase: resolve to Far-Hip / exit rather than “hanging in the middle.”
 
 ## 9. Transition Map (Practical Defaults)
 ### 9.1 Butterfly Ashi → Outside Ashi (default upgrade)
@@ -120,17 +126,79 @@ Use when:
 Objective:
 - stabilise backside, avoid drifting back into symmetry.
 
-### 9.5 Butterfly Ashi → Exit (guard/stand) when structure is gone
+### 9.5 Butterfly Ashi → Far-Hip Ashi (safety resolution)
+Use when:
+- exchange becomes symmetric and your heel becomes threatened, or their rotation threatens mutual exposure.
+Objective:
+- hide your heel line first, then rebuild to a named offensive hub.
+
+### 9.6 Butterfly Ashi → Exit (guard/stand) when structure is gone
 Use when:
 - knee line is clearly lost or your feet are becoming exposed.
 Objective:
 - exit safely and re-enter rather than forcing a low-control attack.
+
+### 9.7 Butterfly Ashi → Top outcomes (cross-domain links)
+If you separate legs cleanly and come up, stabilise rather than re-falling into legs:
+- `../../top/camping.md`
+- `../../top/north-south.md`
+- `../../top/body-lock.md`
+- `../../top/tight-waist.md`
+- `../../top/cross-body-ride.md`
+
+### ASCII Diagram (≤130 chars per line)
+
+~~~text
+LEGEND: [HUB]=stable   (GATE)=must be true   {OR}=branch   -> preferred   !=fix/resolve now
+
+                 +----------------------+
+[arrival: irimi] |   [BUTTERFLY ASHI]   |
+------->---------+----------+-----------+
+                            |
+                            v
+                 +----------+-----------+
+                 | (GATE) CONNECTOR OK  |
+                 | knee-line owned      |
+                 | hips close           |
+                 | hook tracks hip line |
+                 | far leg not free     |
+                 +----------+-----------+
+                            |
+                            v
+               +------------+-------------+
+               |  DEFENCE REACTION (script)|
+               +------+----------+----------+
+                      |          |
+          +-----------+--+    +--+-----------+
+          | forward press |    | post/stand  |
+          +------+--------+    +------+------+
+                 |                   |
+                 v                   v
+        +--------+--------+   +------+--------+
+        | angle off line  |   | treat post     |
+        | keep knee-line  |   | as wedge       |
+        +---+-------------+   +---+------------+
+            |                     |
+            v                     v
+     {OR} UPGRADE HUBS        {OR} UPGRADE HUBS
+     -> [OUTSIDE]             -> [POST ASHI]
+     -> [CROSS/INSIDE]        -> [OUTSIDE]
+     -> [BACKSIDE]            -> [CROSS/INSIDE]
+            \                     /
+             v                   v
+            +--+-----------------+--+
+            | != SAFETY RESOLVE      |
+            | if heel threatened     |
+            | -> [FAR-HIP] / EXIT    |
+            +------------------------+
+~~~
 
 ## 10. Drilling Progressions
 ### 10.1 Technical reps (low resistance)
 - Irimi → Butterfly Ashi: enter and freeze; partner checks knee line + hip closeness.
 - Butterfly Ashi → Outside Ashi: timed reps, smooth rotation, no submission attempt.
 - Butterfly Ashi → Post Ashi: partner posts/stands lightly; you follow and stabilise.
+- Butterfly Ashi → safety resolve: partner forces symmetry/heel threat; you must land Far-Hip or exit cleanly.
 
 ### 10.2 Progressive resistance (scripted)
 Defender cycles:
@@ -173,16 +241,37 @@ Symptom: prolonged connector position with no progress.
 Fix:
 - set a rule: if you cannot upgrade to Outside/Cross/Backside within a short window, reset to Irimi/Outside or exit and re-enter.
 
+### 11.5 “Connector becomes symmetric with heel threat”
+Symptom: you feel mutual exposure forming while you are still in a connector shape.
+Fix:
+- resolve immediately to Far-Hip / exit; do not linger.
+
 ## 12. Integration Notes (How It Fits Your Repo)
-- Butterfly Ashi belongs in your **SYS/leglocks/** library because it is a repeatable connector system, not a one-off technique.
-- It cross-links naturally to:
-  - `irimi-ashi-garami.md` (primary source entry)
-  - `outside-ashi-garami.md` (default upgrade)
-  - `post-ashi.md` (posting/standing reactions)
-  - `cross-ashi-garami.md` and `inside-ashi-garami.md` (rotation solutions)
-  - `backside-50-50.md` and `far-hip-ashi.md` (asymmetry resolutions)
+Butterfly Ashi cross-links naturally to:
+
+**Primary hubs**
+- `../positions-ashi/irimi-ashi-garami-entry-hub.md`
+- `../positions-ashi/outside-ashi-garami-finishing-hub.md`
+- `../positions-ashi/outside-ashi-garami-hip-control-outside-heel-hook-hub.md`
+- `../positions-ashi/cross-ashi-garami-double-trouble-platform.md`
+
+**Other transitions / resolutions**
+- `../transitions/post-ashi.md`
+- `../transitions/backside-50-50.md`
+- `../transitions/far-hip-ashi.md`
+
+**Top outcomes (cross-domain links)**
+- `../../top/camping.md`
+- `../../top/north-south.md`
+- `../../top/body-lock.md`
+- `../../top/tight-waist.md`
+- `../../top/cross-body-ride.md`
+
+**Meta**
+- `../../meta/constraint-gates.md`
+- `../../meta/conversion-loop.md`
 
 ## 13. Personal Notes
-- My best trigger to switch Irimi → Butterfly:  
-- My highest percentage destination from Butterfly: (Outside / Post / Cross / Backside / Far-Hip)  
-- My most common breakdown (back-out, forward pressure, roll, far-leg post):  
+- My best trigger to switch Irimi → Butterfly:
+- My highest percentage destination from Butterfly: (Outside / Post / Cross / Backside / Far-Hip)
+- My most common breakdown (back-out, forward pressure, roll, far-leg post):
