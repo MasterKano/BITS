@@ -6,44 +6,58 @@ A gate for real top advantage: convert “past the legs” into a **stable pin/p
 
 ## Core idea
 
-- Clearing legs is not enough.
-- If you cannot attack or stabilize after leg clearance, you are missing cranial control.
-- Cranial control converts positional advantage into:
-  - predictable turning reactions (toward / away),
-  - stable pins (north-south / chest-to-chest),
-  - and reliable pass/back chaining.
+- “Past legs” ≠ passed.
+- Cranial shift is the missing layer when:
+  - you can’t stabilize
+  - you can’t attack
+  - they can re-square freely
+- Cranial shift enables the conversion loop by forcing:
+  - turn-toward (pin/pass)
+  - turn-away (back)
+
+## ASCII gate diagram
+
+~~~text
+(past legs) -> {CAN YOU PROGRESS?}
+      |
+      +-- no -> [Cranial shift] -> (pin stabilized) -> force turn -> {toward / away fork}
+      |
+      +-- yes -> continue pass/back sequence
+~~~
 
 ## Key positions
 
-- “Past legs” states where cranial shift is required:
-  - body lock style passes where you are technically past the legs but cannot progress
-  - north-south entries off forward steps
-  - camping / cross-body ride landings where the opponent is mobile without head control
+- Situations where cranial shift is mandatory:
+  - body-lock style clearance with no progression
+  - step-through to north-south without head control
+  - camping / cross-body ride where they can rotate and re-square
+  - any “almost passed” state where frames + head-turning prevent advancement
 
 ## Decision rules (IF/THEN)
 
 - IF you are past the legs AND cannot progress -> THEN establish cranial control immediately.
 - IF you lose head/shoulder control -> THEN expect re-guarding/re-square; re-establish cranial control before advancing.
-- IF cranial control is established AND the opponent turns away -> THEN attach to the back (conversion branch).
-- IF cranial control is established AND the opponent turns toward -> THEN stay chest-to-chest and pass (conversion branch).
-- IF you are transitioning between platforms (e.g., step-through to north-south) -> THEN stabilize cranial control before chaining to the next movement.
+- IF cranial control is present AND they turn away -> THEN attach to back (conversion branch).
+- IF cranial control is present AND they turn toward -> THEN stay chest-to-chest and pass (conversion branch).
+- IF you are transitioning between platforms -> THEN stabilize cranial control first, then move hips/legs.
+- IF you have control but no reaction -> THEN increase pressure via head/shoulder control until turn occurs (do not chase legs).
 
 ## Failure signatures + fixes
 
 - Failure: “technically passed” but no attacks are available.
-  - Fix: you do not have cranial shift; control head/shoulders, then progress.
-- Failure: opponent freely turns/re-squares during your transition.
-  - Fix: establish head/shoulder control before you move your hips or chase the next step.
-- Failure: you chase backtakes from distance.
-  - Fix: use cranial control to close distance and force the turn, then attach.
+  - Fix: you do not have cranial shift; head/shoulder control first, then progress.
+- Failure: they freely turn/re-square during your transitions.
+  - Fix: cranial control before step-through/angle-change.
+- Failure: you chase the back from distance.
+  - Fix: close distance with cranial control, force the turn, then attach.
 
 ## Completion checks
 
-- The opponent cannot freely:
-  - turn their head/shoulders to face you,
-  - insert frames to square up,
-  - or rotate to re-guard without first breaking your control.
-- You can progress position without requiring a scramble-speed chase.
+- They cannot freely:
+  - rotate head/shoulders to face you
+  - re-square into frames
+  - re-guard without first breaking your control
+- You can advance without scramble-speed chasing.
 
 ## Links
 
@@ -54,7 +68,7 @@ A gate for real top advantage: convert “past the legs” into a **stable pin/p
 ## Sources
 
 - Gordon Ryan — Pillars of Defense: Leg Locks to Back Takes
-  - `INS/gr-pod/VN/v1.md` (cranial shift section)
+  - `INS/gr-pod/VN/v1.md`
   - `INS/gr-pod/VN/v2.md`
   - `INS/gr-pod/VN/v4.md`
   - `INS/gr-pod/VN/v5.md`
