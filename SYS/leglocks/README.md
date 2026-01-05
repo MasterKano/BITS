@@ -9,6 +9,12 @@ This folder is the **single canonical** systems library for leg locks in BITS.
 - Canonical means: if a topic already exists in `SYS/leglocks/`, we **update that file** rather than creating a new duplicate for a new instructional.
 - Detail lives in `INS/` (BIO, VN, transcripts). `SYS/` holds the durable, merged “system view.”
 
+## Operating rules (do not break)
+
+- **SYS is merged and canonical. INS is detailed and per-instructional.**
+- If a topic fits an existing canonical page: **update the existing page**.
+- Create a new canonical page **only if** the topic is truly missing and durable across instructionals.
+
 ## How to use this folder
 
 ### If you are adding a new instructional (e.g., Danaher, Gordon, Mateusz)
@@ -28,6 +34,14 @@ Create a new canonical topic page **only if** the topic is truly missing.
 Naming rule:
 - short, stable, anchor-friendly
 - prefer “what it is” over “System – …”
+
+## Formatting conventions (house style)
+
+- Use numbered sections for systems pages (`## 1. Purpose`, `## 2. When to Use It`, etc.).
+- Include an ASCII diagram where it materially improves operational use.
+  - ASCII lines must be **≤130 chars**.
+  - Use fenced blocks without a language label (do not use `~~~text`).
+- Keep systems pages “operator-grade”: decision rules, failure signatures, completion checks, and transition targets (including top-out links where relevant).
 
 ## Canonical map (anti-duplication)
 
@@ -65,6 +79,11 @@ If any new instructional covers one of these, **do not create a new file**. Upda
 - `submissions/knee-bar-system.md`
 - `submissions/heel-hook-system.md`
 
+## Open decision (recommended)
+
+- Add a dedicated 50/50 hub page (Pillars of Defense includes a full 50/50 module).
+  - Default recommendation: `positions-ashi/50-50-hub.md`
+
 ## Sources (instructional contributors)
 
 Add to this list as you incorporate instructionals. Use relative links.
@@ -73,9 +92,7 @@ Add to this list as you incorporate instructionals. Use relative links.
   - `INS/JD/ETS/Leglocks/` (BIO/VN/transcripts)
 - Gordon Ryan — Systematically Attacking the Legs
   - `INS/GR/` (BIO/VN/transcripts) (adjust to your actual folder name)
+- Gordon Ryan — Pillars of Defense: Leg Locks to Back Takes
+  - `INS/GR/POD/` (BIO/VN/transcripts) (adjust to your actual folder name)
 - Mateusz (Szcz…)
   - `INS/<tag>/` (BIO/VN/transcripts)
-
-## Operating rule (do not break)
-
-- **SYS is merged and canonical. INS is detailed and per-instructional.**
