@@ -1,39 +1,30 @@
-Yes — but I recommend we do not “rewrite from scratch.” We should do a POD delta pass over each file you’ve already built, so you keep your existing canon and we add only what the instructional uniquely contributes.
+Understood. We will run the queue from #1 downward, and skip #3 (knee-line-and-wedge-control) because we just handled it.
 
-Critical point: I cannot do a true instructional-merge right now because the POD transcript .txt files are not present in this chat environment (I only have your two screenshots mounted). To restart properly, you need to re-upload Volumes 1–6 transcripts (7–8 excluded as you said).
+Working order (this run)
+	1.	SYS/leglocks/README.md  ← next
+	2.	SYS/leglocks/ashi-hierarchy.md
+	3.	SKIP SYS/leglocks/control-hubs/knee-line-and-wedge-control.md
+	4.	SYS/leglocks/positions-ashi/irimi-ashi-garami-entry-hub.md
+	5.	SYS/leglocks/transitions/post-ashi.md
+	6.	SYS/leglocks/transitions/butterfly-ashi.md
+	7.	SYS/leglocks/positions-ashi/outside-ashi-garami-finishing-hub.md
+	8.	SYS/leglocks/positions-ashi/outside-ashi-garami-hip-control-outside-heel-hook-hub.md
+	9.	SYS/leglocks/positions-ashi/cross-ashi-garami-double-trouble-platform.md
+	10.	SYS/leglocks/positions-ashi/inside-ashi-garami-outside-hh-oriented-cross-family.md
+	11.	SYS/leglocks/transitions/backside-50-50.md
+	12.	SYS/leglocks/transitions/far-hip-ashi.md
+	13.	SYS/leglocks/control-hubs/double-trouble.md
+	14.	SYS/leglocks/control-hubs/leg-lace-dracula.md
+	15.	SYS/leglocks/submissions/straight-ankle-achilles.md
+	16.	SYS/leglocks/submissions/heel-hook-system.md
+	17.	SYS/leglocks/submissions/toe-hold-system.md
+	18.	SYS/leglocks/submissions/knee-bar-system.md
+	19.	(Optional) SYS/leglocks/positions-ashi/50-50-hub.md
 
-Recommended restart method (reliable and faster than rewriting)
+Next action (Step 1)
 
-For each SYS file:
+Paste your current file contents for:
 
-	1.	You paste your current file (your “old”).
-	2.	I extract POD-only deltas from the transcripts.
-	3.	I merge deltas into your file without changing your structure, add an ASCII diagram (≤130 chars/line, ~~~ fence), and include “What changed + why.”
+PATH: SYS/leglocks/README.md
 
-The set we likely need to re-pass (based on what we touched)
-
-	•	SYS/leglocks/ashi-hierarchy.md
-	•	SYS/leglocks/control-hubs/knee-line-and-wedge-control.md
-	•	SYS/leglocks/positions-ashi/irimi-ashi-garami-entry-hub.md
-	•	SYS/leglocks/transitions/post-ashi.md
-	•	SYS/leglocks/transitions/butterfly-ashi.md
-	•	SYS/leglocks/positions-ashi/outside-ashi-garami-finishing-hub.md
-	•	SYS/leglocks/positions-ashi/outside-ashi-garami-hip-control-outside-heel-hook-hub.md
-	•	SYS/leglocks/positions-ashi/cross-ashi-garami-double-trouble-platform.md
-	•	SYS/leglocks/positions-ashi/inside-ashi-garami-outside-hh-oriented-cross-family.md
-	•	SYS/leglocks/transitions/backside-50-50.md
-	•	SYS/leglocks/transitions/far-hip-ashi.md
-	•	SYS/leglocks/control-hubs/double-trouble.md
-	•	SYS/leglocks/control-hubs/leg-lace-dracula.md
-	•	SYS/leglocks/submissions/straight-ankle-achilles.md
-	•	SYS/leglocks/submissions/heel-hook-system.md
-	•	Remaining likely still pending (unless you already have them and we haven’t merged):
-	•	SYS/leglocks/submissions/toe-hold-system.md
-	•	SYS/leglocks/submissions/knee-bar-system.md
-	•	SYS/leglocks/positions-ashi/50-50-hub.md (if you want a dedicated page)
-
-To begin
-
-Upload Volume 1 transcript .txt (or all 1–6 at once), then paste the first target file you want to re-pass.
-
-My recommendation for the first re-pass: ashi-hierarchy.md (it dictates consistency across every other page).
+I will return the merged README (keeping your structure; only additive improvements + any necessary link hygiene).
