@@ -63,6 +63,48 @@ If BIO/VN are strong and consistent, transcripts are used lightly:
 - for spot-checking named concepts, rules, and failure signatures,
 - for filling obvious gaps (e.g., a submission system that appears central but is thin in VN).
 
+## 3.5 Transcript Retrieval Standard (long-text handling)
+
+When transcripts are large, transcript use follows an explicit retrieval method so coverage is predictable.
+
+### 3.5.1 Default mode: Targeted extraction (fast)
+Use when BIO/VN are acceptable.
+- Search by **named entities** and **system keywords** (e.g., “toe hold”, “double trouble”, “leg lace”, “Achilles”, “cross ashi”).
+- Pull only:
+  - decision rules (IF/THEN),
+  - named gates/constraints,
+  - failure signatures + fixes,
+  - and explicit transition triggers.
+- Output impact: adds “operator detail” without rewriting the whole page.
+
+### 3.5.2 Deep mode: System-first sweep (slower, higher coverage)
+Use when BIO/VN are weak, inconsistent, or you request max extraction.
+- Sweep transcript by **module/chapters** where the system is taught.
+- Capture:
+  - full control model (what must be true),
+  - full defence tree,
+  - finishing mechanics cues,
+  - and the drill progression if present.
+- Output impact: significantly expands the SYS page.
+
+### 3.5.3 Delta mode: Gap + contradiction audit (post-merge)
+Use during the delta check loop.
+- Validate:
+  - we didn’t miss a major branch/dilemma,
+  - we didn’t contradict a core rule stated in transcript,
+  - and the system’s “non-negotiables” match the instructional emphasis.
+- Output impact: small but high-value corrections.
+
+### 3.5.4 Coverage declaration (required)
+For any SYS update that uses transcripts, state in the delta summary:
+- Mode used: Targeted / Deep / Delta
+- Keywords/chapters used (short list)
+- What new elements were added because of transcript (2–6 bullets)
+
+### 3.5.5 Practical limits (explicit)
+- We do not attempt line-by-line extraction of an entire transcript unless you request it.
+- Default objective is: extract **system logic**, not rewrite the transcript.
+
 ---
 
 ## 4. Queue Discipline (how we avoid veering off)
