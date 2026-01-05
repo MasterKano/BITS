@@ -1,6 +1,6 @@
 PATH: BOA-SYS.md
 
-# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.2
+# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.3
 
 ## 0. Purpose (binding)
 This agreement defines the **operational workflow** for merging multiple instructionals into **canonical SYS pages** in BITS (BJJ Instructional Teaching System).
@@ -12,6 +12,10 @@ It exists to prevent:
 - and silent changes without a reason given.
 
 This agreement governs **how we work**. It does not replace Kano Scroll (repo/training manual) nor Jigoro Text (BIO standard).
+
+### 0.1 Draft vs Published (operating definitions)
+- **Draft:** content not yet pasted into GitHub; may change rapidly.
+- **Published:** content pasted into GitHub; treated as binding until the next version bump.
 
 ---
 
@@ -63,11 +67,10 @@ If BIO/VN are strong and consistent, transcripts are used lightly:
 - for spot-checking named concepts, rules, and failure signatures,
 - for filling obvious gaps (e.g., a submission system that appears central but is thin in VN).
 
-## 3.5 Transcript Retrieval Standard (long-text handling)
-
+### 3.5 Transcript Retrieval Standard (long-text handling)
 When transcripts are large, transcript use follows an explicit retrieval method so coverage is predictable.
 
-### 3.5.1 Default mode: Targeted extraction (fast)
+#### 3.5.1 Default mode: Targeted extraction (fast)
 Use when BIO/VN are acceptable.
 - Search by **named entities** and **system keywords** (e.g., “toe hold”, “double trouble”, “leg lace”, “Achilles”, “cross ashi”).
 - Pull only:
@@ -77,7 +80,7 @@ Use when BIO/VN are acceptable.
   - and explicit transition triggers.
 - Output impact: adds “operator detail” without rewriting the whole page.
 
-### 3.5.2 Deep mode: System-first sweep (slower, higher coverage)
+#### 3.5.2 Deep mode: System-first sweep (slower, higher coverage)
 Use when BIO/VN are weak, inconsistent, or you request max extraction.
 - Sweep transcript by **module/chapters** where the system is taught.
 - Capture:
@@ -87,7 +90,7 @@ Use when BIO/VN are weak, inconsistent, or you request max extraction.
   - and the drill progression if present.
 - Output impact: significantly expands the SYS page.
 
-### 3.5.3 Delta mode: Gap + contradiction audit (post-merge)
+#### 3.5.3 Delta mode: Gap + contradiction audit (post-merge)
 Use during the delta check loop.
 - Validate:
   - we didn’t miss a major branch/dilemma,
@@ -95,15 +98,20 @@ Use during the delta check loop.
   - and the system’s “non-negotiables” match the instructional emphasis.
 - Output impact: small but high-value corrections.
 
-### 3.5.4 Coverage declaration (required)
+#### 3.5.4 Coverage declaration (required)
 For any SYS update that uses transcripts, state in the delta summary:
 - Mode used: Targeted / Deep / Delta
 - Keywords/chapters used (short list)
 - What new elements were added because of transcript (2–6 bullets)
 
-### 3.5.5 Practical limits (explicit)
+#### 3.5.5 Practical limits (explicit)
 - We do not attempt line-by-line extraction of an entire transcript unless you request it.
 - Default objective is: extract **system logic**, not rewrite the transcript.
+
+### 3.6 Source hooks (required when adding non-obvious content)
+If new technical content is added (new rule, gate, branch, failure signature, mechanic, named concept):
+- include at least one **source hook** in the update’s delta summary:
+  - BIO reference and/or VN reference, and TRN reference only if TRN was used.
 
 ---
 
@@ -120,7 +128,13 @@ When you ask “What’s next?”, I must reply with:
 - whether it is **new** or **merge into existing**,
 - and what you should paste next (or confirm is present as a project file).
 
-### 4.3 If a file was already completed
+### 4.3 Per-update queue position + status (required)
+Every update response must state:
+- Queue position: `#n / #N`
+- Status of the current file: `merged | pending | skipped`
+- If skipped: one-line reason + what is next.
+
+### 4.4 If a file was already completed
 If you suspect a file was already updated:
 - I must state whether it is:
   - **already merged in this run**, or
@@ -168,6 +182,12 @@ If I deviate from:
 - or the diagram standard,
 I must state **what deviated** and **why**.
 
+### 6.3 Conflicts across instructionals (required handling)
+If two instructionals conflict:
+- preserve both as `Variant A / Variant B` (or named variants),
+- add a **selection rule** (when to use A vs B),
+- do not silently delete one.
+
 ---
 
 ## 7. Systems Page Standard (SYS files)
@@ -206,6 +226,9 @@ Recommended:
 - `{OR}` = branch
 - `!` = gate/fail condition
 
+### 8.4 If a diagram renders broken (required remediation)
+- Next response must reissue the diagram **alone**, plus a one-line note stating what was fixed.
+
 ---
 
 ## 9. Delta Check Loop (post-merge audit)
@@ -239,6 +262,12 @@ Examples:
 - filename choice for a new hub page (e.g., `50-50-hub.md`)
 - whether to refactor a legacy file into numbered sections
 
+### 10.2 Blockers (required)
+If work is blocked, I must state:
+- what is blocked,
+- what minimal decision/input unblocks it,
+- what file in the queue can proceed next (if any).
+
 ---
 
 ## 11. Working cadence (practical)
@@ -250,4 +279,10 @@ Examples:
 
 ---
 
-End — BOA-SYS v0.2
+## 12. Versioning and changelog (locked)
+- Any Published change requires a version bump (v0.2 → v0.3 → v0.4 …).
+- Every version must include a short changelog summarising operational differences.
+
+---
+
+End — BOA-SYS v0.3
