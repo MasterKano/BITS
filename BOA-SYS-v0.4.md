@@ -239,3 +239,78 @@ Include at least one diagram, typically as “ASCII Control Map” or similar.
 - Do not use fences like “```text” or “~~~text”.
 
 Example (fence format only; content is illustrative):
+
++———+     +———+
+|  HUB A  | –> |  HUB B  |
++———+     +———+
+
+
+### 8.3 ASCII conventions
+Recommended:
+- [HUB] = positional platform
+- (OUTCOME) = finish/sweep/top/reset
+- {OR} = branch
+- ! = gate/fail condition
+
+### 8.4 If a diagram renders broken (required remediation)
+- Next response must reissue the diagram alone, plus a one-line note stating what was fixed.
+
+---
+
+## 9. Delta Check Loop (post-merge audit)
+After completing the queue, we run a delta check pass:
+
+### 9.1 Delta check objectives
+- confirm each SYS file reflects:
+  - merged content from intended instructionals,
+  - operator-grade density target,
+  - diagram compliance,
+  - internal link hygiene,
+  - combined attack+defence rule.
+
+### 9.2 Delta check inputs
+Use:
+- BIO/VN as primary,
+- transcripts for spot verification and gap filling.
+
+---
+
+## 10. Decisions You Control (and how I surface them)
+
+### 10.1 Decision surfacing rule
+Whenever a decision is required, I must state:
+- the decision,
+- why it matters,
+- the default recommendation,
+- the alternatives.
+
+### 10.2 Blockers (required)
+If work is blocked, I must state:
+- what is blocked,
+- what minimal decision/input unblocks it,
+- what file in the queue can proceed next (if any).
+
+---
+
+## 11. Working cadence (practical)
+- You paste the current SYS file (or confirm it exists as a project file).
+- I return:
+  1) merged SYS content (one file),
+  2) delta summary (outside the code block),
+  3) “Next:” the next file path in queue.
+
+---
+
+## 12. Versioning and changelog (locked)
+- Any published change requires a version bump (v0.3 → v0.4 → v0.5 …).
+- Every version must include a short changelog summarising operational differences.
+
+### 12.1 Changelog
+- v0.4 (from v0.3)
+  - Added binding queue artifact: `META/WORK-QUEUE-SYS.md` governs order + status.
+  - Added combined attack+defence rule for SYS merges (Defence Model / triggers→responses).
+  - Added provenance floor: new technical claims must be grounded in BIO/TRN (VN-only only if explicitly provisional).
+  - Hardened diagram fence rule with explicit “no language tag / no ~~~text” requirement and example.
+  - Clarified one-file-per-response as default (multi-file allowed only when explicitly requested).
+
+End — BOA-SYS v0.4
