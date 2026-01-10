@@ -43,6 +43,14 @@ Naming rule:
   - Use fenced blocks without a language label (do not use `~~~text`).
 - Keep systems pages “operator-grade”: decision rules, failure signatures, completion checks, and transition targets (including top-out links where relevant).
 
+## Defensive integration rule (canonical)
+
+- Defense is **not** a separate parallel library by default.
+- When incorporating defense-heavy instructionals (e.g., GR — Pillars of Defense / LLECL):
+  1) Insert a **Defense Model** section if missing in the relevant canonical SYS page,
+  2) Integrate defense as **defender triggers → attacker responses** inside the hub/submission systems,
+  3) Create defense-only pages **only** when the content is clearly reusable across many hubs (crosscutting “universal” rules).
+
 ## Canonical map (anti-duplication)
 
 If any new instructional covers one of these, **do not create a new file**. Update the canonical page.
@@ -93,6 +101,7 @@ Add to this list as you incorporate instructionals. Use relative links.
 - Gordon Ryan — Systematically Attacking the Legs
   - `INS/GR/` (BIO/VN/transcripts) (adjust to your actual folder name)
 - Gordon Ryan — Pillars of Defense: Leg Locks to Back Takes
-  - `INS/GR/POD/` (BIO/VN/transcripts) (adjust to your actual folder name)
+  - `INS/GR/PoD/Leglocks to Backtake/` (BIO/VN/transcripts)
+  - `INS/GR/PoD/LLECL/` (Leglock Escapes and Counter Locks) (BIO/VN/transcripts)
 - Mateusz (Szcz…)
   - `INS/<tag>/` (BIO/VN/transcripts)

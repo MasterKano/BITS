@@ -1,5 +1,3 @@
-PATH: SYS/leglocks/ashi-hierarchy.md
-
 # System: Ashi Hierarchy and Hub Network
 
 ## 1. Purpose
@@ -100,7 +98,24 @@ PATH: SYS/leglocks/ashi-hierarchy.md
   - Heel-safety-first discipline: don’t “race” exposure with unsafe feet.
   - Resolve via roll-through to Outside or exit to Far-Hip as soon as you can.
 
-## 9. Top-Out Overlay (POD): “Rule of the Achilles” + Cranial Shift
+## 9. Defense Model Overlay (POD/LLECL integration)
+- Defense is not “a separate system”; it is the defender-side trigger tree inside each hub.
+- Universal defense workflow (position-first)
+  - Identify (which ashi + which submission line) → Stabilize safety → Break control → Extract → End game.
+- Universal safety gates (apply before offence)
+  - Inside position restored (feet/knees), heel hidden, rotation denied, knee-line not drifting deeper.
+- Universal extraction ladders (use the smallest tool that clears)
+  - Re-pummel to neutral (preferred when available).
+  - Build-to-knee → build-to-stand (when entanglement permits).
+  - Half-roll to separation → full/multiple rolls only when separation pathway is present.
+- Universal attacker response rule (how SYS should encode it)
+  - Defender trigger → attacker counter → next hub/outcome.
+  - Example patterns to integrate throughout SYS pages:
+    - Defender: “hide heel + second-leg interference” → Attacker: “switch bite / climb circle / transfer hub (Outside/Backside)”
+    - Defender: “build to knee/stand” → Attacker: “follow hips + re-wedge / top-out conversion”
+    - Defender: “half-roll to separate” → Attacker: “follow-the-leg → land in Backside/Far-Hip with wedge”
+
+## 10. Top-Out Overlay (POD): “Rule of the Achilles” + Cranial Shift
 - Rule of the Achilles (top-side decision hinge)
   - IF they have a **real Achilles bite/tether**, treat it as a live constraint: clear that first (don’t step into their control).
   - IF they **do not** have Achilles bite and are still **chasing exposure**, you can often step-through/come-up faster into pass/back-take lanes.
@@ -108,20 +123,20 @@ PATH: SYS/leglocks/ashi-hierarchy.md
   - Winning legs/hips is not enough once you’re top: shift control to **head/shoulders** to prevent them re-guarding/re-leg-entering.
   - Practical meaning: once you “top-out,” immediately build top-control handles (north-south/camping/tight-waist/body-lock) before hunting finishes.
 
-## 10. Grip and Finishing Integration (Hierarchy)
+## 11. Grip and Finishing Integration (Hierarchy)
 - Positional control first, then breaking mechanics, then grip sophistication.
 - Grip “circle” rule
   - Climb to smaller circles when structure allows: ten-finger → palm-to-palm → wrist-to-wrist/tighter locks.
   - Do not sacrifice wedge/knee-line to chase a grip upgrade.
 
-## 11. Reset Rules (Simplicity Under Chaos)
+## 12. Reset Rules (Simplicity Under Chaos)
 - If you cannot clearly name:
   - where the knee-line is,
   - what wedge is holding it,
   - and how your back/heel is protected,
   - then reset (re-centre, simplify to a reliable hub, or exit to guard/stand).
 
-## 12. ASCII Master Map (≤130 chars/line)
+## 13. ASCII Master Map (≤130 chars/line)
 
 LEGEND: [HUB]=platform  (GATE)=must be true  {OR}=branch  -> preferred  != resolve now
 
@@ -162,7 +177,7 @@ LEGEND: [HUB]=platform  (GATE)=must be true  {OR}=branch  -> preferred  != resol
 (sweep/top)      [TOP OUTCOMES]
              north-south / camping / tight-waist-body-lock / back take
 
-## 13. Drills & Games
+## 14. Drills & Games
 - Hub map flow (low intensity)
   - Neutral → Irimi → Outside/Cross/Inside → Backside/Far-Hip → finish OR top-out → cranial shift → stabilise.
 - Transition ladders (scripted)
@@ -174,18 +189,20 @@ LEGEND: [HUB]=platform  (GATE)=must be true  {OR}=branch  -> preferred  != resol
 - Top-out conversion reps (POD overlay)
   - Start in leg entanglement → achieve separation/top-out → immediate cranial shift → camping/north-south/tight-waist stabilization.
 
-## 14. Common Mistakes
+## 15. Common Mistakes
 - Living in symmetry (50/50/mutual) without a fast plan to separate/extract to asymmetry.
 - Chasing the foot instead of following the leg (arm-pulling while hips drift; no arrival in a new hub).
 - Finishing while knee-line is lost (cranking a structurally freed leg).
 - Ignoring the far leg (stands/heists/locked-legs defence/re-pummels).
 - Top-out without cranial shift (you “win the legs” then immediately lose top control back to guard/leg re-entries).
 
-## 15. Sources
+## 16. Sources
+- INS/GR/PoD/LLECL/ (BIO/VN/transcripts)
+- INS/GR/PoD/Leglocks to Backtake/ (BIO/VN/transcripts)
 - INS/GR/SATL/ (BIO/VN/transcripts)
 - INS/JD/ETS/Leglocks/
 
-## 16. Links
+## 17. Links
 - Entry / primary hubs:
   - `positions-ashi/irimi-ashi-garami-entry-hub.md`
   - `positions-ashi/outside-ashi-garami-finishing-hub.md`
@@ -215,7 +232,3 @@ LEGEND: [HUB]=platform  (GATE)=must be true  {OR}=branch  -> preferred  != resol
 - Meta (cross-domain):
   - `../meta/constraint-gates.md`
   - `../meta/conversion-loop.md`
-
-
-
-
