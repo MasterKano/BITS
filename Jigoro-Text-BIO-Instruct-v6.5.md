@@ -1,20 +1,25 @@
-PATH: META/ops/JIGORO-TEXT.md
+PATH: Jigoro-Text-BIO-Instruct-v6.6.md
 
-# JIGORO TEXT (BIO INSTRUCTIONS) v6.5 (PUBLISHED)
+# JIGORO TEXT (BIO INSTRUCTIONS) v6.6 (PUBLISHED)
 
 ## DOCUMENT INFORMATION
 
 - Document Title: Jigoro Text (BIO Instructions)
 - Document Number: JH-MJK-001
-- Version: 6.5
+- Version: 6.6
 - Status: Approved (Published)
-- Date of Issue: 2026-01-08
-- Supersedes: v6.3
+- Date of Issue: 2026-01-11
+- Supersedes: v6.5
 - Issued By: JH
 - Maintained By: ChatGPT Execution System
 
 ## REVISION HISTORY
 
+- v6.6
+  - Added explicit “Parts” grammar: `Sections A-B (Parts)` and `Section X (Parts)` as first-class commands (alias of xParts behavior).
+  - Added deterministic stop-after option for batching: “stop after Section K” (prevents overrun when capacity remains).
+  - Added recommended batch sizing guidance (best-effort) to reduce truncation under deep density.
+  - Clarified transport markers: required only when batching/chunking; single-section delivery does not require wrappers.
 - v6.5
   - Added range commands: `Sections A-B` and `Section X (Parts)` for predictable multi-section delivery without repeated “Next”.
   - Added chunking commands to split large sections by subchapter ranges (e.g., `Section 6.0 chunks of 6.1-6.3`).
@@ -74,7 +79,7 @@ This standard defines how to convert any BJJ instructional transcript into a sin
 - All deliverables returned in a single fenced code block for copy/paste (transport only).
 - BIO uses markdown headings only (up to four levels).
 - No manual hard-wrapping for prose/bullets; diagrams only are hard-wrapped to comply with ASCII Width Rule.
-- For multi-section delivery, use transport markers (see Section 6.4).
+- Transport markers are mandatory only when batching/chunking (Section 6.4). Single-section delivery does not require wrappers.
 
 ---
 
@@ -149,6 +154,10 @@ Supported forms:
 - “Sections A-B xParts”
   - Output sections A through B but allow safe-stop and continuation until the entire range is complete.
   - Example: “Sections 4-6 xParts” (assistant outputs as much as fits, then safe-stops with resume token).
+- “Sections A-B (Parts)”
+  - Alias of xParts.
+- “Section X (Parts)”
+  - Alias of “Section X” with safe-stop/resume until the full section is delivered.
 
 ### 6.4 Chunking commands (for large sections)
 
@@ -191,6 +200,25 @@ User resumes with:
 - Or with a new command starting at that point:
   - “Section 6.4-6.7”
   - “Next x2”
+
+### 6.6 Deterministic stop-after option (user-controlled)
+
+To prevent overrun (continuing past the boundary you intended), the user may specify:
+
+- “Sections A-B; stop after Section K”
+- “Next xN; stop after Section K”
+
+Rule:
+- The assistant must stop at the declared boundary even if additional output capacity remains.
+
+### 6.7 Recommended batch sizing (best-effort guidance)
+
+Because deep-density sections vary in size, the safest defaults are:
+- Prefer “Sections 1-3 (Parts)” for initial delivery.
+- Prefer “Section 6.0 chunked” for Technique Library when dense.
+- Prefer 1–2 sections per response for diagram-heavy portions (7.0+) unless using (Parts).
+
+This is guidance only; safe-stop rules still apply.
 
 ---
 
@@ -264,4 +292,4 @@ User resumes with:
 - If missing content is flagged, it explicitly names what is missing.
 - If safe-stop occurs, provide NEXT + RESUME TOKEN per Section 6.5.
 
-END OF JIGORO TEXT (BIO INSTRUCTIONS) v6.5
+END OF JIGORO TEXT (BIO INSTRUCTIONS) v6.6
