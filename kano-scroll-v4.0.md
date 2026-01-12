@@ -133,13 +133,23 @@ Once BIO and VN are complete for an instructional:
 ### 5.3 Standard VN Unit (Per Subchapter)
 Use compact unit blocks; omit only if truly absent:
 - Objective
+- Goal
+- Primary decision rule
 - Gates
 - Controls
+- Key concepts
 - Primary line
+- Positional landmarks
+- Mechanics and details
+- Coaching cues
+- Common errors
+- First follow-up (where applicable)
 - Branches (defender action → your response)
 - Failure-first diagnosis
 - Drills (explicit or implied)
+- Links (systems / other VN)
 - System tags
+
 
 ### 5.4 VN Density Requirement (Operational Grade)
 Rules:
