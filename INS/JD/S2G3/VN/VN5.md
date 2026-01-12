@@ -14,6 +14,166 @@
   - Reaching with hands instead of building control (elbow/head/hip).
   - Finishing without a follow-up plan (pin or front headlock).
 
+'''
+VN05 (Volume 5) — ASCII Overview (Chapter Map)
+
+                    +------------------------------+
+                    |   Clinch Platforms (Hub)     |
+                    |  A) Overhook                 |
+                    |  B) Over/Under               |
+                    +--------------+---------------+
+                                   |
+        +--------------------------+---------------------------+
+        |                                                          |
++-------v----------------+                               +---------v----------------+
+| OVERHOOK BRANCH        |                               | OVER/UNDER BRANCH        |
++------------------------+                               +--------------------------+
+| 5.1 Uki Goshi (half)   |                               | 5.8 Uki Goshi (half)     |
+|   -> spiral-down/pin   |                               |   -> angle-first -> pin  |
++-----------+------------+                               +-----------+--------------+
+            |                                                        |
+            |                                                        |
+   +--------v---------+                                   +----------v-------------+
+   | 5.2 Tai Otoshi   |                                   | 5.12 Ouchi Gari        |
+   | (2-foot, high %) |                                   | (inside trip, weight)  |
+   +--------+---------+                                   +----------+-------------+
+            |                                                        |
+   +--------v---------+                                   +----------v-------------+
+   | 5.3 1-Hand Tai    |                                   | 5.13 Step-around Kosoto |
+   | (constraint)      |                                   | (alignment upgrade)     |
+   | -> down-to-knees  |                                   +----------+-------------+
+   | -> FRONT HEADLOCK |                                              |
+   +--------+---------+                                      +-------v----------------+
+            |                                                | 5.14 Calf-to-calf Kosoto|
+            |                                                | (lock leg escape)       |
+            |                                                +-------------------------+
+   +--------v---------+
+   | 5.4 Uchi Mata    |
+   | (posture break,  |
+   | ken-ken finish)  |
+   +--------+---------+
+            |
+   +--------v---------+
+   | 5.5 Harai Goshi  |
+   | (directional     |
+   | complement)      |
+   +------------------+
+
+                     +------------------------------------+
+                     | Sacrifice Option (Pressure Trigger) |
+                     +------------------+------------------+
+                                        |
+                              +---------v---------+
+                              | 5.6 Uki Waza      |
+                              | (overhook)        |
+                              +---------+---------+
+                                        |
+                              +---------v---------+
+                              | 5.11 Uki Waza     |
+                              | (over/under)      |
+                              +-------------------+
+
+                 +------------------------------------------+
+                 | Finish Modifiers (Stability Upgrades)    |
+                 +------------------+-----------------------+
+                                    |
+                    +---------------+----------------+
+                    |                                |
+            +-------v--------+               +-------v--------+
+            | 5.9 Single     |               | 5.10 Double    |
+            | Knee Drop      |               | Knee Drop      |
+            | (stabilize)    |               | (max stability)|
+            +----------------+               +----------------+
+
+================================================================================
+DENSE EXPLAINER NOTES (How to use this map to learn/teach Volume 5)
+================================================================================
+
+1) The “Platform First” rule (why the diagram starts with a hub)
+- Volume 5 is not “a list of throws.” It is “two clinch platforms” that generate
+  multiple throws with shared mechanics:
+  - Platform A: Overhook
+  - Platform B: Over/Under
+- Teaching implication:
+  - If the student cannot *hold the platform*, nothing else matters.
+  - Run classes as: Platform skill → one throw → one follow-up.
+
+2) Two-foot priority vs one-leg demand (hidden design principle)
+- Volume 5 is quietly organised around the idea:
+  - Start with two-foot, low-balance throws (5.1 / 5.2),
+  - Then add higher-demand throws (5.4),
+  - Then add stability modifiers (5.9 / 5.10) to “bring the difficulty back down.”
+- Coaching implication:
+  - For older/newer athletes: emphasize 5.1 + 5.2 + 5.13 + knee-drops.
+  - For athletic competitors: layer in 5.4 and pressure-trigger 5.6/5.11.
+
+3) Direction choice (forward engine vs backward engine)
+- Forward/rotational engine:
+  - 5.1 (spiral-down), 5.2 (block-and-rotate), 5.4 (lift/ken-ken), 5.5 (sweep)
+- Backward/topple engine:
+  - 5.12 (inside trip), 5.13/5.14 (outside trip family)
+- Teaching implication:
+  - If the opponent’s weight/pressure is moving *into you* → teach forward options.
+  - If they are *retreating/backing out* or weight is committed to one leg → trips win.
+
+4) “5.3 is not a ‘perfect throw’ chapter” (why it points to front headlock)
+- One-handed Tai Otoshi is a constraint solution:
+  - You accept that you can’t control both sides of the torso.
+  - Therefore you aim for “down to hands/knees” and transition to front headlock.
+- Coaching implication:
+  - Students fail here because they chase flat-back finishes.
+  - Success metric: “Did you get front headlock?” not “Did they land flat?”
+
+5) Uki Waza placement (why it sits in a separate box)
+- Uki Waza is not a default option. It is a pressure-triggered option:
+  - Works best when opponent supplies forward drive.
+  - Risk increases when you fall flat or away.
+- Coaching implication:
+  - Teach it as “if-then”: IF they drive, THEN lateral drop.
+  - Never teach it as “just do uki waza from the clinch.”
+
+6) Step-around Kosoto family (5.13/5.14) = “alignment upgrades”
+- 5.13 is the alignment model:
+  - step-around → safety step → sit
+- 5.14 is the escape-prevention model:
+  - calf-to-calf contact locks their ability to step out
+- Coaching implication:
+  - Use 5.13 as the baseline for safe mechanics.
+  - Introduce 5.14 as the fix when “they keep stepping out.”
+
+7) Knee-drop modifiers are “stabilizers,” not new techniques (5.9/5.10)
+- Knee-drops exist to:
+  - reduce balance requirements,
+  - reduce roll-through risk,
+  - increase pin conversion.
+- Coaching implication:
+  - When a student says “I fall with them,” add knee-drop late in the finish.
+  - When a student says “I lose them on landing,” add double knee-drop.
+
+8) Suggested “minimum viable curriculum” from this volume (fastest ROI)
+- For most rooms, teach in this order:
+  - Week 1: Platform (overhook) + 5.1 + pin settle
+  - Week 2: Platform (overhook) + 5.2 + pin settle
+  - Week 3: Platform (over/under) + 5.8 + pin settle
+  - Week 4: Trips: 5.12 + 5.13 (alignment) + pin settle
+  - Week 5: Add either 5.4 (competitive) OR 5.9/5.10 (stability)
+- Only after baseline: add 5.6/5.11 as pressure-trigger options.
+
+9) Quick teaching language (consistent cues that map to the diagram)
+- “Platform first.”
+- “Square then throw.”
+- “Two feet beats one foot.”
+- “Down-to-knees → front headlock.”
+- “Step-around → safety step → sit.”
+
+10) Assessment checklist (how you know a student ‘has’ Volume 5)
+- They can hold overhook and over/under without collapsing posture.
+- They can demonstrate 5.1 and 5.2 with a 3-second settle.
+- They can do 5.13 with correct safety step and knee alignment.
+- When they hit 5.3, they auto-connect front headlock on knee-turn landings.
+- They can choose Uki Waza only when pressure is given, not when it isn’t.
+'''
+
 ---
 
 ### 5.1 Overhook Uki Goshi (Half Hip Throw) (0:00–6:17)
