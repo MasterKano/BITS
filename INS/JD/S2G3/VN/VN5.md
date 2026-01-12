@@ -1,546 +1,616 @@
-# VN S2G V5 – Overhook & Over/Under Throw Series
+# VIEWING NOTES — Standing to Ground 3: Upper Body Takedowns (John Danaher)
+## VN05 — Volume 5: Overhook & Over/Under Throw Series
+
+### Volume 5 Doctrine Summary (teach/learn intent)
+- Primary objective
+  - Convert overhook + over/under clinches into takedowns that land you immediately in controllable top positions (score-first, scramble-resistant).
+- What Volume 5 prioritises
+  - Two-foot balance, clean direction, and fast conversion to pins / front headlock.
+  - Control-driven finishes (spiral-down, knee-drop stability) over amplitude.
+- What Volume 5 deprioritises
+  - “Demo” hip lifts and throws that require prolonged one-leg balance without tight control.
+- Mistakes this volume is designed to eliminate
+  - Throwing without squaring/alignment.
+  - Reaching with hands instead of building control (elbow/head/hip).
+  - Finishing without a follow-up plan (pin or front headlock).
 
 ---
 
-## 5.1 Throwing From the Overhook – Uki Goshi (Half Hip Throw) (0:00–6:17)
+### 5.1 Overhook Uki Goshi (Half Hip Throw) (0:00–6:17)
+- Classification
+  - Primary teaching throw
 
-- Time
-  - 0:00–6:17
+- Primary Decision Rule
+  - If you have tight overhook + shoulder rotation, choose half-hip spiral (Uki Goshi) before attempting full hip commitment.
 
 - Goal
-  - Understand how to turn a strong overhook (whizzer) into a compact half-hip throw that lands you in dominant top position.
+  - Convert a strong overhook into a compact half-hip throw that spirals the opponent down into immediate top control.
 
-- Key ideas
-  - Overhook is not just defensive; it can be a primary throwing grip.
-  - Your hip must get in front of, and slightly under, their hip line.
-  - Head position and shoulder pressure decide whether they can limp-arm or turn away.
-  - Small, tight rotational throw – not a big “hero” hip toss.
+- Gates
+  - True overhook with elbow tight (no daylight).
+  - You can rotate the opponent’s shoulders (head + overhook pressure).
+  - You can pivot your feet before inserting the leg.
 
-- Core mechanics
-  - Stance & grips
-    - Overhook their arm snugly, elbow glued to your ribs.
-    - Opposite hand controls head/neck or lat, pulling their upper body over your hip.
-    - Keep your forehead/side of head glued to their jaw/temple on the overhook side.
-  - Kuzushi
-    - Pull their overhooked shoulder slightly forward and down.
-    - At the same time, drive your head into them to bend their spine.
-  - Entry
-    - Step your lead foot between their feet, toes turned slightly across their stance.
-    - Pivot so your hips rotate in front of theirs (half-hip, not fully across).
-    - Keep knees soft so you can “sit” them on your hip shelf.
-  - Finish
-    - Rotate your upper body like turning a wheel – overhook pulls, head-hand steers.
-    - Drive your hip across and slightly up, popping them over.
-    - Follow immediately into chest-to-chest control or a top pin (side control / kesa).
+- Controls
+  - Overhook elbow clamp denies pummeling and posting.
+  - Head position steers shoulder rotation and fall direction.
+  - Hip distance = half-coverage (do not chase full hip insertion).
 
-- Cues to remember
-  - “Hip across first, throw second.”
-  - “Overhook pulls the shoulder over the hip shelf.”
-  - “Head wins the posture battle.”
+- Primary line
+  - Secure overhook → compress elbow tight.
+  - Rotate shoulders (head + overhook).
+  - Pivot feet to align throw direction.
+  - Stab leg inside, cover half hips.
+  - Spiral down → chest-to-chest settle (or half guard top).
+
+- First Follow-Up
+  - Chest-to-chest settle → crossface/underhook stabilization → pin/pressure passing start.
+
+- When NOT to use this
+  - If you cannot rotate shoulders (opponent’s posture rigid + head position lost).
+  - If your overhook is shallow and slipping (you will lose control mid-entry).
+
+- Branches (defender action → your response)
+  - Opponent widens base → increase head pressure and shoulder rotation before stepping.
+  - Opponent turns during landing → follow hips, keep chest connection, settle pin.
+
+- Failure-first diagnosis
+  - Failure: opponent escapes late.
+    - Cause: elbow space in overhook.
+    - Fix: clamp elbow first; shoulder rotation second; step third.
+  - Failure: throw stalls.
+    - Cause: hips too far / no shoulder rotation.
+    - Fix: head + shoulder turn before any leg insertion.
+
+- Common misdiagnosis (student) → real cause (coach)
+  - “I’m not strong enough to throw.” → you didn’t rotate shoulders; you tried to lift instead of spiral.
+
+- Drills
+  - Overhook clamp + shoulder-rotation reps (10–20 each side).
+  - Pivot-first entry drill (no leg until pivot).
+  - Throw-to-pin continuity reps (3-second settle count).
 
 - Links
-  - Sets the basic overhook → hip-throw template that repeats in Uchi Mata, Harai Goshi, and later over-under versions.
+  - SYS: Overhook control hub → pin stabilization
+  - VN06: Double overhooks half-hip variants (control emphasis)
 
-- Your notes
-  - (Write key phrases Danaher uses, plus any details that feel different for you vs Sam.)
 
----
+### 5.2 Tai Otoshi (6:17–9:21)
+- Classification
+  - Primary teaching throw
 
-## 5.2 Tai Otoshi (6:17–9:21)
-
-- Time
-  - 6:17–9:21
+- Primary Decision Rule
+  - If you can square them, choose Tai Otoshi as the safest two-foot throw from overhook.
 
 - Goal
-  - Learn classic Tai Otoshi mechanics from overhook-style upper body control, with emphasis on footwork and direction of force.
+  - Use the overhook platform to execute a two-footed Tai Otoshi with strong pinning outcomes.
 
-- Key ideas
-  - Tai Otoshi is a hand/upper-body throw with a blocking leg, not a hip throw.
-  - The “one–two–three” step pattern is the backbone of the movement.
-  - Your upper body rotation must align with the direction of the blocking leg.
+- Gates
+  - Opponent is squared (or you can square them).
+  - Overhook pressure is stable through the blocking phase.
 
-- Core mechanics
-  - Grips & posture
-    - Maintain strong overhook and head/lat control or similar upper-grip.
-    - Upright posture, knees slightly bent, weight evenly distributed.
-  - Step pattern (“1–2–3”)
-    - Step 1: off-line step to draw them forward/diagonal.
-    - Step 2: pivot step to turn your torso across their line of travel.
-    - Step 3: block leg steps across in front of both their feet, knee slightly bent.
-  - Throw direction
-    - Rotate your upper body like turning a big wheel in front of you.
-    - Drive them over the blocking leg, not sideways away from it.
-    - Keep your blocking leg relatively straight and rooted.
+- Controls
+  - Overhook controls shoulder rotation.
+  - Blocking leg removes base; hips stay back (block, don’t load).
+  - Head/chest steer direction of fall.
 
-- Cues to remember
-  - “Hands throw, leg blocks.”
-  - “1–2–3, then drop the floor out from under them.”
-  - “Rotate them over the bar, not around it.”
+- Primary line
+  - Square opponent with overhook pressure.
+  - Step across; place blocking leg across opponent’s line.
+  - Pull/rotate upper body over the block.
+  - Drop weight slightly → finish into pin.
+
+- First Follow-Up
+  - Pin settle → immediate shoulder/hip control; if they turn, follow into front headlock or go-behind.
+
+- When NOT to use this
+  - If opponent is angled and you cannot square them (they will step around the block).
+  - If your base is narrow and unstable (you will fall with them).
+
+- Branches
+  - Opponent steps around block → resquare first; then reinsert block.
+  - Opponent turns on landing → follow hips; connect to front headlock if they face-down.
+
+- Failure-first diagnosis
+  - Failure: opponent steps around.
+    - Cause: no square + poor block placement.
+    - Fix: square first; block second.
+  - Failure: weak rotation.
+    - Cause: arms pulling with no leg barrier.
+    - Fix: commit to block line; then rotate.
+
+- Common misdiagnosis → real cause
+  - “My leg isn’t strong enough.” → block placement and squaring are wrong; strength is not the limiter.
+
+- Drills
+  - Square-and-block repetitions (slow to fast).
+  - Tai Otoshi → 3-second pin settle.
+  - Turn-on-landing branch drill: pin vs front headlock connection.
 
 - Links
-  - Builds the Tai Otoshi pattern you’ll reuse in one-handed Tai Otoshi and later underhook variants.
+  - SYS: Tai Otoshi core node
+  - VN08: Two-foot Tai Otoshi + modest-goal (hands-and-knees) finish logic
 
-- Your notes
-  - (Record which step tends to break down for you; note Sam/Jerry-specific fixes.)
 
----
+### 5.3 One-Handed Tai Otoshi (9:21–11:57)
+- Classification
+  - Situational throw (constraint-driven)
 
-## 5.3 One-Handed Tai Otoshi (9:21–11:57)
-
-- Time
-  - 9:21–11:57
+- Primary Decision Rule
+  - If you have only one controlling arm, your throw goal is “down to knees/hands” + immediate front headlock, not a perfect flat-back.
 
 - Goal
-  - Adapt Tai Otoshi so that one arm does most of the throwing work while the free hand may post, then recover to control after impact.
+  - Execute Tai Otoshi when only one controlling arm is available, prioritising balance and follow-up control.
 
-- Key ideas
-  - You can throw effectively with a single dominant arm if kuzushi and footwork are correct.
-  - Free hand may briefly post to the mat to prevent self-fall or to adjust angle.
-  - Post-throw priority: recover free hand to cover head/arm and secure top.
+- Gates
+  - One dominant arm control exists (single overhook/arm line).
+  - You can place a clean blocking leg without overreaching.
 
-- Core mechanics
-  - Setup
-    - Use strong collar-tie/lat/overhook style control with your throwing arm.
-    - Free hand is “available”: can check, post, or frame as you enter.
-  - Entry & post
-    - Maintain the same 1–2–3 step pattern as classic Tai Otoshi.
-    - As you rotate, free hand may touch the mat to stabilize or help pivot.
-    - Do not let the post pull your hips away from the throw – keep hips close.
-  - Finish & follow-up
-    - Throw direction remains the same: over the blocking leg.
-    - As they land, immediately peel your posting hand off the floor.
-    - Use that hand to cover head, underhook, or secure a front headlock/ride.
+- Controls
+  - Blocking leg is the base remover.
+  - Head turn drives rotation.
+  - Free hand is for balance/connection, not pulling.
 
-- Cues to remember
-  - “Same Tai Otoshi, fewer hands.”
-  - “Post, then recover – don’t leave the hand on the floor.”
-  - “Throw first, post only to stabilize, not to save a bad angle.”
+- Primary line
+  - Maintain single-arm control.
+  - Step across and place blocking leg.
+  - Turn head/shoulders to direct fall.
+  - Drop opponent over the block into controllable landing.
+
+- First Follow-Up
+  - If they turn to knees: front headlock → snap-down / go-behind.
+  - If they land seated/hip: chest connection → pin settle.
+
+- When NOT to use this
+  - If opponent has both hands free and posture high (they will post and you’ll lose the exchange).
+  - If you cannot place the block line without reaching (you’ll off-balance yourself first).
+
+- Branches
+  - Opponent turns to knees → connect front headlock immediately.
+  - Opponent posts hand → circle and resettle; do not chase a flat-back finish.
+
+- Failure-first diagnosis
+  - Failure: throw “does nothing.”
+    - Cause: you pulled with the arm instead of committing to the block line.
+    - Fix: treat the leg as the throw; arm is only steering.
+  - Failure: you fall first.
+    - Cause: you reached with free hand and narrowed your base.
+    - Fix: keep base wide; free hand for balance only.
+
+- Common misdiagnosis → real cause
+  - “One-handed doesn’t work in no-gi.” → you aimed for the wrong finish (flat-back) instead of knees → front headlock.
+
+- Drills
+  - One-arm entries (light resistance).
+  - Branch drill: “turn to knees” → front headlock connection (mandatory).
+  - Live constraint: start from single overhook; score only via tai otoshi → front headlock.
 
 - Links
-  - Connects directly to front headlock / top control transitions when they turn on landing.
+  - SYS: Front headlock top control → go-behind / cow catcher entries
+  - VN01–VN02: Front headlock / cow catcher systems (landing-turn integration)
 
-- Your notes
-  - (Note where you feel off-balance; note strategies for recovering grips quickly.)
 
----
+### 5.4 Uchi Mata (11:57–22:01)
+- Classification
+  - Primary throw (but higher demand than Tai Otoshi; teach after 5.1/5.2)
 
-## 5.4 Uchi Mata (11:57–22:01)
-
-- Time
-  - 11:57–22:01
+- Primary Decision Rule
+  - If posture is broken and leg insertion is deep, commit; if posture is not broken, do not “try harder”—fix posture first.
 
 - Goal
-  - Build a high-percentage overhook-based Uchi Mata as a core upper-body throw in the system.
+  - Develop overhook-based Uchi Mata as a primary forward throw with reliable finishes against resistance.
 
-- Key ideas
-  - Uchi Mata is the central “big score” throw in this suite.
-  - Overhook + head position allow very strong inside-thigh reaps in no-gi.
-  - Hopping on the base leg maintains balance and lifting force.
+- Gates
+  - Opponent posture can be compromised (head/shoulders affected).
+  - Lifting leg can be inserted deep between thighs.
 
-- Core mechanics
-  - Grips & posture
-    - Deep overhook, elbow tight, shoulder heavy on their shoulder.
-    - Other hand controls head/neck or lat, keeping them folded.
-    - Chest close; avoid extended arms.
-  - Entry
-    - Step across to place your hips in front of theirs (similar to Uki Goshi start).
-    - Turn so your back is almost facing their armpit, maintaining overhook pressure.
-  - Reap & lift
-    - Reaping leg swings between their legs, lifting inner thigh.
-    - Base foot hops in small circles to maintain balance and power.
-    - Upper body lifts and rotates – think “up and over,” not just sideways.
-  - Direction & finish
-    - Drive them over the reaping leg in a diagonal front direction.
-    - As they go down, follow with chest-to-chest or an immediate pass to top.
+- Controls
+  - Overhook + head pressure breaks posture.
+  - Lifting leg controls inside line.
+  - Hopping maintains pressure against resistance.
 
-- Cues to remember
-  - “Hip in deep, leg between, hop to finish.”
-  - “Overhook pulls them onto the lifting thigh.”
-  - “Head and chest glued – no long levers.”
+- Primary line
+  - Break posture (head + overhook).
+  - Insert lifting leg deep.
+  - Lift; if they hop, ken-ken with them until base collapses.
+  - Land with your leg between theirs to reduce roll-through risk.
+
+- First Follow-Up
+  - Land into chest-to-chest/half-guard top → immediate pin settle; if they turn, connect front headlock.
+
+- When NOT to use this
+  - If opponent posture is tall and unbroken (you’ll hop and lose position).
+  - If you cannot keep chest connection during hops (high scramble risk).
+
+- Branches
+  - Opponent hops → hop with them (don’t abandon control).
+  - Opponent turns mid-air/landing → follow hips, settle top.
+
+- Failure-first diagnosis
+  - Failure: opponent counters/resists easily.
+    - Cause: no posture break.
+    - Fix: head pressure first; entry second.
+  - Failure: roll-through.
+    - Cause: landing with leg outside.
+    - Fix: finish with leg between their legs.
+
+- Common misdiagnosis → real cause
+  - “I can’t balance on one leg.” → you’re trying to hop without posture break and chest connection.
+
+- Drills
+  - Posture-break reps (head/overhook).
+  - Deep leg insertion reps (no throw).
+  - Ken-ken chase drill (progressive resistance).
 
 - Links
-  - Natural follow-on/variation from Uki Goshi when you need more lift.
-  - Pairs with Harai Goshi when they widen their stance.
+  - SYS: Uchi Mata system
+  - VN06: Ken-ken uchi mata from body lock (same resistance logic)
 
-- Your notes
-  - (Note tendencies: do you under-rotate, under-lift, or lose chest contact?)
 
----
+### 5.5 Harai Goshi (22:01–25:48)
+- Classification
+  - Situational throw (directional complement)
 
-## 5.5 Harai Goshi (22:01–25:48)
-
-- Time
-  - 22:01–25:48
+- Primary Decision Rule
+  - If their pressure/energy is driving in and Uchi Mata line is blocked, switch to Harai (sweep) rather than forcing lift.
 
 - Goal
-  - Learn Harai Goshi as a sweeping-hip complement to Uchi Mata from overhook ties.
+  - Use Harai Goshi as a sweeping alternative when Uchi Mata is blocked.
 
-- Key ideas
-  - Same basic entry as Uchi Mata; difference is in leg line and stance of opponent.
-  - Used when they widen stance or retreat the inside leg.
-  - The sweeping leg contact is higher and more lateral.
+- Gates
+  - Overhook and head control intact.
+  - Opponent pressure provides forward/lateral energy.
 
-- Core mechanics
-  - Entry
-    - Step and turn in as for Uchi Mata/Uki Goshi.
-    - Ensure hips are fully across, with your belt line under their center.
-  - Sweep
-    - Swing your reaping leg across the outside of their far thigh/hip.
-    - Keep sweeping leg relatively straight, using hip and torso rotation to power it.
-  - Upper body
-    - Overhook pulls and rotates; head control steers the load.
-    - Slight backward lean as you sweep to generate a powerful arc.
+- Controls
+  - Shoulder rotation sets direction.
+  - Sweep leg removes outside base (sweep, not lift).
 
-- Cues to remember
-  - “Same turn, wider sweep.”
-  - “If they widen the base, sweep the far leg.”
-  - “Hip across, leg as a broom.”
+- Primary line
+  - Rotate shoulders.
+  - Sweep outside line while turning torso.
+  - Follow through into pin.
+
+- First Follow-Up
+  - Pin settle; if they turn, connect to front headlock or pass start.
+
+- When NOT to use this
+  - If you are square and cannot rotate shoulders (you’ll collide force-on-force).
+  - If sweep leg is shallow (you’ll bump without taking the base).
+
+- Branches
+  - Opponent resists backward → return to Uchi Mata posture-break line.
+  - Opponent turns → follow hips into top.
+
+- Failure-first diagnosis
+  - Failure: sweep ineffective.
+    - Cause: no rotation before sweep.
+    - Fix: shoulders first; sweep second.
+
+- Common misdiagnosis → real cause
+  - “My sweep leg isn’t strong.” → you didn’t rotate the shoulders; the sweep needs direction.
+
+- Drills
+  - Uchi Mata threat → Harai switch reps.
 
 - Links
-  - Switch choice between Uchi Mata vs Harai Goshi based on where their far leg is.
+  - SYS: Harai Goshi node
+  - VN07: Reverse-lat Harai variants (pressure-direction logic)
 
-- Your notes
-  - (Write when you feel Harai is “on” vs when Uchi is better.)
 
----
+### 5.6 Uki Waza (25:48–30:23)
+- Classification
+  - Situational throw (pressure-triggered)
 
-## 5.6 Uki Waza (25:48–30:23)
-
-- Time
-  - 25:48–30:23
+- Primary Decision Rule
+  - If they drive into your overhook and you can fall laterally (not flat), choose Uki Waza.
 
 - Goal
-  - Connect sacrifice lateral-drop mechanics (Uki Waza) to the overhook throwing suite.
+  - Apply lateral drop as a sacrifice option from overhook positions.
 
-- Key ideas
-  - Uki Waza is your lateral-drop/sacrifice alternative when hip throws are blocked.
-  - The overhook anchors their upper body while you drop under their center.
-  - Direction is diagonal and sideways, not straight back.
+- Gates
+  - Opponent drives forward.
+  - You can fall to the side (not straight back).
 
-- Core mechanics
-  - Setup
-    - Strong overhook and head/lat control; draw them slightly forward and to the overhook side.
-  - Drop
-    - Step your near-side foot across as if for a hip throw.
-    - Instead of loading them fully on the hip, sit to the mat at a diagonal angle.
-    - Your back/hip lands close to their feet; your far leg blocks or hooks behind their near leg.
-  - Rotation
-    - Pull with overhook and head to rotate them over your body.
-    - Keep your elbow tight so their arm cannot post.
+- Controls
+  - Overhook denies posting.
+  - Hip proximity enables clean lateral drop.
 
-- Cues to remember
-  - “If the hip won’t load, sit and spin.”
-  - “Fall where they have no post.”
-  - “Keep the overhook glued; arm posts kill Uki Waza.”
+- Primary line
+  - Invite pressure.
+  - Step in; drop laterally.
+  - Pull opponent over into top.
+
+- First Follow-Up
+  - Land beside them → chest connection → pin settle.
+
+- When NOT to use this
+  - If opponent is disengaging/backing out (no pressure engine).
+  - If you cannot control lateral angle (high scramble risk).
+
+- Failure-first diagnosis
+  - Failure: scramble.
+    - Cause: flat fall or distance.
+    - Fix: side fall angle + close hip.
+
+- Common misdiagnosis → real cause
+  - “Uki Waza is risky.” → it’s risky when you fall flat; lateral angle and closeness remove most risk.
+
+- Drills
+  - Pressure-bait → lateral drop reps (slow to controlled speed).
 
 - Links
-  - Connects back to Volume 3’s Uki Waza study; you now see it in the overhook ecosystem.
+  - SYS: Uki Waza system
+  - VN03: Dedicated Uki Waza volume (core mechanics + entries)
 
-- Your notes
-  - (Note which directions feel safest to fall for you; record any bad landings to avoid.)
 
----
+### 5.7 Kosoto Gake (30:23–36:25)
+- Classification
+  - Primary teaching throw (once step-around safety is mastered)
 
-## 5.7 Kosoto Gake (30:23–36:25)
-
-- Time
-  - 30:23–36:25
+- Primary Decision Rule
+  - If overhook denies posts and you can align knees safely, kosoto becomes your safest backward trip.
 
 - Goal
-  - Add a rear/outer trip (Kosoto Gake) from the same overhook clinch as a lower-amplitude, high-control finish.
+  - Apply outside trip from overhook with controlled backward finish.
 
-- Key ideas
-  - Used when opponent steps their leg back to avoid hip throws or Uki Waza.
-  - Your foot hooks behind their heel/calf; upper body does most of the work.
-  - Small, controlled trip – ideal for Jiu Jitsu scoring and safety.
+- Gates
+  - Overhook clamp denies posting.
+  - Step-around + knee alignment is achievable.
 
-- Core mechanics
-  - Position
-    - Overhook and head/lat control; chest close.
-    - Draw them slightly forward so weight is shared between their feet.
-  - Entry
-    - Step around their near leg so you are beside/behind it.
-    - Hook your reaping foot behind their heel/calf (outside of their leg).
-  - Finish
-    - Pull upper body backward/diagonal while driving your hips forward.
-    - Keep hook engaged; think “drag them over the hook” rather than kicking.
-    - Guide them down into side control or chest-to-chest pins.
+- Controls
+  - Step-around footwork creates alignment.
+  - Safety step prevents twisting finishes.
+  - Reap behind heel line.
 
-- Cues to remember
-  - “Overhook turns, hook collects.”
-  - “Trip, don’t kick.”
-  - “If they retreat the leg vs hip throws, punish with Kosoto.”
+- Primary line
+  - Step around.
+  - Safety step to align knees.
+  - Sit back + pull to topple over reap.
+
+- First Follow-Up
+  - Chest-to-chest settle → pin.
+
+- When NOT to use this
+  - If you cannot perform the safety step (avoid twisting knees).
+  - If you’re attempting step-behind without stable upper-body control.
+
+- Failure-first diagnosis
+  - Failure: awkward fall.
+    - Cause: skipping safety step.
+    - Fix: step-around → safety step → sit (always).
+
+- Common misdiagnosis → real cause
+  - “He’s too heavy to trip.” → your alignment is wrong; you’re not sitting into the chair.
+
+- Drills
+  - Step-around + safety-step reps (non-negotiable).
+  - Kosoto → 3-second pin settle.
 
 - Links
-  - Rounds out the overhook suite: big hip throws, sacrifice throw, and low trip.
+  - SYS: Kosoto gake variants
+  - VN06: Step-around/calf-to-calf kosoto variants (higher lock)
 
-- Your notes
-  - (Note which stance patterns from Sam make this feel easiest.)
 
----
+### 5.8 Over/Under Uki Goshi (36:25–42:33)
+- Classification
+  - Primary teaching throw (core platform)
 
-## 5.8 Throwing from the Over/Under Tie-Up – Uki Goshi (Half Hip Throw) (36:25–42:33)
-
-- Time
-  - 36:25–42:33
+- Primary Decision Rule
+  - If you have over/under, create angle first; then half-hip spiral is high-percentage.
 
 - Goal
-  - Transfer the half-hip throwing skill into a symmetrical over/under clinch, managing the “who’s winning” side.
+  - Use over/under tie to hit half-hip throws with bilateral control.
 
-- Key ideas
-  - Over/under is a common no-gi tie; you must determine which side is dominant.
-  - Your underhook side and head position usually dictate who can throw.
-  - The throw still depends on getting your hip across and under their center.
+- Gates
+  - Over/under locked.
+  - You can create angle (side-on) before entry.
 
-- Core mechanics
-  - Position
-    - One underhook, one overhook; forehead under their jaw on the underhook side.
-    - Shoulder pressure into their chest; hips close.
-  - Kuzushi
-    - Use underhook to lift and turn them.
-    - Use overhook to clamp and prevent them from turning away.
-  - Entry
-    - Step in on underhook side, turning your hips across their stance.
-    - Slide into half-hip contact (Uki Goshi style) – not fully across.
-  - Finish
-    - Rotate them over your hip, pulling with underhook and steering with head.
-    - Keep overhook tight to prevent posting or turning.
+- Controls
+  - Bilateral torso control reduces escape risk.
+  - Angle prevents force-on-force.
 
-- Cues to remember
-  - “Win the underhook side, win the throw.”
-  - “Head and underhook together are your steering wheel.”
-  - “Same half-hip feel, new tie.”
+- Primary line
+  - Create angle.
+  - Turn toes; half-hip insertion.
+  - Spiral down into pin.
+
+- First Follow-Up
+  - Pin settle → pressure passing start.
+
+- When NOT to use this
+  - If you remain square and cannot angle (entry becomes stalled).
+  - If your lock is loose and sliding (regrip before entry).
+
+- Drills
+  - Angle-creation rounds: over/under → angle → uki goshi.
 
 - Links
-  - Bridges the earlier overhook suite with the upcoming over/under knee-drop and trip options.
+  - SYS: Over/under throwing hub
+  - VN06: Body-lock half-hip throws (same “close contact” outcomes)
 
-- Your notes
-  - (Note which side you prefer to throw from in over/under.)
 
----
+### 5.9 Single Knee Drop Variation (42:33–46:42)
+- Classification
+  - Adaptation (stability modifier)
 
-## 5.9 Single Knee Drop Variation (42:33–46:42)
-
-- Time
-  - 42:33–46:42
+- Primary Decision Rule
+  - If balance demand is high, add knee-drop to stabilise the finish and ensure control.
 
 - Goal
-  - Learn a compact, lower-impact Uki Goshi variation from over/under using a single-knee drop.
+  - Reduce balance demands during finish.
 
-- Key ideas
-  - Dropping one knee lowers your center and gives a powerful, close-range throw.
-  - Useful for shorter or less explosive athletes or when opponent is very upright.
-  - Still a hip-based throw; the knee drop just compresses the movement.
+- Gates
+  - Control maintained through entry.
 
-- Core mechanics
-  - Setup
-    - Standard over/under with dominant underhook/head side.
-  - Drop
-    - Step in as for Uki Goshi, then drop the knee on your underhook side to the mat.
-    - Keep your other foot planted as a pivot and drive base.
-  - Throw
-    - Rotate and pull them over your hip and dropped knee.
-    - Head and underhook lift while overhook clamps and guides.
+- Controls
+  - Knee-drop stabilises center of gravity and reduces roll-through risk.
 
-- Cues to remember
-  - “Knee down, hips still in.”
-  - “Shorter lever, same rotation.”
-  - “Drop to throw, not to stall.”
+- Primary line
+  - Initiate throw.
+  - Drop one knee as opponent falls.
+  - Maintain chest pressure and lock.
+
+- First Follow-Up
+  - Pin settle immediately.
+
+- When NOT to use this
+  - If dropping early collapses posture (drop only at finish phase).
+
+- Drills
+  - Entry → knee-drop timing reps.
 
 - Links
-  - Good choice when your back/hips feel less happy with full standing rotation.
-  - Precursor to double-knee drop variation.
+  - VN08: Older-athlete low-impact finishing logic
 
-- Your notes
-  - (Note how the knee drop affects your ability to follow them to top.)
 
----
+### 5.10 Double Knee Drop Variation (46:42–50:28)
+- Classification
+  - Adaptation (maximum stability)
 
-## 5.10 Double Knee Drop Variation (46:42–50:28)
-
-- Time
-  - 46:42–50:28
+- Primary Decision Rule
+  - If you need maximum stability (fatigue, slipperiness), double knee-drop ensures the finish.
 
 - Goal
-  - Add a double-knee-drop version of the over/under hip throw for very tight, compact entries.
+  - Maximise stability and control on landing.
 
-- Key ideas
-  - Both knees go to the mat for an even lower center of gravity.
-  - More “sacrifice-like” feel; your body acts as a low fulcrum.
-  - Especially useful when you want to avoid high-amplitude throws.
+- Gates
+  - Entry is controlled; you can guide descent safely.
 
-- Core mechanics
-  - Setup & drop
-    - Over/under position as before.
-    - Step in, then drop both knees together in line with their center.
-    - Keep hips pressed into them so your knees don’t “run away” from their feet.
-  - Throw
-    - Use underhook/head to pull them forward and down over your hip/thigh line.
-    - Overhook clamps shoulder and prevents them from stepping out.
-  - Follow-up
-    - As they fall, pop up off your knees into a top control.
-    - Prioritize chest connection before worrying about grips.
+- Controls
+  - Both knees drop to remove balance requirement; grips stay locked.
 
-- Cues to remember
-  - “Both knees down, chest still in.”
-  - “Low fulcrum, high rotation.”
-  - “Use it when you want control, not amplitude.”
+- Primary line
+  - Initiate throw.
+  - Drop both knees.
+  - Guide opponent down; keep lock until pin is settled.
+
+- When NOT to use this
+  - If your posture collapses forward (keep chest up as you drop).
 
 - Links
-  - Sits between traditional hip throws and full sacrifice throws in risk level.
+  - SYS: Low-impact finishing variants
 
-- Your notes
-  - (Note whether you prefer single vs double knee drop for your body type.)
 
----
+### 5.11 Uki Waza (50:28–56:45)
+- Classification
+  - Situational throw (platform reinforcement)
 
-## 5.11 Uki Waza from Over/Under (50:28–56:45)
-
-- Time
-  - 50:28–56:45
+- Primary Decision Rule
+  - If over/under is tight and opponent drives, lateral drop remains available as a repeatable option.
 
 - Goal
-  - Apply Uki Waza lateral-drop mechanics directly from an over/under tie.
+  - Reinforce lateral drop mechanics from over/under tie.
 
-- Key ideas
-  - Same lateral-drop idea as overhook Uki Waza, but now anchored in symmetric clinch.
-  - Great counter when opponent drives into you aggressively in over/under.
-  - Fall to the side where you can best block their leg and deny posts.
+- Gates
+  - Tight over/under.
+  - Correct lateral fall angle.
 
-- Core mechanics
-  - Position
-    - Over/under, head low on underhook side, hips close.
-  - Off-balance
-    - Draw them forward and slightly to the side of your planned fall.
-  - Drop
-    - Sit or fall sideways, blocking their leg with your near leg/hip.
-    - Keep your underhook lifting and your overhook clamping.
-  - Rotation
-    - Turn them over your body along the diagonal of their compromised base.
-    - Land on your side or hip, with chest oriented to follow up on top.
+- Controls
+  - Upper-body clamp.
+  - Side fall, not flat.
 
-- Cues to remember
-  - “When they drive too hard, disappear sideways.”
-  - “Block the leg, rotate the chest.”
-  - “Underhook lifts, overhook traps.”
+- Primary line
+  - Step in.
+  - Sit to side.
+  - Pull opponent over.
 
 - Links
-  - Completes the over/under hip + sacrifice set: hip throws, knee drops, and lateral drop.
+  - VN03: Uki Waza core system
 
-- Your notes
-  - (Write down which direction of fall feels safest/easiest.)
 
----
+### 5.12 Ouchi Gari (56:45–1:02:04)
+- Classification
+  - Situational throw (weight-triggered)
 
-## 5.12 Ouchi Gari (Inside Trip) from Over/Under (56:45–1:02:04)
-
-- Time
-  - 56:45–1:02:04
+- Primary Decision Rule
+  - If you can load weight onto their leg, inside trip becomes high-percentage; if not loaded, don’t reap yet.
 
 - Goal
-  - Add an inside trip from over/under to punish narrow stances and weight shifts.
+  - Apply inside trip when weight shifts forward.
 
-- Key ideas
-  - Inside trip targets the leg between your bodies.
-  - Upper body off-balance is critical; the leg is just the final trap.
-  - Small, controlled motion – high percentage for Jiu Jitsu rules.
+- Gates
+  - Weight loaded onto target leg.
 
-- Core mechanics
-  - Setup
-    - Over/under stance with your head on underhook side.
-    - Pull them slightly forward and across their near leg.
-  - Entry
-    - Step in close on underhook side.
-    - Reap inside of their near leg with your same-side leg.
-    - Heel catches just above their heel; knee slightly bent.
-  - Finish
-    - Pull them over the reaping leg while driving with your hips.
-    - Keep chest connection to steer them into the mat.
-    - Land in a top orientation where you can immediately pass or stabilize.
+- Controls
+  - Arms control torso; leg reaps inside line.
 
-- Cues to remember
-  - “Hands first, leg last.”
-  - “Reap the inside line they’re standing on.”
-  - “Trip where their weight already is.”
+- Primary line
+  - Load weight.
+  - Reap inside.
+  - Pull forward/down into top.
 
 - Links
-  - Connects to previous Ouchi work from cow catcher; same mechanics, new tie.
+  - SYS: Ouchi Gari node
 
-- Your notes
-  - (Note whether you prefer reaping straight back or slightly diagonal.)
 
----
+### 5.13 Step-Around Kosoto Gake (1:02:04–1:10:21)
+- Classification
+  - Primary (safety/angle upgrade)
 
-## 5.13 Step-Around Kosoto Gake (1:02:04–1:10:21)
-
-- Time
-  - 1:02:04–1:10:21
+- Primary Decision Rule
+  - If kosoto is available, step-around alignment upgrades success and safety.
 
 - Goal
-  - Use a step-around outer reap from over/under to attack the far leg from behind.
+  - Strengthen kosoto finish through improved alignment.
 
-- Key ideas
-  - Step all the way around their leg so your back is almost to their side/back.
-  - The reap is more “behind the heel” than side-on.
-  - Excellent follow-up when they defend inside trips or hip throws by stepping back.
+- Gates
+  - Step-around angle achieved.
 
-- Core mechanics
-  - Entry
-    - From over/under, pivot and step your outside leg around their near leg.
-    - You end almost side/back of them, with your reaping leg behind theirs.
-  - Hook & reap
-    - Hook your calf/heel behind their leg at or just above the heel.
-    - Pull them backward/diagonal over the trapped leg.
-  - Upper body
-    - Underhook lifts and rotates; overhook clamps shoulder.
-    - Keep head close so they cannot easily turn away or spin behind.
+- Controls
+  - Knee alignment + outside reap.
 
-- Cues to remember
-  - “Step around the leg before you reap.”
-  - “Collect heel, then rotate chest.”
-  - “If they step back to escape, follow around and trip.”
+- Primary line
+  - Step around.
+  - Align knees.
+  - Sit and rotate opponent down.
 
 - Links
-  - Bridges Ouchi (inside) and classic Kosoto (outside/behind) options from the same tie.
+  - VN06: Step-around kosoto variants
 
-- Your notes
-  - (Record how far around you need to step to feel strong; note what breaks for you.)
 
----
+### 5.14 Kosoto Gake Calf-to-Calf Variation (1:10:21+)
+- Classification
+  - Situational (leg-locking upgrade)
 
-## 5.14 Kosoto Gake – Calf-to-Calf Variation (1:10:21+)
-
-- Time
-  - 1:10:21–end of volume
+- Primary Decision Rule
+  - If opponent keeps stepping out of kosoto, calf-to-calf contact locks the escape.
 
 - Goal
-  - Refine Kosoto Gake with a calf-to-calf configuration for maximum control.
+  - Prevent leg escape by locking calf-to-calf.
 
-- Key ideas
-  - Both calves come into contact to “lock” the leg.
-  - Less about kicking, more about rotating them over a fixed block.
-  - Very stable; good for Jiu Jitsu where you care about clean top landings.
+- Gates
+  - Deep step behind opponent’s leg line.
 
-- Core mechanics
-  - Leg position
-    - Step around as in step-around Kosoto.
-    - Slide your calf tightly against the back of their calf.
-    - Sometimes both calves “pinch” their leg between them.
-  - Finish
-    - Rotate your upper body while keeping that calf contact constant.
-    - Let them “roll over” your leg rather than knocking it out from under them.
-    - Maintain chest contact so you land in control.
+- Controls
+  - Calf glued to calf.
+  - Upper-body clamp maintained.
 
-- Cues to remember
-  - “Calf-to-calf, then turn.”
-  - “Pin, then rotate – don’t kick.”
-  - “Lock the leg, move the torso.”
+- Primary line
+  - Step deep.
+  - Glue calf.
+  - Sit and rotate opponent down.
 
 - Links
-  - Highest-control version of the Kosoto trip from over/under.
-  - Good option when you want very low risk of scramble.
-
-- Your notes
-  - (Note how much pressure you need before they topple; adjust for weight/height differences between you and Sam.)
+  - VN06: Calf-to-calf kosoto variants
 
 ---
+
+## Volume 5 Drilling Ladder (Isolation → Constrained Live → Integrated Live)
+- Isolation (technical reps)
+  - 5.1 Overhook uki goshi: clamp → rotate → pivot → stab-step → spiral-down → 3-second pin.
+  - 5.2 Tai otoshi: square → block placement → head/shoulder turn → finish.
+  - 5.3 One-hand tai otoshi: block placement + head turn; no pulling with free hand.
+  - 5.4 Uchi mata: posture-break only → deep leg insertion only → then combine.
+  - 5.7/5.13 Kosoto: step-around + safety step sequencing (no finish until alignment is correct).
+
+- Constrained live (one reaction allowed)
+  - “Opponent turns to knees on landing” (mandatory branch): connect front headlock immediately.
+  - “Opponent hops” vs 5.4: ken-ken chase only; cannot bail to other throw.
+  - “Opponent steps around block” vs 5.2: must resquare, then reinsert.
+
+- Integrated live (rules-based sparring)
+  - Start from overhook/over-under only; score only from throws in VN05.
+  - Add scoring constraint: takedown counts only if you hold 3 seconds in top control (pin bias).
+  - Add follow-up constraint: any knee-landing by opponent must trigger front headlock attempt within 2 seconds.
+
+(End VN S2G V5 — upgraded coach-grade with decision rules, negative constraints, follow-ups, links, and drilling ladder)
