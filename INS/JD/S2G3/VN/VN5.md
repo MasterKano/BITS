@@ -14,7 +14,7 @@
   - Reaching with hands instead of building control (elbow/head/hip).
   - Finishing without a follow-up plan (pin or front headlock).
 
-'''
+
 VN05 (Volume 5) — ASCII Overview (Chapter Map)
 
                     +------------------------------+
@@ -172,7 +172,7 @@ DENSE EXPLAINER NOTES (How to use this map to learn/teach Volume 5)
 - They can do 5.13 with correct safety step and knee alignment.
 - When they hit 5.3, they auto-connect front headlock on knee-turn landings.
 - They can choose Uki Waza only when pressure is given, not when it isn’t.
-'''
+
 
 ---
 
