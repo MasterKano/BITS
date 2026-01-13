@@ -1,6 +1,91 @@
 # VIEWING NOTES — Standing to Ground 3: Upper Body Takedowns (John Danaher)
 ## VN02 — Volume 2: Special Study — The Cow Catcher (Head Control + Tight Waist)
 
+## VN02 (Volume 2) — ASCII Chapter Map
+S2G3: Upper Body Takedowns — The Cow Catcher (Head Chancery / Cement Mixer)
+~~~
+LEGEND
+- CC = Cow Catcher core finish (head + shoulder control → pin/half-nelson outcome)
+- HS = Head steering (chin strap / hand-through)
+- TW = Tight waist / underhook/lat clamp (torso anchoring)
+- CUE = primary defender cue that selects the branch
+
++----------------------------------------------------------------------------------+
+|                                   VN02: COW CATCHER                              |
+|                    (conversion system: head control moment → takedown → pin)     |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 2.1 CORE MECHANICS (0:00–13:01)                                                 |
+|   HS + TW + ANGLE  →  drive away from base  →  land in pin (pin first)          |
+|   Finish upgrade: chin strap early → hand-through/back-of-hand-on-chest late     |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 2.2 TWO ACQUISITION PATHS (13:01–18:20)                                         |
+|   Path A: HS-first (chin strap first)                                           |
+|   Path B: TW-first (tight waist first / angle-first)                            |
+|   Rule: get BOTH anchors before hard commitment                                |
++------------------------------------------+---------------------------------------+
+                 |                                                |
+                 |                                                |
+                 v                                                v
++------------------------------------------+     +------------------------------------------+
+| 2.3 GO-BEHIND SETUPS (18:20–24:19)       |     | 2.9 WAIST-FIRST ENTRY (55:26–1:03:08)   |
+| Snapdown → Front headlock → threaten     |     | Hand-fight → TW first → head-lowering   |
+| go-behind → opponent REACHES → CC        |     | trigger → CC (knee-drop + rotate)       |
++------------------------------------------+     +------------------------------------------+
+                 |                                                |
+                 +--------------------------+---------------------+
+                                            |
+                                            v
++----------------------------------------------------------------------------------+
+| 2.4 DEFENDER CUE: ELBOW POSITION (24:19–26:57)                                  |
+|   CUE 1: Elbow EXTENDS / reaches  → CC entry opens (elbow-to-elbow, arm-across) |
+|   CUE 2: Elbow CLAMPS / retracts  → go-behind becomes easy (dilemma)            |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 2.5 COMPLETION TOOL: ROLL-THROUGH (26:57–33:47)                                 |
+|   Trigger: elbow clamp blocks arm-across / finish stalls                         |
+|   Solution: head-through + base build + whip → re-enter CC pin on opposite side |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 2.6 DEFENDER ESCALATION: STANDING UP (33:47–41:53)                              |
+|   Trigger: knees come off mat / posture rises                                   |
+|   Solution: Yoko Sumi Gaeshi (lateral redirect) → return to ground control      |
++------------------------------------------+---------------------------------------+
+                      |                                        |
+                      |                                        |
+                      v                                        v
++------------------------------------------+     +------------------------------------------+
+| 2.7 COMPLEMENT: OUCHI GARI (41:53–48:04) |     | 2.8 SETUP: STOPPING A SHOT (48:04–55:26)|
+| Trigger: weight commits forward/one leg  |     | Shot defense → attach upstairs → CC /   |
+| Solution: inside trip while staying      |     | or yoko (esp. high single)              |
+| attached to head/torso controls          |     |                                          |
++------------------------------------------+     +------------------------------------------+
+                      \                                        /
+                       \                                      /
+                        v                                    v
++----------------------------------------------------------------------------------+
+| 2.10 DRILLING SCENE / INTEGRATION (1:03:08+)                                    |
+|  System loop: entry → 2 anchors → angle → finish                               |
+|  Add forced defenses: elbow clamp → roll-through; stand-up → yoko;               |
+|  resistance spike → optional ankle pick; multi-roll persistence                  |
++----------------------------------------------------------------------------------+
+
+PRACTICAL “READ & REACT” CARD (micro-map)
+- If you have HS + TW + angle → finish CC.
+- If elbow REACHES → CC is easiest.
+- If elbow CLAMPS → go-behind or roll-through.
+- If knees come OFF mat / they STAND → yoko sumi gaeshi (or safer sit-down option).
+- If it STALLS → roll-through; if they SHOOT → stop shot → attach upstairs.
+~~~
 ---
 
 ## Volume 2 Doctrine Summary (Readable / Explanatory)
