@@ -1,5 +1,6 @@
 # VIEWING NOTES — Standing to Ground 3: Upper Body Takedowns (John Danaher)
 
+~~~
 flowchart TD
   %% VN03 — System Map (Uki Waza / Lateral Drop Family)
   %% Read top-down: Starting handle → chosen module → universal engines → outcomes.
@@ -57,7 +58,7 @@ flowchart TD
   - **Directionality**: take the opponent **where their head is pointing**, and finish only when your chest/belly is facing the mat. :contentReference[oaicite:5]{index=5}
 - Operational summary cue
   - “Sacrifice underneath → remove the post → block the step → land chest-down.”
-
+~~~
 ---
 
 ## 3.1 Special Study: Uki Waza — Arm Drag and Hip Variation (0:00–11:40) 
