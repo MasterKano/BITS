@@ -399,7 +399,7 @@
 
 ### C) Uki Waza Entry Tree (ASCII)
 
-```
+~~~
 ENTRY HANDLE →
 ├─ Arm drag (can't get angle/back) →
 │ lat grip + outside step → (optional foot block) → chest-to-chest pin
@@ -418,7 +418,7 @@ finish chest-down
 ├─ Setup if elbow tight: stabbing step → hand to mat → underhook lane opens
 └─ Stronger/safer variant: replace underhook with 2-on-1 trap
 
-```
+~~~
 
 (End VN03 — ready for Archive → “VN – S2G Volume 3”)
 
