@@ -774,3 +774,99 @@ DENSE EXPLAINER NOTES (How to use this map to learn/teach Volume 5)
   - Add follow-up constraint: any knee-landing by opponent must trigger front headlock attempt within 2 seconds.
 
 (End VN S2G V5 — upgraded coach-grade with decision rules, negative constraints, follow-ups, links, and drilling ladder)
+
+~~~
+VN05 (Volume 5) — ASCII Chapter Map
+S2G3: Upper Body Takedowns — Over-Under / Underhook / Upper-Body Throwing Suite (Volume 5)
+
+NOTE
+- This map reflects the VN05 structure you’ve been using (chapter 5.1…5.x) and your “links” concept.
+- If you want this to mirror the exact Titles.txt naming/timestamps for Volume 5, tell me and I will align it 1:1.
+
+LEGEND
+- U/H = Underhook platform
+- O/H = Overhook (whizzer) platform
+- O-U = Over-Under (one underhook, one overhook)
+- FHL = Front headlock
+- TOP = pin/top-control landing emphasis
+- CUE = defender cue that selects the branch
+
++----------------------------------------------------------------------------------+
+|                                     VN05: VOLUME 5                               |
+|                 (Primary objective: clinch platform → throw → TOP landing)       |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 5.1 PLATFORM / ENTRY (Clinch Acquisition + Safety Rules)                         |
+|  - Win inside space + head position                                              |
+|  - Deny angle + deny hip entry                                                   |
+|  - Build stable grips (underhook / overhook / over-under)                        |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 5.2 UNDERHOOK BRANCH (U/H attack suite)                                          |
+|  - Shoulder control + angle creation → turn them into empty space                |
+|  - Typical outputs: hip throws / turn-downs / trips (TOP emphasis)               |
++------------------------------------------+---------------------------------------+
+                     |                                            |
+                     |                                            |
+                     v                                            v
++------------------------------------------+     +------------------------------------------+
+| 5.3 LANDING / TURN REACTION (TOP TRANS)  |     | 5.4 OVERHOOK BRANCH (O/H counter suite) |
+|  CUE: opponent turns on landing          |     |  Trigger: opponent wins underhook or    |
+|  → connect to FHL + top control          |     |  drives in → you convert pressure to    |
+|  → pin consolidation / passing starts    |     |  throws/trips (TOP emphasis)            |
++------------------------------------------+     +------------------------------------------+
+                     |                                            |
+                     +--------------------------+-----------------+
+                                            |
+                                            v
++----------------------------------------------------------------------------------+
+| 5.5 OVER-UNDER HUB (O-U “decision fork”)                                         |
+|  - Both have strong grips → symmetry is dangerous unless you create angle        |
+|  - CUE: opponent posture / base tells you which family to use                    |
++------------------------------------------+---------------------------------------+
+            |                              |                                 |
+            |                              |                                 |
+            v                              v                                 v
++---------------------------+   +---------------------------+    +---------------------------+
+| 5.6 TRIP FAMILY           |   | 5.7 HIP/ROTATION FAMILY   |    | 5.8 SACRIFICE / DROP      |
+|  CUE: weight on one leg   |   |  CUE: shoulders ahead     |    |  CUE: forward pressure or |
+|  → inside/outside trips   |   |  → hip/turning throws     |    |  opponent driving in      |
+|  → safest “older athlete” |   |  → bigger rotation output |    |  → lateral drops / uki    |
+|  option (TOP finish)      |   |  but requires clean angle |    |  waza style finishes      |
++---------------------------+   +---------------------------+    +---------------------------+
+            |                              |                                 |
+            +------------------------------+---------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 5.9 FAILURE MODES + RECOVERY                                                     |
+|  - If you miss the throw: re-square → re-clinch OR attach FHL                    |
+|  - If they turn on landing: immediate FHL top control connections                |
+|  - If posture breaks: go-behind / back exposure options                          |
++------------------------------------------+---------------------------------------+
+                                           |
+                                           v
++----------------------------------------------------------------------------------+
+| 5.10 DRILLING / INTEGRATION LOOP                                                 |
+|  Entry → platform → choose branch by cue → throw → TOP consolidation             |
+|  Add constraints:                                                                |
+|   - “No angle, no throw”                                                         |
+|   - “Pin for 3 seconds = success”                                                |
+|   - “If they turn on landing → FHL within 2 seconds”                             |
++----------------------------------------------------------------------------------+
+
+MICRO “READ & REACT” CARD (operational cues)
+- If you have angle + inside space → throw/trip.
+- If opponent wins underhook / drives → overhook branch.
+- If you are in over-under symmetry → create angle first; then choose:
+  - weight on one leg → trip family,
+  - shoulders ahead / hips close → hip/rotation family,
+  - heavy forward pressure → sacrifice/lateral drop family.
+- If they turn on landing (e.g., VN5.3) → connect to FHL top control transitions.
+
+~~~
+
