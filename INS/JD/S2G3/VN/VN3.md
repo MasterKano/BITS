@@ -1,4 +1,47 @@
 # VIEWING NOTES — Standing to Ground 3: Upper Body Takedowns (John Danaher)
+
+flowchart TD
+  %% VN03 — System Map (Uki Waza / Lateral Drop Family)
+  %% Read top-down: Starting handle → chosen module → universal engines → outcomes.
+
+  A{Starting handle / trigger?}
+
+  A -->|Arm drag<br/>(can't reach back/leg)| M31[3.1 Arm-drag + Lat Grip Uki Waza]
+  A -->|Arm drag situation<br/>(feet messy / no foot catch)| M32[3.2 No-foot-contact Finish Note]
+  A -->|2-on-1 tie<br/>Opponent reaches over for headlock| M33[3.3 2-on-1 vs Headlock Punish]
+  A -->|Outside Front Headlock| M34[3.4 Front Headlock Uki Waza]
+  A -->|Overhook / Over-under<br/>(classic lateral drop lane)| M35[3.5 Overhook Uki Waza (Lateral Drop)]
+  A -->|Overhook but elbow tight<br/>(can't win underhook)| M36[3.6 Hand-to-Mat Setup → Underhook Lane]
+  A -->|2-on-1 tie<br/>(want safest lateral drop)| M37[3.7 2-on-1 Uki Waza (Strongest/Safest)]
+
+  subgraph E[Universal Engines (must show up in every variation)]
+    E1[Post denial<br/>(trap posting arm/hand)]
+    E2[Angle + directionality<br/>(drive toward no-base space)]
+    E3[Step denial<br/>(block/catch their step)]
+    E4[Sacrifice mechanics<br/>(side fall + correct turn)]
+    E5[Finish criterion<br/>(chest/belly facing mat)]
+  end
+
+  M31 --> E
+  M32 --> E
+  M33 --> E
+  M34 --> E
+  M35 --> E
+  M36 --> M35
+  M37 --> E
+
+  E --> O{Landing quality?}
+
+  O -->|Clean chest-to-chest / chest-down| P1[Pin settle (score-first outcome)]
+  O -->|Not clean / they knee-up fast| P2[Immediate go-behind (don’t stall on knees)]
+  O -->|Guillotine lock tight (front HL variant)| P3[Guillotine finish OR mount jump]
+
+  P1 --> R[System loop complete]
+  P2 --> R
+  P3 --> R
+
+
+
 ## VN03 — Volume 3: Special Study — Uki Waza (Sacrifice Throw / “Lateral Drop”)
 
 **Sources:** Volume 3 chapter list + time ranges :contentReference[oaicite:0]{index=0} ; Volume 3 transcript :contentReference[oaicite:1]{index=1}  
