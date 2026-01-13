@@ -1,65 +1,24 @@
 # VIEWING NOTES — Standing to Ground 3: Upper Body Takedowns (John Danaher)
 
-~~~
-flowchart TD
-  %% VN03 — System Map (Uki Waza / Lateral Drop Family)
-  %% Read top-down: Starting handle → chosen module → universal engines → outcomes.
+## Contents (VN03 — Volume 3: Special Study — Uki Waza)
 
-  A{Starting handle / trigger?}
+### Viewing Notes
+- [3.0 Volume 3 — System Doctrine (compact)](#30-volume-3--system-doctrine-compact)
+- [3.1 Special Study: Uki Waza — Arm Drag and Hip Variation](#31-special-study-uki-waza--arm-drag-and-hip-variation)
+- [3.2 Special Note on Arm Drag and Hip Variation](#32-special-note-on-arm-drag-and-hip-variation)
+- [3.3 2 on 1 Opponent Headlocks](#33-2-on-1-opponent-headlocks)
+- [3.4 Front Headlock Uki Waza](#34-front-headlock-uki-waza)
+- [3.5 Overhook Uki Waza — The Lateral Drop](#35-overhook-uki-waza--the-lateral-drop)
+- [3.6 My Favorite Setup — Overhook Uki Waza](#36-my-favorite-setup--overhook-uki-waza)
+- [3.7 2 on 1 Uki Waza — Strongest Lateral Drop](#37-2-on-1-uki-waza--strongest-lateral-drop)
+- [3.X Explainers (high-density, readable)](#3x-explainers-high-density-readable)
 
-  A -->|Arm drag<br/>(can't reach back/leg)| M31[3.1 Arm-drag + Lat Grip Uki Waza]
-  A -->|Arm drag situation<br/>(feet messy / no foot catch)| M32[3.2 No-foot-contact Finish Note]
-  A -->|2-on-1 tie<br/>Opponent reaches over for headlock| M33[3.3 2-on-1 vs Headlock Punish]
-  A -->|Outside Front Headlock| M34[3.4 Front Headlock Uki Waza]
-  A -->|Overhook / Over-under<br/>(classic lateral drop lane)| M35[3.5 Overhook Uki Waza (Lateral Drop)]
-  A -->|Overhook but elbow tight<br/>(can't win underhook)| M36[3.6 Hand-to-Mat Setup → Underhook Lane]
-  A -->|2-on-1 tie<br/>(want safest lateral drop)| M37[3.7 2-on-1 Uki Waza (Strongest/Safest)]
+### Diagrams (at end of VN03)
+- [VN03 — ASCII System Map](#vn03--ascii-system-map-uki-waza--lateral-drop-family)
+- [VN03 — ASCII Decision Tree](#vn03--ascii-decision-tree-logic--decision-process)
+- [VN03 — ASCII Execution Gates](#vn03--ascii-execution-gates-mechanics--diagnosis)
+- [VN03 — ASCII Reaction Matrix](#vn03--ascii-reaction-matrix-opponent-action--your-response)
 
-  subgraph E[Universal Engines (must show up in every variation)]
-    E1[Post denial<br/>(trap posting arm/hand)]
-    E2[Angle + directionality<br/>(drive toward no-base space)]
-    E3[Step denial<br/>(block/catch their step)]
-    E4[Sacrifice mechanics<br/>(side fall + correct turn)]
-    E5[Finish criterion<br/>(chest/belly facing mat)]
-  end
-
-  M31 --> E
-  M32 --> E
-  M33 --> E
-  M34 --> E
-  M35 --> E
-  M36 --> M35
-  M37 --> E
-
-  E --> O{Landing quality?}
-
-  O -->|Clean chest-to-chest / chest-down| P1[Pin settle (score-first outcome)]
-  O -->|Not clean / they knee-up fast| P2[Immediate go-behind (don’t stall on knees)]
-  O -->|Guillotine lock tight (front HL variant)| P3[Guillotine finish OR mount jump]
-
-  P1 --> R[System loop complete]
-  P2 --> R
-  P3 --> R
-
-
-
-## VN03 — Volume 3: Special Study — Uki Waza (Sacrifice Throw / “Lateral Drop”)
-
-**Sources:** Volume 3 chapter list + time ranges :contentReference[oaicite:0]{index=0} ; Volume 3 transcript :contentReference[oaicite:1]{index=1}  
-**Terminology note:** Titles file uses *Uki Waza*; transcript frequently says *Uke Waza* in the same context (sacrifice / lateral drop mechanics). Treat as the same module here. 
-
----
-
-## 3.0 Volume 3 — System Doctrine (compact)
-- Central idea
-  - Uki Waza is a **sacrifice throw** whose reliability comes from (a) denying posts and (b) directing the fall so you land **chest-down / chest-to-chest** rather than in a roll-through scramble. :contentReference[oaicite:3]{index=3}
-- Two recurring success engines (show up in every variation)
-  - **Post denial**: trap the arm/hand that would catch the fall (arm-drag control, 2-on-1 trap, headlock trap, etc.). :contentReference[oaicite:4]{index=4}
-  - **Directionality**: take the opponent **where their head is pointing**, and finish only when your chest/belly is facing the mat. :contentReference[oaicite:5]{index=5}
-- Operational summary cue
-  - “Sacrifice underneath → remove the post → block the step → land chest-down.”
-~~~
----
 
 ## 3.1 Special Study: Uki Waza — Arm Drag and Hip Variation (0:00–11:40) 
 
@@ -466,4 +425,179 @@ finish chest-down
 
 (End VN03 — ready for Archive → “VN – S2G Volume 3”)
 
+~~~
+VN03 — ASCII System Map (Uki Waza / Lateral Drop Family)
+High-level: starting handle → module → universal engines → outcomes
 
+STARTING HANDLE / TRIGGER
+   |
+   +-- Arm drag (can't reach back/leg cleanly)
+   |      |
+   |      +--> 3.1 Arm-drag + Lat Grip Uki Waza
+   |      |
+   |      +--> 3.2 No-foot-contact note
+   |           (used when feet are chaotic / foot catch is unreliable,
+   |            but post denial from the drag is still real)
+   |
+   +-- 2-on-1 tie
+   |      |
+   |      +--> Opponent reaches over for headlock/guillotine attempt
+   |      |        +--> 3.3 2-on-1 punishes headlock with Uki Waza
+   |      |
+   |      +--> You want safest sacrifice version (even if imperfect)
+   |               +--> 3.7 2-on-1 strongest lateral drop
+   |
+   +-- Outside Front Headlock
+   |      |
+   |      +--> 3.4 Front Headlock Uki Waza
+   |           (angle-first; contingency = go-behind if landing not clean)
+   |
+   +-- Overhook / Over-under (classic lateral drop lane)
+          |
+          +--> Underhook/lat lane available
+          |        +--> 3.5 Overhook Uki Waza (classic lateral drop)
+          |
+          +--> Elbow tight; can't win underhook lane yet
+                   +--> 3.6 Hand-to-mat setup → underhook lane opens → 3.5
+
+UNIVERSAL ENGINES (must show up in every variation)
+   1) Post denial  (trap posting arm/hand or force it down)
+   2) Angle + directionality (drive toward no-base space)
+   3) Step denial (block/catch their step; or accept no-contact ONLY with real post denial)
+   4) Safe sacrifice mechanics (side fall + correct turn)
+   5) Finish criterion (chest-down / chest-to-chest pin-ready)
+
+OUTCOMES / CONTINGENCIES
+   |
+   +-- Clean landing (chest-to-chest / chest-down) → Pin settle (score-first outcome)
+   |
+   +-- Not clean / they knee-up fast → Immediate go-behind (do not stall on knees)
+   |
+   +-- Front headlock grip remains strong → Guillotine / mount options (as available)
+
+~~~
+
+~~~
+VN03 — ASCII Decision Tree (Logic + Decision Process)
+Left-to-right: what you have → what you choose → why it works → what if messy
+
+STEP 1: Identify your current handle
+
+A) ARM DRAG HANDLE
+   |
+   |-- Can you reach the back/leg cleanly?
+   |     |-- YES → take the back / finish the drag (outside VN03 focus)
+   |     |
+   |     |-- NO  → they square / you lose angle
+   |             → 3.1 Arm-drag + Lat Grip Uki Waza
+   |                WHY: drag denies posting arm + lat wrap keeps torso attached
+   |
+   |-- Are the feet chaotic / you can't reliably catch their step?
+         → 3.2 No-foot-contact note
+            WHY: missing the foot is acceptable IF the posting arm is truly trapped
+
+B) 2-ON-1 HANDLE
+   |
+   |-- Do they reach over your head for headlock/guillotine?
+   |      → 3.3 2-on-1 punishes headlock
+   |         WHY: their arm is trapped across you, so they can't post well as you drop
+   |
+   |-- Do you want the safest sacrifice variant even if execution is imperfect?
+          → 3.7 2-on-1 strongest lateral drop
+             WHY: arm-across-chest post denial makes “bad attempts” less catastrophic
+
+C) OUTSIDE FRONT HEADLOCK HANDLE
+   |
+   → 3.4 Front headlock Uki Waza
+      WHY: angle-first cornering removes their base; sacrifice lands you top if clean
+      RULE: if landing not clean and they knee-up → go-behind immediately
+
+D) OVERHOOK / OVER-UNDER HANDLE
+   |
+   |-- Can you win high underhook/lat control lane (or already have it)?
+   |      → 3.5 classic lateral drop
+   |         WHY: deep overhook + high underhook turns shoulders; block step; finish chest-down
+   |
+   |-- Is their elbow tight so underhook lane is blocked?
+          → 3.6 hand-to-mat setup
+             WHY: forcing hand to mat creates threat; their rise opens underhook lane → then 3.5
+
+STEP 2: After you drop, choose the continuation
+
+1) Landing is clean (chest-to-chest / chest-down)
+   → stabilize pin (score-first)
+
+2) Landing is not clean; they knee-up quickly
+   → immediate go-behind (do NOT stall on knees)
+
+3) Front headlock grip remains tight and geometry allows
+   → guillotine / mount options (as available)
+
+~~~
+
+~~~V
+
+N03 — ASCII Execution Gates (Mechanics + Diagnosis)
+Top-to-bottom pipeline. If a gate fails, fix it before committing to the sacrifice.
+
+GATE 0 — Correct module selection
+- Arm drag stalled? → 3.1 / 3.2
+- 2-on-1 and they headlock? → 3.3
+- Outside front headlock? → 3.4
+- Overhook/over-under lane? → 3.5 (or 3.6 to create it)
+- 2-on-1 safest lateral? → 3.7
+
+GATE 1 — Post denial is REAL (non-negotiable)
+- Is the posting arm trapped/controlled?
+  - Arm drag: the dragged arm must still be denied as a post.
+  - 2-on-1: arm must be across your chest and controlled.
+  - Overhook: overhook must be elbow-deep enough to compromise posting.
+IF NO → you are “sacrificing into a post” (high reversal/scramble risk).
+FIX → tighten trap / re-grip / reset.
+
+GATE 2 — You have deep steering / attachment (lat wrap or head control)
+IF NO → they rotate out and you land beside them.
+FIX → deepen lat clamp, keep chest close, keep head/shoulder relationship.
+
+GATE 3 — Angle + directionality is correct
+- Are you driving toward no-base space (not into their posts)?
+- Are you turning with the throw (not falling straight back)?
+IF NO → they step/post and you lose.
+FIX → step off-line first; “pick landing spot” with eyes; rotate.
+
+GATE 4 — Step denial exists (block/catch the step)
+- Foot catch/block is ideal.
+- No-foot-contact is acceptable ONLY if Gate 1 (post denial) is strong.
+IF NO → they simply step past and crush you.
+FIX → adjust block leg OR revert to no-contact only when post denial is secured.
+
+GATE 5 — Sacrifice mechanics are safe (side fall + correct turn)
+- Fall to side (not flat back).
+- Turn so you can finish chest-down / chest-to-chest.
+IF NO → roll-through risk spikes.
+FIX → drill the “turn + elbow/side landing” until automatic.
+
+GATE 6 — Finish criterion is satisfied (you are not done yet)
+- Finish only when your chest is over them AND you are pin-ready (chest-down orientation).
+IF NOT FINISHED → treat it as “unfinished work,” not as a completed takedown.
+
+CONTINGENCY RULE (mandatory)
+- If landing is not clean and they knee-up quickly → immediate go-behind.
+  Do not stall on your knees trying to “hold something that isn’t there.”
+
+~~~
+
+VN03 — ASCII Reaction Matrix (Opponent action → Your response)
+Compact coach lookup. Use to debug quickly.
+
+TRIGGER / DEFENSE                        → PRIMARY RESPONSE                       → WHY IT WORKS (1 line)                           → FAILURE MODE TO WATCH
+-------------------------------------------------------------------------------------------------------------------------------
+Arm drag stalls (no back/leg access)     → 3.1 drag + lat grip uki waza            → post denied + torso attached + sacrifice pin     → falling flat/away (no chest-over-chest)
+Feet chaotic; foot catch unreliable      → 3.2 no-foot-contact finish              → post denial substitutes for step denial          → drag loosens; they post and step out
+Opponent reaches over for headlock vs 2-1→ 3.3 2-on-1 headlock punish              → their “headlock” commits them while arm is trapped→ baiting without true 2-on-1
+Outside front headlock available         → 3.4 front headlock uki waza             → angle-first removes base; sacrifice lands on top  → no angle; they post; knee-up scramble
+Overhook/over-under lane exists          → 3.5 classic lateral drop                → deep overhook + high underhook turns shoulders    → finishing sideways/supine (roll-through)
+Elbow tight blocks underhook lane        → 3.6 hand-to-mat setup → then 3.5        → hand-to-mat forces rise → underhook window opens  → hesitation on the rise; window closes
+You want safest sacrifice from 2-on-1    → 3.7 2-on-1 strongest lateral drop       → arm-across-chest denies posts; easier recovery    → weak 2-on-1; arm not really trapped
+They knee-up fast after landing          → immediate go-behind                     → preserves scoring by upgrading to back exposure   → stalling on knees and letting them recover
+~~~
