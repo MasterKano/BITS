@@ -1,4 +1,88 @@
 # VIEWING NOTES — Standing to Ground 3: Upper Body Takedowns (John Danaher)
+
+VN01 (Volume 1) — ASCII Overview (Chapter Map)
+S2G3: Upper Body Takedowns — Concepts & Training Methods
+
+                 +---------------------------------------------+
+                 |         VOLUME 1 = OPERATOR’S MANUAL        |
+                 |  (Defines WHAT to optimize + HOW to train)  |
+                 +--------------------------+------------------+
+                                            |
+        +-----------------------------------+-----------------------------------+
+        |                                                                           |
++-------v-----------------------------------+                   +----------------v----------------+
+| DN: DOCTRINE NOTES (WHY / DESIGN RULES)   |                   | TN: TRAINING NOTES (HOW / DRILLS)|
++-------------------------------------------+                   +----------------------------------+
+| 1.1 Introduction                          |                   | 1.6 Entering upper-body grips      |
+| 1.2 Central takedown problem (JJ scoring) |                   |     - 3 entry pathways (legs→upper)|
+| 1.3 Advantages of upper-body takedowns    |                   | 1.7 Defending a shot (convert)     |
+| 1.4 Disadvantages / risk model            |                   | 1.8 Upper-body grip fighting        |
+| 1.5 Minimum athletic requirements         |                   | 1.9 Pummelling (attribute builder) |
+|                                           |                   | 1.10 Hip jousting (hip denial)     |
++-------------------+-----------------------+                   +-------------------+--------------+
+                    |                                                               |
+                    v                                                               v
+      +-------------+----------------------------------+        +-------------------+----------------------+
+      | DOCTRINE OUTPUT (Series-wide design constraints)|        | TRAINING OUTPUT (Series-wide attributes)  |
+      +-------------------------------------------------+        +-------------------------------------------+
+      | - Control-first takedown design                  |        | - Entry literacy (legs → upper body)      |
+      | - Expect the opponent’s knee-turn/turtle         |        | - Shot defense → immediate clinch capture |
+      | - Angle + posture discipline before commitment   |        | - Tie hierarchy + head position habits    |
+      | - Land connected to torso; stabilize through count|        | - Inside control via pummelling           |
+      | - Minimal-athleticism options are “in-system”     |        | - Hip denial (standing “sprawl” analogue) |
+      +-------------------+------------------------------+        +-------------------+----------------------+
+                          \                                         /
+                           \                                       /
+                            \                                     /
+                             v                                   v
+                +------------------------------------------------------------------+
+                |             VOLUME 1 DELIVERS A “SKILL STACK”                    |
+                |   (Doctrine tells you what matters; training builds the tools)   |
+                +-----------------------------+------------------------------------+
+                                              |
+                                              v
+                 +---------------------------------------------------------------+
+                 |  CORE ACQUISITION HUBS (what later volumes assume you can do) |
+                 +---------------------------------------------------------------+
+                 |  A) Win/retain head position + inside space                    |
+                 |  B) Win ties (underhooks / overhooks / 2-on-1 / body lock)     |
+                 |  C) Create angle + deny hip entry (no “empty hip lane”)        |
+                 |  D) Convert defense to offense (shot defense → upper-body grip)|
+                 +-----------------------------+----------------------------------+
+                                              |
+        +-------------------------------------+--------------------------------------+
+        |                                            |                                 |
+        v                                            v                                 v
++--------------------------+               +---------------------------+    +----------------------------+
+| V2: Cow Catcher System   |               | V3: Uki Waza System       |    | V4: Shot-Counter Systems   |
+| (head+torso conversion)  |               | (sacrifice → chest-down)  |    | (sumi/ude gaeshi responses)|
++--------------------------+               +---------------------------+    +----------------------------+
+        |                                            |                                 |
+        +--------------------------+-----------------+-----------------+---------------+
+                                   |                                   |
+                                   v                                   v
+                 +----------------------------------+     +----------------------------------+
+                 | V5–V7: Throwing Suites            |     | V8: Conservative / low-athletic  |
+                 | (overhooks/underhooks/over-under) |     | finishes + stability emphasis    |
+                 +----------------------------------+     +----------------------------------+
+
+
+EXPLAINER NOTES (How to use this map)
+1) Read DN first when confused about “why this move matters.”
+   - DN defines the scoring problem and the design rules: control-first, angle-first, finish connected.
+
+2) Use TN as your weekly class-building engine.
+   - TN is not theory; it is the training infrastructure that makes later volumes usable under resistance.
+
+3) The intended learning loop is:
+   - TN builds the ties + head/hip habits → those habits enable V2–V4 conversions →
+     those conversions feed V5–V8 throwing suites with better landings and fewer scrambles.
+
+4) If you are “doing techniques” but not improving:
+   - The missing piece is almost always a TN attribute (pummelling quality, hip denial, angle creation)
+     or a DN rule (finishing disconnected, staying square, ignoring knee-turn).
+
+
 ## VN01 — Volume 1: Introduction, Concepts & Training Methods (DN/TN Notation)  [oai_citation:0‡Titles.txt](file-service://file-AiDgUWXoCWC5V4jFHjKJBi)
 
 ---
