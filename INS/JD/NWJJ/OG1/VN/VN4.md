@@ -119,145 +119,199 @@ HEAD HEIGHT check
       v
 Repeat: "Defend to re-offend" (each pass attempt carries counter risk)
 ~~~
-
-# VIEWING NOTES — New Wave Jiu-Jitsu: Open Guard Part 1 (JD)
-## VN04 — Volume 4
+# VN4 — Open Guard Part 1 — Volume 4 (Scenario Playbook Mode; Titles-Aligned)
 
 ## 4.0 Volume 4
-
-### 4.1 Applications — Mobility Based Passes (0:00–7:39)
-- **Objective**
-  - Apply the prior theory (grips/connection, inside position, demarcation, framing) against **mobility-style** passes (fast step-around / “whip past the legs” style).
-- **Key concept**
-  - Mobility passers want **low commitment + speed**: clear the legs quickly and arrive at chest-to-chest before your frames/legs can recompose.
-- **Primary decision rules**
-  - **Never accept “they’re connected to me but I’m not connected to them.”**
-    - If they can push your legs down without you having foot connection, you’re losing the first exchange.
-  - **First contact must be “over the top.”**
-    - Win the “height battle” with your feet: feet **over** their legs makes it hard to whip around.
-  - **Feet must be asymmetrical + mobile.**
-    - Symmetrical feet are easier to staple/scoop/steer; asymmetry makes control harder and buys reaction time.
-  - **Reclaim center line with your feet.**
-    - When they start to circle, your feet should constantly re-point and re-square to keep them in front.
-- **Gates**
-  - If their circling is still “in front” → stay in the **mobility solution set** (foot movement, re-square, re-center).
-  - If they begin a **level change** and threaten knee/hip entry → escalate to **knee–elbow integrity + frames**, then recompose feet.
-- **Controls**
-  - **Foot connection priority:** connect feet to opponent (hooks/pressure) before they connect hands/shoulders to your legs.
-  - **Frame selection is distance-driven:** frame where they are (low vs high), then use the frame to reinsert legs.
-- **Common errors**
-  - Opening guard with “dead feet” (no connection) and letting the passer push legs aside for free.
-  - Treating mobility passing as “hand-fight only” (late response; legs already cleared).
-  - Staying square with static feet; allowing easy step-around angles.
+**Volume intent**
+- Convert prior models into a playbook:
+  - Identify passer archetype (mobility vs pressure),
+  - Apply the correct defensive sequence,
+  - Exit defense into **counter-offense** using a single selector (Golden Rule).
 
 ---
 
-### 4.2 Pressure Based Passes — Stack Passing, Body Lock Passing & Knee Cut Passing (7:39–17:13)
-- **Objective**
-  - Apply Knowledge/Denial and framing principles against **pressure** passes: the passer closes distance, compresses, and stabilizes before finishing.
-- **Key concept**
-  - Pressure passes are built by **close contact + structure** (locks/underhooks/hip control) rather than speed around the legs.
-- **Primary decision rules**
-  - **Stop pressure passing early (at grip + distance) whenever possible.**
-    - Late-stage defense is possible, but it is higher cost.
-  - **If they stack/lock: expose and attack the hands/elbows.**
-    - The “lock” is the engine; removing the lock removes the pass.
-  - **Hamstrings placement matters (don’t give them shoulders).**
-    - If your legs drift too high (hamstrings on shoulders), you allow them to re-lock and re-compress.
-  - **Walk on shoulders to survive stack pressure.**
-    - When stacked, solve compression by mobility (shoulder-walk) rather than pushing.
-- **Stack passing: defensive sequence (as presented)**
-  - Build an initial barrier with **asymmetrical feet** (harder to control).
-  - As the passer drives into stack mechanics:
-    - **Open your structure to expose hands** (create access).
-    - Establish **two-hand control** on the hands/wrists to split and prevent re-lock.
-    - Bring **hamstrings to biceps** (not shoulders) to prevent them re-connecting.
-    - If pressure continues: **walk on shoulders** and keep hands from re-locking.
-    - Reinsert feet via **foot pummeling** and return to neutral/open guard.
-- **Body lock passing: key problem + early stop**
-  - Body lock is the archetype of “pressure passing” because it denies hip mobility and leg reinsertion.
-  - **Primary gate:** if they secure the lock and settle, you are already late—fight at the moment they start to connect.
-- **Knee cut passing: entry cues**
-  - Recognize the approach: level change + angle + inside lane capture.
-  - Your defense must prevent the passer occupying the “space” they’re trying to cut into.
-- **Common errors**
-  - Accepting lock attempts as inevitable and only reacting once you’re compressed.
-  - Hand-fighting without rebuilding frames/legs (you break grips but they immediately reconnect).
-  - Trying to “bench press” stack pressure instead of shoulder-walking and re-framing.
+## 4.1 Applications — Mobility Based Passes (0:00–7:39)
+
+### Scenario definition
+- **Opponent archetype:** fast, low-commitment passer; wants to “whip” around legs and win angle before you can re-square.
+- **Primary threat:** angle capture → hip line access → quick pin.
+
+### Your objectives (in order)
+1) Keep them **in front** (deny angle accumulation).
+2) Maintain **foot connection** (they cannot push legs aside for free).
+3) Escalate only when needed: movement first; frames only when hip line danger appears.
+
+### Trigger conditions
+- Opponent starts circling without deep grips/locks.
+- Opponent’s hands are guiding legs down and around (staple/scoop/steer).
+- You feel your feet becoming “dead” (touching, not hooking).
+
+### Core play: Mobility Defense Loop
+**Step 1 — Re-center with feet (first contact wins)**
+- Rule: if your feet are not “on them,” you are not playing guard.
+- Action: hooks / active feet to keep connection and steer their line back to center.
+
+**Step 2 — Create asymmetry**
+- Rule: symmetrical legs are easy to staple and pass around.
+- Action: stagger feet/angles so one leg is active as a hook while the other is ready to pummel/re-square.
+
+**Step 3 — Re-square immediately on angle attempts**
+- Rule: don’t chase with hands; re-square with hips and feet.
+- Action: pummel/crossover-style reorientation so their circle becomes “front-facing” again.
+
+### Gates (when to escalate)
+- **If still clearly in front of hip line:** stay in mobility loop (feet + re-square).
+- **If they begin level change + close distance toward hip line:** escalate to framing layer (short, structural frames) to prevent penetration, then reinsert feet.
+
+### Failure signatures
+- They push legs down and circle with no cost (no foot connection).
+- You chase their shoulders with hands while your hips/feet lag (angle snowballs).
+- You frame early while they’re still outside hip line (you stall; they keep circling).
+
+### Coaching cues
+- “Feet first. Re-square second. Hands last.”
+- “If they’re circling, your feet must keep them honest.”
 
 ---
 
-### 4.3 Going Beyond the Knowledge/Denial — A Maximizing Theory of Guard Retention (17:13–20:27)
-- **Objective**
-  - Upgrade retention from “don’t get passed” into “don’t get passed **and** punish the attempt.”
-- **Key concept**
-  - **Defense-only retention degrades over time.**
-    - Against equal skill/size, if you only retain, the passer’s repeated cycles eventually accumulate progress and break your structure.
-  - Guard play must be modeled as alternating **cycles**:
-    - **Defensive cycle:** passer is at/beyond hip-line danger; you must prevent pinning.
-    - **Offensive cycle (counter-offense):** once you’ve re-established guard alignment, you must immediately threaten.
-- **Primary decision rules**
-  - Retention is the first skill because it enables psychological commitment to offense:
-    - If you don’t trust retention, you will hesitate even when you have a real finish.
-  - **Every successful retention exchange must end with counter-offense.**
-    - “I stopped the pass” is not the end state; it’s the transition point.
-- **Gates**
-  - If opponent is **in front of your hip line**: passing danger is lower → you should be ready to initiate offense.
-  - If opponent is **past your hip line**: you are in a defensive cycle → prioritize frames + re-alignment.
-  - Cycle ends the moment you regain **centerline-to-centerline** or recover feet/knees between you and them.
-- **Mechanics and details (as demonstrated conceptually)**
-  - After you re-square: place a limb to create immediate threat (leg entries / upper-body threats).
-  - Threat must also attack **balance** (not only “hold position”) so the opponent stops thinking about passing and starts thinking about defense.
-- **Common errors**
-  - “Retention pride”: being satisfied with survival and resetting without countering.
-  - Staying defensive after you’ve already regained guard—giving the passer another free attempt.
+## 4.2 Pressure Based Passes — Stack / Body Lock / Knee Cut (7:39–17:13)
+
+### Scenario definition
+- **Opponent archetype:** closes distance, compresses, stabilizes, then finishes.
+- **Primary threat:** lock/control that denies your hip mobility and leg reinsertion.
+
+### Your objectives (in order)
+1) Win **early denial** (distance + grip/lock denial).
+2) If late: survive compression without flattening (frames + mobility).
+3) Rebuild legs/inside connection and exit to open guard.
+
+### Trigger conditions
+- Stack: opponent drives your knees toward your face and tries to load you.
+- Body lock: opponent clamps around hips/waist and removes your ability to shrimp/pummel.
+- Knee cut: opponent gains angle + level change and begins inserting through your knee/hip space.
+
+### Core play: Pressure Defense Ladder
+**Step 1 — Deny lock formation (early or you pay later)**
+- Treat first contact as a “no lock” moment:
+  - hand fight is useless without structural rebuilding.
+- Action: break initial grips and immediately re-establish frames/inside barriers.
+
+**Step 2 — If stacked: don’t bench press; reframe + shoulder-walk**
+- Rule: compression is solved by mobility and wedges, not pushing strength.
+- Actions:
+  - expose hands/arms that are locking you and take two-hand control when available,
+  - keep legs in usable placement (avoid gifting shoulders),
+  - shoulder-walk to keep shoulders from being pinned while you recompose.
+
+**Step 3 — Reinsert legs**
+- Rule: every pressure defense must end with legs back between you and them.
+- Action: foot pummel / knee recovery back to playable open guard.
+
+### Stack-specific play (quick checklist)
+- Asymmetrical leg barrier early.
+- Two-hand hand-control when they try to lock.
+- Hamstrings placement that prevents easy re-lock.
+- Shoulder-walk under stack pressure.
+- Foot pummel → reset to open guard.
+
+### Gates (when you are “late”)
+- If they have a stable lock + your hips are immobilized, you are late; your job is:
+  - preserve spine shape,
+  - prevent shoulder pin,
+  - create a frame window,
+  - rebuild legs.
+
+### Failure signatures
+- You accept the lock and only react once pinned/compressed.
+- You “hand fight” while your hips stay dead (they reconnect immediately).
+- You bench press stack pressure (arms collapse; shoulders pin).
+
+### Coaching cues
+- “Stop the lock early or pay late.”
+- “Wedges buy movement. Movement rebuilds guard.”
 
 ---
 
-### 4.4 The Golden Rule of Counter Offense from Guard Retention (20:27–33:55)
-- **Objective**
-  - Provide a single, fast selection rule for what to attack **immediately after** you finish a retention cycle.
-- **Golden rule (decision driver)**
-  - **Opponent head height determines your counter-offense target family.**
-- **Primary decision rules**
-  - **Head high → attack legs.**
-    - High head typically gives you access to leg entries and makes leg exposure easier to secure.
-  - **Head low → attack arms / head (front-head style) and go-behinds.**
-    - Low head biases you toward upper-body attacks (e.g., triangles/strangles) and snap-down / go-behind style counters.
-- **Secondary leg selection (as stated in transcript)**
-  - When attacking legs, selection can depend on which leg is available:
-    - Back leg: attack via **“rumi ashi girate”** (transcript token; preserve as-is).
-    - Front leg: circle/angle to access the opposite leg line (concept: reposition to reach the more available leg).
-- **Gates**
-  - If the opponent reacts by violently pulling the head back up:
-    - you may need to re-enter a brief defensive exchange and then re-apply the rule at the next cycle break.
-- **Failure signatures**
-  - Choosing counters based on habit rather than head-height read.
-  - Trying to leg-enter when head is low and hips are withdrawing (low yield, slow entry).
-  - Trying to upper-body attack when head is high and posture is exposed (missing the easiest leg window).
+## 4.3 Beyond Knowledge/Denial — Maximizing Theory of Guard Retention (17:13–20:27)
+
+### Scenario definition
+- Retention-only is not stable over time against elite passers.
+- The solution is cycle-based retention with mandatory counter-offense.
+
+### Objective
+- Convert defense into initiative: **retain → re-square → counter immediately**.
+
+### Core model: Retention Cycles
+- **Defensive cycle:** passer is at/past hip line danger; you must prevent pin.
+- **Cycle break:** you re-center / regain feet-knees barrier / restore front-facing alignment.
+- **Offensive cycle:** immediate counter; do not reset passively.
+
+### Primary decision rule
+- A successful retention exchange is incomplete until it produces **counter-offense**.
+
+### Failure signatures
+- “Retention pride”: you stop the pass, then pause/reset—opponent immediately restarts with momentum.
+- You counter while still structurally compromised (still past hip line) and get pinned.
+
+### Coaching cues
+- “Defense ends when guard is restored; offense begins immediately.”
 
 ---
 
-### 4.5 Putting It All Together (33:55+)
-- **Objective**
-  - Integrate the full loop: demarcation (hip line) → defensive cycle → re-align → immediate counter-offense chosen by head height.
-- **Integrated operating loop**
-  - **If opponent is past hip line → DEFENSE**
-    - Frame, preserve elbow–knee integrity, re-square, recover feet/knees between you and them.
-  - **Once back in front / re-centered → OFFENSE**
-    - Immediate counter-offense (do not pause).
-    - Use head-height rule to pick target family:
-      - head high → legs
-      - head low → arms/go-behind
-- **Behavioral outcome (why this matters)**
-  - Alternating defense/offense cycles forces the passer to treat you with respect:
-    - Passing attempts become more cautious because every attempt carries counter risk.
-- **Coaching cues**
-  - Keep attention on two landmarks during live work:
-    - **Hip line** (am I in defense?)
-    - **Head height** (what do I counter with as soon as I’m out?)
-  - “Defend to re-offend” (retention is not complete until it becomes initiative).
-- **Common errors**
-  - Staying defensive after you’ve already regained guard.
-  - Ignoring hip-line demarcation and trying to counter while still structurally compromised.
-  - Countering without immediately threatening balance (opponent remains free to restart the pass).
+## 4.4 Golden Rule of Counter-Offense from Retention (20:27–33:55)
+
+### Purpose
+- Provide a single fast selector for what to do at cycle break.
+
+### Selector: Head Height → Target Family
+- **If opponent head is HIGH:** attack **legs**.
+- **If opponent head is LOW:** attack **arms/head + go-behind** style counters.
+
+### Why it works (operational)
+- Head height is the simplest read that correlates with:
+  - how committed they are,
+  - where their balance is,
+  - which entry lanes are realistically available immediately.
+
+### Gate
+- Apply the rule only after **cycle break** (you’re re-centered / barrier restored).
+- If you are still in hip line danger, re-enter defense first.
+
+### Failure signatures
+- Choosing counters by habit instead of head-height read.
+- Trying leg entries when head is low and hips are withdrawing (slow, low yield).
+- Trying upper-body attacks when head is high and posture is exposed (missing the easiest leg window).
+
+### Coaching cues
+- “Break → read head height → counter now.”
+
+---
+
+## 4.5 Putting It All Together (33:55+)
+
+### Integrated playbook (full loop)
+**Step 1 — Identify archetype**
+- Mobility passer? → run 4.1 loop (feet + re-center).
+- Pressure passer? → run 4.2 ladder (deny lock early; if late, wedge + move + rebuild legs).
+
+**Step 2 — Use hip line as the master gate**
+- Past hip line → DEFENSE (frames + re-align + rebuild barrier).
+- In front of hip line → you are offense-capable.
+
+**Step 3 — On cycle break, force counter-offense**
+- Read head height:
+  - head high → legs
+  - head low → arms/head + go-behind
+
+### End-state definitions
+- **Retention success:** legs/frames restored + opponent back in front.
+- **Cycle completion:** immediate counter-offense initiated (threat that changes opponent behavior).
+
+### Common failure patterns (system-level)
+- Wrong module: treating mobility as pressure (framing too early) or pressure as mobility (moving without wedges).
+- No gate discipline: countering before hip line safety.
+- No conversion: defending well but never re-offending.
+
+### Coaching cues
+- “Archetype first. Hip line second. Head height third.”
+- “Defend to re-offend. Every time.”
