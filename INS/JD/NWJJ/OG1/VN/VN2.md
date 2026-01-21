@@ -1,3 +1,109 @@
+# VN2 — Volume 2 (Framework / Model Brief)
+~~~
+Top-level purpose:
+  Build a decision system for guard play:
+    (A) Read opponent energy/structure
+    (B) Choose the correct response family
+    (C) Retain guard by denying the passer’s requirements
+
+=========================================================
+A) READ: Dynamic Energy Theory (DET)
+=========================================================
++-------------------------------+
+| 2.1 DYNAMIC ENERGY THEORY     |
+| Read opponent commitment:     |
+| - push vs pull                |
+| - forward vs backward         |
++-------------------------------+
+                |
+                v
+DET branches into posture/weight "laws" (selection rules)
+
+=========================================================
+B) SELECT: Three "Laws" (what to do given the read)
+=========================================================
+
+(1) Kneeling Opponent (visual read)
++----------------------------------------------+
+| 2.2 LAW OF SHOULDERS & HIPS (kneeling)       |
+| If shoulders behind hips  -> PUSH family     |
+| If shoulders ahead of hips -> PULL family    |
++----------------------------------------------+
+
+(2) Standing Opponent (tactile read)
++----------------------------------------------+
+| 2.3 LAW OF HEEL & TOES (standing)            |
+| Weight on heels -> PUSH family              |
+| Weight on toes  -> PULL family              |
++----------------------------------------------+
+
+(3) Exposure vs protection (under/over selection)
++----------------------------------------------+
+| 2.4 LAW OF HEAD UNDER / HEAD OVER            |
+| Head high (exposed)        -> GO UNDER (lift)|
+| Head low + hips back (protect) -> GO OVER/BEHIND |
++----------------------------------------------+
+
+Key validation outcomes (direction correctness):
+  - Hands post in front / behind
+  - Forced steps
+  - Base collapse (butt down)
+
+=========================================================
+C) RETAIN: Retention as the first skill (model-based)
+=========================================================
++----------------------------------------------+
+| 2.5 RETENTION FIRST                          |
+| Defense enables committed offense            |
++----------------------------------------------+
+                |
+                v
++----------------------------------------------+
+| 2.6 KNOWLEDGE / DENIAL MODEL                 |
+| Knowledge: learn passer requirements         |
+| Denial: break any one requirement            |
++----------------------------------------------+
+                |
+                v
+
+=========================================================
+D) PASSING REQUIREMENTS: The Six Elements (deny chain)
+=========================================================
+A guard pass completes only if the passer satisfies ALL:
+  Distance -> Grip -> Angle -> Level -> Penetration -> Pin
+
+Denial logic: deny ANY ONE element => pass fails.
+
++-----------+    +--------+    +--------+    +--------+    +-------------+    +------+
+| 2.7 DIST  | -> | 2.8 GR | -> | 2.9 ANG| -> | 2.10 LV| -> | 2.11 PENET  | -> | 2.12 |
+| close gap |    | attach |    | flank  |    | drop in|    | get inside  |    |  PIN |
++-----------+    +--------+    +--------+    +--------+    +-------------+    +------+
+
+Denial cues (high-level):
+  2.7 Distance:
+    - long-range barriers (feet/shins/frames); continuous re-creation
+  2.8 Grip:
+    - break grips early + rebuild structure; don’t handfight without re-framing
+  2.9 Angle:
+    - re-center; square hips; don’t chase with arms only
+  2.10 Level:
+    - shorten frames; connect to core; preserve elbow–knee integrity
+  2.11 Penetration:
+    - prevent them getting inside your structure; rebuild immediately if breached
+  2.12 Pin:
+    - pin is the finish; fight hardest before stabilization; keep shoulders mobile
+
+=========================================================
+E) END STATE: Guard competence loop
+=========================================================
+READ (DET) -> SELECT (laws) -> CONNECT -> DISRUPT -> ATTACK
+                 |
+                 v
+        If attack fails / pass attempt starts:
+        KNOWLEDGE (which element?) -> DENIAL (break element) -> return to offense
+
+~~~
+
 # VN2 — Open Guard Part 1 — Volume 2 (Framework / Model Brief; Titles-Aligned)
 
 ## 2.0 Volume 2
