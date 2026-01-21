@@ -180,16 +180,76 @@ Intended integration loop (once text is available):
 - You break grips but don’t rebuild inside structure (they immediately re-initiate).
 
 ---
+### 8.4 Closed Guard Entries Part 2 (30:36–40:54) — “Outside → Inside Control” Playbook (transcript lumped)
+**Purpose**
+- Solve the closed-guard-to-legs problem **safely** by ensuring you control the **leg-lock momentum** (you decide the tempo and direction), not the standing opponent.
 
-### 8.4 Closed Guard Entries Part 2 (30:36–40:54)
-**Status**
-- The mounted transcript for Volume 8 does not provide clean, time-stamped content beyond ~29:51, and the remaining text appears corrupted/repetitive.
-- If you provide the missing/clean remainder (or a corrected transcript), I will populate 8.4 in the same density and Titles alignment.
+**Core claim**
+- From closed guard (especially when the opponent stands), the central task is to **transfer from outside control to inside control** before you “go hunting.” Inside control is what prevents:
+  - knee-slide/back-exposure problems,
+  - the opponent steering the exchange with stance changes,
+  - and fast backsteps that erase your entry window.
+
+**Primary decision rules**
+- **Two-leg governance:** if you only control one leg, assume the other leg becomes their steering wheel.
+- **Hands-down gate:** X-guard is “real” only when you can force **hands to the mat** (or equivalent base collapse).
+- **Inside control first, finish second:** treat leg entanglement as a *result* of inside control, not a substitute for it.
+
+**Canonical sequence (as presented, compressed)**
+1) **Opponent stands inside closed guard**
+   - First action: **scoop/collect the inside leg line** (don’t chase with long reaches).
+2) **Build the bridge to X-guard**
+   - Knee-to-chest style compression to bring your hooks in.
+   - Establish initial hook(s), then **extend to force hands down**.
+3) **Drop to the shoelace line**
+   - Once hands are down, take your foot control down to the **shoelace/ankle line** (stickier, harder to clear).
+4) **Forward shift / angle change**
+   - Use a forward shift to improve your inside relationship and prevent knee-slide counters.
+5) **Upgrade to two-leg control**
+   - Reposition so you are controlling **both legs** (this is presented as the safety and control upgrade).
+   - Result: opponent’s backstep/knee-slide options degrade sharply.
+
+**Key constraints**
+- **Knee orientation discipline:** during the turning/locking phase, keep **knees pressured down toward the mat**.
+  - Failure mode: knees facing up → opponent bolts/exits and the entry collapses.
+
+**Failure signatures**
+- You enter “square” and reach for legs → opponent intercepts, knee-slides, or rotates you into risk.
+- You arrive in X-guard but don’t get hands down → opponent stays tall and clears/reset.
+- You rotate/lock with knees flared up → opponent backsteps out before you can consolidate.
 
 ---
 
-### 8.5 Putting it all together (40:54+)
-**Status**
-- Not present in the mounted transcript segment (same limitation as 8.4).
-- Once the remainder is available, this section will be written as an integration loop:
-  - entry choice (DLR vs closed guard) → posture/base break (“hands down”) → hub selection (50/50 vs inside control) → anti-flee/anti-backstep governance → finish window.
+### 8.5 Putting It All Together (40:54+) — Integration Loop (end of transcript is repetitive)
+**Purpose**
+- Convert Volume 8 into a single repeatable loop: **attach → break base → migrate inside → trap exits → finish**.
+
+**Integrated loop (Volume 8 operating system)**
+1) **Entry family selection**
+   - If outside leg relationship is available → DLR-style attachment principles apply.
+   - If you start in closed guard and they stand → closed-guard bridge applies.
+2) **Attachment before rotation**
+   - Do not rotate around the corner on “thin” contact.
+   - Build redundancy so they can’t simply flee/backstep.
+3) **Base break (hands-down gate)**
+   - Use X-guard as the forcing function:
+     - if their hands don’t touch the mat (or they don’t materially lose base), you are not yet in the finishing window.
+4) **Outside → inside migration**
+   - The moment base breaks, your job is to convert to **inside control** so you own the momentum.
+   - This is also the key to stopping knee-slide/back-exposure problems from closed guard.
+5) **Trap the exits**
+   - **Anti-backstep:** structure that makes backstepping slow or mechanically unavailable.
+   - **Anti-flee:** connection that prevents “run away and reset.”
+6) **Finish mechanics (the “lever” theme)**
+   - When you can “find the end of the lever” (distal foot/ankle control) and pull it across the chest line, clearing becomes time-consuming.
+   - That time window is what yields heel capture and entry into your preferred breaking position.
+
+**Non-negotiables (Volume 8 governance)**
+- **Inside control is the end-state.** Entries exist to get you there.
+- **Hands-down is the proof.** Upright opponent = you’re still negotiating, not finishing.
+- **Knees down during consolidation.** Knees up = exit lane.
+
+**Common failure patterns**
+- Trying to finish while still “outside” (you may touch the leg, but you don’t own the exchange).
+- Treating X-guard as a position instead of a base-break tool (no hands-down → no window).
+- Rotating/locking without knee discipline (opponent backsteps/flees before you consolidate).
