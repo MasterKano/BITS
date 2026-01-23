@@ -1,0 +1,62 @@
+# BIO Report — New Wave Jiu-Jitsu: Open Guard Part 1  
+Instructor: John Danaher
+
+## Contents
+- 1.0 Master System Map
+- 2.0 Executive Summary
+- 3.0 Volume Index
+  - 3.1 Volume 1 — Foundations: Grips, Connection, and Tempo
+  - 3.2 Volume 2 — Decision Laws and the Six Elements of Passing
+  - 3.3 Volume 3 — Retention Demarcation and Essential Movements
+  - 3.4 Volume 4 — Passer Archetypes and Counter-Offense Loop
+  - 3.5 Volume 5 — Constant Threat Strategy and Distance Leg Entries
+  - 3.6 Volume 6 — Kneeling Entries and Cross-Catch to Hip Pin
+  - 3.7 Volume 7 — X-Guard and RDLR Entry Integration
+  - 3.8 Volume 8 — DLR and Closed Guard Entry Governance
+- 4.0 Core Concepts
+  - 4.1 Guard as an Attacking Platform
+  - 4.2 Connection: Grips, Four-Limb Gripping, and Tempo
+  - 4.3 Handles: Knot-on-Rope Targeting
+  - 4.4 Inside vs Outside Position vs Control
+  - 4.5 Demarcation Lines: Center, Toe, Hip, Shoulder
+  - 4.6 Knowledge/Denial Retention Model
+  - 4.7 Dynamic Energy Theory and Three Laws
+  - 4.8 Counter-Offense Doctrine: Hip Line Gate and Head-Height Rule
+  - 4.9 Anti-Exit Governance: Backstep, Flee, Heavy Leg, High Leg
+- 5.0 System Overview
+  - 5.1 Operating Loop: Read, Connect, Break Base, Enter, Finish
+  - 5.2 Master Gates: Hip Line, Hands-Down, Orientation
+  - 5.3 Pass-Denial Chain: Distance, Grip, Angle, Level, Penetration, Pin
+  - 5.4 Entry Families: X-Guard, RDLR, DLR, Closed Guard, Distance Breakers
+  - 5.5 Hub Selection: Inside Senkaku, 50–50, Double 50, Criss-Cross
+  - 5.6 Backside Governance: Pushing Contest and Follow Backstep
+  - 5.7 Conversion Rules: Retention to Immediate Counter-Offense
+- 6.0 Technique Library
+  - 6.1 Grips and Handles
+  - 6.2 Retention Movement Vocabulary
+  - 6.3 Mobility Pass Defense
+  - 6.4 Pressure Pass Defense
+  - 6.5 Standing Leg Attacks
+  - 6.6 Kneeling Entries
+  - 6.7 X-Guard Entries
+  - 6.8 RDLR Entries
+  - 6.9 Headquarters Entries
+  - 6.10 DLR Entries
+  - 6.11 Closed Guard Entries
+- 7.0 Diagram Set
+  - 7.1 VN2 System Map
+  - 7.2 VN3 Demarcation and Movement Map
+  - 7.3 VN4 Scenario Playbook Map
+  - 7.4 VN5 Constant Threat and Distance Breakers Map
+  - 7.5 VN6 Entry System Map
+  - 7.6 VN7 Integration Map
+  - 7.7 VN8 Entry Governance Map
+- 8.0 Application Scenarios
+- 9.0 Drilling Progressions
+- 10.0 Four-Week Curriculum
+- 11.0 Failure Patterns
+- 12.0 Key Passages
+- 13.0 Terminology
+- 14.0 Additional Notes
+- 15.0 Supplement
+
