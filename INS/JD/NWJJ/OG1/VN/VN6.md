@@ -154,203 +154,223 @@ Terminal option examples (tokens preserved):
   - spin around knee/leg line
 
 ~~~
-
-# VN6 — Open Guard Part 1 — Volume 6 (Entry System: Kneeling-to-Legs + Double-Leg Entries)
+# VN6 — Open Guard Part 1 — Volume 6 (Reissued; Titles-Aligned)
 
 ## 6.0 Volume 6
 
-### 6.1 Scope + Why This Entry (0:06–1:10)
+### 6.1 Single Leg Entry (0:00–2:30)
 **Purpose**
-- Establish a “desert island” leg-entry system: the instructor’s single preferred method of entering leg locks from bottom when the opponent **drops to two knees** (adaptable to one knee).
+- Establish the core entry preference: a high-percentage leg-entry method from bottom that excels when the opponent **drops to two knees** (adaptable to one knee).
 
-**Why it’s preferred**
-- Works off **loose, easy-to-get grips** (does not require dominant hand fighting).
-- Immediately connects to multiple finishing ecosystems:
-  - **Inside senkaku**
+**Why this entry is “desert island” (as stated)**
+- Works off **loose, easy-to-obtain grips** (does not require dominant grip fighting).
+- Routes cleanly into multiple finishing hubs:
+  - **Inside Senkaku**
   - **50–50**
-  - **Double 50** (stronger 50–50 variant)
-  - **Criss-cross / inside-outside ashi**
+  - **Double 50**
+  - **Criss-cross / Inside-Outside Ashi**
 
-**Opponent’s tactical choice**
-- Opponent drops to two knees to “shorten” legs (perceived leglock safety).
-- System premise: kneeling is not safety; it is a **different access problem** with high-payoff solutions.
+**Context: why opponents kneel**
+- Opponents often drop to two knees to **shorten the legs** and lower the center of gravity (perceived leglock safety).
+- Your framing: kneeling is not “safety,” it is simply a **different access problem**.
 
----
+**Core problem to solve vs two-knees (setup logic)**
+- When knees are down, there’s little space between **heels and hamstrings**.
+- Your objective is to take the opponent’s **hips off the heels** (weight forward) to create a “catch window.”
 
-### 6.2 Core Problem to Solve vs Two-Knees (1:54–3:46)
-**Problem statement**
-- When opponent is on two knees, their legs are shorter and their center of gravity is lower.
-- The entry task becomes: **separate hips from heels** to create space between **heels and hamstrings** for leg capture.
+**Key mechanical lever (conceptual)**
+- This situation is governed by the same posture logic:
+  - shoulders over hips with hips sitting back → vulnerable to knockbacks/reversals,
+  - opponent eventually must bring weight forward → creates the opening you want.
 
-**Primary objective**
-- Take opponent’s hips **off the heels** (forward) to open the “catch window.”
-
-**Why collar-control is allowed here**
-- Collar/neck control is riskier when opponent stands (flying attacks risk, distance volatility).
-- When opponent is on two knees, risk is low: you can safely use a collar-turn style control to create the forward load.
-
----
-
-### 6.3 The Elevation Trigger: Half Sumi-Gaeshi as a Leg-Entry Engine (2:49–4:08)
-**Key idea**
-- You are not “doing sumi-gaeshi to sweep.” You are using the elevation as an **entry trigger**.
-
-**Opponent’s correct defense (and why it helps you)**
-- #1 reaction to sumi-gaeshi: **post hands / widen base** (tripods the base).
-- That is smart for sweep defense—but it makes them **wider**, exposing leg lines and making the leg-entry turn easier.
-
-**Operational rule**
-- Accept the post. Let them widen. Then **turn that structure into leg access**.
+**Early access handle**
+- **Collar/neck line reach is safe here** (low risk of flying counters because opponent is kneeling).
+- Collar connection is used as a steering tool to load them forward and start the entry engine.
 
 ---
 
-### 6.4 Pathing Detail: Hand Path “Between the Feet” + Inside Angle (4:03–4:33)
-**Non-negotiable path**
-- The hand threads **between** the opponent’s feet (not “around the leg”).
+### 6.2 Double Leg Entry (2:30–8:59)
+**Purpose**
+- Convert the opponent’s “correct defense” (posting/tripod) into a reliable leg-entry pathway with immediate access to inside senkaku.
+
+**Entry engine: collar-turn → half sumi-gaeshi trigger**
+- You intentionally **allow top-hand position** so the opponent can post hands (you are not trying to win a sweep battle).
+- You use a half sumi-gaeshi style elevation to force the standard defense:
+  - opponent posts and **tripods**,
+  - base width increases dramatically (smart for sweep defense),
+  - but the widened base exposes leg lines.
+
+**Primary decision rule**
+- You’re not chasing a sweep; you’re **harvesting the tripod reaction** as the entry condition.
+
+**Non-negotiable pathing details**
+- Hand path goes **between the opponent’s feet** (not around the leg).
 - Hand goes **inside the angle**, not outside.
+- Result: you can turn your body north–south relative to them and “turn the corner” efficiently into the lock.
 
-**Why it matters (as presented)**
-- This pathing is what puts you in the correct geometry to:
-  - turn the corner efficiently,
-  - insert the knee,
-  - lock the initial entanglement without chasing.
+**Primary finish hub shown here: Inside Senkaku**
+- Turn → insert knee aligned toward center (belly-button line) → lock senkaku → put opponent down.
 
----
-
-### 6.5 Inside Senkaku: Entry + Turn-Out Prevention (4:34–5:10)
-**Initial lock**
-- Turn the corner → knee insertion → lock **inside senkaku** → bring opponent down.
-
-**Immediate danger**
-- Opponent turning out (addressed later in the series), so you slow it preemptively.
-
-**Turn-out prevention rule**
-- Keep a **short leg** with the **knee pointed to the ceiling**.
+**Immediate risk: turn-out**
+- Early prevention cue:
+  - keep a **short leg** with the **knee pointed upward**.
 - Failure mode:
-  - extended leg and/or knee pointing outward → opponent turns easily and early.
+  - extended leg and/or knee pointing outward → turn-out becomes easy/fast.
+
+**Lead-in to next chapter (identified deficiency)**
+- Inside senkaku can be structurally deficient from backside-type outcomes because it may lack meaningful **pushing pressure on the back of the opponent’s legs** (sets up the next set of solutions).
 
 ---
 
-### 6.6 Inside Senkaku Deficiency from Backside + The “Pushing Contest” (5:19–11:35)
-**Problem**
-- From backside situations, inside senkaku can lack **pushing pressure on the back of opponent’s legs**.
-- If your foot is on the opponent’s spine/back and they rise (knees off floor) and **push back**, they can:
-  - force your shoulder toward the mat,
-  - kill your “on-the-side” breaking alignment,
-  - neutralize the position.
+### 6.3 Reverse Double Leg Entry (8:59–15:48)
+**Purpose**
+- Provide the “power” answers once the entry starts producing backside and pushing contests: how to win stabilization battles and upgrade to higher-control configurations.
 
-**Principle**
-- Backside becomes a **pushing contest**:
-  - If you cannot push effectively with your legs into the back of their legs, their hand-push wins over time by flattening you.
+**Backside stabilization principle: win the pushing contest**
+- Core insight: if the opponent can push your shoulder toward the mat with hands while you cannot push effectively with legs, you lose the battle over time.
+- Fix logic:
+  - move foot placement so your legs can push into the back/hip line,
+  - “legs vs hands” is a favorable contest when structure is correct.
 
----
+**Criss-cross / Inside-Outside Ashi (backside-preferred control)**
+- Used as a backside finishing/control answer because it restores leg-driven push into the back of the opponent’s leg/hip line.
+- Functional outcome:
+  - you can resist push-back,
+  - maintain stronger breaking alignment,
+  - create high heel exposure.
 
-### 6.7 The Fix: Shoelace Ashigurami / Shoelace Senkaku Adjustment (6:06–8:22)
-**Core adjustment**
-- Switch foot placement:
-  - from **behind/on the spine**
-  - to **in front / under the hip** (shoelaces under the hip; shoelaces on/near obliques as described)
+**Double 50 (the “double trouble” upgrade)**
+- Classic critique of 50–50: often controls one leg well while the second leg is less controlled.
+- Double 50 concept: a 50–50-like configuration that adds **stronger control of both legs** (double trouble), sharply reducing opponent mobility.
+- Practical value framing:
+  - when opponent tries to flee/backstep/hop-step, the structure makes it difficult and buys finishing time.
 
-**Why it works (mechanical advantage)**
-- You re-introduce **leg-driven push** into the back/hip line.
-- “My legs vs his hands” becomes favorable: legs can out-push hands when connection is correct.
+**50–50 / backstep governance (critical detail)**
+- If the opponent completes a backstep and your knees face upward, you expose head/collar/elbow access and can be cleared.
+- Correct response emphasized:
+  - keep your foot positioned to **track the backstep**,
+  - drop to the **inside shoulder** so head/elbow are harder to access,
+  - transition to a **double-shoelace-on-obliques** style attachment for strong finishing pressure.
 
-**Outcome**
-- Much tighter connection; harder for opponent to scoot out, push in, or flatten you.
-- Re-stabilizes breaking alignment so finishing becomes predictable.
+**Reverse double leg entry (explicitly taught later in the volume)**
+- Typically appears with **closer grips** (notably underhooks/waist control).
+- Mechanical snapshot:
+  - grip around waist → drop level → outside hand collects from reverse direction → second hand joins to control both legs.
+  - lock/figure-of-four style consolidation.
+- Same stabilization rule applies:
+  - thread and place foot so you can push with legs into their back/hip line when they push into you.
 
----
-
-### 6.8 Criss-Cross / Inside-Outside Ashi as the Backside-Preferred Control (8:32–11:47)
-**Claim**
-- If you expect to land backside often, inside-outside (criss-cross) ashi is one of the best controls:
-  - creates unusually strong breaking pressure,
-  - resists the opponent’s push-back / flattening solutions,
-  - maintains control when they try to flee.
-
-**Use-case**
-- Same entry family → choose criss-cross when backside stability is the priority.
-
----
-
-### 6.9 Double 50: “Double Trouble” Fixing the 50–50 Critique (11:47–17:34)
-**Problem (classic 50–50 critique)**
-- Standard 50–50 is often criticized for **controlling one leg well** while offering weaker control of the second leg.
-
-**Double 50 concept**
-- A 50–50 configuration that adds stronger multi-leg control (described as “double trouble”).
-- Characterized in the transcript as unusually tight; difficult for opponent to backstep, flee, or “hop-step” free.
-
-**Configuration cues (as described)**
-- Toes angled down; legs scissor as a push/pull system.
-- Tightness is a feature: opponent mobility solutions degrade sharply.
-
-**Outcome**
-- A highly controlling finish hub when the entry yields the correct alignment.
+**Branching options explicitly listed from reverse double leg situations**
+- Inside senkaku
+- Criss-cross ashi
+- Shoelace-style option to frontside stabilization
+- “Chop” option that forces knee down → Double 50
+- Reverting to classic 50–50 if needed (with finishing governance: belly-down preferred; if not, convert to stronger frontside/inside-shoulder + shoelace pressure)
 
 ---
 
-### 6.10 The “Four Great Options” Summary (17:15–17:48)
-From the single-leg entry off the kneeling opponent, you have four primary hubs:
-- **Inside senkaku** (with the shoelace adjustment as needed)
-- **50–50**
-- **Double 50**
-- **Criss-cross / inside-outside ashi**
+### 6.4 Irimi Ashi Cross Catch (15:48–49:00:00)
+**Purpose**
+- Address the standing “one-leg-forward” reality and build an answer to two common stalling defenses:
+  - **heavy leg** (unliftable),
+  - **high leg** (yanking the leg out of reach).
 
-**Operating intent**
-- Do not be one-dimensional; the opponent should not know which hub you will select.
-
----
-
-### 6.11 Double-Leg Entry: “Urimi / Erimi Ashi Gurami” as the Tightest Entry (17:57–21:19)
-**Claim**
-- Double-leg entries are presented as especially **controlling**, with “Urimi/Erimi-Ashi-Gurami” described as the **tightest / most secure**.
-
-**Access prerequisite**
-- You want opponent’s hands **over your biceps** (on top), not underneath (underhooks make sliding underneath harder).
-
-**Knee behavior as a distance governor**
-- Inside knee blocks push-in pressure.
-- Outside knee blocks retreat/back-away pressure.
-- Principle: knees manage the opponent’s ability to disengage and also protect your entry space.
-
-**Entry snapshot (as described)**
-- Bring opponent’s hands toward the floor over your head → collect/control → insert knee behind knee → sweep/turn into a strong finishing position.
-- Finishing from the resulting position is flagged as its own future case study later in the series.
-
----
-
-### 6.12 Standing One-Leg-Forward Problem: Rumi Ashi Garami + Reaction Tree (27:47–37:38)
 **Context**
-- Many opponents will stand with a forward leg.
-- If opponent has two legs forward square, they are easier to knock down; commonly they present one leg.
+- Many opponents stand with a forward leg (square stance is easier to knock down; staggered stance is the common “safer” posture).
+- You want direct leg threats regardless of posture.
 
-**Initial hub**
-- Establish **rumi ashi garami** and read reaction.
+**Initial connector: (Rumi/Erimi/Arumi tokens appear in transcript)**
+- Establish an initial ashi relationship, then anticipate the opponent trying to **clear your foot**.
 
-**Reaction A: naive turn-out**
-- Turning exposes heel/leg line → immediate heel exposure opportunities.
+**Two major opponent defenses**
+1) **Heavy leg**
+   - opponent weights the far leg so lifting/turning feels impossible.
+2) **High leg**
+   - opponent yanks the leg up so access disappears.
 
-**Reaction B: smart clear (foot-clearing)**
-- Opponent comes in to clear the foot and deny the entanglement.
-- You must “cover” to prevent:
-  - **high-leg** escape (yanking leg up),
-  - **heavy-leg** defense (weighting so lift feels impossible).
+**Cross catch solution (key play)**
+- When opponent goes to clear, you set a **cross frame** and move to a cross-catch sequence:
+  - place shoelaces to the buttock/hip line (as described),
+  - use frame + lift to force the leg you want to **backstep toward you**.
+- Why it works (as presented):
+  - the forced backstep removes high-leg and heavy-leg options:
+    - they cannot high-leg even if they want to,
+    - they cannot make the leg heavy in the same way.
 
-**Anti-heavy / anti-high solution (as described)**
-- Use a **cross frame** and reposition shoelaces onto the buttock/hip line to:
-  - prevent backstep access,
-  - prevent heavy-leg and high-leg behaviors (they become mechanically unavailable),
-  - force the opponent into “flee the mat” as the remaining option.
+**Consolidation and finish-direction**
+- Insert knee behind knee → lock → drive along hip line to put opponent down.
+- Immediate follow-up emphasized:
+  - if opponent tries to turn/flee/push back, convert to a structure that makes those options difficult (criss-cross is presented as a strong stabilizer here).
 
-**Endgame control logic**
-- If they backstep: follow and punish; keep connection.
-- If they try to flee: use control to bring hips down and keep the second leg from escaping.
-
-**Terminal options (explicitly stated at the end)**
-- Attack either leg; routes into strong heel hook territory include:
-  - follow on the backstep,
-  - “kani basami” (transcript token preserved),
-  - or spinning around the knee/leg line.
+**Terminal routing (explicitly stated)**
+- You can attack either leg.
+- Options cited include:
+  - following the backstep,
+  - “kani basami” (token preserved),
+  - spinning around the knee/leg line.
 
 ---
+### 6.5 Cross Catch to Hip Pin (embedded in 6.4; ~33:06–36:29)
+**Purpose**
+- Solve the opponent’s “smart” defense to the cross-catch backstep: when they **sit their hip to the floor** (and often post a hand) to prevent you forcing the backstep that feeds inside-senkaku.
+
+**Scenario definition**
+- You initiate the cross-catch sequence (off arumi/irimi ashi-style entry + cross frame).
+- Opponent recognizes the backstep trap and responds by **dropping to hip + hand** (base-lowering defense).
+
+**Problem**
+- Once the opponent sits to the hip, the “force the backstep → knee behind knee” route is often unavailable.
+- If you keep insisting on the old route, you stall and lose the initiative.
+
+**Core solution: hip pin with your knee**
+- **Action:** “Pull your body up” and place your **knee onto the opponent’s hip**, loading weight over the hip line.
+- **Effect:** opponent’s ability to stand/re-square is degraded because there is **weight over the hip**.
+- This converts their defensive sit-down into a **control problem for them** (they are pinned) rather than a “reset to safety.”
+
+**Primary decision rules**
+- When they drop to hip: **follow the drop** and pin the hip immediately (don’t stay at distance).
+- Your knee must be placed so your weight is truly **over the hip**, not beside it.
+
+**Branching logic (what you do next)**
+- Once hip is pinned, you typically get one of two leg-access routes:
+
+1) **Backstep route (if their knee orientation allows it)**
+   - **Read:** look at their knee line.
+   - If their knee points **toward you** → you can often **backstep over it** cleanly.
+   - If their knee points **away** → use foot-to-hand assistance to pull/secure and then enter.
+
+2) **Kani basami route (direct capture option)**
+   - From hip pin: backstep your leg and hit **kani basami** over the legs to enter.
+   - After entry you have a finishing choice:
+     - **sit back**, or
+     - **roll forward** (both presented as valid continuations).
+
+**Opponent adaptation (second-order defense)**
+- After you succeed a few times, opponent may straighten the target leg out along the floor, which blocks your ability to backstep behind the knee.
+- **Failure signature:** “I can’t get my knee behind it anymore.”
+
+**Counter-adjustment (inside-hand rotation + knee-up discipline)**
+- When the leg is straightened:
+  - Move your hand from **outside position to inside position**.
+  - Post hand to the floor and **rotate through** to change the geometry.
+  - **Knee points to the ceiling** during the rotation.
+    - If knee points away, opponent hides heel quickly.
+    - Knee up makes heel-hiding take longer.
+
+**Terminal conversion**
+- After the inside-hand rotation with knee-up discipline, you are positioned to throw legs over into **criss-cross / inside-outside ashi** (presented as the stable finishing hub from this adjustment).
+
+**Validation tests**
+- Hip pin works when:
+  - opponent has difficulty rising (your weight is truly over the hip),
+  - you can initiate your backstep/kani basami without being “pushed off” the line.
+- The straight-leg counter is solved when:
+  - your inside-hand rotation happens immediately,
+  - knee-up discipline slows heel hiding long enough to enter criss-cross.
+
+**Common errors**
+- Trying to elevate/backstep while opponent’s hip is already down (late recognition).
+- Knee placed too shallow (no real hip pin; opponent simply stands).
+- Rotating with knee pointing away (you gift the heel hide).
+
+
