@@ -1,4 +1,4 @@
-# VN6 — Diagram (Titles-Aligned)
+# VN6: Single/Double/Reverse Double -> Cross Catch -> Hip Pin
 
 ~~~
 VN6 — Titles-Aligned Diagram (Single/Double/Reverse Double -> Cross Catch -> Hip Pin)
