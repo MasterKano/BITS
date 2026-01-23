@@ -1,123 +1,138 @@
 # VN4 — Volume 4 (Applications + Counter-Offense Loop)
 ~~~
-High-level intent:
-  Apply prior models to two passer archetypes (mobility vs pressure),
-  then formalize a retention -> counter-offense loop with a single selection rule.
+MASTER LOOP
+  Identify passer archetype -> run correct defense module -> use HIP LINE gate
+  -> when guard restored, apply GOLDEN RULE (head height) -> counter immediately
 
-=========================================================
-A) APPLICATIONS: Identify passer archetype
-=========================================================
+====================================================================
+STEP 1: Identify Passer Archetype
+====================================================================
+Start: opponent initiates passing
+        |
+        v
++-------------------------------------------+
+| Passer archetype?                         |
+|  A) MOBILITY (speed/step-around)          |
+|  B) PRESSURE (close+compress+stabilize)   |
++-------------------------------------------+
+        |                         |
+        v                         v
 
-Start: Opponent initiates passing
-          |
-          v
-  +-----------------------------+
-  | Passer Archetype?           |
-  |  - MOBILITY-based           |
-  |  - PRESSURE-based           |
-  +-----------------------------+
-      |                    |
-      v                    v
+====================================================================
+A) 4.1 MOBILITY-BASED PASSES (0:00–7:39)
+====================================================================
++-------------------------------------------+
+| Goal: keep them in front / deny angle     |
+| Primary tools: FEET + RE-SQUARE           |
++-------------------------------------------+
+        |
+        v
+Mobility Defense Loop:
+  1) First contact wins: FEET ON THEM (hooks/connection)
+  2) Create ASYMMETRY (harder to staple/scoop)
+  3) Re-center / RE-SQUARE immediately on circling
 
-=========================================================
-B1) MOBILITY PASSES (4.1)
-=========================================================
-+-----------------------------------------------+
-| 4.1 MOBILITY-BASED PASS DEFENSE               |
-| Core problem: speed + low commitment          |
-| Goals: keep them in front / deny angle /      |
-|        re-center with feet                    |
-+-----------------------------------------------+
-      |
-      v
-Key rules:
-  - Win first contact with FEET (over-top priority)
-  - Maintain asymmetrical, mobile feet
-  - Reclaim center line continuously with feet
-      |
-      v
-Gate:
-  - If still in front of HIP LINE -> mobility solutions (feet + re-square)
-  - If level/entry threatens HIP LINE -> escalate to frames + reinsert legs
-      |
-      v
-End state:
-  - Feet/knees between you and them (playable open guard restored)
+        |
+        v
+GATE: HIP LINE threatened?
+        |
+   +----+-------------------------------+
+   |                                    |
+   v                                    v
+NO (still in front of hip line)         YES (level change / entry to hip line)
+-> stay in feet+re-square loop           -> ESCALATE: frames (short, structural)
+                                         -> then reinsert feet and re-square
 
-=========================================================
-B2) PRESSURE PASSES (4.2)
-=========================================================
-+-----------------------------------------------+
-| 4.2 PRESSURE-BASED PASS DEFENSE               |
-| Archetypes: Stack / Body Lock / Knee Cut      |
-| Core problem: close distance + compression    |
-| Goal: stop early at distance+grip;            |
-|       if late, frame+survive+recompose        |
-+-----------------------------------------------+
-      |
-      v
-Stack passing (example sequence):
-  - Asymmetrical feet barrier
-  - Expose hands -> 2-hand control to prevent re-lock
-  - Hamstrings to biceps (avoid shoulders)
-  - Shoulder-walk under stack pressure
-  - Foot pummel -> return to open guard
-      |
-      v
-General pressure rule:
-  - Don't bench press; wedge + move + rebuild legs/frames
+Failure signatures (mobility):
+  - dead feet -> they push legs aside for free
+  - chase with hands -> angle snowballs
+  - frame too early -> you stall and they keep circling
 
-=========================================================
-C) MAXIMIZING RETENTION (4.3): Defense must convert to offense
-=========================================================
-+-----------------------------------------------+
-| 4.3 MAXIMIZING THEORY                         |
-| Problem: defense-only retention degrades      |
-| Solution: retention occurs in CYCLES          |
-|   - Defensive cycle (hip-line danger)         |
-|   - Offensive cycle (counter immediately)     |
-+-----------------------------------------------+
-      |
-      v
-Gate (demarcation):
-  - Past HIP LINE  -> DEFENSE (frames + re-align)
-  - Back in front / re-centered -> OFFENSE (counter now)
+====================================================================
+B) 4.2 PRESSURE-BASED PASSES (7:39–17:13)
+====================================================================
++-------------------------------------------+
+| Goal: deny lock early; if late, survive   |
+| then rebuild legs and exit                |
++-------------------------------------------+
+        |
+        v
+Pressure Defense Ladder:
+  1) DENY LOCK FORMATION EARLY (distance + grip/lock denial)
+  2) If late: WEDGE + MOVE (don’t bench press)
+     - stack: expose hands/arms -> two-hand control
+     - shoulder-walk under compression
+  3) REINSERT LEGS (foot pummel / restore inside barriers)
 
-=========================================================
-D) GOLDEN RULE (4.4): Single fast counter selector
-=========================================================
-+-----------------------------------------------+
-| 4.4 GOLDEN RULE: Head Height -> Target Family |
-| Head HIGH -> attack LEGS                      |
-| Head LOW  -> attack ARMS/HEAD + GO-BEHIND     |
-+-----------------------------------------------+
-      |
-      v
-Conversion requirement:
-  - Counter must threaten balance/initiative immediately
-  - No pause after retention success
+        |
+        v
+GATE: Are you compressed / hips immobilized (late)?
+        |
+   +----+-------------------------------+
+   |                                    |
+   v                                    v
+NO (early phase)                         YES (late phase)
+-> break grips + rebuild structure        -> preserve spine shape + frames
+-> re-establish barriers                  -> shoulder safety + mobility
+                                         -> rebuild legs ASAP
 
-=========================================================
-E) INTEGRATED LOOP (4.5)
-=========================================================
+Failure signatures (pressure):
+  - accept lock then react late
+  - handfight without rebuilding frames/legs
+  - bench press stack pressure -> shoulders pinned
 
-Passing attempt begins
-      |
-      v
-HIP LINE check
-  - Past hip line? -> DEFENSE (frames + re-square + reinsert legs)
-  - Not past?      -> stay offense-capable / manage angle/distance
-      |
-      v
-Cycle break (guard re-established)
-      |
-      v
-HEAD HEIGHT check
-  - Head high -> LEG attacks
-  - Head low  -> ARM/HEAD attacks + go-behind
-      |
-      v
-Repeat: "Defend to re-offend" (each pass attempt carries counter risk)
+====================================================================
+STEP 2: 4.3 Maximizing Retention (Cycles)
+====================================================================
+After either module, you exit into cycle logic:
+        |
+        v
++-------------------------------------------+
+| Retention occurs in cycles                |
+| Defensive cycle -> Cycle break -> Offense |
++-------------------------------------------+
+
+MASTER GATE: HIP LINE
+  - Past hip line  -> DEFENSE (frames + re-align + rebuild barrier)
+  - In front       -> offense-capable
+
+Failure signature:
+  - retention pride (defend, then pause/reset)
+
+====================================================================
+STEP 3: 4.4 Golden Rule of Counter-Offense
+====================================================================
+At CYCLE BREAK (guard restored / re-centered):
+        |
+        v
++-------------------------------------------+
+| GOLDEN RULE: read HEAD HEIGHT             |
++-------------------------------------------+
+        |
+   +----+-------------------------------+
+   |                                    |
+   v                                    v
+HEAD HIGH                               HEAD LOW
+-> ATTACK LEGS                          -> ATTACK ARMS/HEAD + GO-BEHIND
+
+Failure signatures:
+  - counter by habit, not head height
+  - counter before hip-line safety is restored
+
+====================================================================
+STEP 4: 4.5 Integrated End State
+====================================================================
+Pass attempt -> correct module (mobility/pressure)
+        |
+        v
+HIP LINE gate -> DEFENSE if needed -> restore guard
+        |
+        v
+CYCLE BREAK -> HEAD HEIGHT read -> counter immediately
+        |
+        v
+Outcome: opponent passing becomes cautious (each attempt carries counter risk)
+
 ~~~
 # VN4 — Open Guard Part 1 — Volume 4 (Scenario Playbook Mode; Titles-Aligned)
 
