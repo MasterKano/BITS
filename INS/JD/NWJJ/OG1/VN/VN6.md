@@ -1,158 +1,128 @@
-# VN6 — Volume 6 (Kneeling-to-Legs Entry System + Hub Selection + Double-Leg Entry + 1-Leg-Forward Tree)
+# VN6 — Diagram (Titles-Aligned)
+
 ~~~
-High-level intent:
-  Build a primary leg-entry engine vs kneeling opponents,
-  then route into 4 main entanglement hubs.
-  Add: double-leg entry (tightest) and a standing one-leg-forward reaction tree.
+VN6 — Titles-Aligned Diagram (Single/Double/Reverse Double -> Cross Catch -> Hip Pin)
 
-=========================================================
-A) ENTRY CONTEXT + OBJECTIVE (6.1–6.2)
-=========================================================
+UNIVERSAL INTENT (VN6)
+  Build reliable leg-entry engines and route into stable control hubs.
+  Key opponent defenses to expect: POST/TRIPOD, HEAVY LEG, HIGH LEG, BACKSTEP, HIP SIT-DOWN.
+
+================================================================
+6.1 SINGLE LEG ENTRY
+================================================================
 Start: opponent drops to TWO KNEES (or one knee)
-          |
-          v
-+---------------------------------------------+
-| Goal: separate hips from heels              |
-| -> create heel/hamstring "catch window"     |
-+---------------------------------------------+
-          |
-          v
-Allowable tool here:
-  collar/neck line control (safer vs kneeling)
+    |
+    v
+Goal: separate HIPS from HEELS -> create heel/hamstring catch window
+    |
+    v
+Tool allowance: collar/neck line steering (safer vs kneeling)
+    |
+    v
+Entry outcome target:
+  Create forward load -> open leg line -> proceed to entry engines (6.2)
 
-=========================================================
-B) ENTRY ENGINE: Half Sumi-Gaeshi as a TRIGGER (6.3–6.4)
-=========================================================
-+---------------------------------------------+
-| Entry trigger: half sumi-gaeshi elevation    |
-| Not for sweep; for entry creation           |
-+---------------------------------------------+
-          |
-          v
-Opponent "correct" defense:
-  - posts hands / widens base
-          |
-          v
-You exploit the defense:
-  - wide base exposes leg lines
-  - you turn that geometry into entry
+================================================================
+6.2 DOUBLE LEG ENTRY
+================================================================
+Engine: collar-turn + half sumi-gaeshi used as ENTRY TRIGGER (not "sweep")
+    |
+    v
+Opponent correct defense:
+  POST HANDS + WIDEN BASE (tripod)
+    |
+    v
+Exploit reaction:
+  Wide base exposes leg lines
+    |
+    v
+Non-negotiable pathing:
+  Hand threads BETWEEN FEET + takes INSIDE angle
+    |
+    v
+Primary hub shown:
+  Turn corner -> knee insert -> INSIDE SENKAKU
+    |
+    v
+Immediate risk: TURN-OUT
+  Fix: short leg + knee points UP (ceiling)
 
-Non-negotiable hand path:
-  - thread hand BETWEEN the feet
-  - take INSIDE angle (not outside)
+================================================================
+6.3 REVERSE DOUBLE LEG ENTRY
+================================================================
+Problem domain: backside / push-back / backstep from 50-50 family
+    |
+    v
+Backside principle:
+  Must have leg-driven push into hip/back line
+  (otherwise their hand push flattens you)
+    |
+    v
+Stabilizers / hub upgrades:
+  - SHOELACE-adjusted pressure options
+  - CRISS-CROSS (inside-outside) ashi (backside-preferred)
+  - DOUBLE 50 ("double trouble") to tighten multi-leg control
+    |
+    v
+Reverse double-leg entry snapshot:
+  Waist/underhook grips -> drop level -> collect legs from reverse side
+  -> 2-hand consolidation -> route to hub (above)
 
-=========================================================
-C) PRIMARY HUB: Inside Senkaku + early turn-out prevention (6.5)
-=========================================================
-+---------------------------------------------+
-| Turn corner -> knee insert -> INSIDE SENKAKU|
-+---------------------------------------------+
-          |
-          v
-Immediate danger: opponent turns out
-  Prevention rule:
-    - keep a SHORT leg with knee to CEILING
-    - avoid extended leg/knee outward
+================================================================
+6.4 IRIMI ASHI CROSS CATCH
+================================================================
+Start: opponent STANDING, ONE-LEG-FORWARD
+    |
+    v
+Initial ashi connection (tokens in transcript: arumi/irimi/rumi)
+    |
+    v
+Opponent tries FOOT-CLEAR -> triggers CROSS-CATCH response
+    |
+    v
+Problem defenses to beat:
+  - HEAVY LEG (unliftable)
+  - HIGH LEG (yank leg up)
+    |
+    v
+Cross-catch solution (as described):
+  Cross frame + shoelaces to butt/hip line
+  -> force BACKSTEP TOWARD you
+  -> removes heavy/high options
+    |
+    v
+Entry consolidation:
+  Knee behind knee -> lock -> put opponent down
+  -> route to stable hub (often criss-cross if stability required)
 
-=========================================================
-D) BACKSIDE PROBLEM + FIX (6.6–6.8)
-=========================================================
-If entry yields BACKSIDE:
-          |
-          v
-+---------------------------------------------+
-| Problem: "pushing contest"                  |
-| - your foot on spine/back + they push back  |
-| - they flatten you, kill breaking alignment |
-+---------------------------------------------+
-          |
-          v
-Fix option 1 (6.7):
-  SHOELACE SENKAKU adjustment
-    - move foot from behind spine -> under hip / on obliques
-    - restore leg-driven push advantage
-          |
-          v
-Fix option 2 (6.8):
-  CRISS-CROSS / inside-outside ashi
-    - backside-preferred control
-    - strong breaking pressure, resists push-back
-
-=========================================================
-E) 50–50 FAMILY: upgrade critique with Double 50 (6.9)
-=========================================================
-+---------------------------------------------+
-| Standard 50–50 critique: controls 1 leg well|
-| Double 50 ("double trouble"): tighter multi |
-| leg control; mobility escapes degrade       |
-+---------------------------------------------+
-Configuration cues:
-  - toes angled down
-  - scissor push/pull tightness
-
-=========================================================
-F) "FOUR GREAT OPTIONS" HUB SET (6.10)
-=========================================================
-From the same entry family, select hub:
-  1) Inside senkaku (w/ shoelace fix as needed)
-  2) 50–50
-  3) Double 50
-  4) Criss-cross / inside-outside ashi
-
-Selection driver:
-  - where you land (frontside vs backside)
-  - opponent push-back / escape behavior
-  - desired control tightness
-
-=========================================================
-G) DOUBLE-LEG ENTRY: tightest (Urimi/Erimi Ashi Gurami) (6.11)
-=========================================================
-Start: double-leg opportunity appears
-          |
-          v
-Prereq: opponent hands OVER your biceps (not underhooks)
-          |
-          v
-Knee governance:
-  - inside knee blocks push-in
-  - outside knee blocks retreat
-          |
-          v
-Entry snapshot:
-  bring hands toward floor over your head
-  -> collect/control
-  -> knee behind knee
-  -> sweep/turn into strong finish hub
-
-=========================================================
-H) STANDING: ONE-LEG-FORWARD TREE (Rumi Ashi Garami) (6.12)
-=========================================================
-Start: opponent standing, one leg forward
-          |
-          v
-Enter: RUMI ASHI GARAMI
-          |
-          v
-Opponent reaction?
-   +-------------------+------------------------------+
-   |                   |                              |
-   v                   v                              v
-A) naive turn-out   B) smart foot-clear          (escape attempts)
-   -> heel exposed     -> you must cover          - high-leg yank up
-                        -> deny high/heavy         - heavy-leg weight down
-                        -> use cross-frame +
-                           shoelaces to butt/hip
-                           to remove backstep lane
-   |
-   v
-If they backstep -> follow & punish
-If they flee     -> bring hips down, keep 2nd leg from escaping
-
-Terminal option examples (tokens preserved):
-  - follow on backstep
-  - "kani basami"
-  - spin around knee/leg line
-
+================================================================
+6.5 CROSS CATCH TO HIP PIN
+================================================================
+Opponent smart defense to cross-catch:
+  HIP SIT-DOWN (+ often a hand post) to avoid being forced into backstep
+    |
+    v
+You follow and PIN:
+  Knee onto HIP + pull body up
+  -> weight over hip line = prevents easy rise/re-square
+    |
+    v
+Branching from HIP PIN:
+  A) If knee line allows -> BACKSTEP OVER knee -> re-enter
+  B) Direct capture -> KANI BASAMI (sit back OR roll forward)
+    |
+    v
+Opponent adaptation:
+  Straighten leg along floor to block knee-behind-knee
+    |
+    v
+Counter-adjustment:
+  Switch hand outside->inside + post + ROTATE THROUGH
+  + knee points UP (ceiling) to slow heel hiding
+    |
+    v
+Terminal hub:
+  Throw legs over -> CRISS-CROSS / inside-outside ashi for stable finish control
 ~~~
 # VN6 — Open Guard Part 1 — Volume 6 (Reissued; Titles-Aligned)
 
