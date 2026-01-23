@@ -1,106 +1,118 @@
 # VN2 — Volume 2 (Framework / Model Brief)
 ~~~
-Top-level purpose:
-  Build a decision system for guard play:
-    (A) Read opponent energy/structure
-    (B) Choose the correct response family
-    (C) Retain guard by denying the passer’s requirements
+TOP INTENT
+  Read opponent commitment (Dynamic Energy) -> select response law -> retain via Knowledge/Denial -> deny pass requirements -> return to offense
 
 =========================================================
-A) READ: Dynamic Energy Theory (DET)
+A) READ: Dynamic Energy Theory (2.1)
 =========================================================
-+-------------------------------+
-| 2.1 DYNAMIC ENERGY THEORY     |
-| Read opponent commitment:     |
-| - push vs pull                |
-| - forward vs backward         |
-+-------------------------------+
-                |
-                v
-DET branches into posture/weight "laws" (selection rules)
+Start: engage from guard
+        |
+        v
++-------------------------------------------+
+| 2.1 DYNAMIC ENERGY THEORY                 |
+| Read: push vs pull / forward vs backward  |
++-------------------------------------------+
+        |
+        v
+Decision: Which posture context governs the read?
+        |
+   +----+----------------------------+
+   |                                 |
+   v                                 v
+KNEELING                          STANDING
+(visual posture)                  (tactile weight)
+   |                                 |
+   v                                 v
++--------------------------------+   +--------------------------------+
+| 2.2 LAW: SHOULDERS & HIPS      |   | 2.3 LAW: HEEL & TOES            |
+| Read shoulders relative to hips|   | Read weight through grips       |
++--------------------------------+   +--------------------------------+
+   |                                 |
+   v                                 v
+Decision: shoulders vs hips?          Decision: heels vs toes?
+   |                                 |
++--+------------------+          +---+------------------+
+|                     |          |                      |
+v                     v          v                      v
+SHOULDERS BEHIND       SHOULDERS  WEIGHT ON HEELS        WEIGHT ON TOES
+HIPS -> PUSH FAMILY    AHEAD ->   -> PUSH FAMILY         -> PULL FAMILY
+                        PULL FAMILY
 
-=========================================================
-B) SELECT: Three "Laws" (what to do given the read)
-=========================================================
-
-(1) Kneeling Opponent (visual read)
-+----------------------------------------------+
-| 2.2 LAW OF SHOULDERS & HIPS (kneeling)       |
-| If shoulders behind hips  -> PUSH family     |
-| If shoulders ahead of hips -> PULL family    |
-+----------------------------------------------+
-
-(2) Standing Opponent (tactile read)
-+----------------------------------------------+
-| 2.3 LAW OF HEEL & TOES (standing)            |
-| Weight on heels -> PUSH family              |
-| Weight on toes  -> PULL family              |
-+----------------------------------------------+
-
-(3) Exposure vs protection (under/over selection)
-+----------------------------------------------+
-| 2.4 LAW OF HEAD UNDER / HEAD OVER            |
-| Head high (exposed)        -> GO UNDER (lift)|
-| Head low + hips back (protect) -> GO OVER/BEHIND |
-+----------------------------------------------+
-
-Key validation outcomes (direction correctness):
-  - Hands post in front / behind
-  - Forced steps
-  - Base collapse (butt down)
-
-=========================================================
-C) RETAIN: Retention as the first skill (model-based)
-=========================================================
-+----------------------------------------------+
-| 2.5 RETENTION FIRST                          |
-| Defense enables committed offense            |
-+----------------------------------------------+
-                |
-                v
-+----------------------------------------------+
-| 2.6 KNOWLEDGE / DENIAL MODEL                 |
-| Knowledge: learn passer requirements         |
-| Denial: break any one requirement            |
-+----------------------------------------------+
-                |
-                v
+        |
+        | (applies in any context as a third selector)
+        v
++-------------------------------------------+
+| 2.4 LAW: HEAD UNDER / HEAD OVER           |
+| Read: exposure vs protection              |
++-------------------------------------------+
+        |
+        v
+Decision: head/hip posture?
+   |
++--+------------------------------+
+|                                 |
+v                                 v
+HEAD HIGH (exposed)               HEAD LOW + HIPS BACK (protected)
+-> GO UNDER (elevate/lift)        -> GO OVER / GO BEHIND
 
 =========================================================
-D) PASSING REQUIREMENTS: The Six Elements (deny chain)
+B) VALIDATE: Did your choice create a real break?
 =========================================================
-A guard pass completes only if the passer satisfies ALL:
-  Distance -> Grip -> Angle -> Level -> Penetration -> Pin
-
-Denial logic: deny ANY ONE element => pass fails.
-
-+-----------+    +--------+    +--------+    +--------+    +-------------+    +------+
-| 2.7 DIST  | -> | 2.8 GR | -> | 2.9 ANG| -> | 2.10 LV| -> | 2.11 PENET  | -> | 2.12 |
-| close gap |    | attach |    | flank  |    | drop in|    | get inside  |    |  PIN |
-+-----------+    +--------+    +--------+    +--------+    +-------------+    +------+
-
-Denial cues (high-level):
-  2.7 Distance:
-    - long-range barriers (feet/shins/frames); continuous re-creation
-  2.8 Grip:
-    - break grips early + rebuild structure; don’t handfight without re-framing
-  2.9 Angle:
-    - re-center; square hips; don’t chase with arms only
-  2.10 Level:
-    - shorten frames; connect to core; preserve elbow–knee integrity
-  2.11 Penetration:
-    - prevent them getting inside your structure; rebuild immediately if breached
-  2.12 Pin:
-    - pin is the finish; fight hardest before stabilization; keep shoulders mobile
+All selected families feed the same validation check:
+        |
+        v
++-------------------------------------------+
+| VALIDATION OUTCOMES (must be measurable)  |
+| - Hands post (front or back)              |
+| - Forced steps / base disruption          |
+| - Butt/seat down (base collapse)          |
++-------------------------------------------+
+        |
+        v
+If no measurable break -> re-read energy -> re-select law (loop back)
 
 =========================================================
-E) END STATE: Guard competence loop
+C) RETAIN: Retention as first skill (2.5) + Knowledge/Denial (2.6)
 =========================================================
-READ (DET) -> SELECT (laws) -> CONNECT -> DISRUPT -> ATTACK
-                 |
-                 v
-        If attack fails / pass attempt starts:
-        KNOWLEDGE (which element?) -> DENIAL (break element) -> return to offense
+After/while engaging:
+        |
+        v
++-------------------------------------------+
+| 2.5 RETENTION FIRST                        |
+| Defense enables committed offense          |
++-------------------------------------------+
+        |
+        v
++-------------------------------------------+
+| 2.6 KNOWLEDGE / DENIAL MODEL               |
+| Identify passer requirement -> deny it     |
++-------------------------------------------+
+        |
+        v
+Decision: Which pass element is being built right now?
+        |
++-------+--------+--------+--------+-----------+------+
+|       |        |        |        |           |      |
+v       v        v        v        v           v
+2.7     2.8      2.9      2.10     2.11        2.12
+DIST    GRIP     ANGLE    LEVEL    PENETRATION PIN
+
+Denial actions (high-level):
+  2.7 Distance      -> long barriers; re-create range continuously
+  2.8 Grip          -> break early + rebuild structure (don’t handfight only)
+  2.9 Angle         -> re-center; square hips; don’t chase with arms
+  2.10 Level        -> shorten frames; connect to core; preserve structure
+  2.11 Penetration  -> rebuild internal connections immediately
+  2.12 Pin          -> fight before stabilization; keep shoulders mobile
+
+        |
+        v
++-------------------------------------------+
+| END STATE                                 |
+| Guard re-established -> return to offense |
+| (cycle break -> re-enter read/select loop)|
++-------------------------------------------+
 
 ~~~
 
