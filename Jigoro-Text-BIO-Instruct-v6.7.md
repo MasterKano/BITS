@@ -1,40 +1,26 @@
-PATH: Jigoro-Text-BIO-Instruct-v6.6.md
+PATH: Jigoro-Text-BIO-Instruct-v6.7.md
 
-# JIGORO TEXT (BIO INSTRUCTIONS) v6.6 (PUBLISHED)
+# JIGORO TEXT (BIO INSTRUCTIONS) v6.7 (PUBLISHED)
 
 ## DOCUMENT INFORMATION
 
 - Document Title: Jigoro Text (BIO Instructions)
 - Document Number: JH-MJK-001
-- Version: 6.6
+- Version: 6.7
 - Status: Approved (Published)
-- Date of Issue: 2026-01-11
-- Supersedes: v6.5
+- Date of Issue: 2026-01-24
+- Supersedes: v6.6
 - Issued By: JH
 - Maintained By: ChatGPT Execution System
 
 ## REVISION HISTORY
 
-- v6.6
-  - Added explicit “Parts” grammar: `Sections A-B (Parts)` and `Section X (Parts)` as first-class commands (alias of xParts behavior).
-  - Added deterministic stop-after option for batching: “stop after Section K” (prevents overrun when capacity remains).
-  - Added recommended batch sizing guidance (best-effort) to reduce truncation under deep density.
-  - Clarified transport markers: required only when batching/chunking; single-section delivery does not require wrappers.
-- v6.5
-  - Added range commands: `Sections A-B` and `Section X (Parts)` for predictable multi-section delivery without repeated “Next”.
-  - Added chunking commands to split large sections by subchapter ranges (e.g., `Section 6.0 chunks of 6.1-6.3`).
-  - Added mandatory safe-stop + resume token format to eliminate “where are we?” drift after truncation.
-  - Clarified “LOCKED” scope: section titles/order are locked; sub-chapters are not limited (tooling/UI errors are handled via chunking).
-  - Standardized transport markers for batch output: `BEGIN SECTION` / `END SECTION` wrappers (no technical content added).
-- v6.3
-  - Added batch command support for multi-section delivery (explicit grammar + safe-stop behavior).
-  - Added handling rule for transcripts without timestamps (segmentation by topic shift + record assumptions in Section 14).
-- v6.2
-  - Locked the reader-order BIO template where 1.0 is Master System Map (ASCII), 2.0 is Executive Summary, 3.0 is Volume Index.
-  - Removed the requirement for a separate Structure Manifest by making BIO Contents the single authoritative “lock” (headers + order).
-  - Added hard rule: “Next” advances strictly by the locked BIO Contents order.
-  - Added Section 11 (Failure Patterns) and Section 12 (Key Passages) as required sections.
-  - Reaffirmed: sub-chapters are transcript-customized inside each section; section numbering/titles remain fixed.
+- v6.7
+  - Added Titles File Authority rules for BIO Section 3.0 (Volume Index) and diagram labeling.
+  - Added requirement: Section 3.0 must include per-volume subchapter outline when Titles file exists; otherwise include brief per-volume overview.
+  - Added lumped transcript remediation rule for BIO (re-parse embedded subchapters before declaring missing).
+  - Added timestamp conflict policy (precedence + handling inconsistent Titles time ranges).
+  - Expanded pre-output lint checklist to include Titles-alignment validation for Section 3.0.
 
 ---
 
@@ -43,6 +29,7 @@ PATH: Jigoro-Text-BIO-Instruct-v6.6.md
 - Source of truth: technical content must be transcript-derived.
 - BIO Contents is the lock: exact section titles/order are authoritative for this BIO.
 - Reader order is physical order: the BIO is written and read in the same sequence.
+- Titles file authority (when provided): governs Volume Index outlines and diagram labeling (see 5.3, 7.4).
 - Wrapping: no manual hard-wrap except ASCII diagrams (≤120 chars/line).
 - Supplement boundary: only Section 15 may be non-transcript-derived and must be explicitly marked.
 - Output reliability rule: if output limits are hit, the assistant must safe-stop at a declared boundary and provide a resume token.
@@ -62,6 +49,7 @@ This standard defines how to convert any BJJ instructional transcript into a sin
 - ASCII Width Rule: diagrams ≤120 characters per line; only diagrams may be hard-wrapped.
 - Lock scope: the locked template constrains section titles/order; it does not cap the number of transcript-driven sub-chapters.
 - Safe-stop: a mandatory stop at a named boundary when output length constraints are reached.
+- Titles file: a separate outline artifact listing official chapter/subchapter headings (and sometimes time ranges).
 
 ---
 
@@ -111,6 +99,39 @@ If the transcript lacks timestamps or chapter markers:
   - Transcript-driven expansion needed to represent the instructional faithfully
 - If a tool/UI claims “cannot expand locked sections”, treat that as a delivery-size constraint problem and use Section 6 chunking/range commands.
 
+### 5.3 Titles file authority (mandatory when provided)
+
+If a Titles file exists for the instructional:
+- Titles is the controlling authority for:
+  - Section 3.0 Volume Index subchapter outlines (see 7.4)
+  - diagram naming/labeling in Section 7.0 (volume/subchapter labels)
+- Transcript-derived segmentation is subordinate:
+  - if transcript text is merged/lumped, re-parse to match Titles subchapters before declaring “missing.”
+
+### 5.4 Lumped transcript remediation (required)
+
+When transcript text merges multiple titled subchapters into a single paragraph/block:
+- First assume missing material is embedded nearby.
+- Re-parse by instructional signals in this order:
+  1) stated purpose (“today we will…”)
+  2) opponent reaction / defensive response
+  3) corrective rule / constraint
+  4) hub/position change
+- Extract and relocate into the correct Titles subchapter(s) or BIO outline bullets.
+- Only after a targeted scan may you declare “missing content,” and you must name the missing item.
+
+### 5.5 Timestamp conflict policy
+
+- Timecodes are optional; include only when they materially reduce ambiguity.
+- Precedence:
+  1) transcript timecodes (highest)
+  2) Titles file time ranges
+  3) none
+- If Titles time ranges are inconsistent/non-linear:
+  - keep them as labels only
+  - preserve Titles order (do not reorder content to “fit” timestamps)
+  - optionally add a single note in Section 14.0 Additional Notes
+
 ---
 
 ## 6. COMMAND SEMANTICS (LOCKED)
@@ -145,15 +166,11 @@ Mandatory safe-stop behavior:
 
 ### 6.3 Range commands (preferred for predictability)
 
-Use these when you want: “produce sections 1–3” or “produce 6–8”, etc.
-
 Supported forms:
 - “Sections A-B”
   - Output sections A through B inclusive, in locked order.
-  - Example: “Sections 1-3” outputs 1.0, 2.0, 3.0 (and all sub-chapters inside 3.0).
 - “Sections A-B xParts”
   - Output sections A through B but allow safe-stop and continuation until the entire range is complete.
-  - Example: “Sections 4-6 xParts” (assistant outputs as much as fits, then safe-stops with resume token).
 - “Sections A-B (Parts)”
   - Alias of xParts.
 - “Section X (Parts)”
@@ -161,16 +178,13 @@ Supported forms:
 
 ### 6.4 Chunking commands (for large sections)
 
-Chunking splits a single large section into subchapter ranges so the user does not have to accept truncation.
-
 Supported forms:
 - “Section X chunked”
-  - Assistant chooses chunk boundaries at subchapter boundaries (e.g., 6.1–6.3, 6.4–6.6, …) and safe-stops between chunks.
+  - Assistant chooses chunk boundaries at subchapter boundaries and safe-stops between chunks.
 - “Section X chunked by Y”
-  - Example: “Section 6.0 chunked by 3 subchapters” (6.1–6.3, 6.4–6.6, …)
+  - Example: “Section 6.0 chunked by 3 subchapters”
 - “Section X.Y-Z”
-  - Output a subchapter range only.
-  - Example: “Section 6.4-6.7” outputs those subchapters inside 6.0.
+  - Output a subchapter range only (inside Section X).
 
 Transport markers (mandatory when batching or chunking):
 - Each delivered section must be wrapped as:
@@ -190,21 +204,16 @@ These markers are transport only; they do not change the BIO’s internal headin
 ### 6.5 Resume protocol (mandatory)
 
 If a safe-stop occurs, the assistant must output:
-
 - NEXT: <the next section/chunk boundary>
 - RESUME TOKEN: RESUME:<section-or-chunk>
 
 User resumes with:
 - “Resume RESUME:<section-or-chunk>”
-  - Example: “Resume RESUME:6.4-6.6”
-- Or with a new command starting at that point:
-  - “Section 6.4-6.7”
-  - “Next x2”
+- Or a new command starting at that point.
 
 ### 6.6 Deterministic stop-after option (user-controlled)
 
-To prevent overrun (continuing past the boundary you intended), the user may specify:
-
+User may specify:
 - “Sections A-B; stop after Section K”
 - “Next xN; stop after Section K”
 
@@ -213,12 +222,9 @@ Rule:
 
 ### 6.7 Recommended batch sizing (best-effort guidance)
 
-Because deep-density sections vary in size, the safest defaults are:
 - Prefer “Sections 1-3 (Parts)” for initial delivery.
 - Prefer “Section 6.0 chunked” for Technique Library when dense.
 - Prefer 1–2 sections per response for diagram-heavy portions (7.0+) unless using (Parts).
-
-This is guidance only; safe-stop rules still apply.
 
 ---
 
@@ -258,6 +264,18 @@ This is guidance only; safe-stop rules still apply.
 - Diagrams must be transcript-derived in node/transition selection (no speculative nodes).
 - Diagram lines ≤120 chars; diagrams may be hard-wrapped; non-diagram text must not be hard-wrapped.
 
+### 7.4 Volume Index requirement (Section 3)
+
+Section 3.0 must represent each volume in a way that is useful and outline-faithful:
+
+- If a Titles file exists:
+  - Each volume entry (3.1, 3.2, …) must include, at minimum, the Titles-file subchapter list for that volume.
+  - Titles wording is controlling (minor punctuation normalization allowed).
+- If no Titles file exists:
+  - Each volume entry must include either:
+    - a concise subchapter list derived from transcript segmentation, or
+    - a brief 1–3 bullet overview of what the volume covers (minimum).
+
 ---
 
 ## 8. INCOMPLETE COVERAGE HANDLING (STRICT)
@@ -265,6 +283,7 @@ This is guidance only; safe-stop rules still apply.
 - Never invent content.
 - If something is missing, state exactly what is missing (e.g., missing transcript for a titled subchapter, missing volume transcript, missing timestamp block).
 - Do not use generic “coverage incomplete…” lines without specifying the missing item.
+- Before declaring missing subchapters, apply lumped transcript remediation (5.4).
 
 ---
 
@@ -286,10 +305,12 @@ This is guidance only; safe-stop rules still apply.
 ## 11. PRE-OUTPUT LINT CHECKLIST (ASSISTANT)
 
 - Output matches locked section names/order from BIO Contents.
+- Section 1.0 is an ASCII diagram at the top of the report and complies with width rules.
+- Section 3.0 satisfies the Volume Index requirement (7.4) and is Titles-aligned when Titles exists.
 - No legacy Annex/Appendix structures unless explicitly present in the locked BIO Contents (prohibited by default).
 - No hard-wrapping except ASCII diagrams; diagram width ≤120 chars/line.
 - No meta narration; no non-transcript technical content outside Section 15.
-- If missing content is flagged, it explicitly names what is missing.
+- If missing content is flagged, it explicitly names what is missing and follows lumped remediation first.
 - If safe-stop occurs, provide NEXT + RESUME TOKEN per Section 6.5.
 
-END OF JIGORO TEXT (BIO INSTRUCTIONS) v6.6
+END OF JIGORO TEXT (BIO INSTRUCTIONS) v6.7
