@@ -235,7 +235,7 @@ Minimum per session:
 - Constraints:
   - ASCII only
   - width ≤120 characters per line (hard-wrap if needed)
-  - fenced blocks: plain triple-backticks only (no language tags)
+  - fenced blocks: plain triple-tildes ~~~ only for all ASCII diagrams
 - Diagrams should express:
   - gates, branches, and failure points (not just a table of contents)
 
@@ -324,5 +324,5 @@ Paste:
 - TRN is the only required input and the source-of-truth.
 - If a Titles file is provided, it controls subchapter structure and naming.
 - Do not rotate/spin under stable base when the system requires a base-break gate.
-- Keep ASCII diagrams ≤120 chars/line and in plain triple-backtick fences only.
+- Keep ASCII diagrams ≤120 chars/line and in plain triple-tildes fences ~~~~ only.
 - Corrections must use Patch Protocol and must not silently merge subchapters.

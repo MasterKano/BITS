@@ -1,6 +1,6 @@
-PATH: BOA-SYS.md
+PATH: BOA-SYS-v0.8.md
 
-# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.7
+# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.8
 
 ## 0. Purpose (binding)
 This agreement defines the binding operational workflow for merging instructionals into the canonical `SYS/` systems database.
@@ -14,7 +14,7 @@ It exists to prevent:
 - SYS merges that proceed without first producing VN and BIO from transcripts.
 
 ### 0.1 Primary operating assumption
-- You upload **transcripts (TRN) only**.
+- You upload transcripts (TRN) only.
 - VN and BIO are produced from TRN inside the project workflow, then promoted into SYS.
 
 ### 0.2 Pipeline (canonical)
@@ -39,18 +39,19 @@ This agreement governs the **SYS phase** and the controls required to keep SYS c
 - Diagram rules (ASCII, width discipline)
 - Defence integration rule (attack + defence combined in SYS by default)
 - Batch-safe execution for SYS merges
-- Training games/drills inclusion policy (Section 8.4)
+- Training games/drills inclusion policy
+- SYS page build standard and enforcement (Section 8)
 
-### 1.2 What this agreement does *not* govern
-- BIO report creation rules and formatting (Jigoro Text governs)
-- VN or session standards (Kano Scroll governs)
+### 1.2 What this agreement does not govern
+- BIO report creation rules and formatting (Jigoro governs)
+- VN or session standards (Kano governs)
 - Repo restructuring unless explicitly requested
 
 ---
 
 ## 2. Canonical Principle (non-negotiable)
 - `SYS/` is the **single merged system library**.
-- If a topic already exists in `SYS/`, we **update that file** rather than creating a duplicate.
+- If a topic already exists in `SYS/`, **update the existing file** rather than creating a duplicate.
 - `INS/` holds instructional-specific artifacts (TRN/VN/BIO).
 - `SYS/` holds the durable, merged, instructional-agnostic system view.
 
@@ -61,28 +62,28 @@ This agreement governs the **SYS phase** and the controls required to keep SYS c
 ### 3.1 Mandatory lifecycle order
 SYS merge may not begin for an instructional until the following are complete:
 
-1. **TRN intake** (source-of-truth)
-2. **VN generated** (Titles-aligned when Titles file exists)
-3. **BIO generated** (template-locked per Jigoro Text)
-4. **SYS merge** (this agreement)
-5. **Delta check**
-6. **Queue advancement**
+1. TRN intake (source-of-truth)
+2. VN generated (Titles-aligned when Titles file exists)
+3. BIO generated (template-locked per Jigoro)
+4. SYS merge (this agreement)
+5. Delta check
+6. Queue advancement
 
-Skipping steps 2 or 3 is not permitted unless you explicitly instruct otherwise.
+Skipping steps 2 or 3 is not permitted unless explicitly instructed.
 
 ### 3.2 SYS merge entry criteria (gate)
 Before SYS merge starts, the following must exist in project files or be pasted in chat:
 - BIO file (`INS/.../BIO/BIO.md` or equivalent)
 - VN files (`INS/.../VN/VN01..VN0N`, or declared partial scope)
 
-If only TRN exists, the correct action is to generate VN and BIO first (Kano/Jigoro), then begin SYS.
+If only TRN exists, generate VN and BIO first (Kano/Jigoro), then begin SYS.
 
 ---
 
 ## 4. Inputs and Source Hierarchy
 
 ### 4.1 Preferred delivery method: Project files
-Default preference: all sources live in project files for persistence and explicit provenance.
+Default preference: sources live in project files for persistence and explicit provenance.
 
 ### 4.2 Source hierarchy (binding)
 - **VN + BIO** = primary SYS merge inputs (operator-grade structure + condensed logic)
@@ -121,17 +122,14 @@ VN is an operator synthesis layer; VN-only claims are not canonical unless expli
 - No jumping unless explicitly instructed.
 
 ### 5.2 Queue artifact (binding)
-The queue must exist in the repo as:
-`META/WORK-QUEUE-SYS.md`
-
-This file is authoritative for:
-- file order,
-- status (`pending | merged | skipped | delta-check`),
-- resume notes.
+The queue must exist in the repo as the authoritative queue file (project standard), and must include:
+- file order
+- status (`pending | merged | skipped | delta-check`)
+- resume notes
 
 If chat state conflicts with repo queue, repo queue wins unless overridden.
 
-### 5.3 “What’s next?” protocol
+### 5.3 “What’s next?” protocol (binding)
 When asked “What’s next?”, return:
 - next SYS file path,
 - merge type (update vs create),
@@ -139,7 +137,7 @@ When asked “What’s next?”, return:
 - queue position (`#n / #N`).
 
 ### 5.4 Per-update status (required)
-Every SYS response must state:
+Every SYS response must state outside the copy box:
 - queue position,
 - file status,
 - skip reason (if skipped),
@@ -175,9 +173,8 @@ No narrative filler.
 
 ## 7. Change Reporting (mandatory)
 
-Every SYS update must include outside the code block:
-
 ### 7.1 Delta Summary (required fields)
+Outside the code block, every SYS update includes:
 - **Added**
 - **Modified**
 - **Removed** (only if necessary)
@@ -199,61 +196,95 @@ If instructionals disagree:
 
 ---
 
-## 8. Systems Page Standard
+## 8. Systems Page Standard (binding)
 
 ### 8.1 Section numbering (locked)
 SYS pages use numbered sections (e.g., `## 1. Purpose`).
 Legacy structures are preserved unless migration is requested.
 
-### 8.2 Combined attack + defence rule (binding)
+### 8.2 SYS page build standard (operator-grade; default order)
+Unless content type makes a section irrelevant, SYS pages follow this order:
+
+1) **Purpose**
+2) **Inputs / Preconditions** (if applicable)
+3) **Outputs / Success Criteria**
+4) **Core Model / Engine**
+5) **Gates (override rules)**
+6) **Opponent Reactions → Responses**
+7) **Failure Signatures → Fix**
+8) **Interfaces** (links to other SYS nodes)
+9) **Diagram (ASCII)**
+10) **Drills and Games** (when beneficial)
+
+If a section is not applicable, omit it—do not pad.
+
+### 8.3 Interfaces rule (anti-sprawl)
+Every SYS page must list:
+- what it depends on (upstream selectors/gates), and
+- what it feeds (downstream hubs/entries/finishes),
+to reduce duplication and make navigation trivial.
+
+### 8.4 Drills and Games section (part of the system)
+When beneficial, SYS pages include a final section titled:
+
+`## Drills and Games`
+
+Rules:
+- This section is **part of the system** and appears at the **end** of the page.
+- Include when it materially improves acquisition/testing, especially for:
+  - decision models (recognition + switching),
+  - governance modules (anti-exit, constraints, cycle-break),
+  - retention engines (orientation, demarcation, framing layers),
+  - hubs where stabilization and exit denial are the core skill.
+- Optional where it adds noise (pure taxonomy/reference nodes, narrow micro-details already covered elsewhere).
+
+Format (required per drill/game):
+- Start position
+- Constraints
+- Win condition / scoring
+- Time cap / reps
+- Coaching focus (one line)
+
+Provenance rule:
+- Drills/games may extend training design beyond the instructional; this section must not introduce new mechanical claims. It may only operationalize the mechanics already defined in the page.
+
+### 8.5 Combined attack + defence rule (binding)
 Default: SYS pages combine attack and defence by default.
 Enforced by:
 1. inserting a Defence Model section if missing,
 2. integrating defence as defender triggers → attacker responses,
 3. creating defence-only pages only when content is cross-hub reusable and clearly separable.
 
-### 8.3 SYS extraction gate (binding)
+### 8.6 SYS extraction gate (binding)
 Before writing/updating any SYS node from an instructional:
-- VN Titles-alignment lint has passed (Kano governs this),
-- lumped transcript remediation completed where applicable (Kano governs this),
+- VN Titles-alignment lint has passed (Kano governs),
+- lumped transcript remediation completed where applicable (Kano governs),
 - system is expressed in SYS form:
   - gates, decision rules, failure patterns, minimal technique anchors.
 
-### 8.4 Drills and Games section (policy)
-When beneficial, SYS pages should include a final section titled:
+### 8.7 Consistency enforcement cadence (binding)
+To prevent drift during long merges:
+- Every 5 SYS items, run a **delta consistency check**:
+  - terminology consistency (hip line, cycle break, true handle, orientation),
+  - interfaces match actual file set,
+  - diagrams are valid and readable,
+  - drills do not add new mechanics,
+  - no duplicate systems created inadvertently.
 
-- `## Drills and Games`
-
-Rules:
-- This section is **part of the system** and appears at the **end** of the page.
-- Include it when it materially improves skill acquisition or testing, especially for:
-  - decision models (recognition + switching),
-  - governance modules (anti-exit, constraints, cycle-break),
-  - retention engines (orientation, demarcation, framing layers),
-  - hubs where stabilization and exit denial are the core skill.
-- It is **optional** where it would add noise (pure taxonomy/reference nodes, very narrow micro-details already covered elsewhere).
-
-Format (required per drill/game):
-- **Start position**
-- **Constraints**
-- **Win condition / scoring**
-- **Time cap / reps**
-- **Coaching focus** (one line)
-
-Provenance rule:
-- Drills/games may include training design beyond the instructional; this section must not introduce new technical claims about mechanics. It may only operationalize the mechanics already defined in the page.
+If inconsistency is detected:
+- fix immediately before advancing the queue.
 
 ---
 
 ## 9. ASCII Diagram Standard
 
 ### 9.1 Requirement
-At least one diagram per SYS page when it improves clarity.
+At least one diagram per SYS page when it reduces ambiguity.
 
 ### 9.2 Constraints (locked)
 - ≤120 characters per line
-- Plain triple-backtick fence only
-- No language tags
+- ASCII only
+- fenced blocks: **plain triple-backticks only** (no language tags)
 
 ### 9.3 Conventions (recommended)
 - `[HUB]` = platform
@@ -297,9 +328,10 @@ Blockers must include:
 Every published change requires a version bump.
 
 ### 12.1 Changelog
-- **v0.7 (from v0.6)**
-  - Added SYS page policy for including a final `Drills and Games` section when beneficial.
-  - Defined when drills/games are expected vs optional and standardized drill/game formatting.
-  - Added provenance constraint: drills/games may extend training design but must not introduce new mechanical claims.
+- **v0.8 (from v0.7)**
+  - Added binding SYS page build standard (operator-grade section order).
+  - Added Interfaces rule to reduce duplication and improve navigation.
+  - Added consistency enforcement cadence: delta check every 5 SYS items.
+  - Clarified diagram constraints alignment with Kano (triple-backticks).
 
-End — BOA-SYS v0.7
+End — BOA-SYS v0.8
