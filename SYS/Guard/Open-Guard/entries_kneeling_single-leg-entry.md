@@ -1,137 +1,135 @@
 PATH: SYS/Guard/Open-Guard/entries_kneeling_single-leg-entry.md
 
-# Entries — Kneeling: Single-Leg Entry (System)
+# Entries (Kneeling) — Single-Leg Entry (Kneeling Base Exploit)
 
-## 1. Purpose and Scope
-A kneeling-entry system that converts a kneeling opponent into **leg exposure** by creating a **catch window** (hips separate from heels), forcing a **post/widen reaction**, then threading into a **hub** with anti-exit governance.
+## 1. Purpose
+An entry system that exploits a **kneeling passer** by converting their base geometry into a direct single-leg connection.
 
-Scope:
-- Applies when the passer drops to knees (two-knee or one-knee base) to “shorten legs” and reduce entry risk.
-- This is an entry *engine*, not a single technique: it defines triggers, gates, reactions, and hub selection.
+Kneeling changes the threat profile:
+- pressure is closer and easier (Level → Penetration → Pin),
+- but leg access is often more available if posture is compromised.
 
-## 2. Preconditions (must be true)
-- **Orientation intact:** feet or knees facing opponent.
-- **Distance controlled:** opponent is close enough that your hands/legs can contact, but not already past hip line.
-- **Shoulder safety:** you can stay on your side; you are not flattened (if flattened, fix posture first).
+This system provides a safe, gated path to attack the leg without sacrificing orientation.
 
-## 3. Threat Model (what kneeling is trying to do)
-Kneeling commonly aims to:
-- deny you long leg access (hips close to heels),
-- build pressure passing through forward drive,
-- stall at a “safe” distance until grips/locks form.
+## 2. Inputs / Preconditions
+- Opponent is kneeling (at least one knee on the mat).
+- You can maintain orientation (feet or knees facing).
+- You can create or recognize a base compromise (post/widen/forced step or posture break).
 
-Your priorities:
-- prevent kneeling from becoming **level + penetration** (six-elements chain),
-- force the base to change (post/widen) so a leg line becomes capturable.
+## 3. Outputs / Success Criteria
+- You secure a reliable single-leg connection that survives one opponent adjustment.
+- You prevent immediate pressure conversion (no free flattening).
+- You keep opponent in front (no outside knee line).
+- You force a base event or threaten leg line so the passer must react.
 
-## 4. System Outputs (success criteria)
-A rep is “successful” only if it produces at least one:
-- the opponent **posts** (hands down) or must widen base to avoid tipping,
-- hips separate from heels (catch window opened),
-- you secure an initial leg handle (ankle/heel line or equivalent) that survives one step.
+## 4. Core Model / Engine
 
-## 5. Core Engine (the repeatable sequence)
-### 5.1 Create the catch window (hips ≠ heels)
-- objective: make the opponent’s hips travel away from their heels even briefly
-- method family: steering + base disruption (do not chase upper body)
+### 4.1 Why kneeling changes the entry
+Kneeling shortens distance and makes forward drive cheaper, so you must:
+- build structure earlier,
+- be strict on gates,
+- avoid reaching that exposes hip line.
 
-### 5.2 Force a reaction
-You are trying to force one of:
-- **post hands**
-- **widen knees**
-- **step a foot forward** (if they start rising)
-- **hip shift** to avoid tipping
+But kneeling also reduces mobility-based exits; if you attach correctly, disengage is harder.
 
-### 5.3 Thread to inside control
-- once the reaction occurs, do not linger
-- thread to inside position and establish your first stable leg handle
+### 4.2 Entry loop (repeatable)
+**READ kneeling posture → ESTABLISH safety (orientation + barriers) → CONNECT single leg → RESTRICT FORWARD DRIVE → FORCE BASE EVENT / UPGRADE**
 
-### 5.4 Consolidate immediately (anti-reset)
-- after first handle, prioritize:
-  - preventing backstep/flee
-  - getting to a hub that makes their best exit slow
+- connect must not violate hip line gate
+- restrict forward drive to prevent pressure conversion
 
-## 6. Gates (non-negotiable)
-### 6.1 Hip line gate
-- If they are driving to your hip line: defensive cycle first (frames + re-align), then re-run the engine.
+### 4.3 Domain Progression Chain Hooks (kneeling profile)
+Kneeling often builds:
+- **Level → Penetration → Pin**
+So your entry must maintain:
+- anti-level structure (frames/barriers),
+- anti-penetration hips (turn-to-side readiness).
 
-### 6.2 Hands-down gate (validity)
-- If the opponent is kneeling but base is still stable and “hands-free,” treat your job as **base break first**.
-- Do not “dive under” a stable kneeling posture; earn the reaction.
+## 5. Gates (override rules)
 
-### 6.3 Orientation rule
-- if you lose facing during attempts, abandon entry and re-square; otherwise they circle to your flank and convert to penetration.
+### 5.1 Hip Line Gate
+If hip line is threatened, entry is suspended; defensive cycle is required.
 
-## 7. Opponent Reactions → Your Responses (decision tree)
-### 7.1 They drive forward (kneeling becomes pressure)
-- **Response:** escalate to frames (high/low) + turn-to-side + shrimp
-- **Goal:** restore barriers, re-center, then re-run entry engine
+**Default action:** frames high/low → turn-to-side → shrimp/recover barriers → re-square.
 
-### 7.2 They widen knees and “sit heavy” (stall)
-- **Response:** re-create catch window; do not accept static hips-to-heels
-- **Goal:** force post/widen again until a handle is available
+### 5.2 Hands-Down / Base-Compromise Gate (commitment validity)
+Do not commit to deeper rotations/underhooks under stable base.
 
-### 7.3 They begin to rise to standing (to escape)
-- **Response:** treat as transition to standing entry family:
-  - secure ankle/foot handle immediately (2-on-1 ankle logic)
-  - follow and prevent clean disengagement
+**Default action:** use leg threat/off-balance to create post/widen/forced step; commit after the base event.
 
-### 7.4 They back away / disengage
-- **Response:** anti-flee: follow and reattach to ankle line
-- **Goal:** no “free reset to range”
+### 5.3 Orientation Rule
+Feet or knees must face opponent during the entry.
 
-## 8. Failure Signatures → Fixes
-- **No catch window appears (hips glued to heels):**
-  - fix: stop trying to “enter”; your job is base break / hip separation first
-- **You get flattened during attempt:**
-  - fix: you treated kneeling as benign; apply pressure passer ladder (frames + structure)
-- **You obtain contact but lose it in one beat:**
-  - fix: handle was thin; secure ankle/heel line before climbing
-- **You enter but opponent immediately resets (backstep/flee):**
-  - fix: you failed to consolidate into a hub or apply anti-exit governance immediately
+**Default action:** re-square hips before connecting; do not reach while turned away.
 
-## 9. Hub Selection (after first handle)
-Default priority (selection depends on escape pressure):
-- if opponent is trying to turn away/disengage → **containment hub** (50–50 / double 50 logic)
-- if forward drive pressure persists → **forward barrier hub** (inside senkaku logic)
-- if backside flattening risk appears → **backside-stable hub** (criss-cross logic)
+## 6. Opponent Reactions → Responses
 
-(Exact hub mechanics live in hub files; this system defines when and why.)
+1) **Drive forward immediately (pressure conversion)**
+   - Response: frame stack appears; turn-to-side; treat as pressure profile; entry pauses until cycle break.
 
-## 10. Minimal Drill Progression (operator-grade)
-- **Phase 1 (mechanics):** create catch window → force post (no resistance)
-- **Phase 2 (gate):** opponent resists but must remain kneeling; your goal is hands-down within 5–10s
-- **Phase 3 (reaction):** opponent chooses one reaction (drive / widen / rise / disengage)
-- **Phase 4 (integration):** constrained sparring: opponent’s only goal is to reset; you must prevent reset after first handle
+2) **Post hands to stop off-balance (base event)**
+   - Response: gate satisfied; connect deeper and restrict forward drive.
 
-## 11. Diagram (ASCII)
+3) **Widen base / step knee out**
+   - Response: follow the leg line; keep orientation; prevent outside knee line; maintain connection.
 
-```text
-KNEELING SINGLE-LEG ENTRY (ENGINE)
-  |
-  v
-START: opponent kneeling (two-knee or one-knee)
-  |
-  v
-GOAL A: create CATCH WINDOW (hips separate from heels)
-  |
-  v
-GOAL B: force REACTION (post / widen / rise / hip shift)
-  |
-  v
-GATE: hands-down / base compromised?
-  |NO -> keep base-breaking (do not "dive" under stable posture)
-  |YES-> thread to inside control -> secure first HANDLE
-                          |
-                          v
-                 CONSOLIDATE (anti-reset)
-                          |
-                          v
-REACTIONS:
-  - drive forward -> frames + shrimp -> rebuild -> restart engine
-  - widen + sit heavy -> recreate catch window -> force post
-  - rise to stand -> transition to standing entry (2-on-1 ankle) + follow
-  - disengage      -> anti-flee: follow + reattach (no free reset)
-                          |
-                          v
-HUB SELECTION (based on escape pressure) -> stabilize -> finish/recycle
+4) **Strip connection**
+   - Response: reattach quickly; restore redundancy (hand+leg); do not reach.
+
+5) **Retreat to standing**
+   - Response: scoot-follow; upgrade to 2-on-1 ankle / shin-to-shin connector (distance systems take over).
+
+## 7. Failure Signatures → Fix
+- **I reach and get flattened** → hip line/level gates ignored; structure first; connect only when safe.
+- **I attach but he drives through me** → forward drive not restricted; frames and turning readiness must be present.
+- **I lose facing during entry** → orientation violation; re-square first.
+- **He stands up and I lose everything** → anti-exit missing; follow with hips; convert to distance handle systems.
+- **Entry feels unstable** → insufficient redundancy; add second control point.
+
+## 8. Interfaces (use-when tags)
+- `decision-model_three-laws_kneeling-standing-head.md` — use when: kneeling context requires pressure-aware entry selection.
+- `retention_framing_layer_frame-high-frame-low.md` — use when: kneeling pressure requires structure before entry.
+- `application_pressure-passer_defense-ladder.md` — use when: kneeling drive becomes pressure progression.
+- `entries_distance_2-on-1-ankle-system.md` — use when: opponent stands or distance opens; convert immediately.
+- `entries_distance_shin-to-shin_connector.md` — use when: mid-range anchor is needed as they adjust.
+- `retention_movement_scooting.md` — use when: kneeling passer stands/retreats and you must follow.
+- `application_cycle-break_to_immediate-counter.md` — use when: entry follows directly after cycle break.
+
+## 9. Diagram
+
+~~~
+KNEELING SINGLE-LEG ENTRY (Gated)
+
+read: kneeling base (pressure threat high)
+-> orientation + barriers
+-> create/read base event (post/widen/forced step)
+-> connect single leg + restrict forward drive
+-> if they drive pressure: frame + defensive cycle
+-> if they stand/retreat: convert to 2-on-1 ankle / shin-to-shin
+~~~
+
+## 10. Drills and Games (Game Cards)
+
+### 10.1 Kneeling Entry With Pressure Check
+- **Start:** passer kneeling in front; defender open guard.
+- **Defender wins:** connect single-leg safely and keep opponent in front for **3s** without being flattened.
+- **Passer wins:** flatten shoulders **3s** or achieve **pin**.
+- **Rules:** passer is allowed to drive forward immediately; defender must obey gates (structure first).
+- **Reset:** 3s hold / pin.
+- **Rounds:** 10 reps each, switch.
+
+### 10.2 Gate Creation (force the base event)
+- **Start:** passer kneeling with stable posture; defender at distance.
+- **Defender wins:** force a **post/widen/forced step** within **10s**, then connect single leg.
+- **Passer wins:** maintain stable base for **10s** without posting/widening.
+- **Rules:** defender may off-balance but may not commit to deeper rotations until the base event occurs.
+- **Reset:** base event + connection / timer.
+- **Rounds:** 10 reps each, switch.
+
+### 10.3 Stand-Up Conversion
+- **Start:** passer kneeling; on cue they stand and attempt to retreat.
+- **Defender wins:** follow with scoot and convert to 2-on-1 ankle or shin-to-shin within **5s**.
+- **Passer wins:** disengage to two steps with no contact.
+- **Rules:** defender must keep facing while converting; no hand chasing.
+- **Reset:** conversion / disengage.
+- **Rounds:** 10 reps each, switch.
