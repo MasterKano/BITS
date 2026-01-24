@@ -1,6 +1,6 @@
 PATH: BOA-SYS-v0.8.md
 
-# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.8
+# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.9
 
 ## 0. Purpose (binding)
 This agreement defines the binding operational workflow for merging instructionals into the canonical `SYS/` systems database.

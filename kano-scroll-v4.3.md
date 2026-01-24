@@ -1,6 +1,6 @@
 PATH: Kano-Scroll.md
 
-# Kano Scroll v4.2 — BITS Training Guidance Manual (PUBLISHED)
+# Kano Scroll v4.3 — BITS Training Guidance Manual (PUBLISHED)
 
 ## 0. Purpose
 
