@@ -1,6 +1,6 @@
-PATH: BOA-SYS-v1.1.md
+PATH: BOA-SYS-v1.2.md
 
-# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v1.1
+# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v1.2
 
 ## 0. Purpose (binding)
 This agreement defines the binding operational workflow for merging instructionals into the canonical `SYS/` systems database.
@@ -180,7 +180,7 @@ SYS pages must be operator-grade:
 
 No narrative filler.
 
-### 8.2 Required section order (default)
+### 8.2 Required section order (default; upgraded in v1.2)
 Unless content type makes a section irrelevant, SYS pages follow this order:
 
 1) **Purpose**  
@@ -188,13 +188,57 @@ Unless content type makes a section irrelevant, SYS pages follow this order:
 3) **Outputs / Success Criteria**  
 4) **Core Model / Engine**  
 5) **Gates (override rules)**  
-6) **Opponent Reactions → Responses**  
-7) **Failure Signatures → Fix**  
-8) **Interfaces**  
-9) **Diagram (ASCII)**  
-10) **Drills and Games** (when beneficial)
+
+6) **Top-6 Situations Playbook** (mandatory unless truly inapplicable; see 8.2A)  
+
+7) **Opponent Reactions → Responses**  
+8) **Failure Signatures → Fix**  
+
+9) **Trigger Recognition Checklist** (mandatory when the system includes a commitment threshold; see 8.2B)  
+10) **Quality / Capture Checklist** (mandatory when the system claims capture/control/handle; see 8.2C)  
+
+11) **Interfaces** (routing rules; see 8.4)  
+12) **Diagram (ASCII)**  
+13) **Drills and Games** (when beneficial; per Section 9)
 
 If a section is not applicable, omit it—do not pad.
+
+#### 8.2A Top-6 Situations Playbook (mandatory)
+Every SYS page must include a Top-6 Situations Playbook unless it is purely taxonomic/reference.
+
+Format:
+- Situation → Default response → Win condition/state change target
+
+Minimum:
+- 6 situations
+- at least 2 situations must cover opponent escalation (pressure/retreat/strip/angle)
+
+If omitted:
+- permitted only when the page is a taxonomy/reference node; must be explicit in delta summary (“Playbook omitted: reference node”).
+
+#### 8.2B Trigger Recognition Checklist (mandatory when commitments exist)
+If the system contains any of the following, a Trigger Recognition Checklist is required:
+- going underneath/rotational commitments
+- inversion/entry commitments
+- exposure/finish commitments
+- any “permission cue” claim (e.g., “only commit when…”)
+
+Format:
+- 3–7 binary cues
+- a fail-safe line: “If cues are not present, do NOT commit; return to <safer action>.”
+
+If omitted:
+- only if there is no commitment threshold in the system; must be explicit in delta summary.
+
+#### 8.2C Quality / Capture Checklist (mandatory when captures/controls exist)
+If the system claims a capture/control/handle/connection/pin, include a Quality/Capture Checklist.
+
+Format:
+- 4–8 durability checks (survives step, strip, angle, pressure beat)
+- include one fail-fast downgrade rule: “If X fails, downgrade to Y.”
+
+If omitted:
+- only if the system has no capture state; must be explicit in delta summary.
 
 ### 8.3 Controller page add-ons (mandatory when the page is a controller)
 
@@ -210,13 +254,20 @@ Each gate must include a “Default action” line that is executable (not conce
 Example form:
 - **Default action:** frame high/low + turn-to-side + shrimp → rebuild barriers
 
-### 8.4 Interfaces rule (anti-sprawl; upgraded)
+### 8.4 Interfaces rule (anti-sprawl; upgraded to routing rules)
 Every SYS page must list:
 - what it depends on (upstream selectors/gates), and
 - what it feeds (downstream hubs/entries/finishes)
 
-Each interface entry must include a one-line **use-when tag**:
-- Format: `file.md — use when: <trigger/context>`
+Each interface entry must be a routing rule with a one-line use-when tag.
+
+Required format:
+- **If <condition/state>, go to `<file.md>` — use when: <trigger/context>.**
+
+Minimum set:
+- at least 1 upstream (“how you arrive here”)
+- at least 1 downstream (“where you go next”)
+- at least 1 defensive diversion (“if threatened/pressure/hip-line then…”)
 
 ### 8.5 Diagrams (binding; delegated to Kano)
 Diagram constraints and fencing are governed by the current Kano Scroll.
@@ -297,7 +348,10 @@ Every 5 SYS items, run a consistency check for:
 - terminology consistency (domain-specific core terms)
 - section order compliance
 - controller add-ons present where required (domain chain table; gate default actions; completeness checklist)
-- interface use-when tags present
+- Top-6 Situations Playbook present where required
+- Trigger checklist present where required
+- Quality/Capture checklist present where required
+- interface routing rules present (If X, go to Y format)
 - diagram compliance with Kano
 - game cards follow the required format and vocabulary
 - no duplicate systems created
@@ -311,10 +365,11 @@ If any violation is detected, fix immediately before advancing the queue.
 Every published change requires a version bump.
 
 ### 12.1 Changelog
-- **v1.1 (from v1.0)**
-  - Added Best-Version Pass (two-pass delivery) and Best-Version Declaration; queue cannot advance without Pass 2 unless waived.
-  - Added Controller Completeness Checklist to force field-manual layers on controller pages.
-  - Added No Regression Rule to prevent deleting operator-grade content during revisions.
-  - Added Training Clarity Standard to make games runnable without interpretation.
+- **v1.2 (from v1.1)**
+  - Added Top-6 Situations Playbook requirement (Section 8.2A) and inserted into required section order.
+  - Added Trigger Recognition Checklist requirement for commitment-based systems (Section 8.2B).
+  - Added Quality/Capture Checklist requirement for capture/control/handle systems (Section 8.2C).
+  - Upgraded Interfaces rule to routing rules: “If X, go to file.md — use when …” with minimum upstream/downstream/defensive set (Section 8.4).
+  - Updated Every-5-item consistency check to enforce the above additions (Section 11.1).
 
-End — BOA-SYS v1.1
+End — BOA-SYS v1.2
