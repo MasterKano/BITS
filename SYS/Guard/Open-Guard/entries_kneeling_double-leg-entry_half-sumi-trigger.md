@@ -1,143 +1,151 @@
 PATH: SYS/Guard/Open-Guard/entries_kneeling_double-leg-entry_half-sumi-trigger.md
 
-# Entries (Kneeling) — Double-Leg Entry (Half-Sumi Trigger)
+# Entries (Kneeling) — “Double-Leg Entry” via Half-Sumi Trigger (Sumi-gaeshi → Legs)
 
 ## 1. Purpose
-Convert a kneeling passer into **two-leg capture** without getting flattened: you only commit underneath when a **half-sumi trigger** proves their base is compromised. This prevents the common failure: “double-leg reach into stable base → pressure conversion.”
+Primary kneeling-range entry to legs when opponent drops to **two knees** to deny standing entries. Use **sumi-gaeshi threat** to make opponent **tripod/base wide**, then convert with a **half-sumi action** that threads **between the feet** into a high-control leg entanglement (inside senkaku first option). This is described as the author’s preferred kneeling entry because it works from **looser, easy grips** and gives multiple finishing platforms.
 
 ## 2. Inputs / Preconditions
-- Opponent: kneeling (at least one knee down) and close enough that leg access is realistic.
-- You can maintain orientation: knees/feet facing (no turned-away build).
-- You can keep hip line protected with frames/barriers during the build.
-- You can produce or recognize a base event (post, widen, forced step, posture break/head height change).
+- Opponent is on **two knees** (best case) or low enough that sumi threat will draw a base-out.
+- You can obtain **collar tie / collar-turn style control** (or equivalent head/arm access).
+- You are willing to allow the opponent to **post** to defend the sweep (you are using that defense as the trigger).
+- You can rotate to a near **north-south alignment** during the conversion.
 
 ## 3. Outputs / Success Criteria
-- Two-leg control is **durable** (they cannot step free immediately).
-- You are not flattened; hip line remains protected through commitment.
-- You force/confirm a base-compromise event and use it to enter.
-- You stabilize into a connector/hub or you convert to distance systems if they stand.
-- You deny “disengage to two steps” as the default escape.
+- You achieve a clean entry lane: **hand threads between the feet** (not around the leg).
+- You establish a stable entanglement with:
+  - **inside senkaku** as first option, with knee line protected and turn-out slowed, OR
+  - a corrective switch to a pushing-dominant configuration (shoelace/foot position change) if they try to drive your shoulder down.
+- You retain control long enough to begin finishing/secondary systems (addressed later in series).
 
 ## 4. Core Model / Engine
-**BUILD CAPTURE → EARN TRIGGER → COMMIT (half-sumi) → STABILIZE → CONTINUE/CONVERT**
+**CREATE TRIPOD REACTION → HALF-SUMI CONVERSION → BETWEEN-FEET THREAD → KNEE-IN / SENKAKU → ANTI-TURN DETAIL → IF PUSHBACK, SWITCH FOOT POSITION**
 
-- **Build capture:** collect both legs with redundancy while staying squared.
-- **Earn trigger:** off-balance until they post/widen/step/re-stack breaks.
-- **Commit:** half-sumi only when the trigger is present.
-- **Stabilize:** deny pressure conversion; settle alignment before chasing follow-ups.
-- **Convert:** if they stand, immediately route to distance entry connectors.
+Operational loop:
+1) **Threaten sumi-gaeshi** enough that opponent posts and/or tripods.
+2) Convert to **half-sumi**: hand transitions **collar → armpit (across body)**.
+3) Turn your body to near **north-south**.
+4) **Thread hand between the feet** (critical lane choice).
+5) Insert knee, lock **inside senkaku**; push in line with hip line.
+6) Apply the anti-turn detail: **short leg, knee points up**.
+7) If opponent rises/pushes your shoulder down from backside, switch the foot position to regain pushing dominance.
 
 ## 5. Gates (override rules)
 
-### 5.1 Hip Line Gate (safety)
-If hip line is threatened (flattening imminent), entry is suspended.
-- **Default action:** frame high/low + turn-to-side + shrimp → rebuild facing and barriers.
+### 5.1 “Between the feet” Gate (lane correctness)
+The entry lane is inside the feet; do not loop around the leg.
+- **Default action:** re-turn to north-south alignment and re-thread straight between the feet.
 
-### 5.2 Trigger Gate (primary)
-No half-sumi commitment under stable base.
-- **Default action:** keep capture shallow + off-balance to force post/widen/step → then commit.
+### 5.2 Anti Turn-Out Gate (inside senkaku stability)
+Inside senkaku becomes vulnerable if your leg is long or knee points outward.
+- **Default action:** shorten leg and point knee **up toward ceiling** to slow their turning escape.
 
-### 5.3 Orientation Gate
-Do not build turned away; do not finish commitment turned away.
-- **Default action:** re-square first, then re-collect legs.
-
-### 5.4 Pressure-Drive Gate (wrong tool)
-If they are driving forward cleanly, you are not allowed to go underneath.
-- **Default action:** treat as pressure profile: frames → angle/turn → cycle break, then re-enter.
+### 5.3 Pushback / Shoulder-to-mat Gate (backside weakness)
+If inside senkaku has your foot on the back/spine and opponent rises to push your shoulder to the mat, you are losing the pushing contest.
+- **Default action:** switch to a **shoelace-based placement under/at the hip line** (shoelaces migrate from “behind on spine” to “in front on obliques/hip line”) so your legs can push his hamstrings more effectively than his hands can push your upper body.
 
 ## 6. Top-6 Situations Playbook
-1) **Stable kneeling base (stacked, no post, no step)**  
-   → **Default:** shallow two-leg collection + off-balance attempts (tilt/drag)  
-   → **Target:** force hands-down or forced step (trigger created).
+1) **Opponent drops to two knees to shorten legs**  
+   → **Default:** treat as green-light for this entry family (sumi threat → conversion).
 
-2) **Hands touch mat (post appears)**  
-   → **Default:** commit half-sumi immediately (trigger satisfied) + deepen two-leg control  
-   → **Target:** stabilize without flattening; deny step-free escape.
+2) **Opponent posts hand(s) as you elevate**  
+   → **Default:** accept the post; use it as the trigger to convert.
 
-3) **Base widens (knees/feet drift out to stabilize)**  
-   → **Default:** follow leg line while staying squared; keep both legs trapped  
-   → **Target:** prevent outside knee line and force another post/step.
+3) **Opponent tripods/base spreads wide**  
+   → **Default:** begin half-sumi conversion immediately; you are harvesting the base spread.
 
-4) **Forced recovery step occurs**  
-   → **Default:** commit half-sumi on the step timing (trigger satisfied)  
-   → **Target:** land in a stable connector/hub position before chasing.
+4) **You cannot find the lane around the leg**  
+   → **Default:** don’t go around; reset and thread **between feet**.
 
-5) **Forward drive / pressure conversion attempt**  
-   → **Default:** abort under-entry; frames high/low + turn-to-side  
-   → **Target:** reach cycle break/reset; re-enter only after drive ends.
+5) **Opponent tries to turn out of inside senkaku**  
+   → **Default:** knee up + short leg to slow the turn (buy time).
 
-6) **They stand to disengage**  
-   → **Default:** scoot-follow; convert to 2-on-1 ankle or shin-to-shin immediately  
-   → **Target:** deny “two-step disengage,” restore attachment.
+6) **Opponent rises and drives your shoulder down**  
+   → **Default:** switch foot placement (shoelace/hip-line placement) to win the pushing contest.
 
 ## 7. Opponent Reactions → Responses
-- **Drive forward hard:** do not go under; frames + angle; treat as pressure ladder until cycle break.
-- **Post hands:** trigger satisfied; commit half-sumi; prioritize stabilization before follow-up.
-- **Widen knees / step out:** maintain two-leg trap; re-square; deny outside knee line.
-- **Peel grips / strip controls:** restore redundancy first; do not chase with hands while losing facing.
-- **Stand up:** immediate distance conversion (2-on-1 ankle / shin-to-shin).
-- **Angle change around your legs:** re-square; if hip line threatened, hit Hip Line Gate.
+- **Posts to defend sweep / bases out:** proceed with conversion (this is the trigger).
+- **Tripods and widens:** thread between feet; lock inside senkaku.
+- **Turns out:** shorten leg; knee points up.
+- **Rises and pushes shoulder down:** switch from foot-on-back to shoelace placement that allows hamstring push.
+- **Attempts to pull away:** keep alignment, keep knee-line governance; push along hip line.
 
 ## 8. Failure Signatures → Fix
-- **“I went under and got smashed.”** → Trigger Gate violation; require a visible trigger before commitment.
-- **“I had both legs but he just stepped away.”** → capture too thin; build redundancy + restrict exit before commit.
-- **“I lose facing while collecting.”** → Orientation Gate violation; re-square first; no turned-away build.
-- **“He drives and I panic-enter.”** → Pressure-Drive Gate violation; frames/angle first, then re-enter.
-- **“He stands and I lose everything.”** → missing conversion; scoot-follow + route to distance connectors immediately.
+- **“I went around the leg and got stuck.”** → lane violation; must be between feet.
+- **“He turned out too fast.”** → your leg was too long / knee pointed outward; shorten leg, knee up.
+- **“He pushed my shoulder down and killed it.”** → you stayed in the weak backside configuration; switch foot placement to regain push leverage.
 
 ## 9. Trigger Recognition Checklist
-Commit half-sumi only if **2+ cues** are true:
-- [ ] Hands post to the mat (clear hands-down).
-- [ ] Base widens (knees/feet drift out to stabilize).
-- [ ] Forced recovery step happens (weight shift + step to catch balance).
-- [ ] Head height changes abruptly (posture breaks/re-stacks).
-- [ ] Hips/shoulders unstack (alignment no longer supports clean forward drive).
-
-Fail-safe:
-- If you cannot confirm **2 cues**, do **not** commit; return to shallow capture + off-balance until trigger appears.
+You may run the conversion when 2+ cues show the base-out defense is present:
+- [ ] opponent posts a hand to the floor
+- [ ] opponent tripods / hips rise
+- [ ] opponent spreads knees/feet wide to stabilize
+- [ ] opponent’s posture is committed forward by your elevate action
 
 ## 10. Quality / Capture Checklist
-Your “double-leg capture” is real only if:
-- [ ] Both legs are controlled/trapped so one step cannot fully clear.
-- [ ] You can keep facing (you are not turned away during the build).
-- [ ] Hip line is protected by frames/barriers (no flattening path).
-- [ ] A strip attempt does not immediately remove both controls (redundancy exists).
-- [ ] Their angle change does not break your attachment instantly (you can re-square while holding).
-- [ ] You can deny “disengage to two steps” for at least one beat (stability).
-
-Fail-fast downgrade:
-- If you lose facing or hip line protection, downgrade immediately to frames/turn/shrimp and rebuild barriers before re-attaching.
+Before you consider the entry “locked”:
+- [ ] hand is threaded **between the feet**
+- [ ] body angle is near **north-south**
+- [ ] knee insertion is clean (no overextension)
+- [ ] knee points **up**, not outward
+- [ ] if pushback occurs, foot placement is switched to restore pushing dominance
 
 ## 11. Interfaces (routing rules)
-- **If only one leg is cleanly available, go to `entries_kneeling_single-leg-entry.md` — use when: single-side access is the only safe collection.**
-- **If alignment makes reverse-direction capture safer, go to `entries_kneeling_reverse-double-entry.md` — use when: forward half-sumi line is blocked or dangerous.**
-- **If head height / kneeling-standing transitions govern your choice, go to `decision-model_three-laws_kneeling-standing-head.md` — use when: posture/base state determines entry legality.**
-- **If you need a stable-vs-compromised base read, go to `decision-model_dynamic-energy-theory.md` — use when: confirming “trigger present” vs “stable base.”**
-- **If pressure conversion is forming, go to `retention_framing_layer_frame-high-frame-low.md` — use when: you must survive the drive before re-entering.**
-- **If kneeling drive becomes a sequence, go to `application_pressure-passer_defense-ladder.md` — use when: you are being progressed through pressure steps.**
-- **If they stand or distance opens, go to `entries_distance_2-on-1-ankle-system.md` — use when: ankle access is primary on stand-up escape.**
-- **If you need mid-range anchoring to prevent disengage, go to `entries_distance_shin-to-shin_connector.md` — use when: you need a sticky connector during transitions.**
-- **If you are re-entering immediately after a reset, go to `application_cycle-break_to_immediate-counter.md` — use when: you counter directly off the cycle break.**
+- `entries_x-guard_triple-attack.md` — use when: the opponent’s base spread and your alignment make X-guard style follow-ups cleaner.
+- `hub_inside-senkaku_forward-barrier.md` — use when: you’ve achieved inside senkaku and need stabilization/forward barrier governance.
+- `hub_criss-cross_inside-outside_backside-stability.md` — use when: you end backside and need a pushing-dominant compromise ashi.
+- `hub_50-50_turn-away-containment.md` — use when: you transition into 50-50 style containment to deny escapes.
+- `entries_distance_shin-to-shin_connector.md` — use when: opponent stands or distance opens during the attempt.
 
 ## 12. Diagram
 ~~~
-KNEELING DOUBLE-LEG (Half-Sumi Trigger)
+Sumi Threat -> Half-Sumi -> Between-Feet Thread -> Inside Senkaku
 
-[BUILD CAPTURE]
-(two-leg collect + stay squared)
-|
-v
-[EARN TRIGGER] <–––––––––––+
-(post / widen / step / posture break)      |
-|                                 |
-v                                 |
-[COMMIT HALF-SUMI]                         |
-(only if 2+ trigger cues)                   |
-|                                 |
-v                                 |
-[STABILIZE + DENY DRIVE] –if drive–> [FRAMES/ANGLE] -> [CYCLE BREAK] -> (re-enter)
-|
-v
-[CONTINUE / CONVERT]
-(if stand -> 2-on-1 ankle / shin-to-shin)
+[Threaten Sumi-gaeshi]
+        |
+        v
+[Opponent posts / tripods / base widens]  <-- trigger you WANT
+        |
+        v
+[Half-sumi conversion]
+(hand: collar -> armpit across body)
+        |
+        v
+[Turn near north-south]
+        |
+        v
+[Thread BETWEEN FEET]  (do not go around leg)
+        |
+        v
+[Lock inside senkaku]
+        |
+        +--> anti-turn: short leg + knee up
+        |
+        +--> if pushback: switch foot placement (shoelace/hip-line) to win push contest
 ~~~
+
+## 13. Drills and Games
+
+### 13.1 “Between-Feet Only” Lane Game
+- **Start:** opponent on two knees; you have collar-tie/collar-turn; you initiate elevate threat.
+- **Defender wins:** achieve a clean between-feet thread and knee insertion (pause 2s).
+- **Passer wins:** you go around the leg or get stalled for 10s.
+- **Rules:** any “around-the-leg” attempt is immediate rep loss.
+- **Reset:** clean thread + 2s pause, or 10s stall.
+- **Rounds:** 10 reps each, switch.
+
+### 13.2 Anti-Turn Detail Test (knee up)
+- **Start:** you are in inside senkaku; opponent’s only job is to turn out.
+- **Defender wins:** prevent the turn-out for 5s using short-leg + knee-up detail.
+- **Passer wins:** successful turn-out within 5s.
+- **Rules:** no finishing attempts—only stabilization detail.
+- **Reset:** timer or turn-out.
+- **Rounds:** 8 reps each, switch.
+
+### 13.3 Pushback Switch Game (shoulder-to-mat threat)
+- **Start:** inside senkaku backside; opponent tries to rise and push your shoulder down.
+- **Defender wins:** switch foot placement to regain pushing dominance and stop shoulder-to-mat for 3s.
+- **Passer wins:** shoulder-to-mat contact held 3s.
+- **Rules:** you must attempt the switch immediately on pushback cue.
+- **Reset:** 3s control either side.
+- **Rounds:** 8 reps each, switch.
