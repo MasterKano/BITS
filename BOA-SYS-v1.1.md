@@ -1,6 +1,6 @@
-PATH: BOA-SYS-v1.0.md
+PATH: BOA-SYS-v1.1.md
 
-# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v1.0
+# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v1.1
 
 ## 0. Purpose (binding)
 This agreement defines the binding operational workflow for merging instructionals into the canonical `SYS/` systems database.
@@ -36,6 +36,7 @@ This agreement governs the **SYS phase** and the controls required to keep SYS c
 - Defence integration rule (attack + defence combined in SYS by default)
 - Training games/drills inclusion policy and formatting
 - SYS page build standard and enforcement cadence
+- Best-version enforcement (two-pass delivery) for each SYS item
 
 ### 1.2 What this agreement does not govern
 - VN or session standards (Kano governs)
@@ -116,17 +117,40 @@ Every SYS response must state outside the copy box:
 - what changed (1–3 bullets)
 - next item
 
+### 5.4 Best-Version Declaration (required)
+Each SYS delivery must declare one:
+- **Pass 1 (compliant draft)**, or
+- **Pass 2 (best version)**
+
+Queue cannot advance past an item until a **Pass 2** is delivered unless the user explicitly waives Pass 2.
+
 ---
 
 ## 6. Output Contract (locked)
+
+### 6.1 One file per response (default)
 - One file per response by default.
-- First line inside the block: `PATH: ...`
+- Multiple files only when explicitly requested.
+
+### 6.2 File header (locked)
+First line inside the block:
+`PATH: ...`
+
+### 6.3 Copy/paste safety (locked)
 - Entire file delivered in one fenced markdown block.
 - No partial outputs.
+
+### 6.4 Best-Version Pass (binding)
+For each SYS item, perform two passes unless the user explicitly requests otherwise:
+- **Pass 1:** compliant operational draft (meets Section 8 requirements).
+- **Pass 2:** best-version refinement: add missing operator-grade layers (routing heuristics, defaults, failure diagnostics, interface tags, and training cards where beneficial) and remove redundancy.
+
+Queue advances only after Pass 2 is delivered (or user explicitly waives Pass 2).
 
 ---
 
 ## 7. Change Reporting (mandatory)
+
 Outside the code block, every SYS update includes:
 - **Added**
 - **Modified**
@@ -135,6 +159,11 @@ Outside the code block, every SYS update includes:
 - **Sources touched** (INS paths used)
 
 No silent deviations.
+
+### 7.1 No Regression Rule (binding)
+Revisions may compress wording but must not remove operator-grade capabilities (gates, defaults, chain logic, routing, governance, or mandatory sections) unless explicitly requested.
+
+If removal occurs, list Removed items in the delta summary.
 
 ---
 
@@ -169,14 +198,14 @@ If a section is not applicable, omit it—do not pad.
 
 ### 8.3 Controller page add-ons (mandatory when the page is a controller)
 
-**A) Domain Progression Chain Table** (compact)
+**A) Domain Progression Chain Table** (compact)  
 A controller page must define the ordered progression chain that governs the domain (i.e., the requirements sequence the opponent/system is building).
 
 - The chain must be domain-appropriate (examples: passing chain, clinch chain, takedown chain, leglock control chain, back-take chain).
 - For each link: include “What you read” + “What you deny” (one line each).
-- The purpose is fast diagnosis and early denial of the current link before the next link is enabled.
+- Purpose: fast diagnosis and early denial of the current link before the next link is enabled.
 
-**B) Gate Default Actions**
+**B) Gate Default Actions**  
 Each gate must include a “Default action” line that is executable (not conceptual).
 Example form:
 - **Default action:** frame high/low + turn-to-side + shrimp → rebuild barriers
@@ -195,6 +224,14 @@ SYS pages comply with Kano’s:
 - ASCII-only
 - ≤120 characters per line
 - fence style requirements
+
+### 8.6 Controller Completeness Checklist (binding)
+If a SYS page is a controller/decision layer, it must include:
+- domain progression chain table (read/deny per link),
+- gate default actions (executable),
+- selector pack (short rules) OR explicit link-outs with a 1-line in-page summary,
+- exit governance (reset denial rules) when the opponent’s primary defense is reset,
+- game cards when the controller requires recognition + switching to acquire.
 
 ---
 
@@ -224,7 +261,13 @@ Each game uses this exact card:
 - **Reset:** (exact reset triggers)  
 - **Rounds:** (time or reps, plus switch instruction)
 
-### 9.3 Scoring vocabulary (standardize terms)
+### 9.3 Training Clarity Standard (binding)
+When drills/games are included, they must be runnable without interpretation:
+Start / Defender wins / Passer wins / Rules / Reset / Rounds.
+
+No callouts required unless the user asks for them. Use standardized scoring vocabulary where possible.
+
+### 9.4 Scoring vocabulary (standardize terms)
 Use a small consistent vocabulary across games to reduce re-reading:
 - **Outside knee line**
 - **Hip line touch**
@@ -233,7 +276,7 @@ Use a small consistent vocabulary across games to reduce re-reading:
 - **Hold for 3 seconds**
 - **Timer (20s / 15s)**
 
-### 9.4 Provenance constraint
+### 9.5 Provenance constraint
 Drills/games may extend training design beyond the instructional, but must not introduce new mechanical claims. They operationalize the mechanics already defined in the page.
 
 ---
@@ -251,9 +294,9 @@ Enforced by:
 
 ### 11.1 Every-5-item delta consistency check
 Every 5 SYS items, run a consistency check for:
-- terminology consistency (hip line, cycle break, true handle, orientation)
+- terminology consistency (domain-specific core terms)
 - section order compliance
-- controller add-ons present where required (domain chain table; gate default actions)
+- controller add-ons present where required (domain chain table; gate default actions; completeness checklist)
 - interface use-when tags present
 - diagram compliance with Kano
 - game cards follow the required format and vocabulary
@@ -268,10 +311,10 @@ If any violation is detected, fix immediately before advancing the queue.
 Every published change requires a version bump.
 
 ### 12.1 Changelog
-- **v1.0 (from v0.9)**
-  - Added mandatory controller add-ons: Domain Progression Chain Table and Gate Default Actions.
-  - Upgraded Interfaces rule to require one-line “use when” tags.
-  - Standardized practical games into mandatory Game Card format and scoring vocabulary.
-  - Formalized consistency enforcement targets for the every-5-item delta check.
+- **v1.1 (from v1.0)**
+  - Added Best-Version Pass (two-pass delivery) and Best-Version Declaration; queue cannot advance without Pass 2 unless waived.
+  - Added Controller Completeness Checklist to force field-manual layers on controller pages.
+  - Added No Regression Rule to prevent deleting operator-grade content during revisions.
+  - Added Training Clarity Standard to make games runnable without interpretation.
 
-End — BOA-SYS v1.0
+End — BOA-SYS v1.1
