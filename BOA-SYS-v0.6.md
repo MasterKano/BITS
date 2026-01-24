@@ -1,6 +1,6 @@
 PATH: BOA-SYS.md
 
-# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.6
+# BITS Ops Agreement — SYS Merge Workflow (BOA-SYS) v0.7
 
 ## 0. Purpose (binding)
 This agreement defines the binding operational workflow for merging instructionals into the canonical `SYS/` systems database.
@@ -39,6 +39,7 @@ This agreement governs the **SYS phase** and the controls required to keep SYS c
 - Diagram rules (ASCII, width discipline)
 - Defence integration rule (attack + defence combined in SYS by default)
 - Batch-safe execution for SYS merges
+- Training games/drills inclusion policy (Section 8.4)
 
 ### 1.2 What this agreement does *not* govern
 - BIO report creation rules and formatting (Jigoro Text governs)
@@ -218,6 +219,30 @@ Before writing/updating any SYS node from an instructional:
 - system is expressed in SYS form:
   - gates, decision rules, failure patterns, minimal technique anchors.
 
+### 8.4 Drills and Games section (policy)
+When beneficial, SYS pages should include a final section titled:
+
+- `## Drills and Games`
+
+Rules:
+- This section is **part of the system** and appears at the **end** of the page.
+- Include it when it materially improves skill acquisition or testing, especially for:
+  - decision models (recognition + switching),
+  - governance modules (anti-exit, constraints, cycle-break),
+  - retention engines (orientation, demarcation, framing layers),
+  - hubs where stabilization and exit denial are the core skill.
+- It is **optional** where it would add noise (pure taxonomy/reference nodes, very narrow micro-details already covered elsewhere).
+
+Format (required per drill/game):
+- **Start position**
+- **Constraints**
+- **Win condition / scoring**
+- **Time cap / reps**
+- **Coaching focus** (one line)
+
+Provenance rule:
+- Drills/games may include training design beyond the instructional; this section must not introduce new technical claims about mechanics. It may only operationalize the mechanics already defined in the page.
+
 ---
 
 ## 9. ASCII Diagram Standard
@@ -272,12 +297,9 @@ Blockers must include:
 Every published change requires a version bump.
 
 ### 12.1 Changelog
-- **v0.6 (from v0.5)**
-  - Reframed workflow for TRN-only uploads: TRN → VN → BIO → SYS.
-  - Clarified SYS merge gate: SYS begins only after VN + BIO exist (derived from TRN).
-  - Explicitly stated TRN as source-of-truth with VN/BIO as primary merge inputs.
-  - Aligned diagram width rule to ≤120 chars/line and removed ambiguity.
-  - Added SYS extraction gate tying SYS readiness to Kano lint/remediation.
-  - Expanded delta summary to require “Sources touched.”
+- **v0.7 (from v0.6)**
+  - Added SYS page policy for including a final `Drills and Games` section when beneficial.
+  - Defined when drills/games are expected vs optional and standardized drill/game formatting.
+  - Added provenance constraint: drills/games may extend training design but must not introduce new mechanical claims.
 
-End — BOA-SYS v0.6
+End — BOA-SYS v0.7
