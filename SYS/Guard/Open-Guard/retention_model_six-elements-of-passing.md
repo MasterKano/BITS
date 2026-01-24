@@ -1,76 +1,153 @@
 PATH: SYS/Guard/Open-Guard/retention_model_six-elements-of-passing.md
 
-# Retention Model — Six Elements of Passing (Open Guard)
+# Retention Model — Six Elements of Passing (Diagnostic)
 
 ## 1. Purpose
-A diagnostic chain for guard retention. Passing is treated as a sequence of six required elements. If you can identify which element is being built, you can break that link early and prevent the pass from completing.
+A diagnostic retention model that explains passing as the assembly of six elements. Your defence is to deny the element currently being built.
 
-## 2. The Chain (ordered)
-Passing completes only when all six are satisfied:
+This model supports:
+- faster recognition (what is happening now),
+- earlier denial (before penetration),
+- cleaner routing into mobility vs structure tools.
 
-1) **Distance**  
-2) **Grip**  
-3) **Angle**  
-4) **Level**  
-5) **Penetration**  
-6) **Pin**
+## 2. Inputs / Preconditions
+- You can observe the passer’s progress (angle, level, grips, barriers).
+- You can maintain or restore orientation (feet or knees facing).
+- You can enter defensive cycle when hip line is threatened.
 
-Retention goal: break any one element early enough that the subsequent elements cannot be built.
+## 3. Outputs / Success Criteria
+- You correctly identify the active element within 1–2 beats.
+- You deny it and force the passer to re-build.
+- You keep opponent in front; prevent outside knee line and hip line penetration.
+- You prevent free resets and create counter starts after cycle break.
 
-## 3. Element Definitions (what to look for)
+## 4. Core Model / Engine
 
-### 3.1 Distance
-**What the passer wants:** close enough proximity that your legs/frames stop functioning as barriers.  
-**Signals:** step-in without being re-centered; hips approach your hip line; your feet become “dead.”  
-**Denial:** feet-first contact, reinsert barriers, re-center hips, create wedges.
+### 4.1 The Six Elements (what the passer must build)
+Treat these as required “ingredients.” Missing any one reduces pass completion probability.
 
-### 3.2 Grip
-**What the passer wants:** stable attachments that control your legs/hips and allow posture/angle changes.  
-**Signals:** two-hand control on legs/hip line; persistent ties that survive your movement.  
-**Denial:** grip breaks, re-gripping first, prevent “he’s connected, I’m not.”
+| Element | What it means | What you read | What you deny |
+|---|---|---|---|
+| 1. Distance | ability to enter without barriers | legs displaced; inside line empty | reinsert barriers; keep knees/feet inside |
+| 2. Connection | stable anchors (grips/controls) | pant/ankle/upper-body control stabilizing | strip/downgrade; reattach; build your handle |
+| 3. Angle | outside knee line dominance | hips not squared; runaround | crossover/scoot/pendulum; re-center |
+| 4. Level | compression/shoulder line advantage | shoulders dropping; posture crushing | frames high/low; turn-to-side early |
+| 5. Penetration | hip line access | legs cleared to hips; deep step | defensive cycle; shrimp; rebuild barriers |
+| 6. Consolidation | pin stability | shoulders flatten; chest-to-chest | prevent flattening; rebuild frames; re-guard |
 
-### 3.3 Angle
-**What the passer wants:** move outside your knee line and keep you facing away from them.  
-**Signals:** opponent’s chest line drifting toward your flank; you lose square alignment; your legs no longer point at them.  
-**Denial:** re-square hips, keep them in front, continuous re-centering, do not hand-chase.
+### 4.2 Domain Progression Chain (common build order)
+Most pass sequences attempt:
+**Distance → Connection → Angle → Level → Penetration → Consolidation**
 
-### 3.4 Level
-**What the passer wants:** a height advantage that makes your frames collapse (chest-to-chest compression, head position wins).  
-**Signals:** head/shoulder line drops; pressure and compression increase; your spine shape collapses.  
-**Denial:** wedges + frames, restore structure, prevent lock formation.
+Your goal is to interrupt at the earliest available element.
 
-### 3.5 Penetration
-**What the passer wants:** get past the barrier line (knee line / hip line) far enough that you cannot reinsert legs.  
-**Signals:** opponent’s hips/torso pass your knees; knee line captured; hip line threatened or crossed.  
-**Denial:** immediate reinsert + frames, hip line defensive cycle, rebuild inside barriers.
+### 4.3 Denial Priorities (fast rules)
+- Deny **Angle** early; it turns harmless contact into penetration.
+- Deny **Level** before it becomes **Penetration**.
+- If **Penetration** is active, your only job is cycle break (then counter).
 
-### 3.6 Pin
-**What the passer wants:** immobilize your shoulders/hips so you cannot recompose guard.  
-**Signals:** shoulder line control; head/arm clamps; chest-to-chest stabilization; your hips cannot turn.  
-**Denial:** do not allow stable pin; fight shoulder line; create space to reinsert legs (even minimal).
+## 5. Gates (override rules)
 
-## 4. Practical Use Rules
-- Always ask: “Which element is being built right now?”
-- Break that element before it becomes “locked.”
-- If you are defending **pin**, you are late; prioritize earlier links next time.
+### 5.1 Hip Line Gate
+Hip line threatened = defensive cycle until cycle break.
 
-## 5. Integration with Master Gates
-- Hip line gate determines when defensive cycling is mandatory (penetration risk).
-- Orientation rule is the primary angle-control requirement.
-- Hands-down gate governs when entries/rotations are valid; do not confuse “entry attempt” with “retention success.”
+**Default action:** frames high/low → turn-to-side → shrimp/recover barriers → re-square.
 
-## 6. Failure Signatures (fast mapping)
-- Passed fast without grips → failure in **distance/angle**, not grip.
-- Smashed after rotation → **hands-down gate** violated; level/penetration advanced.
-- Always stuck in pressure → late denial at **level/penetration**; lock formation not prevented.
-- He keeps circling → angle denial/orientation rule failure.
+### 5.2 Hands-Down Gate
+No committed rotation/entry under stable base.
 
-## 7. Diagram (ASCII)
+**Default action:** defend and re-center first; commit only after base event.
 
-```text
-PASSING = BUILD CHAIN
-Distance -> Grip -> Angle -> Level -> Penetration -> Pin
-   |
-RETENTION = BREAK 1 LINK EARLY
-   |
-Re-center + rebuild barriers -> counter on cycle break
+### 5.3 Orientation Rule
+Feet or knees face opponent.
+
+**Default action:** re-square hips when outside knee line is forming.
+
+## 6. Opponent Reactions → Responses (Element-Based)
+Typical passer “moves” reframed as element attempts:
+
+1) **Shuck legs aside**
+   - element: Distance
+   - response: foot pummel reinsertion → re-square
+
+2) **Secure pant/ankle grips**
+   - element: Connection
+   - response: strip/downgrade + reattach; build your own true handle
+
+3) **Circle to outside knee line**
+   - element: Angle
+   - response: crossover/scoot; keep opponent in front
+
+4) **Drop shoulders and compress**
+   - element: Level
+   - response: frames high/low; turn-to-side; deny shoulder line
+
+5) **Step deep to hips**
+   - element: Penetration
+   - response: defensive cycle; shrimp; rebuild barriers; cycle break check
+
+6) **Flatten shoulders / chest-to-chest**
+   - element: Consolidation
+   - response: prevent flattening; rebuild frames; re-guard/reinsert legs
+
+## 7. Failure Signatures → Fix
+- **I only defend at penetration** → element ID too late; train angle/level recognition.
+- **I lose to circling** → angle element not denied; re-square sooner.
+- **I get crushed** → level element not denied; frames earlier.
+- **I can’t keep contact** → connection element weak; upgrade to ankle/heel line true handle.
+- **I recover but he resets** → reset denial missing; follow with hips + redundancy.
+
+## 8. Interfaces (use-when tags)
+- `retention_model_knowledge-denial.md` — use when: applying “deny current requirement” as the operating loop.
+- `open-guard_master-operating-system.md` — use when: routing denial into cycle break then counter.
+- `decision-model_dynamic-energy-theory.md` — use when: quadrant read determines mobility vs structure denial.
+- `retention_framing_layer_frame-high-frame-low.md` — use when: denying level/compression.
+- `retention_movement_foot-pummeling.md` — use when: denying distance (reinsertion).
+- `retention_movement_crossovers.md` — use when: denying angle (re-square).
+- `application_cycle-break_to_immediate-counter.md` — use when: enforcing counter start after penetration defence.
+
+## 9. Diagram
+
+~~~
+SIX ELEMENTS OF PASSING (Diagnostic)
+
+Distance -> Connection -> Angle -> Level -> Penetration -> Consolidation
+
+Defender job:
+identify active element -> deny it -> re-center
+If Penetration active -> DEFENSIVE CYCLE -> CYCLE BREAK -> COUNTER
+~~~
+
+## 10. Drills and Games (Game Cards)
+
+### 10.1 Element Identification Rounds
+- **Start:** passer standing; defender seated open guard.
+- **Defender wins:** prevent **outside knee line** and **hip line touch** for **20s**.
+- **Passer wins:** **outside knee line** then **hip line touch** or **pin**.
+- **Rules:** defender must call the active element internally and use the correct denial family (reinsertion / re-square / frame / shrimp).
+- **Reset:** hip line touch / pin / timer.
+- **Rounds:** 8×20s, switch.
+
+### 10.2 Angle Element (re-square timing)
+- **Start:** passer begins already near outside knee line, not pinned.
+- **Defender wins:** re-square and keep passer in front **3s**.
+- **Passer wins:** **hip line touch** or **pin**.
+- **Rules:** defender may not commit entries until squared; deny angle first.
+- **Reset:** 3s hold / hip line touch / pin.
+- **Rounds:** 10 reps each, switch.
+
+### 10.3 Level Element (frame timing)
+- **Start:** passer begins with shoulders low and hands on legs.
+- **Defender wins:** establish frames and turn-to-side, then re-center **3s**.
+- **Passer wins:** **hip line touch** or **pin**.
+- **Rules:** frames must be immediate; no waiting for penetration.
+- **Reset:** 3s hold / hip line touch / pin.
+- **Rounds:** 10 reps each, switch.
+
+### 10.4 Consolidation Denial (anti-flattening)
+- **Start:** passer begins chest-to-chest but not fully pinned; defender is on side (not flat).
+- **Defender wins:** prevent flattening and recover guard/reinsert legs, then hold **3s**.
+- **Passer wins:** flatten shoulders and hold **pin** for **3s**.
+- **Rules:** defender must prioritize frames + hip escape; no bridging-only solutions.
+- **Reset:** 3s hold by either side.
+- **Rounds:** 10 reps each, switch.

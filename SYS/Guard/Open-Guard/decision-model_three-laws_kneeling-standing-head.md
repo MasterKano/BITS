@@ -1,79 +1,152 @@
 PATH: SYS/Guard/Open-Guard/decision-model_three-laws_kneeling-standing-head.md
 
-# Decision Model — Three Laws (Kneeling / Standing / Head) (Open Guard)
+# Decision Model — Three Laws (Kneeling / Standing / Head Height)
 
 ## 1. Purpose
-A context selector that converts opponent posture into a correct response family. These laws are used after the Dynamic Energy read to prevent “right idea, wrong moment.”
+A decision model that selects the correct Open Guard response family by reading three high-leverage context signals:
 
-## 2. Law 1 — Kneeling Context (Shoulders vs Hips)
-**When it applies:** opponent is on two knees or a low kneeling base.
+1) **Kneeling vs Standing** (base geometry and likely pass-building route)  
+2) **Head height** (attack lane availability: legs vs go-behind)  
+3) **Resulting risk** (hip line threat vs reset threat)
 
-**Read:**
-- Shoulders leading past hips (forward posture) vs hips back (withdrawn posture)
+Goal: reduce decision latency and prevent wrong-family actions (e.g., treating kneeling as harmless, chasing grips while the opponent backsteps, entering under stable posture).
 
-**Implications:**
-- **Shoulders forward:** base is vulnerable to being tipped/posted; entries become available after base break.
-- **Hips back:** expect withdrawal/stripping attempts; maintain attachment and deny angle creation off the retreat.
+## 2. Inputs / Preconditions
+- You can see the opponent’s base state (kneeling or standing).
+- You can track head height relative to your hip line and their hips.
+- You can maintain or restore orientation (feet or knees facing).
 
-**Errors:**
-- treating a kneeling, shoulders-forward opponent like a standing range problem (missed base-break window)
-- reaching for upper body without first controlling posture/handles
+## 3. Outputs / Success Criteria
+Correct application yields at least one within 5–10 seconds:
+- **Keep in front:** no outside knee line progression.
+- **Deny the next chain link:** level/penetration stopped early.
+- **Earn a base event:** post/widen/forced step.
+- **No free reset:** opponent cannot disengage to two steps.
+- **Cycle break → counter:** if hip line threatened, recovery is followed immediately by offense.
 
-## 3. Law 2 — Standing Context (Heels vs Toes)
-**When it applies:** opponent is standing to pass.
+## 4. Core Model / Engine
 
-**Read:**
-- weight on **toes** (forward pressure / ready to drive) vs weight on **heels** (ready to retreat/backstep)
+### 4.1 The Three Laws (executable)
+**Law 1 — Kneeling is not neutral**  
+Kneeling often means: shorter distance to pressure, easier level change, and direct lines to your hips.
 
-**Implications:**
-- **Toes:** expect forward drive and distance closure; protect hip line and force hands-down before rotation.
-- **Heels:** expect disengage/backstep and leg retraction; anti-exit governance becomes primary.
+- If kneeling + forward intent: treat as **forward+push** until proven otherwise.
+- Default: structure earlier; protect hip line; deny level and shoulder line.
 
-**Errors:**
-- rotating/spinning under when the opponent is standing stable (hands-down gate not earned)
-- failing to follow backstep when weight is already on heels
+**Law 2 — Standing amplifies reset threat**  
+Standing makes disengage/backstep easier and makes circling outside knee line cheaper.
 
-## 4. Law 3 — Head Context (Head Under vs Head Over)
-**When it applies:** whenever a clear head-height posture is present.
+- If standing + backward intent: treat as **backward+pull** until proven otherwise.
+- Default: anti-exit governance; follow with hips; upgrade to true handle.
 
-**Read:**
-- **Head high** (upright, posture tall)
-- **Head low** (head drops; posture compact; hips often back)
+**Law 3 — Head height selects the lane**
+- **Head high:** leg lane is open; persistent leg-line threats slow passing.
+- **Head low:** go-behind / upper-body routes become available; punish head position.
+- Head changes quickly; re-read continuously, but do not violate gates.
 
-**Implications (fast selector):**
-- **Head high → legs**
-  - treat as leg-access window once hands-down/base-break is achieved
-- **Head low → arms/head + go-behind family**
-  - do not insist on spinning under a low head without validity; consider go-behind routes
+### 4.2 Domain Progression Chain Hooks (what each context tends to build)
+- **Kneeling + forward:** threatens **Level → Penetration → Pin**
+- **Standing + circle:** threatens **Angle** (outside knee line) then **Penetration**
+- **Standing + retreat:** threatens **Reset/Disengage**
+- **Head low during engagement:** grants access to **go-behind** style counters (if cycle break exists)
 
-**Errors:**
-- forcing leg rotation under a low head without base break
-- failing to convert immediately after cycle break (counter-offense mandate)
+### 4.3 Routing Heuristics (fast defaults)
+- **Kneeling + close:** frames first, turn-to-side early, shrimp only after structure is set.
+- **Standing + far:** connect to ankle/heel line; keep them in front; don’t accept reset.
+- **Head high:** legs first (ankle line, shin-to-shin, distance breakers).
+- **Head low:** punish with go-behind or upper-body routing, but only after cycle break / stability.
 
-## 5. Integration with Master Gates
-These laws do not override the master gates:
-- **Hip line gate:** if at/past hip line, defensive cycle first.
-- **Hands-down gate:** rotations/entries require base compromise.
-- **Orientation rule:** feet or knees face opponent at all times.
+## 5. Gates (override rules)
 
-## 6. Quick Use Checklist (one-breath)
-- Kneeling: shoulders vs hips → choose push/pull family
-- Standing: heels vs toes → decide follow vs break-base
-- Head: high vs low → choose legs vs go-behind family
+### 5.1 Hip Line Gate
+If hip line is threatened: defensive cycle until cycle break.
 
-## 7. Diagram (ASCII)
+**Default action:** frames high/low → turn-to-side → shrimp/recover barriers → re-square.
 
-```text
-SELECT CONTEXT LAW
-  |
-  +-- KNEELING (Shoulders vs Hips)
-  |     - shoulders forward -> base-break window opens after tipping/posting
-  |     - hips back         -> maintain attachment; deny angle off retreat
-  |
-  +-- STANDING (Heels vs Toes)
-  |     - toes -> forward drive; protect hip line; earn hands-down before rotation
-  |     - heels-> backstep/disengage; anti-exit; containment when entangled
-  |
-  +-- HEAD (Under vs Over / High vs Low)
-        - head high -> legs (after validity)
-        - head low  -> arms/head + go-behind family
+### 5.2 Hands-Down Gate
+No committed entries/rotations under stable base.
+
+**Default action:** off-balance until post/widen/forced step occurs → then commit.
+
+### 5.3 Orientation Rule
+Feet or knees must face opponent continuously.
+
+**Default action:** re-square hips + reinsert barriers before attempting upgrades.
+
+## 6. Opponent Reactions → Responses (Context Matrix)
+
+### 6.1 Kneeling (primary risk: pressure)
+- **Kneeling + forward drive:** structure early; protect hip line; deny level.
+- **Kneeling + stall then burst:** keep barriers active; treat burst as forward+push.
+- **Kneeling + grip strip:** reattach leg line; re-square; don’t reach.
+
+### 6.2 Standing (primary risk: angle + reset)
+- **Standing + circle:** foot pummel + crossover/scoot; keep them in front.
+- **Standing + backstep:** follow immediately; upgrade to true handle (ankle/heel line).
+- **Standing + shove-to-clear:** reinsertion first; then re-center; attach ankle.
+
+### 6.3 Head height (lane selector)
+- **Head high:** threaten leg line constantly; use distance-based connectors.
+- **Head low:** threaten go-behind/upper-body counters when available; do not chase if it breaks orientation.
+
+## 7. Failure Signatures → Fix
+- **“Kneeling felt safe, then I got smashed”** → violated Law 1; treat kneeling forward intent as pressure; structure earlier.
+- **“He just reset and I lost everything”** → violated Law 2; standing increases reset; follow with hips and build true handle.
+- **“I chased head low and lost angle/orientation”** → chased lane without gates; re-square first; punish head low only when stable.
+- **“I entered under stable posture”** → hands-down gate violated; base-break longer.
+- **“I kept losing outside knee line”** → failed standing-circle response; foot reinsertion + crossover/scoot sooner.
+
+## 8. Interfaces (use-when tags)
+- `open-guard_master-operating-system.md` — use when: running the full controller loop and routing.
+- `decision-model_dynamic-energy-theory.md` — use when: mapping push/pull + forward/back into the response family.
+- `counter-offense_golden-rule_head-height.md` — use when: selecting leg attacks vs go-behind based on head height.
+- `retention_framing_layer_frame-high-frame-low.md` — use when: kneeling/pressure requires structure.
+- `retention_movement_foot-pummeling.md` — use when: standing/circle or shove-to-clear threatens barriers.
+- `retention_movement_crossovers.md` — use when: outside knee line is forming; hips must re-square.
+- `retention_movement_scooting.md` — use when: you must follow retreats while staying squared.
+- `entries_distance_2-on-1-ankle-system.md` — use when: head high + distance exists; secure ankle line early.
+- `entries_distance_shin-to-shin_connector.md` — use when: mid-range entry connection is required.
+- `entries_kneeling_single-leg-entry.md` — use when: kneeling base exposes a reachable leg under compromised posture.
+
+## 9. Diagram (ASCII)
+
+~~~
+THREE LAWS (Open Guard)
+
+LAW 1: KNEELING ≠ NEUTRAL  -> primary risk = PRESSURE (Level->Penetration->Pin) -> STRUCTURE EARLY
+LAW 2: STANDING amplifies RESET/ANGLE -> primary risk = OUTSIDE KNEE LINE + BACKSTEP -> FOLLOW + TRUE HANDLE
+LAW 3: HEAD HEIGHT selects LANE
+   head high -> LEG LANE (ankle/heel line, distance connectors)
+   head low  -> GO-BEHIND/UPPER routes (when stable; do not chase)
+
+GATES OVERRIDE:
+HIP LINE -> DEFENSIVE CYCLE
+NO HANDS-DOWN -> NO COMMITTED ENTRY
+ORIENTATION -> INVARIANT
+~~~
+
+## 10. Drills and Games (Game Cards)
+
+### 10.1 Kneeling Pressure Gate
+- **Start:** passer kneeling in front; defender open guard.
+- **Defender wins:** avoid hip line threat and keep opponent in front for **20s**.
+- **Passer wins:** **hip line touch** or **pin**.
+- **Rules:** passer must drive forward (no retreats); defender must use structure early (frames/turn/shrimp).
+- **Reset:** hip line touch / pin / timer.
+- **Rounds:** 8×20s, switch.
+
+### 10.2 Standing Reset Denial
+- **Start:** passer standing at range; light contact allowed.
+- **Defender wins:** prevent **disengage to two steps** for **15s** while maintaining any contact.
+- **Passer wins:** **disengage to two steps** with no contact.
+- **Rules:** passer must attempt backstep/retreat frequently; defender must follow with hips and upgrade to ankle/heel line.
+- **Reset:** disengage / timer.
+- **Rounds:** 8×20s, switch.
+
+### 10.3 Head-Height Lane Selection
+- **Start:** passer standing; defender seated open guard.
+- **Defender wins:** when head stays high: secure ankle/heel line and keep in front **3s**; when head goes low: initiate go-behind style counter and keep in front **3s**.
+- **Passer wins:** **outside knee line** then **hip line touch** or **pin**.
+- **Rules:** passer alternates head height naturally (posture changes are allowed); defender must take the correct lane without breaking orientation.
+- **Reset:** 3s hold / hip line touch / pin.
+- **Rounds:** 8×20s, switch.

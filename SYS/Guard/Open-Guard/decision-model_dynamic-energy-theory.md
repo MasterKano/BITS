@@ -3,136 +3,181 @@ PATH: SYS/Guard/Open-Guard/decision-model_dynamic-energy-theory.md
 # Decision Model — Dynamic Energy Theory (Open Guard)
 
 ## 1. Purpose
-A fast selection model for open guard that chooses the correct response family based on **opponent commitment**. It prevents “wrong-family” reactions (e.g., chasing with hands while angle accumulates, or entering under stable base while they are withdrawing).
+A decision model that selects the correct response family in Open Guard based on the opponent’s committed effort.
 
-Dynamic Energy = the opponent’s committed direction of effort, read on two axes:
+Goal: prevent wrong-family decisions (e.g., framing vs mobility, spinning under stable base, accepting resets) by mapping opponent behavior to a small set of executable responses.
+
+## 2. Inputs / Preconditions
+- You can read opponent intent from movement direction + force.
+- You can maintain or restore **orientation** (feet or knees facing).
+- You can establish at least light contact and upgrade to a **true handle** when required.
+
+## 3. Outputs / Success Criteria
+Correct selection produces at least one observable output within 5–10 seconds:
+- **Re-center:** opponent returns in front (angle denied).
+- **Force base event:** post/widen/forced step (hands-down gate earned).
+- **Prevent reset:** opponent cannot disengage to two clean steps.
+- **Avoid hip line threat:** no penetration to hip line; if threatened, you enter defensive cycle immediately.
+
+If none occur, assume misread quadrant, thin handle, or gate violation.
+
+## 4. Core Model / Engine
+
+### 4.1 Quadrant Read
+Dynamic Energy = 2-axis read:
 - **Push vs Pull**
 - **Forward vs Backward**
 
-## 2. Inputs (what you read)
-### 2.1 Push vs Pull
-- **Push:** drives into you, shoves legs, compresses frames, forces you back, tries to collapse space.
-- **Pull:** retracts, strips attachments, backsteps, creates separation, yanks away to reset.
+Definitions:
+- **Push:** compress/drive/shove barriers; builds level and penetration.
+- **Pull:** strip/withdraw/backstep; attempts to reset or remove attachment.
+- **Forward:** advancing into the pass chain.
+- **Backward:** exiting engagement to reset distance/safety.
 
-### 2.2 Forward vs Backward
-- **Forward:** intent is closing distance toward hip line (advancing the pass chain).
-- **Backward:** intent is leaving contact (resetting range / exiting entanglement).
+### 4.2 Domain Progression Chain Hooks (how the quadrant maps to the chain)
+Quadrants are not “styles”; they are **which chain link is being attacked next**:
 
-## 3. Output (what the read selects)
-The read selects your response family:
-- **Mobility retention** (re-square, pummel, re-center)
-- **Structural defense** (frames, turn-to-side, shrimp)
-- **Base-break / entry pursuit** (off-balance until hands-down gate)
-- **Anti-exit governance** (follow, contain, deny reset)
+- **Forward+Push:** threatens **Level → Penetration → Pin**
+- **Backward+Pull:** threatens **Reset/Disengage** (breaks your CONNECT before you can DENY)
+- **Backward+Push:** threatens **Distance/Barrier removal** (shuck legs) then reset
+- **Forward+Pull:** threatens **Grip/Angle** while still advancing
 
-## 4. The Four Quadrants (operational rules)
+Use this to choose denial actions quickly (deny the current link, then re-center).
 
-### 4.1 Forward + Push (pressure build)
-**What they are building:** distance collapse → level → penetration.  
-**Your primary job:** protect hip line early; deny level; keep shoulders safe.
+### 4.3 Default Response Families (module selection)
+- **Mobility retention:** re-square + re-center (pummel/crossover/pendulum/scoot)
+- **Structural defense:** frames + turn-to-side + shrimp (defensive cycle)
+- **Base-break pursuit:** off-balance until hands-down gate is earned
+- **Anti-exit governance:** follow + reattach; containment if already entangled
 
-Operational rules:
-- treat this as a **pressure** problem, not a mobility problem.
-- if hip line warning appears: escalate to frames (high/low) + turn-to-side + shrimp.
-- deny the chain early (Distance/Level), not late (Pin).
+## 5. Gates (override rules)
 
-Failure risks:
-- hand chasing while getting compressed (angle/level snowball)
-- trying to “enter” without earning hands-down gate (spin under stable base)
+### 5.1 Hip Line Gate (phase switch)
+If hip line is threatened: you are in **DEFENSIVE CYCLE** until cycle break.
 
-### 4.2 Forward + Pull (bait + strip while advancing)
-**What they are building:** angle and/or grip denial while still coming forward.  
-**Your primary job:** maintain redundant attachment and re-square without reaching.
+**Default action:** frames high/low → turn-to-side → shrimp/recover barriers → re-square.
 
-Operational rules:
-- maintain at least one **true handle** (prefer leg line).
-- do not overreach when they pull; hips must re-square to deny angle.
-- treat stripping as a prompt to reattach, not to “win the grip battle.”
+### 5.2 Hands-Down Gate (entry validity)
+No committed entries/rotations/spin-unders under stable base.
 
-Failure risks:
-- reaching for upper body while hips lag
-- losing orientation on pull → angle appears “suddenly”
+**Default action:** off-balance until post/widen/forced step occurs → then commit.
 
-### 4.3 Backward + Pull (reset / disengage / backstep)
-**What they are building:** reset to safety; exit entanglement; flee the mat.  
-**Your primary job:** anti-exit governance; keep contact; force them to pay to leave.
+### 5.3 Orientation Rule (integrity)
+Feet or knees must face opponent continuously.
 
-Operational rules:
-- follow the retreat; do not accept reset.
-- attach to ankle/heel line and make withdrawal slow.
-- if you have entanglement, choose **containment** hubs (50–50 / double 50 logic).
+**Default action:** re-square hips + reinsert barriers before attempting upgrades.
 
-Failure risks:
-- “stop-pass-stop” (you feel safe and let them reset)
-- thin attachment (one step clears everything)
+## 6. Opponent Reactions → Responses (Quadrant Playbook)
 
-### 4.4 Backward + Push (shove-to-clear then retreat)
-**What they are building:** clear your legs with a shove, then circle away.  
-**Your primary job:** feet-first reinsertion + re-centering; deny the first clean step.
+### 6.1 Forward + Push (pressure build)
+**Read:** advancing drive/compression; posture lowering; shoulder line approaching your hips.  
+**Deny:** level/penetration.  
+**Response family:** structure early; do not wait for full penetration.
 
-Operational rules:
-- immediate foot pummel to reinsert barriers.
-- crossover/scoot to keep them in front (no hand chasing).
-- if they keep clearing and retreating: prioritize 2-on-1 ankle attachment to stop the reset pattern.
+- frames high/low as needed
+- turn-to-side before shrimping
+- reinsert barriers as soon as space exists
+- once cycle break achieved: counter immediately (no pause)
 
-Failure risks:
-- passive legs (touch without control) → repeated clears
-- framing too early vs mobility → they circle around frames
+### 6.2 Backward + Pull (reset / backstep / flee)
+**Read:** retreating while stripping contact; backstep patterns; disengage intent.  
+**Deny:** reset.  
+**Response family:** anti-exit governance (follow + true handle).
 
-## 5. Validation Tests (did you read correctly?)
-Your read is correct if your action produces at least one:
-- opponent must **post** or widen base (base-break)
-- opponent’s angle progress stalls; they re-center
-- opponent must reset grips/stance before continuing
-- opponent cannot disengage cleanly (retreat becomes slow)
+- immediately follow the retreat (hips travel, not hands)
+- upgrade to ankle/heel line control (true handle)
+- add redundancy (hand+foot) so “two steps” is slow
+- if already entangled: switch to containment logic (do not chase)
 
-If none occur, you either:
-- targeted the wrong quadrant, or
-- lacked handle/attachment redundancy.
+### 6.3 Backward + Push (shove-to-clear then circle away)
+**Read:** shove legs aside to create empty inside line; circle/run.  
+**Deny:** barrier removal then reset.  
+**Response family:** reinsertion + mobility.
 
-## 6. Interaction with Master Gates (non-negotiable)
-Dynamic Energy never overrides:
-- **Hip line gate:** if threatened, defensive cycle is mandatory.
-- **Hands-down gate:** no committed rotation/entry under stable posture.
-- **Orientation rule:** feet or knees must face opponent continuously.
+- immediate foot pummel / barrier reinsertion
+- crossover/scoot to keep opponent in front
+- attach ankle line to prevent the next step-out
+
+### 6.4 Forward + Pull (strip/bait while advancing)
+**Read:** stripping grips while still stepping in; pulling your connections off-line.  
+**Deny:** grip/angle.  
+**Response family:** reattach leg line + re-square.
+
+- treat strip as “reattach now,” not “reach now”
+- prioritize ankle/heel line; then square hips
+- maintain orientation while upgrading handles
 
 ## 7. Failure Signatures → Fix
-- “He just stepped away” → you were in backward+pull; apply anti-exit and/or containment hub.
-- “I spun and got smashed” → you were in forward+push with stable base; earn hands-down first.
-- “I can’t stop the angle” → you treated mobility passing with frames/hand chasing; re-square first.
-- “I keep defending late” → you are reading at penetration/pin; start reading at distance/angle.
+- **“I framed and he ran around me”** → misread as pressure when it was mobility/backward intent; switch to mobility reinsertion + re-center.
+- **“He just stepped away”** → backward+pull; you failed anti-exit; follow sooner, upgrade to true handle + redundancy.
+- **“I spun and got smashed”** → hands-down gate violated; base-break longer, no rotation under stable base.
+- **“I keep losing the angle”** → hands are leading; re-square hips first, then reinforce with hands.
+- **“Defense works but nothing changes”** → no output; force re-center or base event before progressing.
 
-## 8. Diagram (ASCII)
+## 8. Interfaces (use-when tags)
+- `open-guard_master-operating-system.md` — use when: running the full controller loop (deny link → re-center → counter).
+- `decision-model_three-laws_kneeling-standing-head.md` — use when: posture context changes target selection (kneeling/standing/head height).
+- `retention_orientation_rule_feet-or-knees-facing.md` — use when: angle is forming or orientation is lost.
+- `retention_framing_layer_frame-high-frame-low.md` — use when: forward+push pressure demands structure.
+- `retention_movement_foot-pummeling.md` — use when: shove-to-clear / barrier removal occurs.
+- `retention_movement_crossovers.md` — use when: outside knee line is forming; re-square hips.
+- `retention_movement_scooting.md` — use when: you must follow retreats while staying squared.
+- `application_cycle-break_to_immediate-counter.md` — use when: enforcing counter initiation immediately after cycle break.
 
-```text
-DYNAMIC ENERGY (OPEN GUARD) = (PUSH vs PULL) x (FORWARD vs BACKWARD)
+## 9. Diagram (ASCII)
 
-                    FORWARD (advancing pass chain)
-                 ┌───────────────────────────────────┐
-PUSH (compress)  │ Forward+Push: pressure build       │
-                 │ - protect hip line early           │
-                 │ - deny distance/level              │
-                 │ - frames + shrimp if needed        │
-                 └───────────────────────────────────┘
-PULL (strip/bait)┌───────────────────────────────────┐
-                 │ Forward+Pull: strip while advancing │
-                 │ - keep true handle (leg line)      │
-                 │ - re-square hips (no reaching)     │
-                 │ - reattach immediately             │
-                 └───────────────────────────────────┘
+~~~
+DYNAMIC ENERGY (Open Guard) = (PUSH vs PULL) x (FORWARD vs BACKWARD)
 
-                    BACKWARD (reset / disengage)
-                 ┌───────────────────────────────────┐
-PULL (retreat)   │ Backward+Pull: backstep/flee       │
-                 │ - anti-exit: follow + reattach     │
-                 │ - make retreat slow                │
-                 │ - containment hubs if entangled    │
-                 └───────────────────────────────────┘
-PUSH (clear+run) ┌───────────────────────────────────┐
-                 │ Backward+Push: shove-to-clear      │
-                 │ - foot pummel + re-center          │
-                 │ - deny first clean step around     │
-                 │ - attach ankle to stop reset       │
-                 └───────────────────────────────────┘
+FORWARD+PUSH  -> threatens Level/Penetration/Pin  -> STRUCTURE EARLY (frames -> turn -> shrimp)
+FORWARD+PULL  -> threatens Grip/Angle             -> REATTACH LEG LINE + RE-SQUARE
+BACK+PUSH     -> threatens Barrier removal/reset  -> REINSERT (foot pummel) + RE-CENTER
+BACK+PULL     -> threatens Reset/Disengage        -> FOLLOW + TRUE HANDLE + REDUNDANCY
 
-Always apply gates: HIP LINE -> DEFENSIVE CYCLE.  HANDS DOWN -> valid entry.  ORIENTATION -> invariant.
+GATES OVERRIDE:
+HIP LINE -> DEFENSIVE CYCLE UNTIL CYCLE BREAK
+NO HANDS-DOWN -> NO COMMITTED ENTRY/ROTATION
+ORIENTATION -> INVARIANT (re-square before upgrading)
+~~~
+
+## 10. Drills and Games (Game Cards)
+
+### 10.1 Quadrant Switching (coachless)
+- **Start:** passer standing; defender seated open guard.
+- **Defender wins:** keep passer in front (no outside knee line) for **20s** while maintaining any contact.
+- **Passer wins:** achieve **outside knee line** then **hip line touch** or **pin**.
+- **Rules:** passer must alternate every ~5 seconds between “pressure forward” and “reset backward” on their own (no stalling); defender must switch modules without pausing.
+- **Reset:** hip line touch / pin / timer.
+- **Rounds:** 8×20s, switch.
+
+### 10.2 No Free Reset (Backward+Pull specialization)
+- **Start:** range with light contact allowed.
+- **Defender wins:** establish a **true handle** and keep any contact for **15s**.
+- **Passer wins:** **disengage to two steps** with no contact.
+- **Rules:** passer is incentivized to backstep/flee; defender must follow with hips and upgrade to ankle/heel line.
+- **Reset:** timer / disengage.
+- **Rounds:** 8×20s, switch.
+
+### 10.3 Shove-to-Clear Response (Backward+Push specialization)
+- **Start:** passer standing; defender seated.
+- **Defender wins:** reinsert barriers and re-center; hold “in front” for **3s**.
+- **Passer wins:** achieve **outside knee line** for **3s**.
+- **Rules:** passer may only shove legs aside + circle (no forward pressure); defender must reinsert first, then square.
+- **Reset:** 3s hold by either side.
+- **Rounds:** 8×20s, switch.
+
+### 10.4 Pressure Ladder Entry Gate (Forward+Push + hands-down)
+- **Start:** passer standing stable; defender seated open guard.
+- **Defender wins:** force **post/widen/forced step** then begin a committed entry within **2s**.
+- **Passer wins:** maintain stable base while advancing/clearing for **20s**.
+- **Rules:** committed entry before base compromise = loss of rep; defender must base-break before “going under.”
+- **Reset:** entry start after base compromise / timer.
+- **Rounds:** 10 reps each, switch.
+
+### 10.5 Strip-While-Advancing (Forward+Pull)
+- **Start:** passer advances while stripping grips; defender starts with one light connection.
+- **Defender wins:** reattach to leg line and re-square (opponent in front) then hold **3s**.
+- **Passer wins:** achieve **outside knee line** then **hip line touch**.
+- **Rules:** passer must keep stepping in (no retreats); defender prioritizes reattach first, then square (no reaching).
+- **Reset:** 3s hold / hip line touch.
+- **Rounds:** 8×20s, switch.
