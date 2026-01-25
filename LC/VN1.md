@@ -1,232 +1,179 @@
-## Library Card 01 — Connection-First Operating System
+## VN1 — Top 20 Systems (Ranked by Significance) (Operational Density)
 
-**Name:** Connection-First OS  
-**Trigger:** Start of open-guard engagement, or any time contact is broken/reset occurs.  
-**Objective:** Establish initiative by creating durable attachment before movement.
+### 1) Connection-First Operating System
+**Trigger:** Start of engagement or any reset/break in contact.  
+**Objective:** Establish initiative by creating durable attachment before movement.  
+**Rules:** No committed movement without a handle; connection must survive one step.  
+**Failure signature:** You move first; they step away; you lose contact and initiative.  
+**Metric:** Time-to-first durable connection; % connections surviving one step.
 
-**Inputs:** Neutral open guard (no stable grips yet).  
-**Outputs:** A functional connection that survives a step and enables steering.
+---
 
-**Rules:**
-- Movement is subordinate to connection: do not commit to sequences without a handle.
-- Connection must survive at least one opponent step to be considered “on.”
-- If connection breaks, immediately restart the OS (re-attach before chasing).
+### 2) Handle Quality System
+**Trigger:** Any grip/attachment opportunity.  
+**Objective:** Validate whether a grip is worth building around.  
+**Rules:** 2-of-3 rubric: survive one step / force reaction in 1–2 beats / leads to next action.  
+**Failure signature:** You collect grips that don’t change behavior.  
+**Metric:** % grips passing 2/3; replacement time for failed handles.
 
-**Operational cues:**
-- “Do I have connection that survives a step?”
-- “If they strip, can I re-attach immediately?”
+---
 
-**Failure signature:**
-- You move first; opponent steps away; you lose contact and initiative.
-- Repeated long-range resets after a single strip.
+### 3) Reaction-Driven Grip System
+**Trigger:** Immediately after establishing any grip.  
+**Objective:** Convert grips into measurable progress (step/post/posture change).  
+**Rules:** Every grip must have a declared reaction target; if not, replace.  
+**Failure signature:** Grips exist; opponent remains stable.  
+**Metric:** Reaction rate within 1–2 beats; conversion speed after reaction.
 
-**Drill metrics:**
-- Time-to-first durable connection from neutral.
-- % exchanges where connection survives one step.
+---
 
-## Library Card 02 — Handle Quality System
+### 4) Four-Limb Redundancy System
+**Trigger:** After any initial attachment.  
+**Objective:** Make control survive stripping by building ≥2 points of connection.  
+**Rules:** Never accept single-point control; build redundancy immediately.  
+**Failure signature:** One strip collapses the entire structure.  
+**Metric:** Time-to-two-point connection; persistence after strip attempts.
 
-**Name:** Handle Quality System  
-**Trigger:** Any time you establish (or are offered) a grip/attachment opportunity.  
-**Objective:** Rapidly validate whether an attachment is worth building around.
+---
 
-**Inputs:** A candidate grip/attachment (hand or leg contact).  
-**Outputs:** A pass/fail decision: **keep + build** vs **replace/upgrade**.
+### 5) Re-Attachment Tempo System
+**Trigger:** Grip stripped / connection breaks.  
+**Objective:** Replace immediately and re-upgrade to redundancy.  
+**Rules:** Strip→replace within 1 beat; replace→upgrade to two points.  
+**Failure signature:** “Dead beat” after strips; passer builds freely.  
+**Metric:** Replacement time; dead-beat count; redundancy rebuilt within 2 beats.
 
-**Rules (2-of-3 rubric):** Score each item **0/1**.
-1) **Survivability:** persists through **one opponent step**.  
-2) **Reactivity:** forces a **reaction within 1–2 beats** (step/post/posture change).  
-3) **Continuity:** leads directly to a **next action** (step forcing / proof creation / re-attach path).
+---
 
-**Decision:**
-- If score **≥2/3** → treat as a **primary handle** and build redundancy.  
-- If score **≤1/3** → treat as **temporary**; replace immediately or add a second connection.
+### 6) Control-Not-Contact System
+**Trigger:** Any time you think “I have them” because you are touching/gripping.  
+**Objective:** Confirm control by restriction, not contact.  
+**Rules:** If they can step away/rotate hips/clear legs freely, you lack control.  
+**Failure signature:** You feel connected; they disengage or angle easily.  
+**Metric:** % time at least one key restriction is active.
 
-**Operational cue:**
-- “Does this steer something measurable right now, or am I just holding?”
+---
 
-**Failure signature:**
-- You collect grips that do not change opponent behavior.
-- You stay in static strength contests instead of producing steps/posts.
+### 7) Inside/Outside Control Test System
+**Trigger:** Any inside/outside relationship you assume is “winning.”  
+**Objective:** Validate that inside/outside equals real restriction.  
+**Rules:** Run the same restriction test (step/angle/leg clear).  
+**Failure signature:** “Inside” without preventing angle creation.  
+**Metric:** Denial rate of step-away and hip-rotation options.
 
-**Drill metrics:**
-- % of grips that produce a reaction within 1–2 beats.
-- Average time to replace a failed handle.
+---
 
-## Library Card 03 — Reaction-Driven Grip System
+### 8) 2-on-1 Primary Handle System
+**Trigger:** Any time an arm/limb can be isolated.  
+**Objective:** Use 2-on-1 to steer base/posture and limit posting/stripping.  
+**Rules:** Must force step/post/posture change; avoid static tug-of-war.  
+**Failure signature:** Strength contest; no reaction produced.  
+**Metric:** % reps 2-on-1 forces step/post in 1–2 beats.
 
-**Name:** Reaction-Driven Grip System  
-**Trigger:** Immediately after you establish any grip/attachment.  
-**Objective:** Convert grips into measurable progress by forcing a predictable reaction.
+---
 
-**Inputs:** Any grip/attachment you can apply as a handle.  
-**Outputs:** One of three proof-producing reactions:
-- **Step** (stance/foot placement changes)
-- **Post** (“hands-down” posting/brace)
-- **Posture change** (head/shoulders line displaced)
-
-**Rules:**
-- Every grip must have a declared job: **force step** OR **force post** OR **force posture change**.
-- If you cannot name the intended reaction, the grip is purposeless—replace or upgrade it.
-- After a reaction occurs, you must convert immediately (improve connection, create proof, or enter).
-
-**Operational cues:**
-- “What reaction am I forcing?”
-- “Did it happen within 1–2 beats?”
-
-**Failure signature:**
-- You have grips but the opponent remains stable (no step/post/posture concession).
-- You delay after the reaction and the opponent repair-steps to safety.
-
-**Drill metrics:**
-- Reaction rate: % grips that force step/post/posture change within 1–2 beats.
-- Conversion speed: time from reaction to your next action.
-
-## Library Card 04 — Four-Limb Redundancy System
-
-**Name:** Four-Limb Redundancy System  
-**Trigger:** Any time you achieve initial contact (hand or leg) in open guard.  
-**Objective:** Build control that survives stripping by creating multi-point connection.
-
-**Inputs:** An initial attachment point (hand grip or leg contact).  
-**Outputs:** Redundant control structure (≥2 points) that remains functional if one point is peeled.
-
-**Rules:**
-- Do not rely on single-point control; build to **at least two points** (hand+leg or leg+leg).
-- If one point is stripped, the second point must **preserve connection** long enough to re-attach.
-- After redundancy is established, use it to steer posture/base (not to “hold”).
-
-**Operational cues:**
-- “Do I have two points yet?”
-- “If they strip one, what keeps me connected?”
-
-**Failure signature:**
-- One strip collapses the whole structure.
-- You repeatedly reset to long range after minor grip fights.
-
-**Drill metrics:**
-- Time-to-two-point connection from neutral.
-- % exchanges where connection persists after an attempted strip.
-
-## Library Card 05 — Re-Attachment Tempo System
-
-**Name:** Re-Attachment Tempo System  
-**Trigger:** Any time a grip/attachment is stripped or connection breaks.  
-**Objective:** Win no-gi exchanges by replacement speed and immediate re-upgrade to redundancy.
-
-**Inputs:** A strip event (lost grip, cleared leg, broken frame).  
-**Outputs:** Immediate replacement connection plus a second connection (redundancy) that restores steering.
-
-**Rules:**
-- **Strip → replace within 1 beat.** (Do not pause.)
-- **Replace → upgrade to redundancy** (four-limb connection) before committing to bigger actions.
-- Treat grip loss as normal; treat hesitation after loss as failure.
-
-**Operational cues:**
-- “Replace now.”
-- “Upgrade to two points.”
-
-**Failure signature:**
-- After being stripped, you reset mentally and give the passer a clean beat to build distance/grip/angle.
-- You chase without re-attaching and lose initiative.
-
-**Drill metrics:**
-- Replacement time (strip → new attachment).
-- “Dead beat” count after strips (should trend to zero).
-- % reps where redundancy is rebuilt within 2 beats of a strip.
-
-## Library Card 06 — Inside/Outside Control Test System
-
-**Name:** Inside/Outside Control Test System  
-**Trigger:** Any time you believe you have “inside” or “outside” position.  
-**Objective:** Prevent confusing position with control by running a fast control test.
-
-**Inputs:** Any inside/outside relationship (legs, hips, shoulders, grips).  
-**Outputs:** Pass/fail determination: **control present** vs **position only**.
-
-**Rules (control test):** Ask: “Can they freely…”
-- **Step away** to reset distance?
-- **Rotate hips** to create angle?
-- **Clear my legs** without paying a cost (reaction/proof)?
-If yes to any → treat it as **position without control** and return to handle building/steering.
-
-**Operational cue:** “What can they still do for free?”  
-**Failure signature:** You “have inside” but they still angle, disengage, or clear legs at will.  
-**Drill metrics:** % times you can deny at least one of: step-away, hip rotation, leg clear.
-
-## Library Card 07 — 2-on-1 as Primary Handle System
-
-**Name:** 2-on-1 Primary Handle System  
-**Trigger:** Any time you can isolate one of the opponent’s arms/limbs.  
-**Objective:** Use 2-on-1 as a steering interface to force base concessions (not a strength contest).
-
-**Inputs:** Access to one arm/limb + your ability to connect it to your torso/structure.  
-**Outputs:** Predictable reaction: stance adjustment, posting, or realignment you can convert.
-
-**Rules:**
-- 2-on-1 must **steer** (posture/base/steps); if it only “holds,” it is failing.
-- Use 2-on-1 to restrict posting/stripping options and create a forced step map.
-- After the reaction, convert immediately (proof → entry or improved connection).
-
-**Operational cue:** “What did this 2-on-1 force?”  
-**Failure signature:** Static tug-of-war; no step/post; opponent remains comfortable.  
-**Drill metrics:** % reps where 2-on-1 forces step/post within 1–2 beats.
-
-## Library Card 08 — “Survive One Step” Validation System
-
-**Name:** Survive-One-Step Validation  
-**Trigger:** Immediately after establishing any new grip/attachment.  
-**Objective:** Rapidly validate whether an attachment is stable enough to build around.
-
-**Inputs:** Newly established grip/attachment.  
-**Outputs:** Pass/fail: **stable handle** vs **temporary contact**.
-
-**Rules:**
-- If the attachment does not survive one opponent step, treat it as **temporary**.
-- If it fails, either:
-  - replace with a higher-quality handle, or
-  - add a second connection so the structure survives stripping.
-- Do not commit to high-cost movement on a failing handle.
-
-**Operational cue:** “Will this still exist after one step?”  
+### 9) Survive-One-Step Validation System
+**Trigger:** Any new grip/attachment.  
+**Objective:** Fast pass/fail validation of handle stability.  
+**Rules:** If it doesn’t survive one step, treat as temporary and replace/upgrade.  
 **Failure signature:** You commit to sequences and the grip disappears instantly.  
-**Drill metrics:** % grips that survive one step; average time to replace failed grips.
+**Metric:** % grips surviving one step; time-to-replace failed grips.
 
-## Library Card 09 — Steering-to-Step Map System
+---
 
-**Name:** Steering-to-Step Map System  
-**Trigger:** Once you have any functional handle and the opponent is mobile.  
-**Objective:** Create predictability by narrowing the opponent’s foot options (step map).
+### 10) Steering-to-Step Map System
+**Trigger:** Once any functional handle exists against a mobile opponent.  
+**Objective:** Narrow step options to create predictability (step map) and proof.  
+**Rules:** If they can step anywhere, you don’t control base—return to steering/handles.  
+**Failure signature:** Opponent steps freely; you chase.  
+**Metric:** Time-to-forced-step; forced steps/posts per minute.
 
-**Inputs:** Handles + directional intent (posture/base steering).  
-**Outputs:** A constrained step set (predictable stance/foot placement) that produces proof for entry.
+---
 
-**Rules:**
-- Steer posture/base to force either:
-  - weight commitment to one leg, or
-  - a narrow/wide stance adjustment, or
-  - a directional step you can predict.
-- If the opponent can step anywhere freely, you do not yet control base—return to handle building.
+### 11) Directional Job Assignment System
+**Trigger:** The moment you take a grip.  
+**Objective:** Assign a single directional job to every grip (no purposeless grips).  
+**Rules:** Job must be one: pull posture / push posture / turn shoulders / force step / force post.  
+**Failure signature:** Grip accumulation without steering.  
+**Metric:** % grips with stated job; job success rate in 1–2 beats.
 
-**Operational cue:** “Where must their next step go?”  
-**Failure signature:** Opponent steps freely; you chase; no proof appears.  
-**Drill metrics:** time-to-forced-step; % rounds where you force ≥3 clear steps/posts.
+---
 
-## Library Card 10 — VN1 Minimal In-Roll Checklist System
+### 12) Reaction Window Conversion System
+**Trigger:** Opponent reacts (step/post/posture change).  
+**Objective:** Convert during the reaction window (before repair step completes).  
+**Rules:** Reaction = timing window; if missed, restart connect→steer→react.  
+**Failure signature:** You create reactions but gain no ground.  
+**Metric:** Time reaction→next action; % reactions converted before stabilization.
 
-**Name:** VN1 In-Roll Checklist  
-**Trigger:** Any time you feel lost, stalled, or are being stripped/reset.  
-**Objective:** Restore system coherence with a minimal decision checklist.
+---
 
-**Inputs:** Current exchange state (anywhere in open guard).  
-**Outputs:** Immediate routing back to the correct layer.
+### 13) Grip Loss Normalization System
+**Trigger:** Any grip break/strip (expected in no-gi).  
+**Objective:** Eliminate psychological reset; maintain tempo through immediate replacement.  
+**Rules:** Treat loss as normal; replace→restore direction→rebuild redundancy.  
+**Failure signature:** Pause after strip; opponent builds distance/grip/angle.  
+**Metric:** Dead beats after strip; replacement time consistency under fatigue.
 
-**Checklist (in order):**
-1) **Redundancy:** do I have ≥2 points of connection?
-2) **Handle:** is my grip steering (not holding)?
-3) **Reaction:** did I force step/post/posture change within 1–2 beats?
-4) **Tempo:** if stripped, did I replace immediately and upgrade to two points?
+---
 
-**Rule:** If any answer is “no,” fix the earliest “no” before advancing.  
+### 14) Tempo Recovery System
+**Trigger:** After disruption (strip/scramble/partial disengagement).  
+**Objective:** Reclaim initiative by restoring handle tempo and forcing the next reaction.  
+**Rules:** Handle first → redundancy second → reaction third.  
+**Failure signature:** You become reactive, chasing steps.  
+**Metric:** Time disruption→first forced reaction; % disruptions where initiative returns.
+
+---
+
+### 15) Gripping Tempo Cycle System
+**Trigger:** Any prolonged grip battle.  
+**Objective:** Operate grips as a cycle (attach→stripped→replace→upgrade) rather than permanence.  
+**Rules:** Never stop at “replace”; always upgrade to redundancy and direction.  
+**Failure signature:** You accept single replacement and get stripped again.  
+**Metric:** Cycle completion rate; average time between strip events.
+
+---
+
+### 16) Handle Upgrade Ladder System
+**Trigger:** After establishing any temporary contact.  
+**Objective:** Systematically upgrade from temporary contact to primary handle to redundancy.  
+**Rules:** Temporary → primary (2/3 quality) → redundant (two-point) → steering reaction.  
+**Failure signature:** Staying at “temporary” grips; no upgrade.  
+**Metric:** % contacts upgraded to redundant handles within 2 beats.
+
+---
+
+### 17) Initiative by Structure System
+**Trigger:** Anytime you assess who is “winning” the exchange.  
+**Objective:** Define initiative as structural forcing of reaction, not speed or aggression.  
+**Rules:** If your structure forces reactions, you have initiative; if not, you don’t.  
+**Failure signature:** You feel active but opponent is not reacting.  
+**Metric:** Reaction frequency attributable to your handles.
+
+---
+
+### 18) Base-Compromise Signaling System
+**Trigger:** While steering with grips/handles.  
+**Objective:** Recognize when your steering has produced base compromise (proof).  
+**Rules:** Proof signals: posting/hands-down, forced step, visible balance correction.  
+**Failure signature:** You miss proof moments and let them repair-step cleanly.  
+**Metric:** Proof recognition rate; time proof→conversion.
+
+---
+
+### 19) Re-Grip Discipline System (Win the Second Grip Battle)
+**Trigger:** After any initial strip attempt.  
+**Objective:** Treat the second grip exchange as the decisive one.  
+**Rules:** Replace immediately; do not chase without re-attachment; rebuild redundancy.  
+**Failure signature:** First strip breaks your rhythm and initiative.  
+**Metric:** % strips followed by immediate successful re-grip.
+
+---
+
+### 20) VN1 Minimal In-Roll Checklist System
+**Trigger:** Any time you feel lost or stalled.  
+**Objective:** Restore coherence with a minimal checklist.  
+**Checklist:** redundancy → handle → reaction → tempo.  
 **Failure signature:** Random technique switching; movement without attachment; repeated resets.  
-**Drill metrics:** % of times you can re-establish redundancy within 2 beats after a strip.
+**Metric:** % times you regain redundancy within 2 beats after a strip.
