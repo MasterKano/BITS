@@ -174,45 +174,8 @@ ROOT
 
 ---
 
-## Bucket A — Decision Engines
-<a id="a-01"></a>
-### A-01 — Context Laws Decision OS
-(…card content…)
-
-<a id="a-02"></a>
-### A-02 — Dynamic Energy Read OS
-(…card content…)
-
-<!-- repeat for all A cards -->
 
 ---
-
-## Bucket B — Control Engines
-<a id="b-01"></a>
-### B-01 — Connection-First OS
-(…card content…)
-
-<!-- repeat for all B cards -->
-
----
-
-## Bucket C — Recovery Engines
-<a id="c-01"></a>
-### C-01 — Knowledge/Denial Micro-Cycle OS
-(…card content…)
-
-<!-- repeat for all C cards -->
-
----
-
-## Bucket D — Conversion Engines
-<a id="d-01"></a>
-### D-01 — Repair-Step Window OS
-(…card content…)
-
-<!-- repeat for all D cards -->
-
-# Operator Library (VN1–VN8) — Systems Only (Single File)
 
 ## Master Index
 - [Bucket A — Decision Engines](#bucket-a--decision-engines)
