@@ -1,102 +1,44 @@
-SYS/Meta — OPERATOR LIBRARY INDEX (VN1–VN8) — SYSTEMS ONLY
-(Primary taxonomy: Decision / Control / Recovery / Conversion)
-~~~
-ROOT
-├─ BUCKET A: DECISION ENGINES (Reads + Gates + Routing)
-│  ├─ Context Laws Decision OS (VN2)
-│  │  ├─ Kneeling Shoulders–Hips Law OS (VN2)
-│  │  ├─ Standing Heels–Toes Law OS (VN2)
-│  │  └─ Head Under/Head Over Mode Selection OS (VN2)
-│  ├─ Dynamic Energy Read OS (drive / withdraw / redirect) (VN2)
-│  ├─ Passer Archetype Identification OS (Mobility vs Pressure) (VN4)
-│  ├─ Six-Element Passing Chain Model OS (VN2)
-│  │  ├─ Active-Link Identification OS (VN2)
-│  │  └─ Early-Denial Triage OS (VN2)
-│  ├─ Hip-Line Master Gate / Alarm Gate OS (VN3, VN4)
-│  ├─ Retention State Machine OS (NORMAL vs ALARM) (VN3)
-│  ├─ Platform Validity Gate OS (proof before X/RDLR/HQ) (VN7)
-│  ├─ DLR Entry Validity Gate OS (proof before hook) (VN8)
-│  └─ Clamp Validity Test OS (closed guard on/off) (VN8)
-│
-├─ BUCKET B: CONTROL ENGINES (Connection + Handles + Tempo + Base Steering)
-│  ├─ Connection-First OS (VN1)
-│  ├─ Handle Quality System (2-of-3 rubric) (VN1)
-│  ├─ Reaction-Driven Grip System (step/post/posture) (VN1)
-│  ├─ Directional Job Assignment System (VN1)
-│  ├─ Four-Limb Redundancy System (VN1)
-│  ├─ Re-Attachment Tempo System (VN1)
-│  ├─ Grip Loss Normalization System (VN1)
-│  ├─ Steering-to-Step Map System (VN1)
-│  ├─ “First Contact Wins” Feet-on-Them OS (mobility module) (VN4)
-│  ├─ Asymmetry Creation OS (anti-staple / anti-scoop) (VN4)
-│  ├─ Constant Threat Belief OS (VN5)
-│  ├─ Leg Target Selection OS (legs as “cannot-hide” target) (VN5)
-│  ├─ Threat Permanence Design OS (cannot be switched off) (VN5)
-│  ├─ Foot/Ankle Line Control OS (VN5)
-│  ├─ Hips-Connected Attachment OS (VN5)
-│  └─ Sticky Connection Non-Negotiable OS (connectors must persist) (VN5/VN7/VN8)
-│
-├─ BUCKET C: RECOVERY ENGINES (Retention Under Stress + Rebuild Sequence)
-│  ├─ Knowledge/Denial Micro-Cycle OS (identify→deny→recenter→reattach→convert) (VN2)
-│  ├─ Demarcation Theory OS (VN3)
-│  ├─ Demarcation-to-Tool Router OS (VN3)
-│  ├─ Essential Movement Selector OS (canonical movement set) (VN3)
-│  ├─ Mobility-First Retention OS (VN3)
-│  ├─ Defensive Framework Activation OS (frames/wedges first when ALARM) (VN3)
-│  ├─ Frame Integrity OS (structure not push) (VN3)
-│  ├─ Compression Management OS (space budgeting) (VN3)
-│  ├─ Recovery Sequencing OS (Space→Align→Reinsert→Attach) (VN3)
-│  ├─ Continuous Reinsertion OS (legs never stay late) (VN3)
-│  ├─ Immediate Re-Square OS (don’t chase with hands) (VN4)
-│  ├─ Mobility Defense Loop OS (VN4)
-│  ├─ Pressure Defense Ladder OS (deny lock early → wedge+move → reinsert legs) (VN4)
-│  ├─ Lock Formation Early-Denial OS (VN4)
-│  └─ Leg Reinsertion Terminal Step OS (every defense ends legs-in) (VN4/VN3)
-│
-└─ BUCKET D: CONVERSION ENGINES (Proof→Entry→Consolidate→Hub→Anti-Exit)
-   ├─ Proof Window Systems
-   │  ├─ Repair-Step Window OS / Harvest OS (VN2/VN7)
-   │  └─ Reaction Window Conversion System (VN1)
-   ├─ Entry Systems (by posture/range)
-   │  ├─ Standing Engagement Systems (VN5)
-   │  │  ├─ 2-on-1 Ankle Primary Tool OS (VN5)
-   │  │  ├─ Unweighted Foot Capture OS (VN5)
-   │  │  ├─ Don’t Chase—Intersect Timing OS (VN5)
-   │  │  └─ Distance Breaker OS / Outside-Range Conversion OS (VN5)
-   │  ├─ Kneeling Entry Systems (VN6)
-   │  │  ├─ Kneeling Entry Decision OS (shoulders–hips + proof) (VN6)
-   │  │  ├─ Proof-Gated Entry OS (kneeling) (VN6)
-   │  │  ├─ Single-Leg Entry System OS (VN6)
-   │  │  ├─ Double-Leg Entry System OS (VN6)
-   │  │  └─ Reverse Double-Leg Entry System OS (VN6)
-   │  └─ Bridge/Platform Systems (VN7/VN8)
-   │     ├─ Bridge-Platform Integration OS (X/RDLR/HQ platforms) (VN7)
-   │     ├─ Momentum Entry OS (VN7)
-   │     ├─ X-Guard Triple-Attack Router OS (VN7)
-   │     ├─ RDLR as Anti-Pressure Bridge OS (VN7)
-   │     ├─ HQ Recognition OS (VN7)
-   │     └─ DLR Outside-Control OS (VN8)
-   ├─ Consolidation Systems
-   │  ├─ Second Connection Rule OS (VN6/VN7/VN1)
-   │  ├─ Entry-to-Consolidation Bridge OS (VN6)
-   │  ├─ Cross-Catch Consolidation OS (VN6)
-   │  ├─ Hip-Pin Consolidation OS (VN6)
-   │  └─ Knee-Line Containment OS (VN6)
-   ├─ Hub Systems
-   │  ├─ Platform-to-Hub Routing OS (choose hub by exit) (VN7)
-   │  └─ Exit-Based Hub Selection OS (VN8)
-   └─ Anti-Exit Systems (No-Reset Governance)
-      ├─ Anti-Exit Master OS (VN8)
-      ├─ Backstep Follow OS (VN8/VN7)
-      ├─ Flee Follow OS (VN8/VN7)
-      ├─ Peel/Strip Counter-Loop OS (VN8)
-      └─ Stabilize-Then-Finish Governance OS (VN8)
-~~~
-# Operator Library (VN1–VN8) — Systems Only
+<!-- ================================================================ -->
+<!-- Operator Library — Systems Only                                   -->
+<!-- Single-file, anchor-stable, GitHub-ready                          -->
+<!-- ================================================================ -->
+
+# Operator Library — Systems Only
+
+## How to use this library (fast)
+**Default loop:** Context → Connect → Deny → Recenter → Convert → Stabilize → Anti-exit  
+**When lost (3-card reset):** [A-04 Active Link](#a-04) → [A-06 Hip-Line Alarm](#a-06) → [C-09 Sequencing](#c-09)  
+**Core rule:** No “big action” without **(1) context call** + **(2) proof window**.
+
+## State Flags (shared language)
+- `REGIME:` `STANDING` | `KNEELING`
+- `MODE:` `UNDER` | `UP`
+- `ENERGY:` `DRIVE` | `WITHDRAW` | `REDIRECT`
+- `STATE:` `NORMAL` | `ALARM`
+- `ARCHETYPE:` `MOBILITY` | `PRESSURE`
+- `EXIT:` `FLEE` | `BACKSTEP` | `TURN-AWAY` | `PEEL/STRIP`
+
+## Hotkeys (minimum viable OS set)
+- [A-01 Context Laws (parent + laws)](#a-01)
+- [A-04 Active-Link Identification](#a-04)
+- [A-06 Hip-Line Alarm Gate](#a-06)
+- [A-08 Passer Archetype (Mobility vs Pressure)](#a-08)
+- [B-02 Handle Quality (2-of-3)](#b-02)
+- [B-06 Re-Attachment Tempo](#b-06)
+- [C-09 Recovery Sequencing](#c-09)
+- [D-01 Repair-Step Window](#d-01)
+- [D-16 Second Connection Rule](#d-16)
+- [D-23 Anti-Exit Master](#d-23)
+
+---
 
 ## Master Index
+
 - [Bucket A — Decision Engines](#bucket-a--decision-engines)
-  - [A-01 Context Laws Decision OS](#a-01)
+  - [A-01 Context Laws Decision OS (Parent)](#a-01)
+    - [A-01a Kneeling Shoulders–Hips Law OS](#a-01a)
+    - [A-01b Standing Heels–Toes Law OS](#a-01b)
+    - [A-01c Head Under / Head Over Mode Selection OS](#a-01c)
   - [A-02 Dynamic Energy Read OS](#a-02)
   - [A-03 Six-Element Passing Chain Model OS](#a-03)
   - [A-04 Active-Link Identification OS](#a-04)
@@ -106,18 +48,18 @@ ROOT
   - [A-08 Passer Archetype Identification OS](#a-08)
   - [A-09 Platform Validity Gate OS](#a-09)
   - [A-10 DLR Entry Validity Gate OS](#a-10)
-  - [A-11 Clamp Validity Test OS](#a-11)
+  - [A-11 Clamp Validity Test OS (Closed Guard On/Off)](#a-11)
 
 - [Bucket B — Control Engines](#bucket-b--control-engines)
   - [B-01 Connection-First OS](#b-01)
-  - [B-02 Handle Quality System](#b-02)
+  - [B-02 Handle Quality System (2-of-3)](#b-02)
   - [B-03 Reaction-Driven Grip System](#b-03)
   - [B-04 Directional Job Assignment System](#b-04)
   - [B-05 Four-Limb Redundancy System](#b-05)
   - [B-06 Re-Attachment Tempo System](#b-06)
   - [B-07 Grip Loss Normalization System](#b-07)
   - [B-08 Steering-to-Step Map System](#b-08)
-  - [B-09 First Contact Wins (Feet-on-Them) OS](#b-09)
+  - [B-09 First Contact Wins OS (Feet-on-Them)](#b-09)
   - [B-10 Asymmetry Creation OS](#b-10)
   - [B-11 Constant Threat Belief OS](#b-11)
   - [B-12 Leg Target Selection OS](#b-12)
@@ -153,7 +95,7 @@ ROOT
   - [D-07 Single-Leg Entry System OS](#d-07)
   - [D-08 Double-Leg Entry System OS](#d-08)
   - [D-09 Reverse Double-Leg Entry System OS](#d-09)
-  - [D-10 Bridge-Platform Integration OS (X/RDLR/HQ)](#d-10)
+  - [D-10 Bridge-Platform Integration OS](#d-10)
   - [D-11 Momentum Entry OS](#d-11)
   - [D-12 X-Guard Triple-Attack Router OS](#d-12)
   - [D-13 RDLR as Anti-Pressure Bridge OS](#d-13)
@@ -171,1891 +113,2089 @@ ROOT
   - [D-25 Flee Follow OS](#d-25)
   - [D-26 Peel/Strip Counter-Loop OS](#d-26)
   - [D-27 Stabilize-Then-Finish Governance OS](#d-27)
-
----
-
-
----
-
-## Master Index
-- [Bucket A — Decision Engines](#bucket-a--decision-engines)
-  - [A-01 Context Laws Decision OS](#a-01)
-  - [A-02 Dynamic Energy Read OS](#a-02)
-  - [A-03 Six-Element Passing Chain Model OS](#a-03)
-  - [A-04 Active-Link Identification OS](#a-04)
-  - [A-05 Early-Denial Triage OS](#a-05)
-  - [A-06 Hip-Line Alarm Gate OS](#a-06)
-  - [A-07 Retention State Machine OS (Normal vs Alarm)](#a-07)
-  - [A-08 Passer Archetype Identification OS (Mobility vs Pressure)](#a-08)
-  - [A-09 Platform Validity Gate OS (X/RDLR/HQ)](#a-09)
-  - [A-10 DLR Entry Validity Gate OS](#a-10)
-  - [A-11 Clamp Validity Test OS (Closed Guard On/Off)](#a-11)
 
 ---
 
 ## Bucket A — Decision Engines
 
 <a id="a-01"></a>
-### A-01 — Context Laws Decision OS (VN2)
+### A-01 — Context Laws Decision OS (Parent Router)
 
 **Purpose (plain English)**  
-Classify the exchange before you act so you stop choosing actions that are structurally invalid for the opponent’s posture/base.
+Stop “random technique selection.” This router classifies the exchange so your actions match the opponent’s posture/base reality.
 
 **Trigger**  
 - Start of engagement  
-- Any posture change (kneeling ↔ standing)  
-- Before committing to an entry or “big action”  
-- Any time you feel choices multiplying
+- Any posture change (standing↔kneeling)  
+- Before any committed entry / big movement  
+- Any time options feel “too many”
 
-**Inputs (what it reads)**  
-1) **Posture regime:** kneeling or standing  
-2) **Head-height regime:** head high vs head low / hips-back  
-3) (Recommended) **Energy regime:** drive / withdraw / redirect
+**Inputs (what you read)**  
+- `REGIME` (standing vs kneeling)  
+- `MODE` availability (under vs up) based on head/hip relationship
 
-**Outputs (what it produces)**  
-- Context call: **KNEELING** or **STANDING**  
-- Mode call: **UNDER-MODE** or **UP-MODE**  
-- A constraint: what is high-% now vs what is invalid now
+**Outputs (what you decide)**  
+- Regime call + mode call  
+- Which downstream families are allowed (standing tools vs kneeling tools vs “come up first”)
 
-**Procedure (how to run it)**  
-1) Kneeling or standing?  
-2) Head high or head low/hips back? (under-mode vs up-mode)  
-3) Drive / withdraw / redirect? (timing + expectation)
+**Run it (1-breath procedure)**  
+1) `REGIME:` standing or kneeling?  
+2) `MODE:` under available or must go up first?  
+3) If unsure → default conservative: **create proof first** (don’t commit).
 
-**Non-negotiables (rules)**  
-- If you cannot state the context, you do not commit big.  
-- Mode must match head height; do not force under-mode into hips-back posture.  
-- Re-run immediately when regime changes (stale reads lose exchanges).
+**DO / DON’T**  
+- **DO:** Re-run immediately when they posture-change.  
+- **DON’T:** Keep acting on a stale read (that’s how “nothing works”).
 
-**Failure signatures**  
-- “Nothing works” despite effort (often wrong regime).  
-- Repeated separation/reset after under-attempts (wrong head-height read).  
-- Chasing limbs while opponent withdraws (wrong energy read).
+**Common mistakes it prevents**  
+- Trying under-mode while opponent is hips-back/head-low.  
+- Shooting into stable kneeling base with no proof.
 
-**Metrics**  
-- Context call accuracy (kneeling/standing)  
-- Mode call accuracy (under vs up)  
-- Stale-read count per round (acting on old context)
-
-**Links (upstream / downstream)**  
-- Downstream: A-04 Active-Link ID, B-bucket handle/tempo systems, proof-gated entries (VN6/VN7/VN8)
+**Linked sub-laws (the actual operators)**  
+- [A-01a Kneeling Shoulders–Hips Law](#a-01a)  
+- [A-01b Standing Heels–Toes Law](#a-01b)  
+- [A-01c Head Under / Head Over Mode Selection](#a-01c)
 
 ---
 
-<a id="a-02"></a>
-### A-02 — Dynamic Energy Read OS (Drive / Withdraw / Redirect) (VN2)
+<a id="a-01a"></a>
+### A-01a — Kneeling Shoulders–Hips Law OS
 
 **Purpose (plain English)**  
-Read commitment direction to predict the opponent’s next corrective step and act during transitions rather than against stability.
+In kneeling exchanges, “is their upper body leading or is their base stacked?” determines whether entries are valid now or you must create proof first.
 
 **Trigger**  
-- Any time pressure changes  
-- Any time opponent starts stepping/circling/backing out  
-- Immediately after you disrupt them
+Opponent is kneeling or drops to knees.
 
-**Inputs**  
-- Feel/visual of pressure direction: **into you**, **away from you**, or **around you**
+**Reads (what matters)**  
+- **Shoulders leading** (upper body pitched forward, posting likely)  
+- **Hips stacked** (hips back under them, stable base, hard to off-balance)
 
-**Outputs**  
-- Energy call: **DRIVE**, **WITHDRAW**, or **REDIRECT**  
-- A timing expectation: “a post/step is coming” vs “a reset is coming” vs “angle is coming”
+**Decision logic (fast)**  
+- Shoulders lead → expect **post/repair-step** → **convert on that window**  
+- Hips stacked → **do not force entries** → **steer until proof appears**
 
-**Procedure**  
-1) Classify: DRIVE / WITHDRAW / REDIRECT  
-2) Pair it with your next action:
-   - DRIVE → expect post/repair-step windows (act on the step)
-   - WITHDRAW → expect reset attempts (intercept + reattach)
-   - REDIRECT → expect angle creation (re-square urgency)
+**DO / DON’T**  
+- **DO:** Treat a hand post as a permission slip (proof).  
+- **DON’T:** Shoot under stacked hips and donate separation.
 
-**Rules**  
-- Do not fight stable frames; act when their base is reorganizing.  
-- If energy changes, update immediately (no “plan loyalty”).
+**Examples**  
+- They kneel and lean forward to pressure: you steer → they post → you enter immediately.  
+- They kneel upright and stable: you steer/base-shift first; entries come *after* a step/post.
 
 **Failure signatures**  
-- You act while they are stable and get stuffed.  
-- You miss the withdrawal and allow clean resets.  
-- You chase redirects late and concede angle.
+- Stuffed entries with no forward progress.  
+- You “touch legs” then lose them instantly (no base compromise).
 
 **Metrics**  
-- Step/post prediction accuracy  
-- Reset-prevention rate after WITHDRAW reads  
+- % kneeling entries initiated **on proof** (post/step/collapse)  
+- Proof→entry initiation time (should be immediate)
+
+**Links**  
+- Next: [A-02 Energy Read](#a-02), [D-05 Kneeling Entry Decision](#d-05), [D-06 Proof-Gated Entry](#d-06)
+
+---
+
+<a id="a-01b"></a>
+### A-01b — Standing Heels–Toes Law OS
+
+**Purpose (plain English)**  
+Standing weight distribution predicts whether the opponent will drive, stabilize, or retreat—so you stop attacking into stability and start attacking during motion.
+
+**Trigger**  
+Opponent is standing.
+
+**Reads**  
+- **Toes-loaded** (forward committed, driving pressure, corrective steps likely)  
+- **Heels-loaded** (anchored / ready to withdraw, step-away likely)
+
+**Decision logic (fast)**  
+- Toes-loaded → **expect correction step** → intercept/convert on motion  
+- Heels-loaded → **force step map** → don’t chase; create predictable stepping
+
+**DO / DON’T**  
+- **DO:** Attack on the step, not after the step.  
+- **DON’T:** Chase ankles against a retreat-ready stance without forcing commitment.
+
+**Examples**  
+- Forward committed: you steer → they must step → you intercept the step.  
+- Retreat-ready: you constrain options (step map) → their retreat becomes predictable → you attach.
+
+**Failure signatures**  
+- Touch-and-lose leg contacts.  
+- Repeated long-range resets because you attacked after they stabilized.
+
+**Metrics**  
+- % entries initiated during opponent motion (vs static)  
+- Reset events after “attempted engagement”
+
+**Links**  
+- Next: [B-08 Step Map](#b-08), [D-03 2-on-1 Ankle Tool](#d-03), [D-04 Distance Breaker](#d-04)
+
+---
+
+<a id="a-01c"></a>
+### A-01c — Head Under / Head Over Mode Selection OS
+
+**Purpose (plain English)**  
+Select `MODE` correctly: under-mode is not always available. If head is low and hips are back, you often must “come up” first.
+
+**Trigger**  
+Always active; re-check anytime posture changes.
+
+**Reads**  
+- Head height vs opponent hip withdrawal  
+- “Can I actually get underneath without being separated?”
+
+**Decision logic (fast)**  
+- Head high / access under them exists → `MODE: UNDER`  
+- Head low + opponent hips back / posture denying under → `MODE: UP` first
+
+**DO / DON’T**  
+- **DO:** Switch modes without attachment to your preferred plan.  
+- **DON’T:** Repeat under-attempts into hips-back posture.
+
+**Examples**  
+- They posture/hips back: you come up, reattach, force a step, then under becomes available later.  
+- They’re tall and committed: under-mode is live immediately.
+
+**Failure signatures**  
+- Chronic separation right as you try to go under.  
+- “Almost” entries that never connect because posture denies them.
+
+**Metrics**  
+- Under-attempts that end in separation (%)  
+- Mode switch speed (how quickly you stop forcing the wrong mode)
+
+**Links**  
+- Next: [A-02 Energy Read](#a-02), [D-11 Momentum Entry](#d-11), [C-11 Re-Square](#c-11)
+
+<a id="a-02"></a>
+### A-02 — Dynamic Energy Read OS (`DRIVE` / `WITHDRAW` / `REDIRECT`)
+
+**Purpose (plain English)**  
+Predict the opponent’s *next corrective action* so you act during transition windows instead of attacking into stability.
+
+**Trigger**  
+- Any shift in pressure direction  
+- Any stepping/circling/backing-out behavior  
+- Immediately after you disrupt/deny something (they must “fix”)
+
+**Reads (what matters)**  
+- `DRIVE:` pressure/weight moving **into you** (commitment forward)  
+- `WITHDRAW:` pressure/weight moving **away** (reset attempt)  
+- `REDIRECT:` pressure moving **around** you (angle hunting)
+
+**Decision logic (fast)**
+
+DRIVE    → expect post/repair-step windows → convert on that beat
+WITHDRAW → expect disengage/reset         → intercept + reattach immediately
+REDIRECT → expect angle accumulation      → re-square NOW, not later
+
+**Run it (2-step procedure)**  
+1) Name the energy: DRIVE / WITHDRAW / REDIRECT.  
+2) Pair it with the correct priority:
+   - DRIVE → force/harvest proof windows ([D-01](#d-01), [D-02](#d-02))
+   - WITHDRAW → deny reset with sticky connection ([D-23](#d-23))
+   - REDIRECT → deny angle with re-square + reinsertion ([C-11](#c-11), [C-10](#c-10))
+
+**DO / DON’T**  
+- **DO:** Update instantly when the energy changes (no plan loyalty).  
+- **DON’T:** Chase after a WITHDRAW; you arrive late and they’re stable.
+
+**Examples (common)**  
+- You steer and they *step hard to stabilize* → DRIVE window → enter now.  
+- You threaten and they *back out to reset* → WITHDRAW → follow, keep one connection.  
+- They circle to your flank → REDIRECT → re-square before they connect angle to level.
+
+**Failure signatures**  
+- You “do the right move” but at the wrong time (stability vs transition).  
+- You keep losing angle while hand-fighting.  
+- You allow repeated clean resets.
+
+**Metrics**  
+- % conversions initiated during transitions (step/post/repair-step)  
+- Reset attempts denied after WITHDRAW reads  
 - Angle-loss events after REDIRECT reads
 
 **Links**  
-- Downstream: A-04 Active-Link ID, C-bucket re-square/retention routers, D-bucket repair-step conversion
+- Upstream: [A-01 Context Laws](#a-01)  
+- Downstream: [A-04 Active Link](#a-04), [C-11 Re-Square](#c-11), [D-01 Repair-Step](#d-01), [D-23 Anti-Exit](#d-23)
 
 ---
 
 <a id="a-03"></a>
-### A-03 — Six-Element Passing Chain Model OS (VN2)
+### A-03 — Six-Element Passing Chain Model OS
 
 **Purpose (plain English)**  
-Stop defending “pass names.” Instead, diagnose which requirement is being built and break it early (cheap) rather than late (expensive).
+Stop thinking in “pass names.” Diagnose the *requirement chain* the passer must build and break it early.
+
+**The chain (order matters)**  
+1) **Distance** (closing space / denying you space)  
+2) **Grip** (meaningful attachments that survive movement)  
+3) **Angle** (getting to your hip line / flank)  
+4) **Level** (getting chest/hips into winning height relationship)  
+5) **Penetration** (entering past your frames/legs)  
+6) **Pin** (stabilizing control so you cannot recover)
 
 **Trigger**  
-- Any time you feel passing progress  
-- Any time you need a clean diagnosis under speed
+- Any time passing is progressing  
+- Any time you feel overwhelmed and need a clean diagnosis
 
-**Inputs**  
-- Observable passer progress indicators (distance, grips, angle, level, penetration, pin)
+**Read (what matters)**  
+Identify the **earliest dominant link** that explains the current threat.
 
-**Outputs**  
-- Declared active chain position:  
-  **Distance → Grip → Angle → Level → Penetration → Pin**
+**Run it (fast)**  
+1) Ask: “Which link are they building right now?”  
+2) Deny that link (or an earlier one if possible).  
+3) Reassess immediately (chain shifts after denial).
 
-**Procedure**  
-1) Identify which link is currently being assembled.  
-2) Deny that link (or the earliest dominant link).  
-3) Reassess immediately (links change after denial).
+**DO / DON’T**  
+- **DO:** Spend most of your defense at Distance/Grip/Angle (cheap).  
+- **DON’T:** Live in Penetration/Pin defense (expensive lifestyle).
 
-**Rules**  
-- The later the link, the higher the cost.  
-- Early denial is the default; late denial is emergency.
+**Examples**  
+- They haven’t connected grips yet → distance management is the real fight, not late framing.  
+- They have grips but no angle yet → break grips / re-square before they flank.  
+- Angle is being won → re-square first, even if grips remain.
 
 **Failure signatures**  
-- You defend late (penetration/pin) as your default lifestyle.  
-- You obsess over grips while angle is being won.
+- You win grip exchanges but still get passed (angle was the real link).  
+- You constantly “survive” late but never reset upstream.
 
 **Metrics**  
-- % denials occurring at Distance/Grip/Angle (early)  
-- Time spent in Penetration/Pin (late)  
-- Correct link identification rate
+- Early vs late denial ratio (Distance/Grip/Angle vs Penetration/Pin)  
+- Time spent in emergency states (Penetration/Pin)  
+- Correct link identification rate (self-audit after round)
 
 **Links**  
-- Downstream: A-04 Active-Link ID, A-05 Triage, C-bucket recovery sequencing
+- Downstream: [A-04 Active Link](#a-04), [A-05 Triage](#a-05), [C-01 Micro-Cycle](#c-01)
 
 ---
 
 <a id="a-04"></a>
-### A-04 — Active-Link Identification OS (VN2)
+### A-04 — Active-Link Identification OS (Single Problem Selection)
 
 **Purpose (plain English)**  
-In chaotic moments, choose the *one* problem to solve first so you stop fixing the wrong thing.
+When multiple things feel threatening, select the *one* link to solve first so you stop defending symptoms.
 
 **Trigger**  
-- Pressure spikes  
-- You feel “too many threats”  
-- Immediately after any denial (the problem shifts)
+- “Too many problems” feeling  
+- Pressure spike  
+- Immediately after any denial or scramble (the active link changes)
 
 **Inputs**  
-- Which of the six chain elements is most responsible for current danger
+- Current chain state (from [A-03](#a-03)) + `STATE` (NORMAL/ALARM from [A-06](#a-06))
 
 **Outputs**  
-- One declared active link (the first thing you deny)
+- One declared “active link” (the first thing you deny)
 
-**Procedure**  
-1) Ask: “What is the earliest dominant link that explains the threat?”  
-2) If two are present, pick the earlier.  
-3) Deny it.  
-4) Re-run immediately after denial.
+**Run it (fast)**  
+1) Name the earliest dominant link: Distance / Grip / Angle / Level / Penetration / Pin.  
+2) Deny it.  
+3) Re-run immediately (do not assume the problem stayed the same).
 
-**Rules**  
-- Do not split attention; one link first.  
-- Earlier-link denial collapses downstream combinations.
+**DO / DON’T**  
+- **DO:** Solve one link fully, then reassess.  
+- **DON’T:** Split attention across grip + angle + level simultaneously (you’ll lose all three).
+
+**Examples**  
+- They are circling (angle threat) and also have a sleeve/hand tie: active link is **Angle** (if you lose flank, grips get worse).  
+- They are compressing without angle yet: active link is **Distance/Level** (stop collapse before it becomes penetration).
 
 **Failure signatures**  
-- You fight the symptom (late link) while cause (early link) continues.  
-- You deny something that is no longer active.
+- You “fix grips” while they run around.  
+- You frame late while penetration is already occurring.
 
 **Metrics**  
-- Correct “first-link” calls  
-- % denials that prevent next-link progression  
-- Reassessment frequency (should be high)
+- Correct first-link calls (review after round)  
+- Denials that prevent next-link progression (%)  
+- Reassessment frequency (should be high; the link changes often)
 
 **Links**  
-- Upstream: A-03 Chain Model  
-- Downstream: A-05 Triage, C-bucket specific recoveries
+- Upstream: [A-03 Chain Model](#a-03)  
+- Downstream: [A-05 Triage](#a-05), [C-01 Micro-Cycle](#c-01), [A-06 Hip-Line Gate](#a-06)
 
 ---
 
 <a id="a-05"></a>
-### A-05 — Early-Denial Triage OS (VN2)
+### A-05 — Early-Denial Triage OS (Priority Order)
 
 **Purpose (plain English)**  
-When overwhelmed, apply a fixed priority order so you stop bleeding into emergencies.
+When you’re behind or confused, apply a fixed priority order so you stop bleeding into emergencies.
 
 **Trigger**  
-- Opponent accelerates passing  
-- You are behind in the exchange  
-- You’re uncertain what to do next
+- You feel behind in the exchange  
+- Passing is accelerating  
+- You can’t decide what to defend first
 
 **Inputs**  
-- Current chain state (even if ambiguous)
+- Active link guess + pin imminence assessment
 
 **Outputs**  
-- A prioritized denial plan
+- A prioritized denial plan (what to address first)
 
-**Priority Order**  
-1) **Distance**  
-2) **Grip**  
-3) **Angle**  
-4) **Level**  
-5) Emergency: **Penetration**  
-6) Emergency: **Pin**
+**Default priority (earlier = cheaper)**  
+1) Distance  
+2) Grip  
+3) Angle  
+4) Level  
+5) Penetration (emergency)  
+6) Pin (emergency)
 
-**Rules**  
-- Solve early links first unless pin is imminent.  
-- If you are in emergency, survive first—then fix upstream cause immediately after.
+**Run it (fast)**  
+1) If pin is imminent → survive first (frames/wedges), then immediately return to upstream links.  
+2) If pin not imminent → solve earliest live link from the list.
+
+**DO / DON’T**  
+- **DO:** After any emergency survival, immediately re-run [A-04](#a-04) to fix upstream cause.  
+- **DON’T:** “Survive then chill.” Survival without upstream repair repeats the emergency.
+
+**Examples**  
+- You’re getting smashed but not pinned yet: active priority is **Distance/Level**—stop collapse early.  
+- You are pinned: do [A-06](#a-06) (ALARM) → [C-06](#c-06) framework → [C-15](#c-15) reinsertion → back to early links.
 
 **Failure signatures**  
-- Living in penetration/pin defense.  
-- “Survive then reset neutral” (no upstream correction).
+- Permanent late defense (always penetration/pin).  
+- You escape but get re-collapsed immediately.
 
 **Metrics**  
 - Early:late denial ratio  
 - Pin events per round  
-- Time-to-return from emergency to early denial
+- Time from emergency → return to early denial
 
 **Links**  
-- Upstream: A-04 Active-Link ID  
-- Downstream: C-bucket state machine + recovery sequencing
+- Upstream: [A-04 Active Link](#a-04)  
+- Downstream: [A-06 Hip-Line Alarm](#a-06), [C-13 Pressure Ladder](#c-13), [C-09 Sequencing](#c-09)
 
----
+Say “next” and I’ll continue with A-06 and A-07 (expanded, including crisp alarm criteria and state transitions), then A-08.
 
 <a id="a-06"></a>
-### A-06 — Hip-Line Alarm Gate OS (VN3/VN4)
+### A-06 — Hip-Line Alarm Gate OS (`STATE: NORMAL` vs `STATE: ALARM`)
 
 **Purpose (plain English)**  
-A binary gate that prevents the #1 error in retention: using mobility solutions when you are already at pin risk.
+A binary gate that prevents the most common retention error: using “mobility solutions” when you are already close to being pinned. It declares which priority stack is legal right now.
 
 **Trigger**  
-- Opponent’s body is entering deep  
-- Knee line collapses and hips are threatened  
-- You feel “one step from being flattened”
+- Any sudden pressure spike  
+- Knee line collapses / hips threatened  
+- You feel “one beat from getting flattened”  
+- Any time you’re unsure whether to move or frame
 
-**Inputs**  
-- Penetration depth cues: hips close, chest entering, knee line opened, pin mechanics forming
+**Reads (alarm criteria — keep it simple)**
+Alarm is **ON** if **any** of these are true:
+- Opponent’s chest/hip line is **past your primary leg barrier** (they’re “in”)  
+- Your **knee line is cleared or stapled** and you cannot reinsert immediately  
+- Opponent can **settle weight** without you being able to re-square  
+- Your frames are being collapsed and **you’re being turned** (pin mechanics forming)
+
+Alarm is **OFF** if:
+- You still have **functional barriers** (legs between you and them) *or*  
+- You can re-square and reinsert legs **without** needing a survival frame first
 
 **Outputs**  
-- State call: **ALARM ON** (structure-first) or **ALARM OFF** (mobility-first)
+- `STATE: ALARM` → structure-first legality (frames/wedges, space budgeting)  
+- `STATE: NORMAL` → mobility-first legality (re-square, reinsertion, step-map denial)
 
-**Procedure**  
-1) Ask: “Is hip-line danger present right now?”  
-2) If YES → structure/wedges first, then legs.  
-3) If NO → re-square/reinsert (mobility first).
+**Run it (fast)**  
+1) Ask: “Am I about to be pinned if I try to move freely?”  
+2) If yes → `ALARM ON` (structure-first).  
+3) If no → `ALARM OFF` (mobility-first).
 
-**Rules**  
-- ALARM ON = no fancy actions; stabilize first.  
-- ALARM OFF = don’t frame too early; stay mobile and re-square.
+**DO / DON’T**  
+- **DO:** Switch states instantly when the gate flips.  
+- **DON’T:** Stay in NORMAL while pin mechanics are forming (guaranteed collapse).  
+- **DON’T:** Stay in ALARM after you’ve regained space (you’ll stall and get run around).
+
+**Examples**  
+- Legs cleared + chest heavy + you can’t re-square → ALARM (frames first).  
+- They’re circling but you still have feet on them and can re-square → NORMAL (mobility first).
 
 **Failure signatures**  
-- You keep pummeling while being pinned.  
-- You frame too early, stall, and get run around.
+- You “pummel legs” while getting flattened.  
+- You “frame forever” against a mobility passer and lose angle.
 
 **Metrics**  
-- % alarms resolved without pin  
-- Pin events arising after missed alarm  
-- Time alarm-on → stable structure established
+- Alarm recognition latency (beats from danger cue → correct state)  
+- % ALARM events resolved without pin  
+- Pins occurring after missed ALARM calls (should trend to zero)
 
 **Links**  
-- Downstream: A-07 State Machine, C-bucket framework activation
+- Upstream: [A-04 Active Link](#a-04), [A-05 Triage](#a-05)  
+- Downstream (ALARM): [C-06 Framework Activation](#c-06), [C-07 Frame Integrity](#c-07), [C-08 Compression Mgmt](#c-08), [C-15 Reinsertion Terminal](#c-15)  
+- Downstream (NORMAL): [C-11 Re-Square](#c-11), [C-10 Continuous Reinsertion](#c-10), [C-12 Mobility Loop](#c-12)
 
 ---
 
 <a id="a-07"></a>
-### A-07 — Retention State Machine OS (NORMAL vs ALARM) (VN3)
+### A-07 — Retention State Machine OS (`STATE: NORMAL` ↔ `STATE: ALARM`)
 
 **Purpose (plain English)**  
-Make retention decisions simple: you are either in a mobility game (NORMAL) or a survival/structure game (ALARM). No mixing priorities.
+Give you two clean playbooks. NORMAL is “re-square and rebuild barriers.” ALARM is “survive compression, create space, then rebuild barriers.” No mixed priorities.
 
 **Trigger**  
-- Any retention exchange under pressure  
-- Immediately after A-06 Hip-Line Gate call
+- Immediately after running [A-06](#a-06)  
+- Any time the exchange changes (space gained/lost, angle changes, pressure changes)
 
 **Inputs**  
-- Hip-line status (alarm on/off)  
-- Space availability (room to move vs compressed)
+- `STATE` from A-06  
+- Space availability (do you have usable space or are you compressed?)
 
 **Outputs**  
-- State selection: **NORMAL** or **ALARM**  
-- Tool priority list for that state
+- A legal priority stack for the next 2–5 seconds  
+- A state transition rule (when to switch)
 
-**State Rules**  
-- **NORMAL (alarm off):** re-square → reinsert legs → restore distance/lanes  
-- **ALARM (alarm on):** frames/wedges → preserve posture/shoulders → create window → reinsert legs
+#### NORMAL Playbook (alarm OFF)
+**Goal:** keep opponent in front, restore barriers, restore connection.
+1) **Re-square** hips/shoulders ([C-11](#c-11))  
+2) **Reinsert legs**/lanes ([C-10](#c-10))  
+3) **Reattach** handles + redundancy ([B-06](#b-06), [B-05](#b-05))  
+4) **Convert** on their repair-step ([D-01](#d-01))
 
-**Procedure**  
-1) Choose state (NORMAL/ALARM).  
-2) Execute the state priority without deviation.  
-3) Re-test hip-line; switch states only when gate changes.
+**DO:** move first, then frame only if needed.  
+**DON’T:** freeze in frames while they circle.
+
+#### ALARM Playbook (alarm ON)
+**Goal:** stop pin completion, create space, then rebuild guard.
+1) **Framework** (wedges/frames) ([C-06](#c-06), [C-07](#c-07))  
+2) **Budget space** (don’t waste openings) ([C-08](#c-08))  
+3) **Sequence recovery** Space→Align→Reinsert→Attach ([C-09](#c-09))  
+4) **Terminal step:** legs back in front ([C-15](#c-15))
+
+**DO:** let frames buy time; spend that time reinserting legs.  
+**DON’T:** push (fatigue), or try “mobility escapes” without structure.
+
+**State transition rules**
+- Switch **NORMAL → ALARM** the moment hip-line risk appears (A-06 flips ON).  
+- Switch **ALARM → NORMAL** as soon as you have usable space + legs can reinsert (don’t remain frame-locked).
 
 **Failure signatures**  
-- Doing a little of everything; accomplishing nothing.  
-- Staying in NORMAL while pin is forming.
+- “Half mobility, half frames” (the classic incoherent defense).  
+- Staying in ALARM after you’ve already escaped compression (stalls you).
 
 **Metrics**  
-- Correct state selection rate  
-- Average time spent in ALARM state (should shrink with skill)  
-- Successful transitions back to NORMAL without reset
+- Time spent in ALARM state (should shrink with skill)  
+- % transitions where you switch within 1 beat of gate change  
+- % defenses ending with legs-in + at least one handle (C-15 + B-06)
 
 **Links**  
-- Upstream: A-06  
-- Downstream: C-bucket mobility vs framework systems
+- Upstream: [A-06 Hip-Line Alarm Gate](#a-06)  
+- Downstream: [C-09 Sequencing](#c-09), [C-12 Mobility Loop](#c-12), [C-13 Pressure Ladder](#c-13)
 
 ---
 
 <a id="a-08"></a>
-### A-08 — Passer Archetype Identification OS (Mobility vs Pressure) (VN4)
+### A-08 — Passer Archetype Identification OS (`ARCHETYPE: MOBILITY` vs `ARCHETYPE: PRESSURE`)
 
 **Purpose (plain English)**  
-Choose the correct defense module by identifying whether the passer wins by circling (mobility) or compressing (pressure).
+Select the correct defense module. Mobility passers win with angle and circling; pressure passers win with collapse, locks, and stabilization. Wrong archetype = wrong tools.
 
 **Trigger**  
-- First 1–2 beats of a pass attempt  
-- Any time opponent changes style mid-exchange
+- First 1–2 beats of any pass attempt  
+- Any time the opponent changes behavior mid-exchange
 
-**Inputs**  
-- Behavior cues:
-  - Mobility: circle, step-around, lateral angle hunting, light contact
-  - Pressure: close hips, clamp/lock, stack, compress, stabilize
+**Reads (simple cues)**
+- `MOBILITY:` circling, lateral steps, “run around,” light contact, fast angle hunting  
+- `PRESSURE:` closing hips/chest, clamping/locking, slowing you, stacking/compressing, stabilizing before progressing
 
 **Outputs**  
-- Archetype call: **MOBILITY** or **PRESSURE**  
-- Correct module selection (mobility loop vs pressure ladder)
+- `ARCHETYPE` call + the correct module priority
 
-**Procedure**  
-1) Classify: MOBILITY or PRESSURE.  
-2) Apply matching priorities:
-   - MOBILITY → feet on them + re-square (deny angle)  
-   - PRESSURE → deny lock early; if late, wedge+move then reinsert legs  
-3) Re-run if the archetype shifts.
+**Run it (fast)**
+1) Classify: Are they trying to **get around** (mobility) or **go through/into** (pressure)?  
+2) Deploy the matching module:
+   - MOBILITY → **front-facing** KPI (feet connection + re-square loop)  
+   - PRESSURE → **deny lock early**; if late, **structure-first ladder**
 
-**Rules**  
-- Wrong module = guaranteed leak.  
-- Switch modules fast when behavior changes (do not “hope” your old module works).
+**DO / DON’T**  
+- **DO:** Re-run archetype after any “style switch” (many passers alternate).  
+- **DON’T:** Use pressure defenses vs mobility (you’ll get run around).  
+- **DON’T:** Use mobility defenses under compression (you’ll get pinned).
 
-**Failure signatures**  
-- Using pressure defenses on mobility passers (get run around).  
-- Using mobility defenses under compression (get pinned).
+**Examples**
+- They circle hard and guide your legs aside → MOBILITY → [B-09](#b-09) + [C-11](#c-11) loop.  
+- They settle chest-to-hip, connect hands, and clamp → PRESSURE → [C-14](#c-14) early denial or [C-13](#c-13) ladder.
 
-**Metrics**  
-- Correct archetype calls  
-- Correct module-switch timing  
-- Reduced pins after pressure misreads
+**Failure signatures**
+- You “frame early” and they simply step around (misread mobility).  
+- You “try to re-square” while being smashed flat (misread pressure).
 
-**Links**  
-- Downstream: C-bucket mobility loop / pressure ladder, D-bucket counter governance
+**Metrics**
+- Correct archetype calls (self-review)  
+- Angle-loss events while in MOBILITY module  
+- Pin events while in PRESSURE module
 
----
+**Links**
+- Downstream (MOBILITY): [B-09 Feet-on-Them](#b-09), [B-10 Asymmetry](#b-10), [C-11 Re-Square](#c-11), [C-12 Mobility Loop](#c-12)  
+- Downstream (PRESSURE): [C-14 Lock Early-Denial](#c-14), [C-13 Pressure Ladder](#c-13), [A-06 Alarm Gate](#a-06)
 
 <a id="a-09"></a>
-### A-09 — Platform Validity Gate OS (X/RDLR/HQ) (VN7)
+### A-09 — Platform Validity Gate OS (X / RDLR / HQ)
 
 **Purpose (plain English)**  
-Prevent “platform hope.” Only enter bridge platforms when they will actually function as control routing tools.
+Prevent “platform hope.” A platform is only valid if it **restricts** and **survives the first defensive beat**. If it doesn’t, you’re just sitting in contact until they peel and reset.
 
 **Trigger**  
-- Considering transition into X-guard / RDLR / HQ
-- Any time you “arrive” in a platform from a scramble
+- You are about to enter a platform (X / RDLR / HQ)  
+- You “land” in a platform from a scramble  
+- You feel unsure if you should commit deeper or back out
 
-**Inputs**  
-- Proof signals: step, post, retreat, weight commitment  
-- Connection quality: can you maintain attachment through first reaction?
+**Reads (validity tests)**
+A platform is **VALID** only if all are true:
+1) **Proof exists:** opponent is in a transition (step/post/turn/repair-step) or weight is committed.  
+2) **Sticky connection:** you can keep *at least one* meaningful connection through their first peel/step-away attempt.  
+3) **Restriction present:** their easiest reset route (step away / peel / backstep) is not immediately free.
+
+Platform is **INVALID** if any are false:
+- no proof (stable base),
+- first peel clears everything,
+- they can step away and you can’t follow with attachment.
 
 **Outputs**  
-- Valid/invalid platform call:
-  - **VALID** → proceed to load/redundancy → route to hub
-  - **INVALID** → return to connection/steering and create proof
+- VALID → permission to commit to platform + install redundancy + route to hub  
+- INVALID → return to connection/steering and create proof first (don’t sink time)
 
-**Procedure**  
-1) Do I have proof (their base is compromised or transitioning)?  
-2) Will my attachment survive their first defensive beat?  
-3) If yes → enter platform and immediately build redundancy.  
-4) If no → do not enter; force proof first.
+**Run it (fast)**
+1) “Do I have proof (transition/commitment)?”  
+2) “Will I keep one connection through defense beat #1?”  
+3) “Does this platform restrict an exit right now?”  
+If any “no” → platform is invalid.
 
-**Rules**  
-- Platform contact is not control unless it survives the first defensive reaction.  
-- Platform is a bridge: platform → force reaction → consolidate → hub. No stalling.
+**DO / DON’T**  
+- **DO:** Treat the first defensive beat as the exam—pass it or abort.  
+- **DON’T:** Stall inside invalid platform contact.
+
+**Examples**
+- You enter as they step/turn and you maintain a hook/connection through the peel → VALID.  
+- You enter on stable base and they peel once and step away → INVALID.
 
 **Failure signatures**  
-- You enter platform on stable base and get peeled instantly.  
-- You “sit” in platform until they reset.
+- “I get to X/RDLR but it never works.” (Usually failing the validity gate.)  
+- Immediate peel → full reset; repeated.
 
 **Metrics**  
-- Invalid platform entries per round  
-- Platform→hub conversion rate  
-- Survival through first peel/clear attempt
+- Platform false-start rate (invalid entries per round)  
+- First-peel survival rate  
+- Platform→consolidation or platform→hub conversion rate
 
 **Links**  
-- Downstream: D-bucket platform integration + anti-exit governance
+- Upstream: [A-01 Context Laws](#a-01), [A-02 Energy Read](#a-02), [B-16 Sticky Connection](#b-16)  
+- Downstream: [D-10 Bridge-Platform Integration](#d-10), [D-16 Second Connection](#d-16), [D-21 Platform-to-Hub Routing](#d-21), [D-23 Anti-Exit](#d-23)
 
 ---
 
 <a id="a-10"></a>
-### A-10 — DLR Entry Validity Gate OS (Proof Before Hook) (VN8)
+### A-10 — DLR Entry Validity Gate OS (Proof Before Hook)
 
 **Purpose (plain English)**  
-DLR is only useful if it restricts. This gate prevents throwing a hook that gets peeled immediately.
+DLR is not “a hook.” It is a control promise. This gate prevents you from throwing a hope-hook that gets peeled instantly and resets the exchange.
 
 **Trigger**  
-- Attempting to establish DLR from open distance  
-- After a reset when you want to re-engage with DLR
+- You are about to establish DLR from open distance  
+- You are re-engaging after a reset  
+- You have “hook access” but are unsure if it will hold
 
-**Inputs**  
-- Proof: step/turn/weight commitment  
-- Ability to maintain outside control through first peel
+**Reads (validity tests)**
+DLR entry is **ALLOWED** only if:
+1) **Proof exists:** opponent is stepping/turning/committed (not stable and ready to disengage).  
+2) **Outside control will exist:** you can create an outside track that blocks easy step-away.  
+3) **Beat #1 survival:** you can keep at least one connection through their first peel/step-away attempt.
+
+DLR entry is **DENIED** if:
+- they can step away cleanly,
+- first peel removes everything,
+- you cannot immediately add a second connection.
 
 **Outputs**  
-- DLR entry allowed vs denied:
-  - **ALLOWED** → hook + second connection + step map forcing  
-  - **DENIED** → create proof / improve attachment first
+- ALLOWED → enter DLR + install redundancy + force step map  
+- DENIED → create proof first (steer to a step/commitment), then re-attempt
 
-**Procedure**  
-1) Is opponent committed (step/weight/turn) or transitioning?  
-2) Can my hook survive their first peel?  
-3) If yes → enter DLR and immediately add redundancy.  
-4) If no → do not hook; force a step/commitment first.
+**Run it (fast)**
+1) “Are they stable or transitioning?” (Need transitioning.)  
+2) “Can I prevent a clean step-away?”  
+3) “Can I survive peel #1?”  
+If any “no” → don’t hook.
 
-**Rules**  
-- If they can step away or peel freely, DLR is not “on.”  
-- Enter on proof; then force step map immediately.
+**DO / DON’T**  
+- **DO:** Enter DLR on motion (step/turn) and immediately add second connection.  
+- **DON’T:** Use DLR as a “pause position” after a reset.
+
+**Examples**
+- They step forward to re-engage and you hook on the step + maintain outside control → ALLOWED.  
+- They’re upright, hips back, ready to disengage, and you hook from far → DENIED.
 
 **Failure signatures**  
-- Hope-hook → immediate peel → full reset.  
-- DLR contact exists but they disengage for free.
+- DLR “turns off” instantly.  
+- You hook, they peel, and you’re back at zero repeatedly.
 
 **Metrics**  
 - DLR false-start rate  
-- Peel survival rate (first defensive beat)  
-- Forced steps/posts per minute from DLR
+- Peel #1 survival rate  
+- Forced steps/posts per minute from DLR (if near zero, DLR isn’t functioning)
 
 **Links**  
-- Downstream: D-bucket DLR outside-control + anti-exit systems
+- Upstream: [A-01b Standing Heels–Toes](#a-01b), [B-16 Sticky Connection](#b-16)  
+- Downstream: [D-15 DLR Outside-Control](#d-15), [D-16 Second Connection](#d-16), [B-08 Step Map](#b-08), [D-23 Anti-Exit](#d-23)
 
 ---
 
 <a id="a-11"></a>
-### A-11 — Clamp Validity Test OS (Closed Guard On/Off) (VN8)
+### A-11 — Clamp Validity Test OS (Closed Guard On/Off)
 
 **Purpose (plain English)**  
-Closed guard is only valuable if it clamps posture/distance. This test prevents “loose closed guard” wasting time and giving stand-ups for free.
+Closed guard is only valuable if it **clamps**: it must restrict posture, distance, and stand-up. Loose closed guard is a time sink that gives clean resets.
 
 **Trigger**  
 - You close guard  
-- You are deciding whether to close guard vs stay open
+- You’re deciding whether to close guard vs stay open  
+- Opponent starts posturing/standing inside your closed guard
 
-**Inputs**  
-- Posture control: can they posture freely?  
-- Stand-up access: can they stand without cost?  
-- Distance control: does clamp prevent separation/reset?
+**Reads (validity tests)**
+Clamp is **ON (valid)** only if at least two are true:
+1) **Posture restriction:** they cannot posture up freely.  
+2) **Stand-up restriction:** they cannot stand without immediate cost.  
+3) **Distance restriction:** they cannot open and back out cleanly.
+
+Clamp is **OFF (invalid)** if:
+- they posture at will,
+- they stand with no consequence,
+- they open and disengage cleanly.
 
 **Outputs**  
-- Clamp state:
-  - **ON (valid clamp):** posture/distance restricted
-  - **OFF (invalid clamp):** posture/stand is free → reconfigure or exit to open guard
+- Clamp ON → permission to run closed-guard offense/governance  
+- Clamp OFF → immediate correction: rebuild clamp mechanics or exit back to open systems
 
-**Procedure**  
-1) Can they posture up cleanly?  
-2) Can they stand without immediate cost?  
-3) Can they open/peel without being forced to react?  
-If any are “yes” → clamp is OFF.
+**Run it (fast)**
+1) “Can they posture up freely?”  
+2) “Can they stand freely?”  
+3) “Can they open and disengage freely?”  
+If two or more answers are “yes” → clamp is OFF.
 
-**Rules**  
-- If clamp is OFF, do not “hang on.” Rebuild control or return to open-guard connection engines.  
-- Closed guard is a governed option, not a default reset.
+**DO / DON’T**  
+- **DO:** Treat clamp OFF as a trigger to transition—don’t “hang on.”  
+- **DON’T:** Assume closed guard is automatically control.
+
+**Examples**
+- They stand and your guard opens with no penalty → clamp was OFF; you should have transitioned earlier.  
+- They cannot posture without being pulled back down and cannot stand cleanly → clamp ON.
 
 **Failure signatures**  
-- You close guard as a pause; they stand and open cleanly.  
-- You attack while clamp is loose and get posture-broken.
+- Closed guard becomes a “rest” that opponent uses to stand/open/reset.  
+- You attack while posture is free and get immediately neutralized.
 
 **Metrics**  
-- Clamp validity rate (how often closed guard is actually restrictive)  
-- Clean stand-ups allowed per round  
-- Time-to-correct after clamp goes OFF
+- Clean stand-ups allowed from your closed guard  
+- Clamp validity rate (how often closed guard actually restricts)  
+- Time clamp OFF → you transition (should be quick)
 
 **Links**  
-- Downstream: D-bucket closed-guard governance + anti-exit follow rules
-
-
-- [Bucket B — Control Engines](#bucket-b--control-engines)
-  - [B-01 Connection-First OS](#b-01)
-  - [B-02 Handle Quality System](#b-02)
-  - [B-03 Reaction-Driven Grip System](#b-03)
-  - [B-04 Directional Job Assignment System](#b-04)
-  - [B-05 Four-Limb Redundancy System](#b-05)
-  - [B-06 Re-Attachment Tempo System](#b-06)
-  - [B-07 Grip Loss Normalization System](#b-07)
-  - [B-08 Steering-to-Step Map System](#b-08)
-  - [B-09 First Contact Wins (Feet-on-Them) OS](#b-09)
-  - [B-10 Asymmetry Creation OS](#b-10)
-  - [B-11 Constant Threat Belief OS](#b-11)
-  - [B-12 Leg Target Selection OS](#b-12)
-  - [B-13 Threat Permanence Design OS](#b-13)
-  - [B-14 Foot/Ankle Line Control OS](#b-14)
-  - [B-15 Hips-Connected Attachment OS](#b-15)
-  - [B-16 Sticky Connection Non-Negotiable OS](#b-16)
-
----
+- Upstream: [A-01 Context Laws](#a-01)  
+- Downstream: [D-27 Stabilize-Then-Finish Governance](#d-27), [D-23 Anti-Exit](#d-23), [B-06 Re-Attach Tempo](#b-06)
 
 ## Bucket B — Control Engines
 
 <a id="b-01"></a>
-### B-01 — Connection-First OS (VN1)
+### B-01 — Connection-First OS
 
 **Purpose (plain English)**  
-Establish initiative by attaching before moving. This prevents wasted movement and distance resets.
+You don’t control what you’re not attached to. This OS makes “attachment before movement” your default so the opponent can’t reset distance for free.
 
 **Trigger**  
 - Start of engagement  
-- Any break/reset in contact  
-- Any time you are about to “go” but connection is uncertain
+- Any time contact breaks  
+- Any time you’re about to initiate a big movement/entry  
+- After any strip/peel event
 
-**Inputs**  
-- Current attachment quality (none / weak / durable)
+**Reads (what matters)**  
+- Do you have **a handle** that (a) survives a step and (b) allows steering?
 
 **Outputs**  
-- A durable connection that survives at least one opponent step  
-- Permission to proceed into steering and proof creation
+- A **durable connection** that survives at least one opponent step  
+- Permission to run steering, proof creation, and conversion
 
-**Procedure**  
-1) Attach to something meaningful (not fingertips / not cosmetic contact).  
-2) Immediately test: “Does this survive one step?”  
-3) If it fails, re-attach (do not chase with movement).
+**Run it (fast)**  
+1) Attach to something meaningful (not fingertips, not cosmetic touch).  
+2) Test immediately: “If they step once, do I still have control?”  
+3) If no → replace (do not move big without a handle).
 
-**Rules**  
-- No committed movement without a handle.  
-- If connection breaks, restart the OS immediately.
+**DO / DON’T**  
+- **DO:** Treat connection as the steering wheel, not a bonus.  
+- **DON’T:** Move first and hope to grab later (that creates resets).
+
+**Examples**  
+- You reach for an entry from distance with no durable attachment → they step away → you’re chasing. Connection-first prevents that.  
+- You get stripped → instead of pausing, you immediately rebuild one handle, then two.
 
 **Failure signatures**  
-- You move first; opponent steps away; you lose contact and initiative.  
-- Repeated long-range resets after one strip.
+- “I keep ending up at long range.” (Movement without connection.)  
+- You enter but get peeled instantly (connection wasn’t durable).
 
 **Metrics**  
-- Time-to-first durable connection  
-- % connections surviving one step
+- Time-to-first durable connection from reset  
+- % exchanges where connection survives the first opponent step
 
 **Links**  
-- Downstream: B-02 handle quality, B-05 redundancy, B-08 step map
+- Upstream: [A-01 Context Laws](#a-01), [A-02 Energy Read](#a-02)  
+- Downstream: [B-02 Handle Quality](#b-02), [B-05 Redundancy](#b-05), [B-06 Re-Attach Tempo](#b-06)
 
 ---
 
 <a id="b-02"></a>
-### B-02 — Handle Quality System (2-of-3 Rubric) (VN1)
+### B-02 — Handle Quality System (2-of-3 Rubric)
 
 **Purpose (plain English)**  
-Stop “collecting grips.” Rapidly decide if an attachment is worth building around.
+Stop “collecting grips.” Decide if a handle is worth building around in 1–2 beats.
 
 **Trigger**  
-- Any time you obtain a grip/attachment opportunity  
-- Any time you feel you are holding but not progressing
+- The moment you establish any grip/attachment  
+- Any time you feel you’re holding but nothing is changing
 
-**Inputs**  
-- A candidate handle (hand or leg attachment)
+**Reads (the rubric — score 0/1 each)**  
+1) **Survivability:** survives one opponent step/peel attempt  
+2) **Reactivity:** forces a reaction (step/post/posture change) within 1–2 beats  
+3) **Continuity:** directly connects to your next action (proof/entry/upgrade/reattach)
 
 **Outputs**  
-- Pass/fail decision: **KEEP + BUILD** vs **REPLACE/UPGRADE**
+- **KEEP + BUILD** (≥2/3) or **REPLACE/UPGRADE** (≤1/3)
 
-**2-of-3 Rubric (score 0/1 each)**  
-1) **Survivability:** survives one opponent step  
-2) **Reactivity:** forces step/post/posture change within 1–2 beats  
-3) **Continuity:** leads directly to a next action (proof, entry, or re-attach path)
+**Run it (fast)**  
+1) Score the handle instantly.  
+2) If ≥2/3 → treat as primary; install second connection.  
+3) If ≤1/3 → treat as temporary; replace immediately.
 
-**Procedure**  
-1) Score the handle.  
-2) ≥2/3 → treat as primary, build redundancy.  
-3) ≤1/3 → treat as temporary, replace immediately.
+**DO / DON’T**  
+- **DO:** Replace weak handles fast; tempo beats strength.  
+- **DON’T:** Fight to keep a 1/3 handle; it’s a time sink.
 
-**Rules**  
-- If it doesn’t change their behavior, it’s not a handle (it’s a hold).  
-- Replacement speed matters more than strength.
+**Examples**  
+- A grip feels strong but doesn’t change their posture and breaks on a step → 1/3 → replace.  
+- A leg line control that survives a step and immediately forces a post → 2/3+ → build around it.
 
 **Failure signatures**  
-- You keep grips that don’t steer anything.  
-- Static tug-of-war with no step/post.
+- Static tug-of-war with no steps/posts.  
+- You keep “strong” grips that don’t create proof windows.
 
 **Metrics**  
 - % handles scoring ≥2/3  
-- Replacement time for failed handles
+- Replacement latency for failed handles (beats)
 
 **Links**  
-- Upstream: B-01  
-- Downstream: B-05 redundancy, B-06 tempo, B-08 step map
+- Upstream: [B-01 Connection-First](#b-01)  
+- Downstream: [B-04 Directional Job](#b-04), [B-03 Reaction-Driven Grip](#b-03), [B-05 Redundancy](#b-05)
 
 ---
 
 <a id="b-03"></a>
-### B-03 — Reaction-Driven Grip System (VN1)
+### B-03 — Reaction-Driven Grip System (Force Step / Post / Posture)
 
 **Purpose (plain English)**  
-Convert grips into progress by forcing a predictable reaction.
+Control is measured by *reactions you force*, not grips you hold. This OS turns handles into proof windows.
 
 **Trigger**  
-- Immediately after establishing any handle
+- Immediately after any handle becomes “keepable” (B-02 ≥2/3)  
+- Any time opponent is stable and you need to create proof
 
-**Inputs**  
-- Current handle + opponent stance/posture
+**Reads (what matters)**  
+- What reaction is most available right now:
+  - **Step** (base correction)
+  - **Post** (hands-down)
+  - **Posture change** (head/shoulder line displaced)
 
 **Outputs**  
-- One forced reaction:
-  - **Step** (base changes)
-  - **Post** (hands-down)
-  - **Posture change** (head/shoulders displaced)
+- A forced reaction within 1–2 beats  
+- A short conversion window (repair-step window)
 
-**Procedure**  
-1) Assign the reaction you intend to force.  
-2) Apply steering until reaction occurs (within 1–2 beats).  
-3) Convert immediately during the reaction window (upgrade, entry, or consolidation).
+**Run it (fast)**  
+1) Pick the reaction you are forcing (step / post / posture).  
+2) Apply directional pressure until it happens (1–2 beats).  
+3) Convert immediately during the reaction window ([D-02](#d-02), [D-01](#d-01)).
 
-**Rules**  
-- If no reaction is produced quickly, the handle is failing → replace/upgrade.  
-- Reaction without conversion is wasted advantage.
+**DO / DON’T**  
+- **DO:** Convert during their reaction, not after it.  
+- **DON’T:** Accept “stable opponent + I have grips” as progress.
+
+**Examples**  
+- You pull posture → they post → that post is your permission slip to enter/upgrade.  
+- You steer base → they step to repair → you attack during the step, not after they plant.
 
 **Failure signatures**  
-- Grips exist; opponent stays stable.  
-- You force a reaction then pause; opponent repair-steps cleanly.
+- You force reactions but gain nothing (conversion latency).  
+- You hold grips and opponent remains stable and confident.
 
 **Metrics**  
 - Reaction rate within 1–2 beats  
-- Time reaction → next action
+- Reaction→conversion time (beats)  
+- % reactions that produce tangible progress (entry/control)
 
 **Links**  
-- Downstream: B-08 step map; D-bucket conversion timing systems
+- Upstream: [B-02 Handle Quality](#b-02), [A-02 Energy Read](#a-02)  
+- Downstream: [D-01 Repair-Step Window](#d-01), [D-02 Reaction Window Conversion](#d-02), [B-08 Step Map](#b-08)
 
 ---
 
 <a id="b-04"></a>
-### B-04 — Directional Job Assignment System (VN1)
+### B-04 — Directional Job Assignment System (Every Handle Has One Job)
 
 **Purpose (plain English)**  
-Make every grip purposeful by giving it one clear directional job.
+A handle without a job is just a hold. This OS forces you to assign a single directional task to every attachment so steering becomes automatic.
 
 **Trigger**  
-- The moment you take any grip/attachment
+- The moment you take a grip/attach to a leg/hip/arm  
+- Any time you feel “I’m connected but not sure what to do”
 
-**Inputs**  
-- Candidate handle and available steering directions
+**Reads (what matters)**  
+- Which direction will most reliably force a step/post/posture shift *right now* given their stance and `ENERGY`?
 
 **Outputs**  
-- One declared job + a measurable target reaction
+- One declared job + the reaction you are hunting
 
-**Job Options (choose one primary)**  
-- Pull posture (break head/shoulder line)  
-- Push posture (force upright/tilt)  
-- Turn shoulders (create rotation)  
-- Force step (change foot placement)  
-- Force post (hands-down)
+**Job menu (choose ONE primary)**  
+- **Break posture** (pull head/shoulders out of line)  
+- **Turn shoulders** (create rotation)  
+- **Force step** (make base move)  
+- **Force post** (hands-down)  
+- **Block retreat** (deny WITHDRAW reset)
 
-**Procedure**  
-1) Name the job in one sentence.  
-2) Execute until you see the reaction.  
-3) If you can’t name the job, replace the grip.
+**Run it (fast)**  
+1) Name the job in one sentence (“This handle is to force a step.”).  
+2) Execute until reaction occurs or the handle fails the 2-of-3 test.  
+3) If reaction doesn’t appear quickly, upgrade/replace the handle.
 
-**Rules**  
-- One grip = one primary job (avoid vague “control”).  
-- Job must be measurable (step/post/posture shift).
+**DO / DON’T**  
+- **DO:** Keep the job measurable (step/post/posture shift).  
+- **DON’T:** Say “control” without direction (that’s how you stall).
+
+**Examples**  
+- Opponent is WITHDRAW-ing: job becomes “block retreat + reattach,” not “pull harder.”  
+- Opponent is DRIVE-ing: job becomes “force post/step” then convert on repair-step.
 
 **Failure signatures**  
-- Grip accumulation without steering.  
-- “I’m holding them” but nothing changes.
+- You accumulate grips but nothing changes.  
+- You switch directions randomly with no forced reactions.
 
 **Metrics**  
-- % grips with stated job  
-- Job success rate within 1–2 beats
+- % handles with explicitly stated job  
+- Job success rate (reaction achieved within 1–2 beats)
 
 **Links**  
-- Upstream: B-02  
-- Downstream: B-03 reaction forcing, B-08 step map
-
----
+- Upstream: [B-02 Handle Quality](#b-02), [A-02 Energy Read](#a-02)  
+- Downstream: [B-03 Reaction-Driven Grip](#b-03), [B-08 Step Map](#b-08), [D-01 Repair-Step](#d-01)
 
 <a id="b-05"></a>
-### B-05 — Four-Limb Redundancy System (VN1)
+### B-05 — Four-Limb Redundancy System (Two Points Minimum)
 
 **Purpose (plain English)**  
-Make control survive stripping by building multi-point attachment.
+Single-point control collapses on one peel. Redundancy makes control survive stripping long enough to convert.
 
 **Trigger**  
-- Immediately after initial contact is established (hand or leg)
+- Immediately after establishing any primary handle  
+- Any time you notice you’re “one peel away from nothing”
 
-**Inputs**  
-- Single attachment point (fragile)
+**Reads**  
+- Connection count: 1 point vs 2+ points  
+- Opponent’s peel/strip readiness (hands active, step-away pattern)
 
 **Outputs**  
-- Redundant structure (≥2 points) that remains functional if one is peeled
+- ≥2 connection points that remain functional if one is stripped
 
-**Procedure**  
+**Run it (fast)**  
 1) Establish first handle.  
-2) Add a second connection immediately (hand+leg or leg+leg or two-point control).  
-3) Only then commit to larger actions.
+2) Install second connection within 1–2 beats.  
+3) Only then commit to deeper actions.
 
-**Rules**  
-- Single-point control is temporary; treat it as incomplete.  
-- Redundancy must preserve connection long enough to re-attach if stripped.
+**DO / DON’T**  
+- **DO:** Treat “two points” as the price of stability.  
+- **DON’T:** Start finishing/entering from single-point contact.
 
 **Failure signatures**  
-- One peel collapses everything.  
-- You reset long-range after minor grip fights.
+- First peel clears everything.  
+- You keep “almost had it” grips that never stabilize.
 
 **Metrics**  
-- Time-to-two-point connection  
-- % exchanges where contact persists after a strip attempt
+- Time to second connection after first contact  
+- First-peel survival rate
 
 **Links**  
-- Downstream: B-06 tempo, C-bucket retention stability, D-bucket consolidation
+- Upstream: [B-02](#b-02), [B-01](#b-01)  
+- Downstream: [D-16](#d-16), [B-06](#b-06)
 
 ---
 
 <a id="b-06"></a>
-### B-06 — Re-Attachment Tempo System (VN1)
+### B-06 — Re-Attachment Tempo System (Replace in 1 Beat)
 
 **Purpose (plain English)**  
-Win no-gi exchanges by replacement speed. You don’t need permanent grips; you need fast re-grips.
+Grip loss is normal. The failure is the pause after loss. This OS enforces immediate replacement.
 
 **Trigger**  
-- Any time a grip/attachment is stripped or connection breaks
+- Any strip/peel/break in contact  
+- Any time you feel a “dead beat” after losing a handle
 
-**Inputs**  
-- Strip event + remaining connection (if any)
+**Reads**  
+- What got stripped + what remains connected (if anything)
 
 **Outputs**  
 - Immediate replacement handle + rebuild to redundancy
 
-**Procedure**  
+**Run it (fast)**  
 1) Strip happens → replace within 1 beat.  
-2) Replace → upgrade to two points (redundancy).  
-3) Resume steering to force reaction.
+2) Rebuild second connection (B-05).  
+3) Resume forcing reactions (B-03).
 
-**Rules**  
-- Grip loss is normal. Hesitation after loss is failure.  
-- Replacement must be automatic (no mental reset).
+**DO / DON’T**  
+- **DO:** Replace first, think second.  
+- **DON’T:** Chase without attachment.
 
 **Failure signatures**  
-- Dead beat after strip → opponent builds distance/grip/angle.  
-- Chasing without re-attaching.
+- Reset to long range after every peel.  
+- You arrive late after WITHDRAW.
 
 **Metrics**  
 - Strip → replacement time  
-- Dead-beat count after strips (target: zero)  
-- % reps where redundancy rebuilt within 2 beats
+- Dead-beat count per round
 
 **Links**  
-- Upstream: B-05  
-- Downstream: C-bucket retention loops; D-bucket conversion windows
+- Upstream: [B-05](#b-05)  
+- Downstream: [D-23](#d-23), [B-07](#b-07)
 
 ---
 
 <a id="b-07"></a>
-### B-07 — Grip Loss Normalization System (VN1)
+### B-07 — Grip Loss Normalization OS (No Emotional Reset)
 
 **Purpose (plain English)**  
-Remove psychological reset. Treat grip loss as information and continue running the system.
+Prevents mental reset. Grip loss becomes a predictable beat in your loop: lose → replace → rebuild → steer.
 
 **Trigger**  
-- Any grip break/strip event
+- Any time you lose a grip and feel “reset mode”
 
-**Inputs**  
-- What was stripped + what remains connected
+**Reads**  
+- Whether you still have one connection (yes/no)
 
 **Outputs**  
-- Immediate replacement plus restored direction/steering
+- Immediate continuation of the control loop
 
-**Procedure**  
-1) Label it as normal.  
-2) Replace → rebuild redundancy → resume directional job.  
-3) Re-enter reaction forcing.
+**Run it (fast)**  
+1) Label strip as normal.  
+2) Replace (B-06).  
+3) Add second connection (B-05).  
+4) Force reaction again (B-03).
 
-**Rules**  
-- No emotional pause; loss is expected in no-gi.  
-- “Replace then steer” is the default.
+**DO / DON’T**  
+- **DO:** Run the loop automatically.  
+- **DON’T:** Stop and re-plan after every peel.
 
 **Failure signatures**  
-- You pause and “rethink life” after every peel.  
-- Your tempo collapses after the first strip.
+- Tempo collapse after first strip.  
+- You lose initiative and become reactive.
 
 **Metrics**  
-- Dead beats after strip  
+- Dead-beat count after strips  
 - Replacement consistency under fatigue
 
 **Links**  
-- Reinforces: B-06 tempo
+- Reinforces: [B-06](#b-06) and [B-05](#b-05)
 
 ---
 
 <a id="b-08"></a>
-### B-08 — Steering-to-Step Map System (VN1)
+### B-08 — Steering-to-Step Map System (Constrain Foot Options)
 
 **Purpose (plain English)**  
-Create predictability by narrowing the opponent’s foot options. If you control where they can step, you control timing and entries.
+If they can step anywhere, you don’t control base. This system narrows their step options so reactions become predictable and exploitable.
 
 **Trigger**  
-- Once a functional handle exists and opponent is mobile
+- You have a durable handle but opponent remains mobile  
+- Opponent is circling/stepping to reset
 
-**Inputs**  
-- Handles + opponent stance/footwork freedom
+**Reads**  
+- Which steps are currently available to them (free vs constrained)  
+- Whether your handle direction actually moves their base
 
 **Outputs**  
-- Constrained step set (“step map”) that produces proof windows
+- A constrained “step map” that yields forced steps/posts (proof windows)
 
-**Procedure**  
-1) Use handle direction to force weight commitment or stance change.  
-2) Observe where the next step must go.  
-3) Convert when the forced step occurs (intercept, enter, or consolidate).
+**Run it (fast)**  
+1) Use directional handles to force weight commitment.  
+2) Observe their forced step direction.  
+3) Convert on the step (repair-step window).
 
-**Rules**  
-- If they can step anywhere freely, you don’t control base yet—return to handle building.  
-- Step map must be created by steering, not chasing.
+**DO / DON’T**  
+- **DO:** Create predictability; then intercept.  
+- **DON’T:** Chase free footwork.
 
 **Failure signatures**  
-- Opponent steps freely; you chase and burn energy.  
-- You never generate predictable reactions.
+- Endless circling; you burn energy.  
+- You never get proof (no forced steps/posts).
 
 **Metrics**  
-- Time-to-forced-step  
-- Forced steps/posts per minute
+- Forced steps/posts per minute  
+- Conversion rate on forced step windows
 
 **Links**  
-- Downstream: D-bucket entry timing, proof-gated transitions
-
----
+- Upstream: [B-03](#b-03), [B-04](#b-04)  
+- Downstream: [D-01](#d-01), [D-11](#d-11), [C-11](#c-11)
 
 <a id="b-09"></a>
-### B-09 — First Contact Wins (Feet-on-Them) OS (VN4)
+### B-09 — First Contact Wins OS (Feet-on-Them Interface)
 
 **Purpose (plain English)**  
-In mobility exchanges, feet connection is the steering interface. If your feet are not meaningfully connected, the passer can guide your legs aside for free.
+Against mobile passing, feet contact is your steering interface. If feet aren’t meaningfully connected, the passer guides your legs aside and wins angle for free.
 
 **Trigger**  
-- Mobility passer begins circling  
-- Your legs are being guided/stapled aside
+- `ARCHETYPE: MOBILITY` (circling/run-around)  
+- Any time your legs are being pushed/stapled aside without resistance
 
-**Inputs**  
-- Current foot connection (on/off) and angle threat
+**Reads**  
+- Feet connection status: ON (meaningful contact) vs OFF (floating)  
+- Angle drift starting (opponent moving off-center)
 
 **Outputs**  
-- Active foot contact that blocks free steering and supports re-square
+- Active feet-on-them contact that blocks free steering and supports re-square
 
-**Procedure**  
+**Run it (fast)**  
 1) Establish meaningful foot contact early.  
-2) Maintain contact through the first circle attempt.  
-3) Use contact to re-square and deny angle.
+2) Keep it through their first circle attempt.  
+3) Use it to re-square and reinsert lanes.
 
-**Rules**  
-- No feet-on-them = you are not playing guard, you are reacting.  
-- Feet contact must survive the first steering attempt.
+**DO / DON’T**  
+- **DO:** Treat feet contact as non-negotiable vs mobility.  
+- **DON’T:** Hand-fight while your feet are disconnected.
 
 **Failure signatures**  
-- They push legs aside for free and win angle instantly.  
-- You chase with hands while hips lag.
+- “They just push my legs aside and go.”  
+- You chase with hands; hips lag; angle accumulates.
 
 **Metrics**  
-- Time-to-foot-connection from reset  
+- Time from reset → feet contact ON  
 - “Free leg push” events allowed per round
 
 **Links**  
-- Downstream: C-bucket mobility loop; A-08 archetype module
+- Upstream: [A-08](#a-08)  
+- Downstream: [C-11](#c-11), [C-12](#c-12), [B-10](#b-10)
 
 ---
 
 <a id="b-10"></a>
-### B-10 — Asymmetry Creation OS (Anti-Staple / Anti-Scoop) (VN4)
+### B-10 — Asymmetry Creation OS (Don’t Let Both Legs Be Solved)
 
 **Purpose (plain English)**  
-Symmetrical legs are easy to staple/clear. Asymmetry makes the passer solve one side at a time, slowing their chain.
+Symmetrical legs are easy to staple/clear together. Asymmetry forces the passer to solve one side at a time, slowing the pass chain.
 
 **Trigger**  
-- Passer starts stapling/scooping/steering both legs together  
-- Your legs drift into mirror symmetry
+- Opponent starts stapling/scooping/steering both legs together  
+- You notice both legs drifting into the same height/line
 
-**Inputs**  
-- Leg structure symmetry (high/low, inside/outside lane)
+**Reads**  
+- Symmetry: both legs same line/height and easily bundled  
+- Lane status: do you still have at least one active lane?
 
 **Outputs**  
-- Staggered leg structure that preserves at least one active lane
+- Staggered leg structure that preserves at least one active lane + supports re-square
 
-**Procedure**  
-1) Identify symmetry (both legs same height/line).  
-2) Create stagger: one active hook, one ready to pummel/re-square.  
-3) Maintain stagger through their first clear attempt.
+**Run it (fast)**  
+1) Detect symmetry (both legs “together”).  
+2) Stagger: one leg becomes active barrier/hook, the other becomes pummel/reinsert leg.  
+3) Maintain stagger through the first clear attempt.
 
-**Rules**  
-- Do not allow both legs to be “solved” simultaneously.  
-- Asymmetry must support re-square, not just “look different.”
+**DO / DON’T**  
+- **DO:** Keep one leg “live” at all times.  
+- **DON’T:** Allow both legs to be stapled simultaneously.
 
 **Failure signatures**  
 - Both legs stapled → knee line collapses → penetration risk.  
 - You lose both lanes at once.
 
 **Metrics**  
-- Staple success rate against you  
-- Time legs remain “double-controlled”
+- Time spent in “double-controlled legs” state  
+- Staple success rate against you
 
 **Links**  
-- Supports: B-09 feet-on-them, C-bucket reinsertion systems
+- Upstream: [B-09](#b-09)  
+- Downstream: [C-10](#c-10), [C-11](#c-11)
 
 ---
 
 <a id="b-11"></a>
-### B-11 — Constant Threat Belief OS (VN5)
+### B-11 — Constant Threat Belief OS (Make Them Behave Differently)
 
 **Purpose (plain English)**  
-Make the opponent behave differently by believing you are always dangerous. Threat changes their tempo and reduces their passing commitment.
+A credible always-on threat changes opponent behavior: they hesitate, reduce commitment, allocate hands to defense, and move more predictably—making your control easier.
 
 **Trigger**  
-- Opponent passes aggressively with no hesitation  
-- You want to slow their entries and force defensive allocation
+- Opponent passes with full confidence and constant pressure  
+- You need to slow entries and create reaction windows
 
-**Inputs**  
-- Opponent commitment level (steps/entries), willingness to disengage
+**Reads**  
+- Do they hesitate at all?  
+- Do they allocate hands/attention to defense?
 
 **Outputs**  
-- Opponent hesitation and caution (slower entries, more defensive posture)
+- Reduced passing commitment + more predictable steps + easier attachment
 
-**Procedure**  
-1) Present a threat that persists across posture changes (not easily switched off).  
+**Run it (fast)**  
+1) Establish a threat that persists across posture changes (standing/kneeling).  
 2) Re-assert it repeatedly until they respect it.  
-3) Convert hesitation into connection and proof.
+3) Use hesitation to attach and force proof.
 
-**Rules**  
-- Threat must be “always on,” not conditional on perfect posture.  
-- If threat can be turned off by standing up, it’s not a system threat.
+**DO / DON’T**  
+- **DO:** Choose threats that can’t be turned off by simple posture change.  
+- **DON’T:** Rely on conditional threats that disappear when they stand/posture.
 
 **Failure signatures**  
-- Opponent never hesitates; you stay in permanent defense.  
-- Threat disappears when they posture/stand.
+- Opponent never hesitates; you’re stuck reacting forever.  
+- Your offense “turns off” when they posture.
 
 **Metrics**  
-- Opponent entries per minute decreases after threat installation  
+- Opponent entry attempts per minute (should decrease)  
 - Time from hesitation cue → your attachment/entry
 
 **Links**  
-- Downstream: VN5 standing engagement systems; D-bucket outside-range conversion
+- Downstream: [B-12](#b-12), [D-04](#d-04), [D-23](#d-23)
 
 ---
 
 <a id="b-12"></a>
-### B-12 — Leg Target Selection OS (Posture-Proof Targeting) (VN5)
+### B-12 — Leg Target Selection OS (Posture-Proof Targeting)
 
 **Purpose (plain English)**  
-Choose a target the opponent cannot hide with posture. Legs are the most posture-proof target class.
+Choose targets that remain available even when the opponent postures or changes stance. Legs are the most posture-proof target class.
 
 **Trigger**  
-- Designing your primary threat focus  
-- Opponent uses posture changes to turn your offense off
+- Your offense disappears when opponent postures/stands  
+- You’re choosing your “primary threat object” for open guard
 
-**Inputs**  
-- Opponent posture toggles (standing/kneeling/head height) and your access persistence
+**Reads**  
+- What posture change turns your threat off?  
+- Are legs still accessible across those changes?
 
 **Outputs**  
-- Target selection: legs as default “always available” object
+- Target selection: legs as default persistent threat object + a mandate to maintain access
 
-**Procedure**  
-1) Ask: “Can they turn my threat off by posture/stance change?”  
-2) If yes, redesign toward leg-target permanence.  
-3) Build your connection/entries around the chosen target class.
+**Run it (fast)**  
+1) Identify your current threat’s “off switch.”  
+2) If posture/standing kills it, shift primary focus to leg access + distance breaking.  
+3) Build your control and conversion around that persistence.
 
-**Rules**  
-- Threat must persist across contexts, or it cannot govern tempo.  
-- If legs are unavailable, you must create access—do not abandon the threat model.
+**DO / DON’T**  
+- **DO:** Design threats that stay live across stance toggles.  
+- **DON’T:** Accept a threat model that opponent can disable with one easy choice.
 
 **Failure signatures**  
-- Your attacks only work when opponent cooperates with posture.  
-- Opponent stands and your system turns off.
+- You only threaten when opponent cooperates with posture.  
+- Opponent stands and you reset mentally.
 
 **Metrics**  
 - Threat persistence across stance changes  
-- % exchanges where a leg threat is live within first 5 seconds
+- % engagements where a leg threat is live within first 5 seconds
 
 **Links**  
-- Supports: B-13 threat permanence; D-bucket ankle/distance breaker entries
-
----
+- Downstream: [B-13](#b-13), [D-03](#d-03), [D-04](#d-04)
 
 <a id="b-13"></a>
-### B-13 — Threat Permanence Design OS (Cannot Be Switched Off) (VN5)
+### B-13 — Threat Permanence Design OS (Cannot Be Switched Off)
 
 **Purpose (plain English)**  
-Ensure your main threat remains live even when the opponent changes posture, stance, or range.
+Ensure your main threat stays live even when the opponent changes posture, stance, or range. If the opponent can disable your threat with one easy toggle, you don’t govern tempo.
 
 **Trigger**  
-- Any time your offense disappears after they posture/step away
+- Your offense disappears after posture/stance change  
+- Opponent repeatedly chooses the same “safe toggle” to turn you off
 
-**Inputs**  
-- What posture change turns your threat off
+**Reads**  
+- What specific opponent behavior turns your threat off? (stand, hips-back, retreat, angle)  
+- Do you have a connector that re-establishes threat under that condition?
 
 **Outputs**  
-- A redesigned threat layer that survives common defensive toggles
+- A redesigned threat layer that remains live across common toggles
 
-**Procedure**  
-1) Identify the “off switch” (what change kills your threat).  
-2) Add a connector/entry that re-establishes threat under that condition.  
-3) Re-test: threat should remain live after the toggle.
+**Run it (fast)**  
+1) Identify the “off switch” (the easiest opponent toggle that kills your threat).  
+2) Install a connector that makes that toggle costly (reattach + force step map).  
+3) Re-test: opponent toggles → threat remains live within 1–2 beats.
 
-**Rules**  
-- A threat that requires perfect conditions is not a governing threat.  
-- Design around the opponent’s easiest defensive choice.
+**DO / DON’T**  
+- **DO:** Build around the opponent’s easiest defense, not your preferred scenario.  
+- **DON’T:** Keep a threat model that only works when opponent stays kneeling/close.
 
 **Failure signatures**  
-- Threat is conditional; opponent consistently chooses the condition that turns it off.  
-- You chase engagement rather than forcing it.
+- Same reset pattern keeps occurring.  
+- You chase engagement instead of forcing it.
 
 **Metrics**  
-- % posture toggles where threat remains live  
-- Time from toggle → threat re-established
+- Time from opponent toggle → threat re-established  
+- % toggles where threat remains live
 
 **Links**  
-- Downstream: D-bucket outside-range conversion, platform entry gates
+- Upstream: [B-11](#b-11), [B-12](#b-12)  
+- Downstream: [D-04](#d-04), [D-23](#d-23), [B-08](#b-08)
 
 ---
 
 <a id="b-14"></a>
-### B-14 — Foot/Ankle Line Control OS (VN5)
+### B-14 — Foot/Ankle Line Control OS (Control vs Touch)
 
 **Purpose (plain English)**  
-Prevent “touch-and-lose.” Control the foot/ankle line so the opponent cannot retract or clear with one step.
+Prevent “touch-and-lose.” Line control means the leg attachment survives a step and denies easy retraction.
 
 **Trigger**  
-- Any time you capture/attack a leg  
-- Any time the opponent is retracting or peeling your leg connection
+- Any time you capture a foot/ankle  
+- Opponent immediately retracts/steps to clear
 
-**Inputs**  
-- Quality of foot/ankle line capture + opponent step/retraction attempts
+**Reads**  
+- Does your hold survive one full opponent step?  
+- Can they retract the foot line cleanly?
 
 **Outputs**  
-- Leg connection that survives at least one full defensive step
+- A leg handle that survives defensive beat #1 and can force a reaction
 
-**Procedure**  
-1) Secure the ankle/foot line (not just “touch”).  
-2) Maintain alignment + connection through their first step/turn.  
-3) If it slips, immediately reattach (tempo) and rebuild redundancy.
+**Run it (fast)**  
+1) Secure the ankle/foot line (not just contact).  
+2) Maintain alignment through their first step/turn.  
+3) If it slips, treat as failure → replace immediately (tempo).
 
-**Rules**  
-- If it doesn’t survive one step, it’s not control.  
-- Do not upgrade to bigger actions until line control is stable.
+**DO / DON’T**  
+- **DO:** Grade success by “survived one step,” not by “I touched it.”  
+- **DON’T:** Upgrade to big actions if line control fails beat #1.
 
 **Failure signatures**  
-- You touch ankle; they step away; you lose everything.  
-- You pull at a retracting leg without line control and detach.
+- You grab ankle, they step, you lose it instantly.  
+- You pull without line control and detach.
 
 **Metrics**  
-- Contact duration through one opponent step  
+- Contact survival through one opponent step (%)  
 - Retraction denial rate
 
 **Links**  
-- Supports: VN5 standing attacks; D-bucket entries and conversions
+- Downstream: [D-03](#d-03), [D-04](#d-04), [B-06](#b-06)
 
 ---
 
 <a id="b-15"></a>
-### B-15 — Hips-Connected Attachment OS (VN5)
+### B-15 — Hips-Connected Attachment OS (Hands + Hips)
 
 **Purpose (plain English)**  
-Hands alone are not enough. Keep hips connected so the opponent cannot escape by simply creating separation.
+Hands-only control is fragile. Hips-connected attachment denies the opponent’s cheapest escape: separation.
 
 **Trigger**  
 - After leg capture  
-- During opponent retreat/turning to clear
+- During opponent retreat/turn-out to clear  
+- Any time you feel stretched long (hands on, hips far)
 
-**Inputs**  
-- Distance between your hips and the captured leg line
+**Reads**  
+- Hip distance to the captured line  
+- Can opponent create separation with one retreat step?
 
 **Outputs**  
 - “Hands + hips” attachment that survives retreat and turning
 
-**Procedure**  
-1) After capture, close the hip distance to the attachment line.  
-2) Maintain that proximity through their first defensive movement.  
-3) If hips drift away, treat it as a failure and re-close distance immediately.
+**Run it (fast)**  
+1) After capture, close hip distance to the attachment line.  
+2) Maintain proximity through their first defensive movement.  
+3) If hips drift away, re-close immediately before progressing.
 
-**Rules**  
-- Separation is the opponent’s cheapest escape; deny it by hip connection.  
-- Hip connection must not violate your own alignment safety (don’t overextend).
+**DO / DON’T**  
+- **DO:** Treat separation as the enemy; close distance early.  
+- **DON’T:** Overextend long-range and get stretched (you’ll lose steering).
 
 **Failure signatures**  
-- Hands stay on, but hips drift; opponent retracts cleanly.  
-- You get stretched long and lose steering.
+- Hands stay on but opponent retracts cleanly.  
+- You get elongated and can’t force reactions.
 
 **Metrics**  
 - % captures maintained through opponent retreat/turn  
 - “Hip drift” events per round
 
 **Links**  
-- Downstream: D-bucket consolidation and platform transitions
+- Upstream: [B-14](#b-14)  
+- Downstream: [D-16](#d-16), [D-17](#d-17), [D-23](#d-23)
 
 ---
 
 <a id="b-16"></a>
-### B-16 — Sticky Connection Non-Negotiable OS (VN5/VN7/VN8)
+### B-16 — Sticky Connection Non-Negotiable OS (Beat #1 Survival)
 
 **Purpose (plain English)**  
-Any connector (shin-to-shin, distance breaker, platform entry, DLR hook) is invalid unless connection persists through the first defensive reaction.
+Any connector (DLR hook, distance breaker, platform entry) is invalid unless connection persists through the opponent’s first defensive beat. This is the universal “entry validity” rule.
 
 **Trigger**  
-- Any time you initiate a connector entry  
+- Any time you initiate a connector/entry  
 - Any time opponent’s first defense is peel/step-away/turn-out
 
-**Inputs**  
-- Connection persistence through defensive beat #1
+**Reads**  
+- Did you maintain at least one meaningful connection through defense beat #1?
 
 **Outputs**  
-- A “valid connector” that stays attached long enough to force proof and route to consolidation
+- VALID connector (survives beat #1) or INVALID connector (collapses)
 
-**Procedure**  
+**Run it (fast)**  
 1) Enter connector.  
-2) Expect first defense immediately.  
-3) Maintain at least one meaningful connection through defense #1.  
-4) Add second connection (redundancy) as soon as possible.
+2) Expect immediate defense.  
+3) Maintain one connection through defense beat #1.  
+4) Add second connection ASAP ([D-16](#d-16)).  
+If you fail beat #1 → treat entry as invalid and restart connection-first.
 
-**Rules**  
-- Connect-then-lose = invalid entry.  
-- Success is measured by continuity, not by cosmetic landing.
+**DO / DON’T**  
+- **DO:** Measure entries by continuity, not by how clean they look.  
+- **DON’T:** “Land and lose” then pretend it was progress.
 
 **Failure signatures**  
-- You hit the connector, detach on the first peel, and restart neutral.  
-- You rely on one point of contact and lose it instantly.
+- You hit entries but detach on first peel and reset neutral.  
+- You rely on single-point contact and collapse instantly.
 
 **Metrics**  
-- % entries maintaining contact through first defensive beat  
-- Time to establish redundancy after connector entry
+- % entries surviving first defensive beat  
+- Time to second connection after entry
 
 **Links**  
-- Downstream: D-bucket platform integration, anti-exit governance
-
-- [Bucket C — Recovery Engines](#bucket-c--recovery-engines)
-  - [C-01 Knowledge/Denial Micro-Cycle OS](#c-01)
-  - [C-02 Demarcation Theory OS](#c-02)
-  - [C-03 Demarcation-to-Tool Router OS](#c-03)
-  - [C-04 Essential Movement Selector OS](#c-04)
-  - [C-05 Mobility-First Retention OS](#c-05)
-  - [C-06 Defensive Framework Activation OS](#c-06)
-  - [C-07 Frame Integrity OS](#c-07)
-  - [C-08 Compression Management OS](#c-08)
-  - [C-09 Recovery Sequencing OS (Space→Align→Reinsert→Attach)](#c-09)
-  - [C-10 Continuous Reinsertion OS](#c-10)
-  - [C-11 Immediate Re-Square OS](#c-11)
-  - [C-12 Mobility Defense Loop OS](#c-12)
-  - [C-13 Pressure Defense Ladder OS](#c-13)
-  - [C-14 Lock Formation Early-Denial OS](#c-14)
-  - [C-15 Leg Reinsertion Terminal Step OS](#c-15)
-
----
+- Upstream: [B-01](#b-01), [B-06](#b-06)  
+- Downstream: [D-16](#d-16), [D-17](#d-17), [A-09](#a-09), [A-10](#a-10)
 
 ## Bucket C — Recovery Engines
 
 <a id="c-01"></a>
-### C-01 — Knowledge/Denial Micro-Cycle OS (Identify→Deny→Recenter→Reattach→Convert) (VN2)
+### C-01 — Knowledge/Denial Micro-Cycle OS (Identify→Deny→Recenter→Reattach→Convert)
 
 **Purpose (plain English)**  
-Make retention repeatable. You don’t “defend passes”; you run a cycle that breaks the active requirement and immediately restores alignment and initiative.
+Make defense repeatable. You don’t “defend passes”; you run a cycle that breaks the active requirement and immediately restores alignment + connection, then converts on their repair-step.
 
 **Trigger**  
-- Opponent begins building any pass requirement  
-- Any time you successfully deny something (cycle continues)
+- Any time the opponent starts building a pass requirement  
+- Immediately after any successful denial (cycle continues)  
+- Any time you feel “I defended but I’m still losing”
 
-**Inputs**  
-- Active link (distance/grip/angle/level/penetration/pin) + current alignment
+**Reads**  
+- Active link (use [A-04](#a-04))  
+- `STATE` (NORMAL/ALARM via [A-06](#a-06))  
+- Connection status (do you still have a handle?)
 
 **Outputs**  
-- Broken link + restored alignment + re-established connection + immediate counter-threat
+- Broken active link + restored alignment + reattached handles + a conversion attempt during opponent correction
 
-**Procedure**  
-1) **Identify** active link (A-04).  
-2) **Deny** with minimal correction.  
-3) **Recenter** (square alignment; don’t drift).  
-4) **Reattach** (rebuild connection + redundancy).  
-5) **Convert** during their repair-step.
+**Run it (fast)**  
+1) **Identify** active link ([A-04](#a-04)).  
+2) **Deny** the link (minimal correction, not a scramble).  
+3) **Recenter** (re-square alignment) ([C-11](#c-11)).  
+4) **Reattach** (restore durable connection + redundancy) ([B-06](#b-06), [B-05](#b-05)).  
+5) **Convert** on their repair-step ([D-01](#d-01)).
 
-**Rules**  
-- Denial is incomplete without recentering and reattachment.  
-- If you deny but don’t convert, expect immediate rebuild by opponent.
+**DO / DON’T**  
+- **DO:** Complete the cycle; denial alone is incomplete defense.  
+- **DON’T:** Deny and pause (opponent rebuilds immediately).
 
 **Failure signatures**  
 - “Win the moment, lose the next step.”  
-- Deny angle, but hips remain turned and penetration follows.
+- Deny grips but stay rotated (angle persists).  
+- Survive pressure but remain leg-late.
 
 **Metrics**  
-- Cycle completion rate per round  
-- Time deny → recenter  
-- % conversions during repair-step window
+- Cycle completion rate (did you reach reattach + convert?)  
+- Deny→recenter latency (beats)  
+- Conversions initiated during repair-step (%)
 
 **Links**  
-- Upstream: A-bucket chain/active link; B-bucket tempo  
-- Downstream: D-bucket proof/entry timing
+- Upstream: [A-04](#a-04), [A-06](#a-06)  
+- Downstream: [C-09](#c-09), [D-01](#d-01)
 
 ---
 
 <a id="c-02"></a>
-### C-02 — Demarcation Theory OS (VN3)
+### C-02 — Demarcation Theory OS (Name the First Line You’re Losing)
 
 **Purpose (plain English)**  
-Diagnose exactly *where* guard is being lost (line/zone) so you select the correct recovery tool instead of scrambling randomly.
+Stop random scrambling. Identify *where* guard is failing first (the earliest line/zone) so you choose the correct recovery tool.
 
 **Trigger**  
 - Guard feels “slippery” / alignment drifting  
-- Passer begins gaining angle/space/entry depth
+- Opponent is gaining angle/level/entry depth and you’re unsure what to do
 
-**Inputs**  
-- Which “line” is failing first (distance, knee line, hip line, shoulder line)
+**Reads (demarcation lines — earliest matters most)**  
+- **Distance line:** are you losing space too easily?  
+- **Knee line:** are your legs being cleared/stapled so reinsertion is failing?  
+- **Hip line:** is opponent entering past your primary barriers / about to pin?  
+- **Shoulder line:** are you being turned/flattened so you can’t face them?
 
 **Outputs**  
-- One declared demarcation loss + correct recovery family selection
+- One declared “first failing line” + correct tool family selection
 
-**Procedure**  
-1) Name the first line you are losing (earliest).  
-2) Choose the smallest tool that restores that line.  
-3) Re-test immediately (line-loss can shift after correction).
+**Run it (fast)**  
+1) Ask: “What line failed first?”  
+2) Fix that earliest line with the smallest tool.  
+3) Re-test immediately (line-loss shifts after correction).
 
-**Rules**  
-- Fix the earliest line-loss first or it chains into hip-line danger.  
-- Late-line defense without upstream repair repeats.
+**DO / DON’T**  
+- **DO:** Fix the earliest line-loss first; upstream repairs collapse downstream threats.  
+- **DON’T:** Fight late symptoms while early failure persists.
 
 **Failure signatures**  
-- You recover once, but the same failure repeats immediately.  
-- You use high-commitment movement for small drift.
+- You recover once, then same failure repeats instantly.  
+- You fix grips but angle/shoulder line keeps losing.
 
 **Metrics**  
 - Time from first line-loss cue → corrective action  
-- Repeat-failure frequency (same loss recurring)
+- Repeat-failure frequency (same line failing repeatedly)
 
 **Links**  
-- Downstream: C-03 router, C-09 sequencing
+- Downstream: [C-03 Router](#c-03), [A-06 Alarm Gate](#a-06)
 
 ---
 
 <a id="c-03"></a>
-### C-03 — Demarcation-to-Tool Router OS (VN3)
+### C-03 — Demarcation-to-Tool Router OS (One Problem → One Tool)
 
 **Purpose (plain English)**  
-Convert diagnosis into action. When you identify the failing line, this router selects the right recovery tool family.
+Convert diagnosis into action. This router maps the failing line + `STATE` into the correct tool family, without chaining random movements.
 
 **Trigger**  
-- Immediately after C-02 demarcation call  
+- Immediately after [C-02](#c-02)  
 - Any time you hesitate between multiple recoveries
 
 **Inputs**  
-- Declared demarcation loss + hip-line alarm state (A-06)
+- Failing line (distance/knee/hip/shoulder)  
+- `STATE` from [A-06](#a-06)
 
 **Outputs**  
-- One selected recovery tool + one terminal step (reinsert/reattach)
+- One selected recovery tool family + the required terminal step
 
-**Procedure**  
-1) If hip-line alarm ON → go to C-06/C-07 (structure-first).  
-2) If alarm OFF → choose minimal mobility tool (C-04/C-11/C-10).  
-3) After tool, run C-09 (Space→Align→Reinsert→Attach).
+**Routing rules (fast)**
+- If `STATE: ALARM` → structure-first tools ([C-06](#c-06)→[C-07](#c-07)→[C-08](#c-08)) then **terminal reinsertion** ([C-15](#c-15)).  
+- If `STATE: NORMAL` → mobility-first tools (re-square + reinsertion) ([C-11](#c-11)→[C-10](#c-10)).
 
-**Rules**  
-- One problem → one tool → reassess.  
-- Do not chain random movements.
+**Run it (fast)**  
+1) Determine `STATE`.  
+2) Select tool family (structure-first vs mobility-first).  
+3) Execute one tool.  
+4) Finish with terminal step: legs-in + attach (see [C-15](#c-15) + [B-06](#b-06)).
+
+**DO / DON’T**  
+- **DO:** One tool → reassess.  
+- **DON’T:** Stack 4 movements without diagnosis.
 
 **Failure signatures**  
-- Multi-move scrambles that worsen alignment.  
-- You select tools inconsistent with hip-line state.
+- Scramble chains that worsen alignment.  
+- You select mobility tools while compressed (pin follows).
 
 **Metrics**  
 - “One tool” compliance rate  
-- Reduced scramble stacks ending in pins
+- Scramble-to-pin frequency
 
 **Links**  
-- Upstream: C-02 + A-06  
-- Downstream: C-09 sequencing
+- Upstream: [C-02](#c-02), [A-06](#a-06)  
+- Downstream: [C-09](#c-09)
 
 ---
 
 <a id="c-04"></a>
-### C-04 — Essential Movement Selector OS (Canonical Set) (VN3)
+### C-04 — Essential Movement Selector OS (Minimal Correction First)
 
 **Purpose (plain English)**  
-Stop improvising under pressure. Select from a known movement set based on the demarcation problem.
+Choose the smallest movement that restores the failing line. Escalate only if it fails. This prevents over-rotation and self-created exposure.
 
 **Trigger**  
-- Pressure rises and you feel scrambled  
-- You are about to do “whatever works”
+- You know the problem (line-loss) but feel tempted to “do a big escape”  
+- You’re under pressure and need a safe default
 
-**Inputs**  
-- Demarcation loss + space availability
+**Reads**  
+- Space availability (do you have room?)  
+- Which line is failing (distance/knee/hip/shoulder)
 
 **Outputs**  
-- One chosen movement tool (not a chain)
+- One chosen movement (not a combo) that restores the line
 
-**Procedure**  
-1) Choose smallest tool that restores the lost line.  
+**Run it (fast)**  
+1) Pick the smallest movement that restores the earliest failing line.  
 2) Execute once with intent.  
-3) Reassess and repeat if needed.
+3) Reassess. If unresolved, escalate to the next larger tool.
 
-**Rules**  
-- Minimal correction first; escalate only if it fails.  
-- High-commitment tools are reserved for high-need states.
+**DO / DON’T**  
+- **DO:** Make minimal corrections repeatable under fatigue.  
+- **DON’T:** Over-rotate (you donate angle and shoulder line).
 
 **Failure signatures**  
-- Over-rotation and self-created exposure.  
-- Repeated big movements for small drift.
+- You create your own exposure by moving too much.  
+- Big movements that don’t end with legs-in.
 
 **Metrics**  
 - Over-rotation events per round  
 - Tool selection speed under pressure
 
 **Links**  
-- Downstream: C-11 re-square, C-10 reinsertion, C-09 sequencing
-
----
+- Downstream: [C-11](#c-11), [C-10](#c-10), [C-09](#c-09)
 
 <a id="c-05"></a>
-### C-05 — Mobility-First Retention OS (VN3)
+### C-05 — Mobility-First Retention OS (`STATE: NORMAL`)
 
 **Purpose (plain English)**  
-When you are not yet at hip-line danger, use mobility to re-center and reinsert legs before you start heavy framing.
+When hip-line danger is not present, mobility solves faster than heavy framing. This OS prioritizes re-square + reinsertion before the passer accumulates angle.
 
 **Trigger**  
-- A-06 hip-line alarm OFF  
-- Space exists to move and re-square
+- [A-06](#a-06) declares `STATE: NORMAL`  
+- You have space to move and re-square
 
-**Inputs**  
-- Angle drift + legs being displaced + available space
+**Reads**  
+- Angle drift beginning (opponent circling)  
+- Lane status (are your legs between you and them?)
 
 **Outputs**  
-- Re-centered alignment + legs reinserted + restored distance line
+- Front-facing alignment restored + legs reinserted + distance line rebuilt
 
-**Procedure**  
-1) Re-square hips (C-11).  
-2) Reinsert legs/lanes (C-10).  
-3) Reattach handles if needed (B-06).  
-4) Return to denial/steering loop (C-01/B bucket).
+**Run it (fast)**  
+1) **Re-square** ([C-11](#c-11)).  
+2) **Reinsert lanes** ([C-10](#c-10)).  
+3) **Reattach** handles + redundancy ([B-06](#b-06), [B-05](#b-05)).  
+4) **Convert** on their repair-step ([D-01](#d-01)).
 
-**Rules**  
-- Don’t frame too early in mobility states; you stall and get run around.  
-- Mobility must end with reinsertion (not just movement).
+**DO / DON’T**  
+- **DO:** Move first; frame only if alarm flips ON.  
+- **DON’T:** Frame early and stall vs mobility (you’ll get run around).
 
 **Failure signatures**  
-- Early framing leads to angle loss.  
+- Early frames → angle loss.  
 - You move but never get legs back in front.
 
 **Metrics**  
-- % early threats solved without switching to ALARM  
-- Time from drift → re-square
+- Time from drift cue → re-square  
+- % NORMAL threats solved without switching to ALARM
 
 **Links**  
-- Upstream: A-06/A-07  
-- Downstream: C-10/C-11/C-09
+- Upstream: [A-06](#a-06), [A-08](#a-08)  
+- Downstream: [C-11](#c-11), [C-10](#c-10), [C-12](#c-12)
 
 ---
 
 <a id="c-06"></a>
-### C-06 — Defensive Framework Activation OS (Structure-First) (VN3)
+### C-06 — Defensive Framework Activation OS (`STATE: ALARM`)
 
 **Purpose (plain English)**  
-When hip-line danger is present, you must stabilize with structure (frames/wedges) before you try to “win with movement.”
+When hip-line danger is present, structure must come before mobility. Frames/wedges create a space budget that you spend to rebuild legs-in position.
 
 **Trigger**  
-- A-06 hip-line alarm ON  
-- Compression is stable; pin threat is near
+- [A-06](#a-06) declares `STATE: ALARM`  
+- Compression is stable; pin mechanics forming
 
-**Inputs**  
-- Compression + penetration cues + frame integrity status
+**Reads**  
+- Where pressure is entering (hip line / shoulder line)  
+- Frame integrity (are you pushing or wedging?)
 
 **Outputs**  
-- Load-bearing structure that halts penetration long enough to rebuild legs
+- Load-bearing structure that halts penetration long enough to realign + reinsert legs
 
-**Procedure**  
-1) Build wedges/frames that carry load (not pushing).  
-2) Protect shoulders/spine shape.  
-3) Create a window (space budget).  
-4) Reinsert legs (C-15 terminal step).
+**Run it (fast)**  
+1) Build wedges/frames aligned with pressure (no pushing).  
+2) Protect shoulder line (don’t get turned flat).  
+3) Create a window (usable space).  
+4) Transition to recovery sequencing ([C-09](#c-09)) and terminal reinsertion ([C-15](#c-15)).
 
-**Rules**  
-- Survival first; then rebuild.  
-- If you push, you fatigue and collapse.
+**DO / DON’T**  
+- **DO:** Let frames buy time; legs spend it.  
+- **DON’T:** Try fancy mobility while compressed (pin completes).
 
 **Failure signatures**  
-- Arms burn; frames fold; pin follows.  
-- You try mobility without structure and get flattened.
+- Arms burn out (pushing).  
+- You “move” but get flattened because structure wasn’t installed.
 
 **Metrics**  
-- Time alarm-on → stable structure established  
-- Pin events after alarm-on states
+- Alarm-on → stable structure time  
+- % ALARM events resolved without pin
 
 **Links**  
-- Upstream: A-06/A-07  
-- Downstream: C-07 integrity, C-15 reinsertion
+- Upstream: [A-06](#a-06)  
+- Downstream: [C-07](#c-07), [C-08](#c-08), [C-09](#c-09), [C-15](#c-15)
 
 ---
 
 <a id="c-07"></a>
-### C-07 — Frame Integrity OS (Structure, Not Push) (VN3)
+### C-07 — Frame Integrity OS (Wedge, Don’t Bench Press)
 
 **Purpose (plain English)**  
-Frames must be load-bearing wedges. This OS prevents “bench pressing” that collapses and exhausts you.
+Frames must be skeletal wedges that carry load. Pushing is fatigue + collapse. This OS keeps your structure functional under pressure.
 
 **Trigger**  
-- Any time you are framing under pressure  
-- Especially in ALARM states
+- Any time you are framing under load  
+- Especially during `STATE: ALARM`
 
-**Inputs**  
-- Contact points + pressure direction + frame shape quality
+**Reads**  
+- Is your frame aligned with pressure (wedge) or extended away (push)?  
+- Are your frames collapsing as opponent settles weight?
 
 **Outputs**  
 - Frames that hold shape long enough to reinsert legs
 
-**Procedure**  
-1) Set frame as a wedge aligned with pressure.  
-2) Maintain skeleton shape; avoid pushing extension.  
+**Run it (fast)**  
+1) Set frame as a wedge aligned with incoming pressure.  
+2) Maintain shape; avoid extension battles.  
 3) Use the time to move hips/legs into reinsertion.
 
-**Rules**  
-- Frames buy time; legs spend it.  
-- If frame shape breaks, reset immediately.
+**DO / DON’T**  
+- **DO:** Reset frame shape immediately if it starts to fold.  
+- **DON’T:** Push harder when losing shape (you’ll gas and still lose).
 
 **Failure signatures**  
-- Pushing battles; rapid fatigue.  
-- Frames exist but don’t stop the real pressure line.
+- Fast arm fatigue.  
+- Frame “exists” but doesn’t stop pressure line.
 
 **Metrics**  
 - Frame hold time under load  
 - Collapse events per round
 
 **Links**  
-- Downstream: C-08 space budgeting, C-15 reinsertion
+- Upstream: [C-06](#c-06)  
+- Downstream: [C-08](#c-08), [C-15](#c-15)
 
 ---
 
 <a id="c-08"></a>
-### C-08 — Compression Management OS (Space Budgeting) (VN3)
+### C-08 — Compression Management OS (Space Budgeting)
 
 **Purpose (plain English)**  
-Treat space like a budget: you either preserve it with frames or you lose it and get pinned. When you gain space, you must spend it immediately to rebuild guard.
+Space is a budget: preserve it, then spend it immediately to rebuild guard. If you gain space and don’t reinsert/realign, it disappears.
 
 **Trigger**  
 - Opponent compresses distance  
-- You win a small pocket of space
+- You create a pocket of space (even small)
 
-**Inputs**  
-- Space availability + frame integrity + opponent follow pressure
+**Reads**  
+- Usable space present? (yes/no)  
+- Is opponent “following” to re-collapse immediately?
 
 **Outputs**  
-- Usable space preserved long enough to re-center and reinsert
+- Space preserved long enough to realign + reinsert legs + reattach handles
 
-**Procedure**  
-1) Preserve space with wedges (C-07).  
-2) Move hips to align (C-11).  
-3) Reinsert legs (C-10/C-15).  
-4) Reattach handles (B-06).
+**Run it (fast)**  
+1) Preserve space with wedges/frames ([C-07](#c-07)).  
+2) Align (re-square) as soon as you can ([C-11](#c-11)).  
+3) Reinsert legs ([C-10](#c-10) → [C-15](#c-15)).  
+4) Reattach handles ([B-06](#b-06)).
 
-**Rules**  
-- Space without reinsertion is temporary.  
-- Expect the “follow”—plan a second layer immediately.
+**DO / DON’T**  
+- **DO:** Spend space immediately on legs-in.  
+- **DON’T:** Pause in the opening; opponent re-collapses.
 
 **Failure signatures**  
-- You create space, then pause and get re-collapsed.  
-- Space exists but legs are late.
+- You make space, then get re-smashed instantly.  
+- You survive but remain leg-late.
 
 **Metrics**  
-- Seconds of usable space maintained while rebuilding  
-- Re-collapse frequency after initial recovery
+- Re-collapse frequency after initial space creation  
+- Time from space creation → legs-in completion
 
 **Links**  
-- Downstream: C-09 sequencing
-
----
+- Downstream: [C-09 Sequencing](#c-09)
 
 <a id="c-09"></a>
-### C-09 — Recovery Sequencing OS (Space→Align→Reinsert→Attach) (VN3)
+### C-09 — Recovery Sequencing OS (Space→Align→Reinsert→Attach)
 
 **Purpose (plain English)**  
-Make recoveries stick. This fixed order converts “escape moments” into restored guard function.
+Make recoveries stick. This order converts “escape moments” into restored guard function. Skipping steps is why recoveries fail immediately.
 
 **Trigger**  
-- After any successful movement, frame, or denial that creates space
+- After any denial/movement/frame that creates space  
+- Any time you feel “I escaped but I’m still losing”
 
-**Inputs**  
-- Newly created space + current alignment
+**Reads**  
+- Space availability (usable or collapsing)  
+- Alignment status (square or rotated)  
+- Leg position (in front or late)
 
 **Outputs**  
-- Functional guard restored (barriers + alignment + connection)
+- Functional guard restored: legs-in + alignment + at least one handle
 
-**Procedure (non-negotiable order)**  
+**Non-negotiable order**
 1) **Space** (create/preserve)  
 2) **Align** (re-square hips/shoulders)  
-3) **Reinsert** legs (inside lanes/barriers)  
+3) **Reinsert** (legs back between you and them)  
 4) **Attach** (handles + redundancy)
 
-**Rules**  
-- Skipping a step causes immediate re-collapse.  
-- Align before you “build” or you build crooked.
+**Run it (fast)**  
+1) Secure a pocket of space ([C-07](#c-07), [C-08](#c-08)).  
+2) Re-square ([C-11](#c-11)).  
+3) Reinsert legs ([C-10](#c-10), [C-15](#c-15)).  
+4) Reattach immediately ([B-06](#b-06), [B-05](#b-05)).
+
+**DO / DON’T**  
+- **DO:** Treat “Attach” as the finish line, not “I moved.”  
+- **DON’T:** Reinsert while misaligned (you build crooked guard).
 
 **Failure signatures**  
-- You shrimp/scoot but don’t reinsert; opponent re-collapses instantly.  
-- You reinsert while misaligned; angle remains lost.
+- You shrimp/scoot but don’t reinsert → re-collapse.  
+- You reinsert but remain rotated → angle persists.
 
 **Metrics**  
-- % recoveries ending with reinsertion + at least one handle  
-- Time from space creation → reinsertion completion
+- % recoveries ending with legs-in + handle  
+- Space creation → reinsertion completion time
 
 **Links**  
-- Downstream: B-bucket connection loop; D-bucket proof/entry
+- Upstream: [C-08](#c-08)  
+- Downstream: [B-06](#b-06), [D-01](#d-01)
 
 ---
 
 <a id="c-10"></a>
-### C-10 — Continuous Reinsertion OS (Legs Never Stay Late) (VN3)
+### C-10 — Continuous Reinsertion OS (Legs Never Stay Late)
 
 **Purpose (plain English)**  
-If your legs are out of position, your defense is late. This OS makes reinsertion continuous rather than occasional.
+If legs are late, defense is late. Reinsertion must be continuous during the exchange, not an occasional “big reset.”
 
 **Trigger**  
 - Any leg clear/staple/scoop attempt  
-- Any time inside lanes are lost
+- Any time inside lanes are lost  
+- Any time you’re framing but legs are not returning
 
-**Inputs**  
-- Inside lane status + knee line integrity
+**Reads**  
+- Which leg/lane is late  
+- Can you reinsert immediately or is `STATE: ALARM` forcing structure-first?
 
 **Outputs**  
 - Legs returned to functional lanes + barrier restored
 
-**Procedure**  
-1) Identify which leg/lane is late.  
-2) Reinsert immediately (small correction first).  
+**Run it (fast)**  
+1) Identify the late leg.  
+2) Reinsert immediately (smallest correction first).  
 3) Repeat continuously until inside lanes are stable.
 
-**Rules**  
-- Defending with hands while legs are late is temporary at best.  
-- Reinsertion must happen during the first defensive beats, not after.
+**DO / DON’T**  
+- **DO:** Use frames to buy time specifically for reinsertion.  
+- **DON’T:** Hand-fight while legs stay cleared.
 
 **Failure signatures**  
-- You “survive” with frames but never get legs back.  
-- Knee line opens → penetration follows.
+- You “survive” with frames but never rebuild legs-in.  
+- Knee line opens and penetration follows.
 
 **Metrics**  
 - Average “leg-late time” per round  
-- Knee-line collapse events
+- Knee-line collapse events per round
 
 **Links**  
-- Supports: C-05 mobility-first, C-15 terminal step
+- Upstream: [A-06](#a-06)  
+- Downstream: [C-15](#c-15), [B-09](#b-09)
 
 ---
 
 <a id="c-11"></a>
-### C-11 — Immediate Re-Square OS (Don’t Chase With Hands) (VN4/VN3)
+### C-11 — Immediate Re-Square OS (Angle Kills Early)
 
 **Purpose (plain English)**  
-Angle is the early killer. Re-square hips early to deny the run-around before it becomes penetration.
+Angle is the early killer. If you re-square early, you avoid hip-line danger. If you re-square late, you pay with ALARM compression.
 
 **Trigger**  
-- Opponent circles or redirects  
-- You feel hip rotation drifting away from square
+- Opponent circles/redirects  
+- You feel hip rotation drifting away from square  
+- You are about to “reach with hands” to track them
 
-**Inputs**  
-- Angle formation cues (lateral movement, hip rotation, knee line exposure)
+**Reads**  
+- Are they moving off-center (flank/hip line)?  
+- Are your hips/shoulders still facing them?
 
 **Outputs**  
 - Front-facing alignment restored
 
-**Procedure**  
-1) Use hips/feet to re-square (not reaching with hands).  
-2) Restore inside lanes (C-10).  
-3) Return to steering and denial (C-01/B bucket).
+**Run it (fast)**  
+1) Re-square using hips/feet (not reaching).  
+2) Reinsert lanes immediately ([C-10](#c-10)).  
+3) Reattach and resume step-map control.
 
-**Rules**  
-- Fix angle early; late angle defense is expensive.  
-- Hands support, hips solve.
+**DO / DON’T**  
+- **DO:** Fix angle early; it’s cheap.  
+- **DON’T:** Chase with hands while hips lag.
 
 **Failure signatures**  
-- You chase shoulders with hands while hips lag.  
-- Angle snowballs into hip-line alarm.
+- You chase shoulders but still get flanked.  
+- Angle snowballs into ALARM.
 
 **Metrics**  
-- Time circle begins → square restored  
+- Circle begins → square restored time  
 - Angle-loss events per round
 
 **Links**  
-- Upstream: A-02 redirect read  
-- Downstream: C-10 reinsertion, C-05 mobility-first
+- Upstream: [A-02 Energy Read](#a-02)  
+- Downstream: [C-10](#c-10), [C-12](#c-12), [B-08](#b-08)
 
 ---
 
 <a id="c-12"></a>
-### C-12 — Mobility Defense Loop OS (Feet + Re-Square) (VN4)
+### C-12 — Mobility Defense Loop OS (Feet + Re-Square + Reinsert)
 
 **Purpose (plain English)**  
-A repeatable loop for mobility passers: keep them in front using feet connection and immediate re-square.
+A repeatable loop vs mobility passers: keep them in front by maintaining feet connection, enforcing asymmetry, and re-squaring immediately.
 
 **Trigger**  
-- A-08 archetype = MOBILITY
+- [A-08](#a-08) declares `ARCHETYPE: MOBILITY`  
+- Any time opponent attempts to circle/run around
 
-**Inputs**  
-- Foot connection status + opponent circling direction
+**Reads**  
+- Feet-on-them status  
+- Angle drift status  
+- Leg symmetry status
 
 **Outputs**  
-- Opponent kept front-facing; angle accumulation denied
+- Opponent kept front-facing; angle accumulation denied; proof windows created
 
-**Procedure**  
-1) Establish feet-on-them (B-09).  
-2) Create asymmetry (B-10).  
-3) Re-square immediately (C-11).  
-4) Reinsert lanes (C-10).  
-5) Repeat until proof window appears.
+**Run it (loop)**
+1) Feet contact ON ([B-09](#b-09)).  
+2) Create/maintain asymmetry ([B-10](#b-10)).  
+3) Re-square immediately ([C-11](#c-11)).  
+4) Reinsert lanes ([C-10](#c-10)).  
+5) Resume steering to force steps ([B-08](#b-08)).  
+Repeat until a repair-step window appears ([D-01](#d-01)).
 
-**Rules**  
-- Do not stall in frames; mobility passers punish stalling with angle.  
-- “Front-facing” is the KPI.
+**DO / DON’T**  
+- **DO:** KPI = “they stay in front.”  
+- **DON’T:** Freeze and frame; mobility punishes stalling with angle.
 
 **Failure signatures**  
-- Free circles; you chase.  
-- Angle loss occurs before you re-square.
+- Free circles; you chase late.  
+- You lose inside lanes while focused on hand-fighting.
 
 **Metrics**  
 - % time opponent remains in front  
-- Angle-loss events per round
+- Angle-loss events per round  
+- Forced steps/posts per minute (from step-map control)
 
 **Links**  
-- Upstream: A-08 archetype call  
-- Downstream: D-bucket conversion on forced step windows
-
----
+- Upstream: [A-08](#a-08)  
+- Downstream: [D-01](#d-01), [D-23](#d-23)
 
 <a id="c-13"></a>
-### C-13 — Pressure Defense Ladder OS (Deny Lock Early → Wedge+Move → Reinsert) (VN4)
+### C-13 — Pressure Defense Ladder OS (Early Deny → Structure → Reinsert)
 
 **Purpose (plain English)**  
-A two-phase response for pressure passers: stop the lock early; if late, survive compression and rebuild guard.
+A two-phase response for pressure passers: stop the lock early; if late, survive compression and rebuild guard. Prevents “accept lock then panic.”
 
 **Trigger**  
-- A-08 archetype = PRESSURE
+- [A-08](#a-08) declares `ARCHETYPE: PRESSURE`  
+- Opponent closes distance and begins clamp/lock mechanics
 
-**Inputs**  
-- Lock formation status (early vs late) + compression level
+**Reads**  
+- Phase: **EARLY** (lock not stable yet) vs **LATE** (compression/lock stable)  
+- `STATE` from [A-06](#a-06)
 
 **Outputs**  
-- Early: lock prevented  
-- Late: compression survived + legs reinserted
+- EARLY: lock prevented/broken before stable compression  
+- LATE: compression survived + legs reinserted + return to NORMAL
 
-**Procedure**  
-1) **EARLY:** deny lock/grips + maintain barriers.  
-2) **LATE:** wedges/frames + move under pressure (no pushing).  
-3) **Terminal:** legs reinserted in front (C-15).
+**Run it (fast)**
+- **EARLY phase**
+  1) Deny distance collapse and connection-building ([C-14](#c-14)).  
+  2) Re-square + reinsert lanes ([C-11](#c-11), [C-10](#c-10)).  
+  3) Reattach and force step windows ([B-06](#b-06), [B-08](#b-08)).
+- **LATE phase**
+  1) Framework activation (wedges/frames) ([C-06](#c-06), [C-07](#c-07)).  
+  2) Space budgeting ([C-08](#c-08)).  
+  3) Sequencing Space→Align→Reinsert→Attach ([C-09](#c-09)).  
+  4) Terminal step: legs-in ([C-15](#c-15)).
 
-**Rules**  
-- Early denial is cheaper than late survival.  
-- Late phase is structure-first; no chasing.
+**DO / DON’T**  
+- **DO:** Treat EARLY denial as the cheapest win.  
+- **DON’T:** Try mobility solutions inside stable compression (pin completes).
 
 **Failure signatures**  
-- You accept lock then panic late.  
-- You survive but remain leg-late; they re-lock.
+- You allow lock, then spend the round in ALARM survival.  
+- You escape once but never reinsert legs; they re-lock immediately.
 
 **Metrics**  
-- Lock-denial success rate  
-- Compression survival without pin  
-- % defenses ending with leg reinsertion
+- Lock denied before stable compression (%)  
+- Pins occurring after pressure sequences  
+- % defenses ending with legs-in + handle
 
 **Links**  
-- Upstream: A-08  
-- Downstream: C-14 early denial specifics, C-15 terminal step
+- Upstream: [A-08](#a-08), [A-06](#a-06)  
+- Downstream: [C-14](#c-14), [C-15](#c-15)
 
 ---
 
 <a id="c-14"></a>
-### C-14 — Lock Formation Early-Denial OS (VN4)
+### C-14 — Lock Formation Early-Denial OS (Stop the Clamp Before It Stabilizes)
 
 **Purpose (plain English)**  
-Stop pressure passing where it starts: the moment they try to connect hands/arms/hip capture into a stable lock.
+Pressure passing becomes hard to stop once the lock is stable. This OS attacks the lock while it’s still forming—before compression becomes a pin.
 
 **Trigger**  
 - First contact of a pressure sequence  
-- Hands/arms seeking clamps/locks
+- Hands/arms seeking clamps, head/shoulder pinning, chest-to-hip glue attempts
 
-**Inputs**  
-- Lock-building cues: connecting hands, chest-to-hip closure, head/shoulder pin attempts
+**Reads (early lock cues)**  
+- Connecting hands / underhook-style clamps forming  
+- Head positioning that turns you away  
+- Chest-to-hip closure (space disappearing)  
+- Your legs being stapled/cleared while they settle weight
 
 **Outputs**  
-- Lock prevented or broken before compression stabilizes
+- Lock prevented or broken + barriers re-established
 
-**Procedure**  
-1) Deny distance collapse (don’t let chest/hips glue).  
-2) Disrupt lock mechanics immediately (break the connection).  
-3) Rebuild barriers/lanes (C-10).  
-4) Return to steering/deny loop.
+**Run it (fast)**  
+1) Deny the *closing action* (don’t allow chest/hips to glue).  
+2) Break the lock structure (not just one grip—break the mechanism).  
+3) Re-square and reinsert lanes immediately.  
+4) Reattach and resume step-map control.
 
-**Rules**  
-- Do not wait until compression is stable to start defending.  
-- Breaking one grip isn’t enough if the lock structure remains.
+**DO / DON’T**  
+- **DO:** Start denial on the first lock cue, not after you feel crushed.  
+- **DON’T:** “Hand fight” without rebuilding legs-in barriers.
 
 **Failure signatures**  
-- You “let them connect” then get stuck in late survival.  
-- Handfighting without rebuilding barriers.
+- You defend grips but lock structure remains.  
+- You wait until compression is stable, then you’re forced into ALARM.
 
 **Metrics**  
-- % pressure sequences stopped before stable lock  
-- Time from lock cue → disruption
+- Time lock cue → disruption  
+- % pressure sequences stopped before stable compression
 
 **Links**  
-- Downstream: C-13 ladder; C-15 terminal step
+- Upstream: [A-03](#a-03) (where in chain are they?)  
+- Downstream: [C-11](#c-11), [C-10](#c-10), [C-13](#c-13)
 
 ---
 
 <a id="c-15"></a>
-### C-15 — Leg Reinsertion Terminal Step OS (Every Defense Ends Legs-In) (VN3/VN4)
+### C-15 — Leg Reinsertion Terminal Step OS (Every Defense Ends Legs-In)
 
 **Purpose (plain English)**  
-Make defense complete. If legs are not back between you and them, you are still losing—even if you “survived.”
+Defense is incomplete until legs are back between you and them. This is the “finish line” for all recoveries.
 
 **Trigger**  
-- After any successful wedge, frame, denial, or mobility recovery
+- After any successful wedge/frame/denial/movement  
+- Any time you feel “I survived” but you’re still leg-late
 
-**Inputs**  
-- Current barrier status (legs in front vs legs cleared)
+**Reads**  
+- Barrier status: legs-in vs legs-cleared
 
 **Outputs**  
-- Playable guard restored with legs as the primary barrier layer
+- Playable guard restored: legs-in + alignment + at least one handle
 
-**Procedure**  
-1) Create/preserve space (C-07/C-08).  
-2) Align (C-11).  
-3) Reinsert legs (C-10).  
-4) Attach handles (B-06/B-05).
+**Run it (fast)**  
+1) Ensure space exists (even small) ([C-08](#c-08)).  
+2) Align (re-square) ([C-11](#c-11)).  
+3) Reinsert legs (inside lanes restored) ([C-10](#c-10)).  
+4) Attach (durable handle + redundancy) ([B-06](#b-06), [B-05](#b-05)).
 
-**Rules**  
-- No “pause at survival.”  
-- Reinsertion must be explicit and immediate.
+**DO / DON’T**  
+- **DO:** Treat legs-in as non-negotiable completion.  
+- **DON’T:** Pause at “survival” while legs stay late.
 
 **Failure signatures**  
-- You frame forever while legs stay late.  
-- Opponent re-collapses instantly after you “escape.”
+- You frame forever and still get passed.  
+- You escape but get re-collapsed instantly (no terminal step).
 
 **Metrics**  
-- % recoveries that end with legs-in within 2–3 beats  
+- % defenses ending legs-in within 2–3 beats  
 - Re-collapse events after “successful defense”
 
 **Links**  
-- Downstream: B-bucket connection engines; D-bucket proof/entry conversion
-
-
-- [Bucket D — Conversion Engines](#bucket-d--conversion-engines)
-  - [D-01 Repair-Step Window OS](#d-01)
-  - [D-02 Reaction Window Conversion System](#d-02)
-  - [D-03 2-on-1 Ankle Primary Tool OS](#d-03)
-  - [D-04 Distance Breaker OS](#d-04)
-  - [D-05 Kneeling Entry Decision OS](#d-05)
-  - [D-06 Proof-Gated Entry OS (Kneeling)](#d-06)
-  - [D-07 Single-Leg Entry System OS](#d-07)
-  - [D-08 Double-Leg Entry System OS](#d-08)
-  - [D-09 Reverse Double-Leg Entry System OS](#d-09)
-  - [D-10 Bridge-Platform Integration OS (X/RDLR/HQ)](#d-10)
-  - [D-11 Momentum Entry OS](#d-11)
-  - [D-12 X-Guard Triple-Attack Router OS](#d-12)
-  - [D-13 RDLR as Anti-Pressure Bridge OS](#d-13)
-  - [D-14 HQ Recognition OS](#d-14)
-  - [D-15 DLR Outside-Control OS](#d-15)
-  - [D-16 Second Connection Rule OS](#d-16)
-  - [D-17 Entry-to-Consolidation Bridge OS](#d-17)
-  - [D-18 Cross-Catch Consolidation OS](#d-18)
-  - [D-19 Hip-Pin Consolidation OS](#d-19)
-  - [D-20 Knee-Line Containment OS](#d-20)
-  - [D-21 Platform-to-Hub Routing OS](#d-21)
-  - [D-22 Exit-Based Hub Selection OS](#d-22)
-  - [D-23 Anti-Exit Master OS](#d-23)
-  - [D-24 Backstep Follow OS](#d-24)
-  - [D-25 Flee Follow OS](#d-25)
-  - [D-26 Peel/Strip Counter-Loop OS](#d-26)
-  - [D-27 Stabilize-Then-Finish Governance OS](#d-27)
-
----
+- Downstream: [B-06](#b-06), [B-08](#b-08), [D-01](#d-01)
 
 ## Bucket D — Conversion Engines
 
 <a id="d-01"></a>
-### D-01 — Repair-Step Window OS (VN2/VN7)
+### D-01 — Repair-Step Window OS (Convert During Their Fix)
 
 **Purpose (plain English)**  
-Exploit the moment after you disrupt the opponent. The repair step is when their base is reorganizing—this is your highest-yield conversion window.
+The highest-yield conversion moment is when the opponent must repair base/posture after you disrupt them. Convert *during* the repair step, not after stability returns.
 
 **Trigger**  
-- Immediately after you cause a stumble, posture correction, forced step, or grip/angle denial  
-- Any time you see “they have to fix their feet”
+- You force a step/post/posture correction (see [B-03](#b-03), [B-08](#b-08), [C-01](#c-01))  
+- Opponent visibly “fixes” feet or posture
 
-**Inputs**  
-- A forced correction: step, post, or stance rebuild
+**Reads**  
+- Is the opponent currently transitioning (foot in air, hands posting, posture rebuilding)?  
+- Is the window still open (before they plant and stabilize)?
 
 **Outputs**  
-- Conversion action initiated before they re-stabilize (entry, upgrade, or hub transition)
+- Conversion initiated before re-stabilization: entry, platform, consolidation, or anti-exit follow
 
-**Procedure**  
+**Run it (fast)**  
 1) Cause disruption (deny link / steer base).  
-2) Watch for the repair step starting.  
-3) Convert immediately (do not admire your work).  
-4) If window closes, return to steering to create the next one.
+2) See repair-step start (transition cue).  
+3) Convert immediately (commit while they are reorganizing).  
+4) If window closes, don’t force—recreate proof.
 
-**Rules**  
-- If you wait until the foot lands and posture stabilizes, you missed it.  
-- Repair-step conversion is higher yield than “perfect setup.”
+**DO / DON’T**  
+- **DO:** Treat “foot in air / hands posting” as permission slips.  
+- **DON’T:** Admire your disruption and then attack a stable base.
 
 **Failure signatures**  
-- You create reactions but gain no ground.  
+- You generate reactions but gain no ground.  
 - Opponent repairs cleanly and restarts passing with confidence.
 
 **Metrics**  
-- Time disruption → conversion initiation  
-- % conversions executed before stance stabilizes
+- Disruption → conversion latency (beats)  
+- % conversions initiated before stance stabilizes
 
 **Links**  
-- Upstream: B-03 reaction forcing; C-01 denial cycle  
-- Downstream: D-05/D-06 entries; D-21 routing
+- Upstream: [B-03](#b-03), [B-08](#b-08), [C-01](#c-01)  
+- Downstream: [D-05](#d-05), [D-11](#d-11), [D-16](#d-16), [D-23](#d-23)
 
 ---
 
 <a id="d-02"></a>
-### D-02 — Reaction Window Conversion System (VN1)
+### D-02 — Reaction Window Conversion System (Force → Convert)
 
 **Purpose (plain English)**  
-Convert during the opponent’s reaction, not after. A reaction window is temporary; if you miss it, you must re-create it.
+Reactions are temporary. This system enforces: if you forced the reaction, you must convert inside the reaction window or you must recreate it.
 
 **Trigger**  
-- Any time you force step/post/posture change (B-03)
+- Any forced step/post/posture change (especially within 1–2 beats)
 
-**Inputs**  
-- Type of reaction (step vs post vs posture shift)
+**Reads**  
+- Which reaction occurred: step vs post vs posture shift  
+- Is connection still sticky through beat #1? ([B-16](#b-16))
 
 **Outputs**  
-- Immediate upgrade: deeper attachment, entry initiation, or consolidation
+- Immediate upgrade: deeper attachment, entry initiation, or consolidation installation
 
-**Procedure**  
-1) Force a reaction.  
-2) Convert within 1–2 beats: attach deeper, enter, or stabilize.  
-3) If you hesitate, restart the steering-to-reaction cycle.
+**Run it (fast)**  
+1) Force reaction ([B-03](#b-03)).  
+2) Convert within 1–2 beats (entry/upgrade/stabilize).  
+3) Install second connection immediately ([D-16](#d-16)).  
+4) If missed, restart steering to force a new reaction.
 
-**Rules**  
-- Reaction without conversion is wasted proof.  
-- Conversion must maintain connection (B-16 sticky rule).
+**DO / DON’T**  
+- **DO:** Convert while they are reacting, not after they stabilize.  
+- **DON’T:** Force reaction and pause (that’s gifting the repair).
 
 **Failure signatures**  
-- You force step/post then pause; opponent repairs and strips.  
-- You convert with poor connection and lose everything on first defense.
+- Reaction happens; you hesitate; opponent repairs and strips.  
+- You convert without sticky connection and lose everything on first peel.
 
 **Metrics**  
 - Reaction → conversion time  
-- % reactions that become tangible progress (entry/control)
+- % reactions producing tangible progress (entry/control)
 
 **Links**  
-- Upstream: B-03/B-08  
-- Downstream: D-03+ entries; D-16 consolidation
+- Upstream: [B-03](#b-03)  
+- Downstream: [D-16](#d-16), [D-17](#d-17), [D-23](#d-23)
 
 ---
 
 <a id="d-03"></a>
-### D-03 — 2-on-1 Ankle Primary Tool OS (VN5)
+### D-03 — 2-on-1 Ankle Primary Tool OS (Standing Handle)
 
 **Purpose (plain English)**  
-A primary standing engagement tool: create a reliable leg handle that forces immediate base reactions.
+A reliable standing conversion tool: create a posture-proof leg handle that forces immediate base reactions and anchors your entry chains.
 
 **Trigger**  
-- Opponent standing in open guard  
-- You can access a foot/ankle line
+- `REGIME: STANDING` and you can access foot/ankle line  
+- Opponent is retreating or stable and you need a high-leverage handle
 
-**Inputs**  
-- Foot availability + their weight distribution (heels/toes read helps)
+**Reads**  
+- Can you secure true line control (survive one step)? ([B-14](#b-14))  
+- Is opponent toes-loaded vs heels-loaded? ([A-01b](#a-01b))
 
 **Outputs**  
-- Stable ankle handle that forces step/turn reaction within 1–2 beats
+- Durable ankle handle that forces step/turn/post within 1–2 beats
 
-**Procedure**  
+**Run it (fast)**  
 1) Establish true 2-on-1 control on ankle/foot line.  
 2) Apply direction to force reaction (step/turn/post).  
-3) Convert on the reaction: follow, enter, or off-balance.  
-4) If they retract, reattach immediately (tempo).
+3) Convert on the reaction window ([D-01](#d-01)).  
+4) If they retract/peel, replace immediately ([B-06](#b-06)).
 
-**Rules**  
-- A “touch” is not a handle; it must survive a step.  
-- Direction matters; don’t pull randomly.
+**DO / DON’T**  
+- **DO:** Grade it by “survives one step + forces reaction.”  
+- **DON’T:** Treat a touch as control.
 
 **Failure signatures**  
-- You grab ankle, they step away, you lose contact.  
-- You pull without direction and get nothing.
+- You grab ankle; they step away; contact breaks.  
+- You pull without direction; no reaction.
 
 **Metrics**  
 - Reaction rate within 1–2 beats  
@@ -2063,919 +2203,970 @@ A primary standing engagement tool: create a reliable leg handle that forces imm
 - Conversion rate after first reaction
 
 **Links**  
-- Upstream: B-14 line control; B-15 hips connection  
-- Downstream: D-04 distance breaker; D-16 second connection
+- Upstream: [B-14](#b-14), [B-15](#b-15)  
+- Downstream: [D-04](#d-04), [D-16](#d-16), [D-23](#d-23)
 
 ---
 
 <a id="d-04"></a>
-### D-04 — Distance Breaker OS (Outside-Range Conversion) (VN5)
+### D-04 — Distance Breaker OS (Outside-Range Conversion)
 
 **Purpose (plain English)**  
-Convert “just out of range” into immediate leg attachment without waiting for the opponent to commit.
+Solve the “they won’t engage” problem. Convert outside range into immediate attachment, without waiting for them to commit.
 
 **Trigger**  
-- Opponent stalls outside your effective attachment range  
-- Opponent repeatedly disengages to reset
+- Opponent stalls just outside your attachment range  
+- Repeated disengage resets (`ENERGY: WITHDRAW`)  
+- You need to bridge range into leg contact
 
-**Inputs**  
-- Range gap + opponent step-away pattern
+**Reads**  
+- Can you maintain sticky connection through defense beat #1? ([B-16](#b-16))  
+- Is opponent retreating or stepping in?
 
 **Outputs**  
-- Immediate leg attachment (connection over landing aesthetics)
+- Immediate attachment that survives beat #1 + rapid redundancy install
 
-**Procedure**  
-1) Initiate distance breaker to bridge range.  
+**Run it (fast)**  
+1) Initiate distance breaker to close range.  
 2) Prioritize attachment before/at peak extension.  
-3) Land however you land—grade success by connection retained.  
-4) Immediately add redundancy (second connection) and convert.
+3) Accept imperfect landing; grade success by continuity (beat #1 survival).  
+4) Install second connection immediately ([D-16](#d-16)) and convert.
 
-**Rules**  
-- Connection > perfect landing.  
-- If attachment doesn’t survive first defensive beat, entry is invalid (B-16).
+**DO / DON’T**  
+- **DO:** Measure success by “connected after landing,” not aesthetics.  
+- **DON’T:** Throw entries that detach instantly.
 
 **Failure signatures**  
-- You wait; opponent never engages.  
-- You “enter” but lose the leg on first peel.
+- You “enter” but lose the leg on first peel.  
+- You wait for engagement and nothing happens.
 
 **Metrics**  
-- Time from outside-range state → first attachment  
-- Connection retained through landing (%)  
+- Outside-range → first attachment time  
+- Beat #1 survival rate  
 - Resets prevented per round
 
 **Links**  
-- Downstream: D-16 consolidation; D-23 anti-exit
-
----
+- Upstream: [A-02](#a-02) (WITHDRAW)  
+- Downstream: [D-16](#d-16), [D-23](#d-23), [B-06](#b-06)
 
 <a id="d-05"></a>
-### D-05 — Kneeling Entry Decision OS (Shoulders–Hips + Proof Gate) (VN6)
+### D-05 — Kneeling Entry Decision OS (Choose Family Only When Base Is Committable)
 
 **Purpose (plain English)**  
-Select the correct kneeling entry family only when the opponent’s kneeling base is actually compromisable.
+Select the correct kneeling entry family only when the kneeling base is actually compromisable. Prevents “hope shots” into stable kneeling posture.
 
 **Trigger**  
-- Opponent is kneeling or drops to knees  
-- You want to enter (single/double/reverse)
+- `REGIME: KNEELING`  
+- You want to enter (single / double / reverse double)
 
-**Inputs**  
-- Shoulders-leading vs hips-stacked (kneeling law)  
-- Proof presence (post/step/collapse)
+**Reads**  
+- Kneeling posture reality via [A-01a](#a-01a): shoulders-leading vs hips-stacked  
+- Proof presence (post/step/collapse) via [D-06](#d-06)  
+- Leg availability (one leg realistically available vs two)
 
 **Outputs**  
-- Entry family selection: single vs double vs reverse double  
-- “Enter now” vs “create proof first”
+- Entry family selection: SINGLE / DOUBLE / REVERSE DOUBLE  
+- “ENTER NOW” vs “CREATE PROOF FIRST”
 
-**Procedure**  
-1) Read kneeling posture (shoulders vs hips).  
-2) Demand proof.  
-3) Choose family that matches alignment and available legs.  
-4) Enter → immediately bridge to consolidation (D-17).
+**Run it (fast)**  
+1) Call kneeling posture: shoulders-leading or hips-stacked ([A-01a](#a-01a)).  
+2) Demand proof (post/step/collapse) ([D-06](#d-06)).  
+3) Choose family:
+   - One leg available → [D-07](#d-07)  
+   - Two legs available → [D-08](#d-08)  
+   - Standard alignment denied but proof exists → [D-09](#d-09)  
+4) After entry contact, immediately bridge to consolidation ([D-17](#d-17)).
 
-**Rules**  
-- No proof = no entry.  
-- If only one leg is realistically available, do not force double.
+**DO / DON’T**  
+- **DO:** Treat proof as permission to commit.  
+- **DON’T:** Force double when only one leg exists.
 
 **Failure signatures**  
-- Hope-based entries into stable kneeling base.  
-- Touch leg then lose it (no consolidation).
+- Entries get stuffed “mysteriously” (usually no proof).  
+- Touch leg then lose it immediately (no consolidation).
 
 **Metrics**  
-- % entries initiated on proof  
+- % kneeling entries initiated on proof  
 - Entry-to-control conversion rate
 
 **Links**  
-- Upstream: A-01 kneeling regime; D-01 repair-step window  
-- Downstream: D-06 proof gate; D-07–D-09 entry families
+- Upstream: [A-01a](#a-01a), [D-01](#d-01)  
+- Downstream: [D-06](#d-06), [D-07](#d-07), [D-08](#d-08), [D-09](#d-09), [D-17](#d-17)
 
 ---
 
 <a id="d-06"></a>
-### D-06 — Proof-Gated Entry OS (Kneeling Version) (VN6)
+### D-06 — Proof-Gated Entry OS (Kneeling Permission Slip)
 
 **Purpose (plain English)**  
-Prevent hope shots. Proof is the permission slip to commit.
+Proof prevents hope. No proof = no entry. Proof is the observable base compromise that makes the entry high percentage.
 
 **Trigger**  
-- You are “close enough to enter” but base looks stable
+- You are “close enough” to enter but base looks stable  
+- You’re about to commit under kneeling posture
 
-**Inputs**  
-- Proof signals: post, step, collapse, weight commitment
+**Reads (proof signals)**  
+- Hand **post** appears  
+- A **step** to repair balance  
+- Visible **collapse** forward/side  
+- Weight commitment that forces a correction
 
 **Outputs**  
-- Allowed vs denied entry commitment
+- ALLOW entry vs DENY entry (create proof first)
 
-**Procedure**  
-1) If proof absent → steer/deny until proof appears.  
-2) When proof appears → initiate entry immediately (within 1–2 beats).  
-3) Transition to consolidation without pause.
+**Run it (fast)**  
+1) If proof absent → steer/deny until proof appears (force step/post).  
+2) When proof appears → enter immediately (window is short).  
+3) After contact, install second connection and consolidate.
 
-**Rules**  
-- If you see proof and delay, you lose the window.  
-- If proof disappears, abort and recreate it.
+**DO / DON’T**  
+- **DO:** Enter within 1–2 beats of proof.  
+- **DON’T:** Wait after proof; it evaporates when they re-stabilize.
 
 **Failure signatures**  
-- Entries that get stuffed with no clear reason (usually no proof).  
-- You “wait” after proof and opponent repairs.
+- You attempt entries into stable kneeling base and get stalled.  
+- You see proof but delay, then complain it “didn’t work.”
 
 **Metrics**  
 - Invalid entry attempts per round  
-- Proof → entry initiation time
+- Proof→entry initiation latency (beats)
 
 **Links**  
-- Works with: D-01/D-02 timing
+- Upstream: [B-03](#b-03) (force reactions), [D-01](#d-01)  
+- Downstream: [D-07](#d-07), [D-08](#d-08), [D-09](#d-09), [D-16](#d-16)
 
 ---
 
 <a id="d-07"></a>
-### D-07 — Single-Leg Entry System OS (Kneeling Primary) (VN6)
+### D-07 — Single-Leg Entry System OS (Kneeling Primary When One Leg Is Real)
 
 **Purpose (plain English)**  
-A reliable kneeling entry template when one leg is available and proof is present.
+High-reliability kneeling entry when only one leg is realistically capturable. Optimized for “touch → secure → stabilize” without donating separation.
 
 **Trigger**  
-- Kneeling opponent with weight committed / base disrupted  
-- Only one leg is realistically capturable
+- Proof present ([D-06](#d-06))  
+- Only one leg is truly available (the other is hidden/posted/too far)
 
-**Inputs**  
-- Available leg line + your alignment
+**Reads**  
+- Can you secure the leg line through defense beat #1? ([B-16](#b-16))  
+- Can you keep hips connected to prevent retraction? ([B-15](#b-15))
 
 **Outputs**  
-- Single-leg access that immediately leads into consolidation
+- Secure single-leg access that immediately bridges to consolidation
 
-**Procedure**  
-1) Initiate single-leg on proof.  
+**Run it (fast)**  
+1) Initiate on proof (no proof = no entry).  
 2) Secure leg line (control, not touch).  
-3) Add second connection (D-16).  
-4) Bridge to consolidation (D-17).
+3) Install second connection within 1–2 beats ([D-16](#d-16)).  
+4) Bridge to consolidation ([D-17](#d-17)).
 
-**Rules**  
-- Access without consolidation is wasted.  
-- If alignment is lost, re-center before advancing.
+**DO / DON’T**  
+- **DO:** Treat “secure + second connection” as the entry completion.  
+- **DON’T:** Enter and then scramble without control.
 
 **Failure signatures**  
-- Touch leg then scramble without control.  
-- Opponent retracts leg immediately and resets.
+- Touch leg, opponent retracts, you reset.  
+- You lose connection on first peel.
 
 **Metrics**  
-- Entry→consolidation time  
-- % singles retained through first clear attempt
+- Entry→second connection time  
+- First-peel survival rate  
+- Entry→consolidation time
 
 **Links**  
-- Downstream: D-16/D-17/D-18
+- Downstream: [D-16](#d-16), [D-17](#d-17), [D-20](#d-20)
 
 ---
 
 <a id="d-08"></a>
-### D-08 — Double-Leg Entry System OS (Kneeling Primary) (VN6)
+### D-08 — Double-Leg Entry System OS (Kneeling When Both Legs Are Capturable)
 
 **Purpose (plain English)**  
-Use when proof indicates a split/forward commitment that exposes both legs.
+Use when proof indicates a split/forward commitment that exposes both legs. Designed to prevent pivot/turn-out during initiation.
 
 **Trigger**  
-- Kneeling opponent over-commits forward or base splits  
-- Both legs are realistically capturable
+- Proof present  
+- Both legs are realistically capturable (not theoretical)
 
-**Inputs**  
-- Two-leg availability + proof + alignment
+**Reads**  
+- Are both knees/legs within capture range simultaneously?  
+- Is opponent about to turn-out or retreat?
 
 **Outputs**  
-- Two-leg capture that leads to consolidation without separation
+- Two-leg capture that transitions directly into stabilization (knee-line containment + consolidation)
 
-**Procedure**  
-1) Initiate on proof.  
+**Run it (fast)**  
+1) Enter on proof.  
 2) Capture both legs (deny immediate retract).  
-3) Stabilize knee line (D-20).  
-4) Bridge to consolidation (D-17).
+3) Stabilize knee line early ([D-20](#d-20)).  
+4) Install second connection redundancy ([D-16](#d-16)) and consolidate ([D-17](#d-17)).
 
-**Rules**  
-- If both legs aren’t capturable, downgrade to single.  
-- Do not sacrifice connection for speed.
+**DO / DON’T**  
+- **DO:** If both legs aren’t truly there, downgrade to single immediately.  
+- **DON’T:** Sacrifice connection for speed; you’ll get pivoted off.
 
 **Failure signatures**  
-- Forcing double when only one leg exists.  
+- Forced double when only one leg existed.  
 - Opponent pivots/turns out during loose capture.
 
 **Metrics**  
-- % doubles that reach stabilization phase  
+- % doubles reaching knee-line stabilization  
 - Turn-out escapes during initiation
 
 **Links**  
-- Downstream: D-20 knee-line containment; D-18/D-19
+- Downstream: [D-20](#d-20), [D-16](#d-16), [D-17](#d-17)
 
 ---
 
 <a id="d-09"></a>
-### D-09 — Reverse Double-Leg Entry System OS (VN6)
+### D-09 — Reverse Double-Leg Entry System OS (When Standard Alignment Is Denied)
 
 **Purpose (plain English)**  
-A double-leg family for when conventional alignment is denied; uses reverse orientation to maintain access.
+A double-leg family for when conventional alignment is blocked but proof exists. Uses reverse orientation to maintain access without losing continuity.
 
 **Trigger**  
-- Kneeling opponent blocks standard double alignment  
-- Proof exists but alignment demands reverse orientation
+- Proof present  
+- Standard double entry alignment is denied (angle/frames prevent it)  
+- Reverse alignment allows access without separation
 
-**Inputs**  
-- Alignment constraint + leg availability + proof
+**Reads**  
+- Will reverse orientation preserve connection through defense beat #1? ([B-16](#b-16))  
+- Does reverse create distance or maintain hip connection?
 
 **Outputs**  
-- Reverse entry that maintains connection and routes to consolidation
+- Reverse entry that keeps attachment and routes to consolidation
 
-**Procedure**  
+**Run it (fast)**  
 1) Enter on proof with reverse alignment.  
-2) Maintain connection through first defensive turn.  
-3) Add second connection.  
-4) Bridge to consolidation.
+2) Maintain at least one connection through first defensive beat.  
+3) Install second connection immediately ([D-16](#d-16)).  
+4) Bridge to consolidation ([D-17](#d-17)).
 
-**Rules**  
-- If reverse entry causes separation, abort and re-center.  
-- Reverse is governed by alignment; do not force it.
+**DO / DON’T**  
+- **DO:** Abort if reverse creates separation; re-create proof instead.  
+- **DON’T:** “Spin” without attachment (that’s just giving distance).
 
 **Failure signatures**  
-- Reverse entry creates distance; opponent resets.  
-- You spin without attachment.
+- Reverse entry produces distance; opponent resets.  
+- You rotate but lose the legs.
 
 **Metrics**  
-- Connection retained through initiation (%)  
-- Reverse entries resulting in stable consolidation (%)
+- Beat #1 survival rate for reverse entries  
+- Reverse entry → consolidation rate
 
 **Links**  
-- Downstream: D-16/D-17
-
----
+- Downstream: [D-16](#d-16), [D-17](#d-17)
 
 <a id="d-10"></a>
-### D-10 — Bridge-Platform Integration OS (X/RDLR/HQ as Platforms) (VN7)
+### D-10 — Bridge-Platform Integration OS (X / RDLR / HQ Are Routing Platforms)
 
 **Purpose (plain English)**  
-Treat X-guard, RDLR, and HQ as routing platforms that move you into stable hubs—not as places to stay.
+Platforms are not destinations. Their job is to (1) survive beat #1, (2) force a reaction, (3) route you into stabilization/hub selection that denies the opponent’s best exit.
 
 **Trigger**  
-- You enter or arrive in X/RDLR/HQ  
-- You need to convert a scramble into control
+- You establish X / RDLR / HQ  
+- You land in a platform from a scramble  
+- You’re tempted to “hang out” in platform control
 
-**Inputs**  
-- Platform validity (A-09) + opponent response (drive/retreat/turn)
+**Reads**  
+- Platform validity (proof + restriction + beat #1 survival) via [A-09](#a-09) + [B-16](#b-16)  
+- Opponent’s first response: drive / turn / retreat / peel
 
 **Outputs**  
-- Platform stabilized → reaction forced → consolidation/hub selected
+- Platform stabilized (briefly) → reaction forced → routed to consolidation/hub
 
-**Procedure**  
-1) Confirm platform is valid (proof + connection survives beat #1).  
-2) Install second connection immediately.  
-3) Force a reaction (step/turn/post).  
-4) Route to the hub that suppresses their chosen exit (D-21).
+**Run it (fast)**  
+1) Confirm platform is valid (survive beat #1).  
+2) Install second connection immediately ([D-16](#d-16)).  
+3) Force a reaction (step/turn/post) ([B-03](#b-03)).  
+4) Route to hub/stabilization that blocks their exit ([D-21](#d-21), [D-23](#d-23)).
 
-**Rules**  
-- Platform time must be short; it exists to create a routed outcome.  
-- No redundancy = platform is unstable.
+**DO / DON’T**  
+- **DO:** Keep platform time short; it exists to produce a routed outcome.  
+- **DON’T:** Attack without suppressing the primary exit.
 
 **Failure signatures**  
-- You stall in platform and get peeled/reset.  
-- You attack without suppressing the primary exit.
+- Stall in platform → peel clears → full reset.  
+- You attack while exit is live → opponent resets (backstep/flee/turn-away).
 
 **Metrics**  
 - Platform→hub conversion rate  
 - Time platform established → first forced reaction
 
 **Links**  
-- Downstream: D-11 momentum entry; D-21 routing; D-23 anti-exit
+- Upstream: [A-09](#a-09), [B-16](#b-16)  
+- Downstream: [D-11](#d-11), [D-21](#d-21), [D-23](#d-23)
 
 ---
 
 <a id="d-11"></a>
-### D-11 — Momentum Entry OS (Use Opponent Motion as Engine) (VN7)
+### D-11 — Momentum Entry OS (Enter on Motion, Not on Stability)
 
 **Purpose (plain English)**  
-Enter and convert when the opponent is moving, not when they are stable. Motion creates openings; stability kills entries.
+Static bases stuff entries. Motion creates openings. This OS makes you time entries on steps, turns, retreats, and repair-steps.
 
 **Trigger**  
-- Opponent steps, turns, retreats, or repair-steps  
-- You create a reaction and they must re-stabilize
+- Opponent is stepping/turning/retreating  
+- Immediately after you force a reaction ([B-03](#b-03))  
+- During repair-step windows ([D-01](#d-01))
 
-**Inputs**  
-- Motion type + direction (drive/withdraw/redirect)
+**Reads**  
+- Motion type: step / turn / retreat / post  
+- Are you connected enough to survive beat #1? ([B-16](#b-16))
 
 **Outputs**  
-- Entry completion or platform stabilization initiated during motion window
+- Entry/upgrade initiated inside the transition window
 
-**Procedure**  
-1) Identify the motion.  
+**Run it (fast)**  
+1) Identify motion.  
 2) Enter/upgrade during the transition.  
-3) Immediately add redundancy and route to stabilization.
+3) Add redundancy immediately; route to stabilization.
 
-**Rules**  
-- Do not attempt high-cost entries into stable base.  
-- Motion windows are short; commit cleanly.
+**DO / DON’T**  
+- **DO:** If base is stable, create motion first (step map).  
+- **DON’T:** Shoot into stable posture and expect it to work.
 
 **Failure signatures**  
-- You shoot into stable base and get stuffed.  
-- You hesitate and motion window closes.
+- Stuffed entries into stable base.  
+- Hesitation after reaction; window closes.
 
 **Metrics**  
 - % entries initiated during motion (vs static)  
 - Stuffed-entry rate
 
 **Links**  
-- Upstream: D-01 repair-step window; A-02 energy read
+- Upstream: [B-08](#b-08), [D-01](#d-01)  
+- Downstream: [D-16](#d-16), [D-17](#d-17)
 
 ---
 
 <a id="d-12"></a>
-### D-12 — X-Guard Triple-Attack Router OS (VN7)
+### D-12 — X-Guard Triple-Attack Router OS (Response-Based Lane Selection)
 
 **Purpose (plain English)**  
-From X-guard, choose the correct lane based on the opponent’s first reaction so you stay unpredictable and high-percentage.
+From X, you choose the lane that punishes the opponent’s first response. Prevents predictable “same attack every time.”
 
 **Trigger**  
-- X-guard platform established and opponent reacts
+- X platform established and opponent reacts
 
-**Inputs**  
-- Opponent response: drive / turn / retreat
+**Reads**  
+- Opponent response: **DRIVE** / **TURN** / **RETREAT**  
+- Load status: do you have their weight captured enough to off-balance?
 
 **Outputs**  
-- Correct lane selection from three primary threats (response-based)
+- Correct lane selection (one primary lane, not three at once)
 
-**Procedure**  
-1) Force/observe first reaction.  
+**Run it (fast)**  
+1) Force/observe the first reaction.  
 2) Select the lane that punishes that reaction.  
-3) Stabilize before finishing if the primary exit is still live.
+3) Stabilize if exit is live; finish only after suppression ([D-27](#d-27)).
 
-**Rules**  
-- Do not repeat one lane regardless of response.  
-- If load is absent, do not turn/off-balance yet (establish load first).
+**DO / DON’T**  
+- **DO:** Demand load before you try to turn/off-balance.  
+- **DON’T:** Spam the same lane regardless of response.
 
 **Failure signatures**  
-- Predictable lane spam; opponent pre-defends.  
-- Turning without load; opponent steps out.
+- Step-out escapes because you turned without load.  
+- Predictability: opponent pre-defends.
 
 **Metrics**  
 - Correct lane selection rate  
-- Step-out escape frequency
+- Step-out/escape frequency after initiating attack
 
 **Links**  
-- Downstream: D-16 second connection; D-21 routing
+- Downstream: [D-21](#d-21), [D-23](#d-23), [D-27](#d-27)
 
 ---
 
 <a id="d-13"></a>
-### D-13 — RDLR as Anti-Pressure Bridge OS (VN7)
+### D-13 — RDLR as Anti-Pressure Bridge OS (Survive → Convert, Not Hang On)
 
 **Purpose (plain English)**  
-Use RDLR to survive pressure style passing and route into leg control/hubs without allowing clean disengagement.
+Use RDLR to absorb pressure without giving clean disengagement. The goal is to force proof windows and route into stabilization, not to stall.
 
 **Trigger**  
-- Pressure passer closes distance and begins compression  
-- You need a bridge platform that keeps connection
+- `ARCHETYPE: PRESSURE` closes distance  
+- You need a bridge platform that keeps connection under compression
 
-**Inputs**  
-- Compression direction + opponent attempt to clear/peel
+**Reads**  
+- Can you maintain sticky attachment through beat #1? ([B-16](#b-16))  
+- Is opponent trying to peel/clear and reset?
 
 **Outputs**  
-- Pressure absorbed → connection maintained → conversion lane opens
+- Pressure absorbed → connection maintained → proof window appears → route to hub
 
-**Procedure**  
-1) Maintain sticky attachment through first pressure beat.  
-2) Deny angle/run-around and prevent clean clear.  
+**Run it (fast)**  
+1) Maintain attachment through the first pressure beat.  
+2) Deny angle/run-around while under pressure.  
 3) Create proof via their corrective steps.  
-4) Route to hub based on exit attempts.
+4) Route to hub based on exit attempt ([D-21](#d-21), [D-23](#d-23)).
 
-**Rules**  
-- RDLR is not “hanging on”; it must route to something.  
-- If they can step away freely, reattach before continuing.
+**DO / DON’T**  
+- **DO:** Treat RDLR as a bridge to conversion.  
+- **DON’T:** Allow free step-away; reattach before continuing.
 
 **Failure signatures**  
-- RDLR contact but no restriction; peel clears and opponent resets.  
-- Angle loss occurs while you stall.
+- RDLR contact exists but does not restrict; peel clears and opponent resets.  
+- You stall and get flattened.
 
 **Metrics**  
-- RDLR survival-to-conversion rate  
+- RDLR survival→conversion rate  
 - Peel survival rate
 
 **Links**  
-- Downstream: D-21 routing; D-23 anti-exit
+- Upstream: [C-13](#c-13), [A-09](#a-09)  
+- Downstream: [D-21](#d-21), [D-23](#d-23)
 
 ---
 
 <a id="d-14"></a>
-### D-14 — HQ Recognition OS (Split-Squat Recognition) (VN7)
+### D-14 — HQ Recognition OS (Split-Squat Junction Alert)
 
 **Purpose (plain English)**  
-Recognize HQ immediately as a high-risk junction where backstep/turn-away resets are imminent unless you act early.
+HQ is a high-risk junction where backstep/turn-away resets are imminent. Recognition must be immediate so you suppress the exit before it happens.
 
 **Trigger**  
 - Opponent establishes split-squat / HQ engagement
 
-**Inputs**  
-- Split stance + hip angle threat cues
+**Reads**  
+- Which reset exit is coming:
+  - `EXIT: BACKSTEP`
+  - `EXIT: TURN-AWAY`
+  - `EXIT: FLEE`
 
 **Outputs**  
-- Early response selection (before backstep/turn-away is clean)
+- Early suppression priority (stop exit first, then progress)
 
-**Procedure**  
+**Run it (fast)**  
 1) Recognize HQ instantly.  
-2) Identify which reset exit is coming (backstep vs turn-away vs flee).  
-3) Prioritize suppression of that exit before attempting offense.
+2) Identify the primary exit attempt.  
+3) Suppress that exit before attacking ([D-23](#d-23), then [D-24](#d-24)/[D-25](#d-25)).
 
-**Rules**  
-- Late recognition = reset.  
-- Stop the exit first; then progress.
+**DO / DON’T**  
+- **DO:** Stop the reset first.  
+- **DON’T:** Chase offense while exit is live.
 
 **Failure signatures**  
-- You notice HQ only after the backstep already created distance.  
-- You chase an attack and allow a free reset.
+- You notice HQ after the backstep already created distance.  
+- You attack and opponent cleanly resets.
 
 **Metrics**  
-- Time-to-recognition from HQ entry  
-- Backstep reset rate
+- HQ recognition latency  
+- Backstep reset rate from HQ
 
 **Links**  
-- Downstream: D-21 routing; D-24 backstep follow
+- Downstream: [D-24](#d-24), [D-23](#d-23), [D-21](#d-21)
 
 ---
 
 <a id="d-15"></a>
-### D-15 — DLR Outside-Control OS (DLR as Outside Track) (VN8)
+### D-15 — DLR Outside-Control OS (Outside Track = No Free Step-Away)
 
 **Purpose (plain English)**  
-Use DLR to control the outside track and prevent easy disengagement/step-away, then force a step map that creates entries.
+DLR functions only if you control the outside track so they can’t step away and reset. Outside control + redundancy forces predictable steps and creates conversion windows.
 
 **Trigger**  
-- DLR engagement chosen or achieved
+- DLR engaged or attempted  
+- Opponent trying to peel and step-away to reset
 
-**Inputs**  
-- Outside control quality + opponent peel/step-away attempts
+**Reads**  
+- Can they step-away cleanly?  
+- Can you survive peel #1 and maintain outside control?
 
 **Outputs**  
-- Step map forced + entries routed by opponent response
+- Step map forced + predictable reactions → conversion windows
 
-**Procedure**  
+**Run it (fast)**  
 1) Establish outside control that restricts step-away.  
-2) Add second connection (redundancy).  
-3) Force step map (predictable reactions).  
-4) Convert on reaction windows.
+2) Install second connection immediately ([D-16](#d-16)).  
+3) Force step map ([B-08](#b-08)).  
+4) Convert on reaction windows ([D-01](#d-01)).
 
-**Rules**  
-- If they can step away or peel freely, DLR is not “on”—rebuild.  
-- DLR is a system, not a hook.
+**DO / DON’T**  
+- **DO:** Treat “no free step-away” as the KPI for DLR.  
+- **DON’T:** Assume DLR is on just because a hook exists.
 
 **Failure signatures**  
-- DLR contact exists but opponent disengages for free.  
+- Opponent disengages for free; repeated resets.  
 - First peel clears everything.
 
 **Metrics**  
 - Forced steps/posts per minute from DLR  
-- Peel survival rate (first beat)
+- Peel survival rate (beat #1)  
+- Step-away resets allowed per round
 
 **Links**  
-- Upstream: A-10 DLR validity gate  
-- Downstream: D-23 anti-exit, D-16 consolidation
-
----
+- Upstream: [A-10](#a-10), [B-16](#b-16)  
+- Downstream: [D-23](#d-23), [D-22](#d-22)
 
 <a id="d-16"></a>
-### D-16 — Second Connection Rule OS (VN6/VN7/VN1)
+### D-16 — Second Connection Rule OS (Redundancy Within 1–2 Beats)
 
 **Purpose (plain English)**  
-Prevent single-point collapse. Any entry/contact is temporary until a second point is installed.
+First connection is temporary. Second connection makes it real. This rule prevents one-peel resets and stabilizes every entry/platform.
 
 **Trigger**  
-- The moment you gain entry contact (leg/handle/platform)
+- The moment you establish any meaningful first connection (leg handle, platform, clamp)  
+- Any time you catch yourself progressing from single-point contact
 
-**Inputs**  
-- Current connection count (1 vs 2+)
+**Reads**  
+- Connection count (1 vs 2+)  
+- Opponent’s peel/strip readiness (hands active, retreat cues)
 
 **Outputs**  
-- Redundant control structure resilient to first peel/clear
+- A redundant control structure that survives defense beat #1 and #2
 
-**Procedure**  
+**Run it (fast)**  
 1) Gain first connection.  
 2) Install second connection within 1–2 beats.  
-3) Only then progress to deeper actions.
+3) Only then progress to consolidation/finish.
 
-**Rules**  
-- One connection = temporary.  
-- Redundancy is the price of stability.
+**DO / DON’T**  
+- **DO:** Treat “second connection” as mandatory before ambition.  
+- **DON’T:** Attack from a single-point handle.
 
 **Failure signatures**  
 - First peel clears everything.  
-- You attempt finishes from single-point control and lose contact.
+- You repeatedly “get there” but can’t keep it.
 
 **Metrics**  
-- Time to second connection after entry  
+- Time to second connection after first contact  
 - First-peel survival rate
 
 **Links**  
-- Downstream: D-17 consolidation bridge; D-18/D-19 stabilization
+- Upstream: [B-16](#b-16), [B-05](#b-05)  
+- Downstream: [D-17](#d-17), [D-23](#d-23)
 
 ---
 
 <a id="d-17"></a>
-### D-17 — Entry-to-Consolidation Bridge OS (No “Access Only”) (VN6)
+### D-17 — Entry-to-Consolidation Bridge OS (No “Access Only”)
 
 **Purpose (plain English)**  
-Make entries matter. Every entry must immediately become a control structure; otherwise opponent disengages and you reset.
+Entries are worthless if they don’t become a stable structure. This OS forces every entry to immediately convert into consolidation that denies retract/turn-out/reset.
 
 **Trigger**  
-- Any successful entry contact (single/double/platform leg access)
+- Any successful entry contact (single/double/platform leg access)  
+- Any time you “touch legs” but feel unstable
 
-**Inputs**  
-- Entry contact + opponent immediate clear attempts
+**Reads**  
+- Can you deny immediate retract/turn-out?  
+- Did you install second connection? ([D-16](#d-16))
 
 **Outputs**  
-- Installed consolidation (cross-catch/hip-pin/knee-line control)
+- Installed consolidation structure (cross-catch / hip-pin / knee-line containment)
 
-**Procedure**  
+**Run it (fast)**  
 1) Entry contact achieved.  
-2) Add second connection (D-16).  
-3) Install consolidation structure (D-18/D-19).  
-4) Suppress primary exit (D-21/D-23 as needed).
+2) Install second connection ([D-16](#d-16)).  
+3) Install consolidation structure ([D-18](#d-18), [D-19](#d-19)).  
+4) Monitor knee line and suppress escape ([D-20](#d-20)).
 
-**Rules**  
-- Access without consolidation is not success.  
-- Consolidation must survive the first two defensive beats.
+**DO / DON’T**  
+- **DO:** Consolidate before chasing finishes.  
+- **DON’T:** Scramble in “access mode” and donate separation.
 
 **Failure signatures**  
-- You touch legs then scramble without control.  
-- Opponent retracts and resets cleanly.
+- Opponent retracts and resets cleanly.  
+- You lose control on first turn-out.
 
 **Metrics**  
 - Entry→consolidation time  
-- % entries that survive first clear attempt
+- % entries surviving first clear attempt
 
 **Links**  
-- Downstream: D-18/D-19/D-20
+- Downstream: [D-18](#d-18), [D-19](#d-19), [D-20](#d-20), [D-23](#d-23)
 
 ---
 
 <a id="d-18"></a>
-### D-18 — Cross-Catch Consolidation OS (VN6)
+### D-18 — Cross-Catch Consolidation OS (Contain Retract + Rotation)
 
 **Purpose (plain English)**  
-Convert leg access into containment that prevents clean retract/turn-out.
+Convert leg access into containment that prevents clean retraction and limits rotational exits. This is the first “make it stick” consolidation layer.
 
 **Trigger**  
 - After leg access is achieved  
-- Especially when opponent tries to peel and retract
+- Opponent attempts to retract leg or pivot out
 
-**Inputs**  
-- Leg line captured + opponent rotation attempts
+**Reads**  
+- Retract attempts (foot/knee line pulling free)  
+- Rotation attempts (hip turning to exit)
 
 **Outputs**  
-- Stable containment that limits retraction and rotation exits
+- Stable containment that denies clean retract/turn-out long enough to progress
 
-**Procedure**  
+**Run it (fast)**  
 1) Establish cross-catch structure.  
-2) Test: can they retract/turn-out cleanly?  
-3) If yes, tighten and add hip/knee-line suppression layers.
+2) Test: can they retract cleanly? can they rotate freely?  
+3) If rotation is still live, add hip-pin layer ([D-19](#d-19)).  
+4) Maintain knee line ([D-20](#d-20)).
 
-**Rules**  
-- Containment must remove the “easy reset” exits.  
-- If you can’t contain rotation, do not rush finishing.
+**DO / DON’T**  
+- **DO:** Test containment immediately (don’t assume).  
+- **DON’T:** Chase progress while retract/rotation is still free.
 
 **Failure signatures**  
 - Leg retracts cleanly on first defense.  
-- Opponent pivots out while you chase progress.
+- Opponent pivots out while you chase.
 
 **Metrics**  
 - Hold time under resistance  
 - Clean retract escapes allowed (%)
 
 **Links**  
-- Downstream: D-19 hip-pin; D-20 knee-line containment
+- Next: [D-19](#d-19), [D-20](#d-20)
 
 ---
 
 <a id="d-19"></a>
-### D-19 — Hip-Pin Consolidation OS (VN6)
+### D-19 — Hip-Pin Consolidation OS (Suppress Rotation First)
 
 **Purpose (plain English)**  
-Suppress rotational exits by controlling the hip line. This stabilizes the exchange so you can progress without donating turn-outs.
+Rotational freedom is the main escape engine. Hip-pin suppresses rotation so your consolidation doesn’t evaporate into turn-aways/backsteps.
 
 **Trigger**  
-- Opponent begins turning hips to escape consolidation  
+- Opponent begins turning hips to escape  
 - After cross-catch when rotation pressure appears
 
-**Inputs**  
-- Rotation attempts + hip line accessibility
+**Reads**  
+- Rotation direction (which way they are turning to unwind)  
+- Is rotation still free after your first containment attempt?
 
 **Outputs**  
-- Rotation suppressed; stabilization achieved
+- Rotation suppressed; stabilization achieved; exit paths narrowed
 
-**Procedure**  
+**Run it (fast)**  
 1) Identify rotation direction.  
-2) Pin/suppress hip line accordingly.  
-3) Re-test: is rotation still free? If yes, re-tighten before progressing.
+2) Apply hip-pin/suppression that blocks that rotation.  
+3) Re-test: is rotation still available? If yes, re-tighten before progressing.
 
-**Rules**  
-- If rotation is free, progression is premature.  
-- Stabilize before pursuing “finish” outcomes.
+**DO / DON’T**  
+- **DO:** Stabilize rotation before pursuing finish outcomes.  
+- **DON’T:** Trade stabilization for speed (you’ll get reset).
 
 **Failure signatures**  
-- You chase progress while hip rotation is still available.  
-- Opponent turn-aways/backsteps to reset.
+- You chase progress and opponent turn-aways/backsteps out.  
+- You “feel close” but can’t keep them contained.
 
 **Metrics**  
-- Rotation-to-reset rate  
-- Time to suppress rotation after attempt begins
+- Rotation escape frequency after consolidation begins  
+- Time to suppress rotation after attempt starts
 
 **Links**  
-- Works with: D-18, D-21, D-23
+- Next: [D-20](#d-20), [D-23](#d-23)
 
 ---
 
 <a id="d-20"></a>
-### D-20 — Knee-Line Containment OS (VN6)
+### D-20 — Knee-Line Containment OS (Don’t Let Base Rebuild)
 
 **Purpose (plain English)**  
-Maintain control by preventing the opponent from freeing the knee line, which restores their base and kills your control.
+If the knee line escapes, the opponent rebuilds base and your entire entry loses value. Knee-line control is the “keep the base broken” layer.
 
 **Trigger**  
-- Opponent tries to pull knees free or widen base after your entry
+- Opponent tries to pull knees free, widen base, or stand/retract after your entry  
+- Any time you feel knee line slipping
 
-**Inputs**  
-- Knee line status (captured vs slipping) + opponent widening/retracting
+**Reads**  
+- Knee line status: captured vs slipping  
+- Opponent widening/retracting behavior
 
 **Outputs**  
-- Knee line retained; base recovery denied
+- Knee line retained; base recovery denied; continuation of consolidation
 
-**Procedure**  
-1) Monitor knee line continuously after entry.  
-2) If knee line slips, recapture immediately (before chasing anything else).  
-3) Reinstall redundancy and continue consolidation.
+**Run it (fast)**  
+1) Monitor knee line continuously (not occasionally).  
+2) If it slips, recapture immediately (before chasing progress).  
+3) Rebuild redundancy if needed and continue consolidation.
 
-**Rules**  
-- Knee line escape = immediate loss of entry value.  
-- Do not ignore knee-line slippage while pursuing progress.
+**DO / DON’T**  
+- **DO:** Treat knee-line slippage as highest priority.  
+- **DON’T:** Ignore knee line while pursuing “finish” actions.
 
 **Failure signatures**  
-- Knees slip free; opponent stands/backs out and resets.  
-- You “almost had it” but lost knee line.
+- Knees slip free → opponent stands/backs out → reset.  
+- You had control but lost it during ambition.
 
 **Metrics**  
 - Knee-line recapture success rate  
-- Escapes occurring after knee-line slip events
+- Resets occurring after knee-line slip events
 
 **Links**  
-- Downstream: D-21 hub routing; D-23 anti-exit
-
----
+- Downstream: [D-21](#d-21), [D-23](#d-23), [D-27](#d-27)
 
 <a id="d-21"></a>
-### D-21 — Platform-to-Hub Routing OS (Choose Hub by Exit) (VN7)
+### D-21 — Platform-to-Hub Routing OS (Choose Stabilization by Exit)
 
 **Purpose (plain English)**  
-Choose stabilization based on the opponent’s exit attempt. The hub is selected to suppress the exit they are actually using.
+You don’t pick stabilization by preference; you pick it to suppress the opponent’s current escape. Routing is “exit-first decision making.”
 
 **Trigger**  
-- After platform control is established and opponent begins escaping (turn-away/backstep/flee/clear)
+- After platform is established and opponent starts escaping  
+- After consolidation begins and you feel them trying to reset distance
 
-**Inputs**  
-- Primary exit attempt (which reset restores distance fastest)
+**Reads**  
+- Primary exit attempt (which one restores distance fastest):
+  - `EXIT: BACKSTEP`
+  - `EXIT: FLEE`
+  - `EXIT: TURN-AWAY`
+  - `EXIT: PEEL/STRIP`
 
 **Outputs**  
-- Correct hub selection and stabilization priority
+- Correct routing choice + suppression priority (stop exit first)
 
-**Procedure**  
+**Run it (fast)**  
 1) Identify primary exit attempt.  
-2) Select hub/stabilization that blocks that exit.  
-3) Stabilize first; then progress.
+2) Choose stabilization response that blocks that exit.  
+3) Stabilize first; only then progress/finish.
 
-**Rules**  
-- Hub selection is dictated by exit, not habit.  
-- If multiple exits appear, stop the one that restores distance fastest (unless pin risk is immediate).
+**DO / DON’T**  
+- **DO:** Stop the exit that restores distance fastest.  
+- **DON’T:** Stabilize into a structure that allows their preferred reset.
 
 **Failure signatures**  
-- You stabilize into a hub that allows their preferred reset.  
-- You stop a secondary motion and allow the primary escape.
+- You “get control” but opponent resets anyway.  
+- You stop a secondary motion and allow primary escape.
 
 **Metrics**  
-- Exit suppression rate after routing  
-- Resets allowed after reaching platform (%)
+- Exit suppression rate after routing decision  
+- Resets allowed after platform established (%)
 
 **Links**  
-- Downstream: D-23 anti-exit; D-27 governance
+- Downstream: [D-22](#d-22), [D-23](#d-23), [D-27](#d-27)
 
 ---
 
 <a id="d-22"></a>
-### D-22 — Exit-Based Hub Selection OS (VN8)
+### D-22 — Exit-Based Hub Selection OS (Universal Reset Classifier)
 
 **Purpose (plain English)**  
-A general version of D-21 across DLR/closed/open systems: stabilize based on whether they flee, backstep, turn-away, or peel.
+A general classifier that tags the opponent’s reset behavior so the correct follow/contain response is automatic.
 
 **Trigger**  
-- Anytime opponent chooses a reset behavior after you establish control
+- Any time opponent attempts to reset distance or strip control
 
-**Inputs**  
-- Exit behavior classification: flee / backstep / turn-away / peel-strip
+**Reads**  
+- `EXIT` classification:
+  - FLEE (backing out/running away)
+  - BACKSTEP (hip rotation + step around to disengage)
+  - TURN-AWAY (turning hips away to unwind)
+  - PEEL/STRIP (hand-fighting your connection off)
 
 **Outputs**  
-- Chosen stabilization pathway that denies reset
+- Correct anti-exit response selection
 
-**Procedure**  
-1) Classify exit.  
-2) Apply the appropriate follow/containment response.  
-3) Rebuild connection and force proof again.
+**Run it (fast)**  
+1) Classify the exit.  
+2) Execute the matching follow/contain response.  
+3) Rebuild connection + force new proof window.
 
-**Rules**  
-- Resets are not allowed for free.  
-- Follow must preserve at least one connection.
+**DO / DON’T**  
+- **DO:** Follow immediately while maintaining attachment.  
+- **DON’T:** Chase after you’ve already lost contact.
 
 **Failure signatures**  
-- Opponent repeatedly resets to long range.  
-- You chase the wrong thing and lose attachment.
+- Repeated clean resets.  
+- Late follow with no connection.
 
 **Metrics**  
-- Resets allowed per round  
-- Time from exit attempt → reattachment
+- Time exit begins → reattachment  
+- Resets allowed per round
 
 **Links**  
-- Downstream: D-24/D-25/D-26 anti-exit tools
+- Downstream: [D-24](#d-24), [D-25](#d-25), [D-26](#d-26), [D-23](#d-23)
 
 ---
 
 <a id="d-23"></a>
-### D-23 — Anti-Exit Master OS (No-Reset Governance) (VN8)
+### D-23 — Anti-Exit Master OS (No Free Resets)
 
 **Purpose (plain English)**  
-Make every disengagement attempt costly or impossible. Anti-exit turns your control into a persistent loop instead of a series of resets.
+Convert your control into a persistent loop. Every disengagement attempt is treated as a trigger to maintain at least one connection and reassert control.
 
 **Trigger**  
-- Any backstep, flee, peel/strip, or turn-away reset attempt
+- Any backstep/flee/turn-away/peel reset attempt  
+- Any time opponent tries to return to long range
 
-**Inputs**  
-- Exit type + your current connection quality
+**Reads**  
+- Which exit is occurring (use [D-22](#d-22))  
+- Do you still have at least one connection? (must be yes)
 
 **Outputs**  
-- Maintained contact through the reset attempt + re-established control loop
+- Attachment maintained through the reset attempt + immediate re-control loop restart
 
-**Procedure**  
-1) Detect exit attempt early.  
-2) Follow immediately (do not pause).  
-3) Maintain at least one connection through defensive beat #1 (B-16).  
-4) Rebuild redundancy and force the next proof window.
+**Run it (fast)**  
+1) Detect exit early.  
+2) Follow immediately while keeping one connection.  
+3) Rebuild second connection ([D-16](#d-16)).  
+4) Force new reaction/proof and convert ([B-03](#b-03), [D-01](#d-01)).
 
-**Rules**  
-- “They reset” is a failure unless you chose to allow it.  
-- Follow must preserve connection; chasing without attachment is invalid.
+**DO / DON’T**  
+- **DO:** Preserve attachment; attachment is the follow engine.  
+- **DON’T:** Accept resets as “normal.” They are failures unless chosen.
 
 **Failure signatures**  
-- Opponent disengages repeatedly and you restart neutral.  
-- You follow late and arrive after they’re stable.
+- Opponent repeatedly returns to long range.  
+- You follow late and arrive after they are stable.
 
 **Metrics**  
 - Reset attempts denied (%)  
-- Time exit begins → reattachment
+- Reattachment time after exit begins
 
 **Links**  
-- Downstream: D-24/D-25/D-26
+- Downstream: [D-24](#d-24), [D-25](#d-25), [D-26](#d-26)
 
 ---
 
 <a id="d-24"></a>
-### D-24 — Backstep Follow OS (VN8/VN7)
+### D-24 — Backstep Follow OS (Track the Rotation Early)
 
 **Purpose (plain English)**  
-Deny the backstep reset by following hip rotation early and reattaching before distance returns.
+Deny backstep reset by following the hip rotation early and reattaching before they square up at distance.
 
 **Trigger**  
-- Opponent initiates backstep hip rotation to disengage
+- `EXIT: BACKSTEP` detected
 
-**Inputs**  
-- Hip rotation cue + your available connection points
+**Reads**  
+- Hip rotation cue (the moment it begins)  
+- Which connection point will survive the turn?
 
 **Outputs**  
 - Backstep contained; reattachment preserved
 
-**Procedure**  
-1) Recognize hip rotation early.  
+**Run it (fast)**  
+1) Recognize rotation early.  
 2) Follow the rotation (don’t chase where they were).  
-3) Reattach and rebuild control before they square up.
+3) Reattach and rebuild redundancy before they square up.
 
-**Rules**  
-- Early follow is mandatory; late follow equals full reset.  
-- Maintain at least one connection through the turn.
+**DO / DON’T**  
+- **DO:** Follow on the first rotation cue.  
+- **DON’T:** Follow after distance is restored (too late).
 
 **Failure signatures**  
-- Backstep produces full reset distance.  
-- You chase late and lose contact.
+- Full reset created by backstep.  
+- You chase after losing attachment.
 
 **Metrics**  
 - Backstep resets allowed per round  
-- Time from rotation cue → reattachment
+- Rotation cue → reattachment time
 
 **Links**  
-- Part of: D-23 anti-exit master
+- Part of: [D-23](#d-23)
 
 ---
 
 <a id="d-25"></a>
-### D-25 — Flee Follow OS (Runaway Reset Prevention) (VN8/VN7)
+### D-25 — Flee Follow OS (No Free Retreat)
 
 **Purpose (plain English)**  
-When the opponent retreats to reset stance, you occupy space and keep attachment so they can’t cleanly restart.
+When the opponent retreats to reset stance, you maintain attachment and occupy space so they can’t restart stable.
 
 **Trigger**  
-- Opponent backs out/runs away to reset distance
+- `EXIT: FLEE` detected (backing away / disengaging)
 
-**Inputs**  
-- Retreat direction and speed + your current handle
+**Reads**  
+- Retreat direction and speed  
+- Can you keep at least one connection during retreat?
 
 **Outputs**  
 - Continuous attachment through retreat + forced re-engagement
 
-**Procedure**  
-1) Treat retreat as a trigger.  
-2) Follow immediately while maintaining at least one connection.  
-3) Rebuild redundancy and force step map again.
+**Run it (fast)**  
+1) Treat retreat as immediate trigger.  
+2) Follow while maintaining at least one connection.  
+3) Rebuild redundancy and force step map again ([B-08](#b-08)).
 
-**Rules**  
-- No free retreat resets.  
-- Connection must persist; otherwise you are just chasing.
+**DO / DON’T**  
+- **DO:** Maintain attachment; don’t “run after them.”  
+- **DON’T:** Let them reset stance cleanly.
 
 **Failure signatures**  
-- Opponent resets repeatedly and you accept it.  
-- You chase but do not maintain attachment.
+- Repeated long-range resets.  
+- You chase without attachment and arrive late.
 
 **Metrics**  
 - Retreat resets allowed per round  
-- Reattachment time after retreat begins
+- Retreat cue → reattachment time
 
 **Links**  
-- Part of: D-23 anti-exit master
+- Part of: [D-23](#d-23)
 
 ---
 
 <a id="d-26"></a>
-### D-26 — Peel/Strip Counter-Loop OS (VN8)
+### D-26 — Peel/Strip Counter-Loop OS (Strip → Replace → Redundancy)
 
 **Purpose (plain English)**  
-Survive strip/peel attempts by treating them as predictable beats: strip → replace → second connection → resume forcing reactions.
+Strips are predictable beats. This loop makes strip attempts convert into your reattachment tempo rather than a reset.
 
 **Trigger**  
-- Opponent peels hooks, strips grips, or attacks your connection points
+- `EXIT: PEEL/STRIP` detected  
+- Any time opponent attacks your connection points
 
-**Inputs**  
-- Which connection is being stripped + what remains
+**Reads**  
+- What got stripped + what remains connected
 
 **Outputs**  
-- Connection retained or immediately restored; control loop continues
+- Connection retained or immediately restored; redundancy rebuilt; control loop resumes
 
-**Procedure**  
-1) Expect peel #1 (it’s coming).  
-2) Maintain one connection through peel if possible; otherwise replace immediately.  
-3) Rebuild second connection (redundancy).  
-4) Resume steering into proof and conversion.
+**Run it (fast)**  
+1) Expect peel #1.  
+2) Maintain one connection through peel if possible; otherwise replace immediately ([B-06](#b-06)).  
+3) Rebuild second connection ([D-16](#d-16)).  
+4) Resume forcing reactions and converting ([B-03](#b-03), [D-01](#d-01)).
 
-**Rules**  
-- One peel should not equal a reset.  
-- Replacement without redundancy invites repeated peels.
+**DO / DON’T**  
+- **DO:** Replace instantly; don’t negotiate with the strip.  
+- **DON’T:** Reattach once and stop—rebuild redundancy or you’ll be stripped again.
 
 **Failure signatures**  
 - First peel clears everything.  
-- You reattach once and get stripped again immediately.
+- You reattach but get stripped immediately again.
 
 **Metrics**  
-- Peel survival rate (first beat)  
-- Strip → redundancy rebuild time
+- Strip → replacement time  
+- Peel survival rate (beat #1)
 
 **Links**  
-- Reinforces: B-06 tempo; D-16 second connection
+- Part of: [D-23](#d-23)
 
 ---
 
 <a id="d-27"></a>
-### D-27 — Stabilize-Then-Finish Governance OS (VN8)
+### D-27 — Stabilize-Then-Finish Governance OS (Greed Control)
 
 **Purpose (plain English)**  
-Prevent “almost” outcomes that trade into full resets. If the primary exit is live, you stabilize first; finish second.
+Near-finish attempts that allow resets are net negative. If the primary exit is live, stabilize first; finish second.
 
 **Trigger**  
-- You are close to a sweep/finish but opponent still has a clean reset exit (flee/backstep/turn-out)
+- You’re close to an outcome but opponent still has a clean reset exit  
+- You feel tempted to “go now” without suppression
 
-**Inputs**  
-- Primary exit still available? (yes/no)
+**Reads**  
+- Is the primary exit still live? (yes/no)  
+- Which exit is it? ([D-22](#d-22))
 
 **Outputs**  
-- Either stabilization step or permission to finish
+- Either stabilization step (suppress exit) or permission to finish
 
-**Procedure**  
+**Run it (fast)**  
 1) Identify primary exit.  
-2) If exit is live → stabilize to suppress it (D-21/D-23).  
+2) If exit live → stabilize to suppress ([D-21](#d-21), [D-23](#d-23)).  
 3) Once suppressed → finish attempt.
 
-**Rules**  
-- Near-finish attempts that allow resets are net negative.  
-- Governance beats greed.
+**DO / DON’T**  
+- **DO:** Governance beats greed.  
+- **DON’T:** Trade stability for “almost.”
 
 **Failure signatures**  
 - You chase finish and opponent resets.  
-- You win a moment but lose the exchange.
+- You win a moment and lose the exchange.
 
 **Metrics**  
 - Finish attempts ending in reset (%)  
 - Time to suppress exit before finishing
+
 
 
 
