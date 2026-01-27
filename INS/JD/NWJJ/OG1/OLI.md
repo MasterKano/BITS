@@ -1,5 +1,5 @@
 <!-- ================================================================ -->
-<!-- Operator Library — Systems Only                                   -->
+<!-- Operator Library Index — Systems Only                                   -->
 <!-- Single-file, anchor-stable, GitHub-ready                          -->
 <!-- ================================================================ -->
 
@@ -57,14 +57,6 @@ Micro-Glossary (3 critical terms)
 	•	PROOF: observable commitment (step/post/collapse/weight shift) that makes a conversion legal now.
 	•	BEAT #1: the opponent’s first defensive action immediately after you connect (peel/step-away/turn-out).
 	•	REPAIR-STEP WINDOW: the transition period while the opponent re-stabilizes base/posture after disruption; best conversion timing.
-
-⸻
-
-Footer (paste at very bottom of file)
-	•	Last updated: YYYY-MM-DD
-	•	Change log:
-	•	YYYY-MM-DD — Initial full draft (Buckets A–D, Quick Router, Glossary)
-
 ~~~
 ---
 
@@ -3203,7 +3195,12 @@ Near-finish attempts that allow resets are net negative. If the primary exit is 
 - Finish attempts ending in reset (%)  
 - Time to suppress exit before finishing
 
+___
 
+Footer 
+	•	Last updated: YYYY-MM-DD
+	•	Change log:
+	•	YYYY-MM-DD — Initial full draft (Buckets A–D, Quick Router, Glossary)
 
 
 
