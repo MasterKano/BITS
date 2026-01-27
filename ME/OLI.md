@@ -32,6 +32,42 @@
 
 ---
 
+## Operator Loop (ASCII)
+
+~~~
+READ → DECIDE → CONNECT → FORCE REACTION → CONVERT → STABILIZE → ANTI-EXIT
+ A     A/B      B         B/D             D         D           D
+
+If behind / compressed:
+A-06 (ALARM) → C-06 → C-09 → C-15 → back to READ/DECIDE
+
+Quick Router (If X, run Y)
+	•	If too many problems → A-04￼ → A-05￼
+	•	If kneeling base feels stable → A-01a￼ → create proof → D-06￼
+	•	If standing and they keep disengaging → A-02￼ (WITHDRAW) → D-04￼ → D-23￼
+	•	If mobility circling → A-08￼ (MOBILITY) → B-09￼ → C-11￼ → C-10￼ → B-08￼ → D-01￼
+	•	If pressure collapse → A-06￼ (ALARM) → C-06￼ → C-09￼ → C-15￼
+	•	If you have grips but no progress → B-02￼ → B-03￼ → D-02￼
+	•	If entries detach on first defense → B-16￼ → D-16￼
+	•	If they backstep reset → D-22￼ → D-24￼ → D-23￼
+	•	If they flee/reset range → D-22￼ → D-25￼ → D-23￼
+	•	If they peel/strip → D-22￼ → D-26￼ → B-06￼ → D-16￼
+
+Micro-Glossary (3 critical terms)
+	•	PROOF: observable commitment (step/post/collapse/weight shift) that makes a conversion legal now.
+	•	BEAT #1: the opponent’s first defensive action immediately after you connect (peel/step-away/turn-out).
+	•	REPAIR-STEP WINDOW: the transition period while the opponent re-stabilizes base/posture after disruption; best conversion timing.
+
+⸻
+
+Footer (paste at very bottom of file)
+	•	Last updated: YYYY-MM-DD
+	•	Change log:
+	•	YYYY-MM-DD — Initial full draft (Buckets A–D, Quick Router, Glossary)
+
+~~~
+---
+
 ## Master Index
 
 - [Bucket A — Decision Engines](#bucket-a--decision-engines)
