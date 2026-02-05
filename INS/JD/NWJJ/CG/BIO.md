@@ -1634,3 +1634,587 @@ Then redo the rep with a single correction constraint (only one).
 - 15 min clamp ladders
 - 15 min sit-up/hip sweep two-direction work
 - 20 min scenario rounds with escalating resistance
+
+## 10.0 Four-Week Curriculum
+
+### 10.1 How to use this curriculum
+- Default frequency: **3 sessions/week**.
+- Use the time templates in **9.14** to scale session length.
+- Do not progress week-to-week unless **promotion criteria** are met.
+
+---
+
+### 10.2 Week 1 — Posture Battle Foundations
+**Primary objective:** reliably produce posture-won signals and recognize the stand trigger.
+
+**Session focus**
+- Posture-break ladder (9.2.1)
+- Post-forcing timing (9.2.2)
+- Stand prevention → branch recognition (9.2.3)
+- Phase 1 positional sparring (9.9.1)
+
+**Key constraints**
+- No submissions; no sweeps in the first half of the week.
+- Measure everything by posts forced or posture collapsed.
+
+**Promotion criteria (must pass)**
+- Force a hand post within 15 seconds in controlled rounds.
+- Commit to the correct stand branch within 3 seconds (knockdown vs legs decision).
+
+---
+
+### 10.3 Week 2 — Side Scissor as the Primary Strong Hub
+**Primary objective:** enter Side Scissor reliably and route the trilemma correctly.
+
+**Session focus**
+- Side Scissor entry reps (9.3.1)
+- Side Scissor trilemma rounds (9.3.2)
+- “Height denied” automatic sweep drill (9.4.2)
+- Side Scissor hub sparring (9.9.2)
+
+**Key constraints**
+- You must establish invariants (outside elbow + angle + height pathway) before attacking.
+- Branch selection is mandatory; wrong branch resets the rep.
+
+**Promotion criteria**
+- Stable invariants held for 3 seconds against moderate resistance.
+- Correct routing:
+  - height denied → sweep line,
+  - elbow recovered inside → clamp entry.
+
+---
+
+### 10.4 Week 3 — Clamp Conversion + Weak Dominance (when angle/height is limited)
+**Primary objective:** treat elbow recovery as a trigger into clamp, and maintain initiative when strong dominance is unavailable.
+
+**Session focus**
+- “Elbow inside” automatic clamp drill (9.4.1)
+- Clamp seal + family selection (9.3.3)
+- Weakly dominant hub work:
+  - Top Lock mechanics and pull-out protocol
+  - Trap Triangle dilemma and upgrades
+  - Elbow Overhook (kneeling and standing)
+- Clamp hub sparring (9.9.3)
+
+**Key constraints**
+- Clamp must be sealed quickly; family selection must match the defense.
+- Weak dominance must either finish or re-create angle/height (no stalling).
+
+**Promotion criteria**
+- Clamp sealed within 5 seconds with correct family selection in live reps.
+- Demonstrate one weak-dominance pathway that re-enters strong dominance.
+
+---
+
+### 10.5 Week 4 — Standing Protocol + Full System Integration
+**Primary objective:** run the entire decision tree under resistance: posture battle → hub selection → conversion → branch switching.
+
+**Session focus**
+- Stand-trigger protocol drill (9.4.3)
+- Standing passer scenario round (9.5.1)
+- Integrated scenario rounds:
+  - elbow-post specialist
+  - inside-frame / elbow recovery
+  - aggressive opener
+- Micro-rounds for decision speed (9.12)
+
+**Key constraints**
+- Standing = immediate decision (knockdown vs legs).
+- Guard opening = go first, inside position/entanglement priority.
+
+**Graduation criteria**
+- In scenario rounds, demonstrate at least one clean cycle:
+  posture win → strong hub → correct branch → output (sweep/back/submission/top).
+- Demonstrate correct branch switch when posture is lost (stand protocol executed within 3 seconds).
+
+---
+
+### 10.6 Optional maintenance week (repeatable template)
+If you want a sustainable long-term loop after Week 4:
+- 1 session/week: posture battle + stand protocol
+- 1 session/week: Side Scissor + clamp conversion
+- 1 session/week: scenarios + weak dominance refresh
+
+## 11.0 Failure Patterns
+
+### 11.1 “Move hunting” from neutral closed guard
+- **Signal:** you attempt submissions before posture is meaningfully compromised.
+- **Likely cause:** skipping Phase 1; confusing grips with dominance.
+- **Fix:** enforce Phase 1 sparring rules (9.9.1) and posture-won signals (Week 1 criteria).
+
+### 11.2 No-post conversion missed (posts appear but nothing happens)
+- **Signal:** opponent posts hands to stabilize; you reset instead of converting.
+- **Likely cause:** slow recognition of conversion windows.
+- **Fix:** post-forcing drill (9.2.2) + post audit drill (9.10.3).
+
+### 11.3 Angle illusion (you think you have angle; opponent re-squares easily)
+- **Signal:** entries “feel” close but the opponent re-squares immediately.
+- **Likely cause:** hips not truly offset; torso turning without hip position.
+- **Fix:** angle audit drill (9.10.1) + Side Scissor entry checklists (6.15.1).
+
+### 11.4 Elbow battle stubbornness (you fight inside frames too long)
+- **Signal:** opponent circles elbow inside and you keep re-fighting in place.
+- **Likely cause:** missing the elbow-recovery trigger.
+- **Fix:** “elbow inside” automatic clamp drill (9.4.1) and clamp entry rule (6.13 / 6.16).
+
+### 11.5 Clamp is loose (posture rebuild breaks it)
+- **Signal:** clamp opens as opponent postures/stacks.
+- **Likely cause:** clamp not sealed early; posture allowed to rise.
+- **Fix:** clamp seal timing gate (9.8.3) + family selection rules (6.16.1).
+
+### 11.6 Wrong family selection from clamp
+- **Signal:** you repeatedly choose the same finish regardless of defense.
+- **Likely cause:** no defense-matched selection rule.
+- **Fix:** clamp family selection drill (9.3.3) with forced defenses.
+
+### 11.7 Slide-by stalls (double underhooks becomes “hugging”)
+- **Signal:** double underhooks achieved but no advancement occurs.
+- **Likely cause:** missing angle/come-up pathway or failing to re-off-balance.
+- **Fix:** double underhooks slide-by pathway drill (9.3.4) + re-off-balance rule (6.17.2).
+
+### 11.8 Hip sweep fails repeatedly (direction choice is wrong)
+- **Signal:** you force one direction and get posted or flattened.
+- **Likely cause:** ignoring base cues; not removing posts.
+- **Fix:** hip sweep two-direction drill (9.3.5) + failure tree rules (6.18.2).
+
+### 11.9 Weak dominance becomes stalling (Top Lock / Trap Triangle with no output)
+- **Signal:** you hold a weakly dominant hub but never finish or re-enter strong dominance.
+- **Likely cause:** unclear objective inside weak dominance.
+- **Fix:** weak dominance hard rule (6.20) + timed micro-rounds requiring output (9.12).
+
+### 11.10 Standing trigger ignored (opponent stands and you keep upper-body chasing)
+- **Signal:** opponent stands; you chase armlocks/triangles and lose connection.
+- **Likely cause:** failure to branch when posture is lost.
+- **Fix:** stand-trigger protocol drill (9.4.3) + scenario rounds (9.5.1).
+
+### 11.11 Transition late (guard opens and you are already defensive)
+- **Signal:** guard opens; opponent immediately starts passing or entering legs.
+- **Likely cause:** you waited to react; no inside-position priority.
+- **Fix:** guard-opening safety protocol (6.22) + aggressive opener scenario (8.6 / 8.15).
+
+### 11.12 System fragmentation (good techniques, poor continuity)
+- **Signal:** you know many moves but cannot chain or recycle.
+- **Likely cause:** no adjacency plan; unclear failure exits.
+- **Fix:** decision matrix usage (6.12) + hub sparring (9.9.2–9.9.3) + scenario rounds (9.5).
+
+### 11.13 Posture break without capture (you break posture but don’t capitalize)
+- **Signal:** you collapse posture, then the opponent immediately rebuilds and resets.
+- **Likely cause:** you achieved a moment, not a position; no hub entry.
+- **Fix:** require “posture-won signal → hub entry” as a single rep.
+- **Best drill:** posture-break ladder with immediate hub entry constraint (modify 9.2.1).
+
+### 11.14 Over-rotation (angle creation becomes loss of hip capture)
+- **Signal:** you create angle but your legs open/shift and you lose control of hips.
+- **Likely cause:** turning the torso before stabilizing hip connection.
+- **Fix:** re-sequence: hip capture first, then angle.
+- **Best drill:** angle audit drill (9.10.1) with “no guard opening” penalty.
+
+### 11.15 Outside elbow lost (Side Scissor collapses instantly)
+- **Signal:** opponent wins inside elbow and squares you immediately.
+- **Likely cause:** you entered Side Scissor without securing the elbow line.
+- **Fix:** treat outside-elbow as a gate; no attack until secured.
+- **Best drill:** Side Scissor entry reps with 3-second invariant hold (9.3.1).
+
+### 11.16 Branch delay (you see the defense but respond late)
+- **Signal:** you correctly identify height denial / elbow recovery / standing, but you respond after the window closes.
+- **Likely cause:** no automaticity; decision friction.
+- **Fix:** force a 2-second rule for branch commitment.
+- **Best drill:** trilemma rounds with a timer (modify 9.3.2) + micro-rounds (9.12).
+
+### 11.17 Clamp re-fighting (you try to “get it back” instead of exiting cleanly)
+- **Signal:** clamp opens; you chase re-clamp while posture rises.
+- **Likely cause:** missing failure exit plan.
+- **Fix:** preselect exit: Top Lock if angle is gone; Side Scissor re-angle if angle remains.
+- **Best drill:** clamp sparring with “exit on break” rule (modify 9.9.3).
+
+### 11.18 Slide-by without off-balance (you attempt it on a stable base)
+- **Signal:** slide-by attempts feel heavy and go nowhere.
+- **Likely cause:** skipping the post-forcing step; trying to “push through.”
+- **Fix:** re-off-balance to force a post first; then slide-by.
+- **Best drill:** double underhooks drill with mandatory post before slide-by (modify 9.3.4).
+
+### 11.19 Hip sweep without post management (you sweep into a strong post)
+- **Signal:** opponent posts easily every time.
+- **Likely cause:** sweeping a posted side or failing to trap/remove the post.
+- **Fix:** trap/remove post first; then sweep.
+- **Best drill:** hip sweep drill where top must post and bottom must remove it before sweeping (modify 9.3.5).
+
+### 11.20 Weak dominance “collection” (you switch hubs randomly)
+- **Signal:** you bounce between Top Lock / Trap Triangle / Overhook without progressing.
+- **Likely cause:** no selection rule; hubs used as consolation holds.
+- **Fix:** select weak hub based on what you can hold; require either finish or re-entry to strong dominance within 10 seconds.
+- **Best drill:** weak-dominance micro-rounds with 10-second output requirement (modify 9.12).
+
+### 11.21 Legs too late (you go to legs only after losing everything)
+- **Signal:** opponent stands, breaks guard, begins passing; then you attempt legs.
+- **Likely cause:** treating legs as desperation rather than a branch.
+- **Fix:** legs/knockdown decision must happen at stand initiation.
+- **Best drill:** stand-trigger protocol drill (9.4.3) with “late = reset” rule.
+
+### 11.22 Transition ambiguity (guard opens and you hesitate)
+- **Signal:** guard opens; you pause; opponent gains passing/leg entry initiative.
+- **Likely cause:** no minimum-goal template.
+- **Fix:** minimum output = inside position and/or entanglement before anything else.
+- **Best drill:** guard-opening safety protocol reps (6.22) as a dedicated warm-up.
+
+### 11.23 Output avoidance (you never risk the conversion)
+- **Signal:** you can hold dominance but rarely sweep/finish; you “stay safe.”
+- **Likely cause:** training bias toward control; fear of losing position.
+- **Fix:** enforce conversion quota: each round must include at least one real output attempt.
+- **Best drill:** scenario rounds scored only by outputs (9.5) + micro-round output quota (9.12).
+
+## 12.0 System Rules Appendix (Time-Stamped)
+
+### 12.1 System Sequencing Rules (macro)
+
+- **V8 30:50–36:08** → **Rule:** Posture break is step one.  
+  **Trigger:** You are in closed guard and want to start offense.  
+  **Required response:** Prioritize posture compromise before hunting finishes.  
+  **Intended output:** Forced posts / collapsed alignment that enables hub entry.
+
+- **V8 36:08–49:34** → **Rule:** Dominant position acquisition is step two (height + angle).  
+  **Trigger:** Posture is compromised or posts are forced.  
+  **Required response:** Enter a dominant hub rather than attacking from neutral.  
+  **Intended output:** Strong or weak dominance that produces predictable conversions.
+
+- **V8 49:34–54:50** → **Rule:** If posture control fails, branch to legs.  
+  **Trigger:** Opponent achieves stable posture/standing and upper-body control degrades.  
+  **Required response:** Switch to leg attacks/leg control pathways (do not persist in posture-dependent attacks).  
+  **Intended output:** Leg engagement or knockdown that restores initiative.
+
+- **V1 20:16–25:03** → **Rule:** Closed guard is evaluated by posture results, not move collection.  
+  **Trigger:** You are “doing a lot” but not progressing.  
+  **Required response:** Re-anchor to posture objectives and dominance metrics.  
+  **Intended output:** System continuity (posture → dominance → conversion).
+
+---
+
+### 12.2 Operational Measurement Rules (what counts as “winning”)
+
+- **V1 25:03–48:38** → **Rule:** Use observable posture-won signals, not feel.  
+  **Trigger:** You think you’re winning but outcomes don’t appear.  
+  **Required response:** Confirm a real signal (forced post, alignment collapse, stalled stand) before advancing.  
+  **Intended output:** Reliable timing window to enter a hub.
+
+- **V2 0:00–8:36** → **Rule:** Side Scissor success is governed by elbow, height, and angle.  
+  **Trigger:** You enter Side Scissor and the position feels unstable.  
+  **Required response:** Re-establish the governing battles before selecting attacks.  
+  **Intended output:** Correct branch availability (back/sweep/clamp).
+
+---
+
+### 12.3 Side Scissor Branch Rules (the trilemma)
+
+- **V2 8:36–15:25** → **Rule:** Side Scissor is a trilemma; make them concede one of three problems.  
+  **Trigger:** Side Scissor is established and opponent begins defending.  
+  **Required response:** Identify which battle they are protecting and route accordingly.  
+  **Intended output:** Back exposure OR sweep OR clamp entry.
+
+- **V2 15:25–22:05** → **Rule:** When height is won, come up to back exposure.  
+  **Trigger:** Opponent concedes height and posture collapses.  
+  **Required response:** Execute the come-up pathway and deny re-post.  
+  **Intended output:** Back exposure / back take sequence.
+
+- **V2 45:19–57:11** → **Rule:** When height is denied, pivot to sweeps keyed to posts/base.  
+  **Trigger:** Opponent kills height but remains connected.  
+  **Required response:** Attack the no-post side and convert through sweep lines.  
+  **Intended output:** Sweep initiation and top position.
+
+---
+
+### 12.4 Elbow-Recovery Rules (Clamp as the trigger response)
+
+- **V3 0:00–10:11** → **Rule:** Elbow recovery inside is a trigger, not a reset.  
+  **Trigger:** Opponent wins the elbow battle and re-frames inside.  
+  **Required response:** Convert immediately into clamp structures (no prolonged elbow re-fighting).  
+  **Intended output:** Clamp-based finishing or forced reactions.
+
+- **V3 39:29–47:40** → **Rule:** Clamp structure must match opponent alignment.  
+  **Trigger:** You have clamp access but the opponent’s body orientation changes.  
+  **Required response:** Adjust clamp orientation (structure selection) instead of forcing one configuration.  
+  **Intended output:** Clamp stability that survives posture rebuild attempts.
+
+---
+
+### 12.5 Advancement and Top-Position Rules (control → progress)
+
+- **V4 13:06–22:38** → **Rule:** Double underhooks advances through a primary mechanic (slide-by).  
+  **Trigger:** Double underhooks is achieved and you need to convert.  
+  **Required response:** Use the principal advancement action rather than stalling in control.  
+  **Intended output:** Come-up progression to top position or sweep completion.
+
+- **V4 22:38–32:37** → **Rule:** When advancement stalls, diagnose the cause (off-balance/angle/timing).  
+  **Trigger:** Slide-by attempts stall repeatedly.  
+  **Required response:** Re-create off-balance or angle before reattempting.  
+  **Intended output:** Restored advancement pathway and conversion.
+
+---
+
+### 12.6 Sweep Engine Rules (Side Sit-Up / Hip Sweep governance)
+
+- **V5 56:03–1:07:17** → **Rule:** Hip sweep is governed by force direction and post management.  
+  **Trigger:** Side sit-up is established and opponent base is readable.  
+  **Required response:** Choose direction based on base and remove/trap posts as needed.  
+  **Intended output:** Sweep initiation and top position.
+
+- **V5 1:13:33–1:18:00** → **Rule:** Failed hip sweep is a branch point with prescribed re-attacks.  
+  **Trigger:** Hip sweep is defended and you lose the initial rotation.  
+  **Required response:** Run the defined re-attack (re-trap, switch direction, or transition to an adjacent hub).  
+  **Intended output:** Renewed sweep or entry into a stronger hub.
+
+---
+
+### 12.7 Standing-Posture Rules (knockdowns and leg branch)
+
+- **V6 0:00–8:05** → **Rule:** Standing posture should be punished by knockdowns rather than posture-dependent chasing.  
+  **Trigger:** Opponent stands to open guard.  
+  **Required response:** Use knockdown mechanics if attachment allows; otherwise shift to legs.  
+  **Intended output:** Seated/butt base or leg engagement that restores initiative.
+
+- **V8 16:10–30:50** → **Rule:** Knockdowns are repeatable outputs (formula-driven), not lucky moments.  
+  **Trigger:** Opponent’s stance becomes leg-heavy or heel-weighted during guard play.  
+  **Required response:** Apply structured knockdown mechanics to force the seated/butt base.  
+  **Intended output:** Stable knockdown that feeds immediately into dominance.
+
+- **V8 49:34–54:50** → **Rule:** Posture lost → legs early, not late.  
+  **Trigger:** Opponent’s posture is stable and distance is increasing.  
+  **Required response:** Enter legs before passing initiative is established.  
+  **Intended output:** Leg control that prevents clean passing and creates offense.
+
+---
+
+### 12.8 Weak Dominance and Initiative Preservation Rules
+
+- **V6 31:24–41:52** → **Rule:** When angle/height is limited, use a weakly dominant hub to keep initiative.  
+  **Trigger:** You cannot create extreme height/angle but still have attachment.  
+  **Required response:** Adopt an attack-capable weak dominance (e.g., Top Lock) rather than stalling/resetting.  
+  **Intended output:** Finish attempts or re-creation of angle/height back into strong dominance.
+
+---
+
+### 12.9 Transition Governance Rules (guard opening safety)
+
+- **V7 42:03–49:45** → **Rule:** Go first in transitions; late transitions lose initiative.  
+  **Trigger:** Closed guard is being opened or will be opened.  
+  **Required response:** Initiate your transition early to preserve structure and inside lines.  
+  **Intended output:** You arrive in the next guard/connection on your terms.
+
+- **V7 49:45–57:59** → **Rule:** Inside positioning and entanglement logic are the safety baseline.  
+  **Trigger:** Transition is occurring and leg/pass threats are immediate.  
+  **Required response:** Prefer inside position and entanglements that deny immediate pass and deny easy leg entries against you.  
+  **Intended output:** Safe platform to re-attack into dominance.
+
+---
+
+### 12.10 Athlete-Type Sequencing Rules (strategy expression)
+
+- **V4 32:37–39:49** → **Rule:** Two-stage strategy: dominance first, branch earlier if denied.  
+  **Trigger:** You are shorter and the opponent uses posture/standing to create distance.  
+  **Required response:** Stage 1 pursue posture collapse and dominance; Stage 2 switch earlier to knockdowns/legs if posture control fails.  
+  **Intended output:** Restored dominance metrics despite reach disadvantages.
+
+- **V8 54:50+** → **Rule:** Athlete adaptation is primarily sequencing and timing, not special moves.  
+  **Trigger:** You keep searching for “short-only” techniques.  
+  **Required response:** Adjust when you branch and how quickly you switch, not your entire technique set.  
+  **Intended output:** Higher reliability through correct branch timing.
+
+### 12.11 System Integrity Rules (anti-stall and self-correction)
+
+- **V8 36:08–49:34** → **Rule:** Do not linger in “almost dominant” positions.  
+  **Trigger:** You have partial control but no clear height/angle or post removal.  
+  **Required response:** Either (a) complete dominance metrics (height/angle), or (b) switch to a weakly dominant hub that can generate output.  
+  **Intended output:** Actionable dominance that produces a conversion attempt.
+
+- **V6 21:57–31:24** → **Rule:** Every successful disruption must feed back into a hub.  
+  **Trigger:** You score a knockdown, tilt, or posture collapse.  
+  **Required response:** Re-enter a dominant hub immediately instead of resetting to neutral control.  
+  **Intended output:** Continuous pressure through hub cycling.
+
+- **V5 1:13:33–1:18:00** → **Rule:** Treat defended attempts as branch points, not failures.  
+  **Trigger:** A sweep/attack is defended and stalls.  
+  **Required response:** Execute the prescribed re-attack route (switch direction, trap/remove post, or transition to an adjacent hub).  
+  **Intended output:** Second attempt begins before opponent fully resets.
+
+---
+
+### 12.12 Adjacency Rules (how hubs are supposed to connect)
+
+- **V2 8:36–15:25** → **Rule:** Side Scissor is not an endpoint; it is a router.  
+  **Trigger:** Opponent chooses a defense inside Side Scissor.  
+  **Required response:** Route to the correct line (height → back, base/post → sweep, elbow recovery → clamp).  
+  **Intended output:** Predictable conversion without improvisation.
+
+- **V3 0:00–10:11** → **Rule:** Elbow recovery automatically connects Side Scissor to Clamp.  
+  **Trigger:** Inside-elbow re-frame appears.  
+  **Required response:** Switch to clamp immediately rather than trying to “re-win” the elbow within Side Scissor.  
+  **Intended output:** Seamless hub-to-hub transition.
+
+- **V4 13:06–22:38** → **Rule:** Double Underhooks must connect to advancement (slide-by).  
+  **Trigger:** Double Underhooks achieved.  
+  **Required response:** Attempt slide-by as the conversion action; do not hold without advancing.  
+  **Intended output:** Top position or sweep completion.
+
+---
+
+### 12.13 Quality Control Rules (what you must be able to state on demand)
+
+- **V1 25:03–48:38** → **Rule:** Your “win condition” must be stated as a signal, not a feeling.  
+  **Trigger:** You cannot explain why the moment was good/bad.  
+  **Required response:** Identify the posture-won signal (post forced or alignment collapse) or admit it didn’t occur and return to posture work.  
+  **Intended output:** Cleaner phase transitions and fewer false starts.
+
+- **V2 0:00–8:36** → **Rule:** You must name which battle you are winning.  
+  **Trigger:** You are in Side Scissor but uncertain what to do.  
+  **Required response:** Declare the battle (height vs post/base vs elbow) and run the matching branch.  
+  **Intended output:** Faster decisions and fewer stalled exchanges.
+
+- **V8 49:34–54:50** → **Rule:** Branch switching is a skill, not a concession.  
+  **Trigger:** Posture control is lost (especially standing).  
+  **Required response:** Switch to legs/knockdowns immediately; do not “try one more upper-body attack.”  
+  **Intended output:** Earlier offense and fewer guard-open/pass sequences.
+
+---
+
+### 12.14 Transition Safety Rules (initiative preservation under guard opening)
+
+- **V7 42:03–49:45** → **Rule:** If the guard will open, transition early enough to keep initiative.  
+  **Trigger:** You feel the opening sequence starting or inevitable.  
+  **Required response:** Transition first into inside position/entanglement rather than resisting until you are split open.  
+  **Intended output:** A controlled next-guard state that denies immediate pass/legs.
+
+- **V7 49:45–57:59** → **Rule:** Inside position is the baseline defensive requirement during transitions.  
+  **Trigger:** You are transitioning and leg entries/passing are threats.  
+  **Required response:** Choose configurations that keep inside lines and deny the opponent clean entries.  
+  **Intended output:** Safe platform to re-enter the posture/dominance loop.
+
+## 13.0 Terminology
+
+### 13.1 Type legend
+- **[VAR]** variable (measurable state)
+- **[TRG]** trigger (observable cue that forces a decision)
+- **[HUB]** dominant position / control hub
+- **[LANE]** attack/sweep lane (structured option set)
+- **[BRN]** branch (mandatory system switch)
+- **[OUT]** output (the system’s deliverables)
+- **[RUL]** governing rule (non-negotiable behavior)
+
+---
+
+### 13.2 System primitives
+
+- **Posture [VAR]** → Opponent’s ability to align head/chest/hips to resist breakdown and stand/open safely.  
+- **Posture-won signal [TRG]** → Forced post or collapsed alignment sufficient to enter a hub.  
+- **Post [VAR]** → Hand/elbow/foot used to stabilize base during off-balance.  
+- **Height [VAR]** → Relative rise/come-up capacity (or forcing opponent’s shoulders/head lower).  
+- **Angle [VAR]** → Hip offset that disrupts alignment and makes posts unreliable.  
+- **Strong dominance [VAR]** → Height+angle extreme enough to materially remove posture/posts.  
+- **Weak dominance [VAR]** → Control sufficient to attack or rebuild dominance, but posture/posts still partially functional.  
+- **Conversion window [TRG]** → Moment created by forced post or alignment collapse where immediate output is available.  
+- **Hub [HUB]** → Position with defined entry, controls, ≥2 outputs (or output+re-entry), and explicit failure exits.  
+- **Branch [BRN]** → Mandatory switch triggered by posture state (e.g., posture lost → legs/knockdowns).  
+- **Re-entry [RUL]** → After any output, return to a hub/top control; avoid neutral resets.
+
+---
+
+### 13.3 Outputs
+
+- **Sweep [OUT]** → Transition to top position via base collapse.  
+- **Back exposure [OUT]** → Opponent forced to present back or lose alignment such that back take becomes available.  
+- **Submission [OUT]** → Finish attempt from a hub (not from neutral control).  
+- **Top position [OUT]** → Stabilized top control as a primary system output.
+
+---
+
+### 13.4 Primary hubs and lanes
+
+- **Side Scissor [HUB]** → Strong hub governed by outside-elbow advantage plus angle/height routing.  
+- **Outside elbow [VAR]** → Opponent cannot re-frame inside across your torso (gate for Side Scissor stability).  
+- **Trilemma [RUL]** → Side Scissor routing: opponent concedes height OR post/base OR elbow position.  
+- **Clamp [HUB]** → Submission hub entered on inside-elbow recovery; converts elbow defense into finishing structure.  
+- **Side clamp / Vertical clamp [VAR]** → Clamp orientations chosen by opponent alignment (angled vs squared).  
+- **Double Underhooks [HUB]** → Control/advancement hub that denies posture and enables come-up progression.  
+- **Slide-by [LANE]** → Primary advancement action from Double Underhooks to top position or sweep completion.  
+- **High Cross [LANE]** → Attack lane organizing armbar/triangle/trimura/omoplata outputs from a high-cross configuration.  
+- **Side Sit-Up [LANE]** → Entry posture to the Hip Sweep engine while maintaining hip capture.  
+- **Hip Sweep [LANE]** → Sweep engine governed by direction choice and post removal/trapping.  
+- **Top Lock [HUB]** → Weakly dominant hub used when angle/height are limited but attachment remains; enables attacks and re-building dominance.  
+- **Trap Triangle [HUB]** → Weakly dominant triangle-control hub built around a dilemma and upgrade pathway.  
+- **Elbow Overhook [HUB]** → Weakly dominant arm-control hub creating a fulcrum vs kneeling/standing opponent.  
+- **Scoop/Knockdown [LANE]** → Standing-opponent response that forces seated/butt base to restore dominance metrics.  
+- **Lower-Body Compensation [BRN]** → Posture-lost branch: leg engagement and/or knockdowns replace posture-dependent upper-body attacks.
+
+---
+
+### 13.5 Transition and safety terms
+
+- **Go first [RUL]** → Initiate the transition when the guard is opening; do not wait to react.  
+- **Inside position [RUL]** → Prioritize inside lines that deny immediate leg entries and clean passing initiations.  
+- **Entanglement [VAR]** → Leg/hip connection that prevents immediate passing and preserves initiative during transitions.  
+- **Minimum goal (guard opens) [OUT]** → Exit the opening with inside position and/or entanglement before attacking.
+
+## 14.0 Additional Notes
+
+### 14.1 How to personalize without breaking the system
+Personalization is allowed only at the **hub-output** level (which sweep/finish you prefer), not at the **phase/branch** level.
+- You may swap preferred sweeps within the sweep line.
+- You may swap preferred submissions within a clamp family.
+- You may not remove: posture-first sequencing, Side Scissor trilemma routing, elbow-recovery→clamp trigger, or posture-lost→legs/knockdowns branch.
+
+### 14.2 “Minimum viable system” (if you want fewer moving parts)
+A reduced system that still preserves the governing logic:
+- Phase 1: posture battle with two posture-demolition methods (one forward, one backward).
+- Strong hub: Side Scissor with explicit trilemma routing.
+- Conversion: one sweep line + one back exposure line + clamp entry on elbow recovery.
+- Posture-lost branch: one knockdown method and one leg-entry method.
+- Transition safety: go first + inside position as the minimum goal.
+
+### 14.3 How to extend the system (safe expansion rule)
+You can add techniques only if they satisfy the hub standard:
+- named entry cue,
+- explicit required controls,
+- at least two outputs (or output + re-entry),
+- explicit failure exits that route to an existing hub/branch.
+
+If an added move is “cool” but fails this test, keep it as optional—do not integrate it as a core pathway.
+
+### 14.4 Common integration mistakes (project-level)
+- Adding techniques that don’t connect to a hub (creates fragmentation).
+- Allowing weakly dominant hubs to become stalling states (kills initiative).
+- Treating the leg branch as “desperation” (leads to late, low-quality entries).
+- Treating knockdowns as standalone (causes resets instead of cycling).
+
+### 14.5 Training emphasis by objective
+- If you struggle to start offense: increase Phase 1 drill volume (post forcing + posture-won signals).
+- If you enter hubs but can’t convert: increase branch drills (height denied → sweep, elbow inside → clamp).
+- If you lose rounds to standing/pass sequences: increase stand-trigger protocol and transition-governance reps.
+
+### 14.6 Coaching cues (short, actionable)
+- “No signal, no hub.” (don’t advance without posture-won signal)
+- “Outside elbow first.” (Side Scissor gate)
+- “Elbow inside = clamp.” (automatic trigger)
+- “Stand = decide.” (knockdown vs legs immediately)
+- “Go first.” (transition governance)
+- “Output or re-route.” (no stalling)
+
+### 14.7 Reporting convention (for future edits)
+When you add or modify content in this report:
+- label new techniques by **hub**, not by volume.
+- describe them in the library template (entry cues → controls → threats → defenses → exits).
+- update the decision matrix if the routing changes.
+- do not add narrative unless it improves decisions or training design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
