@@ -2,29 +2,30 @@
 
 ## Contents
 
-- 1.0 MASTER SYSTEM MAP (ASCII)
-- 2.0 EXECUTIVE SUMMARY
-- 3.0 VOLUME INDEX
-  - 3.1 Volume 1 — Introduction / Half Guard Foundations
-  - 3.2 Volume 2 — The Path to Heaven (Knee Shield + Kuzushi)
-  - 3.3 Volume 3 — Tight Waist Series
-  - 3.4 Volume 4 — Tight Waist vs Whizzer Series
-  - 3.5 Volume 5 — The Knee Lever Series
-  - 3.6 Volume 6 — The Elbow Escape Series + Ude Gatame + Scorpion
-  - 3.7 Volume 7 — Knee Shield Entries + Half Butterfly + Ankle Pick Heel Hooks
-  - 3.8 Volume 8 — Deep Half Guard into Leg Locks
-- 4.0 CORE CONCEPTS
-- 5.0 SYSTEM OVERVIEW
-- 6.0 TECHNIQUE LIBRARY
-- 7.0 DIAGRAM SET
-- 8.0 APPLICATION SCENARIOS
-- 9.0 DRILLING PROGRESSIONS
-- 10.0 FOUR-WEEK CURRICULUM
-- 11.0 FAILURE PATTERNS
-- 12.0 KEY PASSAGES
-- 13.0 TERMINOLOGY
-- 14.0 ADDITIONAL NOTES
-- 15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) 
+[1.0 MASTER SYSTEM MAP (ASCII)](#10-master-system-map-ascii)  
+[2.0 EXECUTIVE SUMMARY](#20-executive-summary)  
+[3.0 VOLUME INDEX](#30-volume-index)  
+  - [3.1 Volume 1 — Introduction / Half Guard Foundations](#31-volume-1--introduction--half-guard-foundations)  
+  - [3.2 Volume 2 — The Path to Heaven (Knee Shield + Kuzushi)](#32-volume-2--the-path-to-heaven-knee-shield--kuzushi)  
+  - [3.3 Volume 3 — Tight Waist Series](#33-volume-3--tight-waist-series)  
+  - [3.4 Volume 4 — Tight Waist vs Whizzer Series](#34-volume-4--tight-waist-vs-whizzer-series)  
+  - [3.5 Volume 5 — The Knee Lever Series](#35-volume-5--the-knee-lever-series)  
+  - [3.6 Volume 6 — The Elbow Escape Series + Ude Gatame + Scorpion](#36-volume-6--the-elbow-escape-series--ude-gatame--scorpion)  
+  - [3.7 Volume 7 — Knee Shield Entries + Half Butterfly + Ankle Pick Heel Hooks](#37-volume-7--knee-shield-entries--half-butterfly--ankle-pick-heel-hooks)  
+  - [3.8 Volume 8 — Deep Half Guard into Leg Locks](#38-volume-8--deep-half-guard-into-leg-locks)  
+
+[4.0 CORE CONCEPTS](#40-core-concepts)  
+[5.0 SYSTEM OVERVIEW](#50-system-overview)  
+[6.0 TECHNIQUE LIBRARY](#60-technique-library)  
+[7.0 DIAGRAM SET](#70-diagram-set)  
+[8.0 APPLICATION SCENARIOS](#80-application-scenarios)  
+[9.0 DRILLING PROGRESSIONS](#90-drilling-progressions)  
+[10.0 FOUR-WEEK CURRICULUM](#100-four-week-curriculum)  
+[11.0 FAILURE PATTERNS](#110-failure-patterns)  
+[12.0 KEY PASSAGES](#120-key-passages)  
+[13.0 TERMINOLOGY](#130-terminology)  
+[14.0 ADDITIONAL NOTES](#140-additional-notes)  
+[15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED)](#150-supplement-not-transcript-derived)  
 
 ## 1.0 MASTER SYSTEM MAP (ASCII)
 ~~~
