@@ -2578,7 +2578,179 @@ Track:
 - **V8 (overall theme):** Leg locks are presented as a central endpoint for half guard—but accessed through controlled entries and explicit counter-trees, not opportunistic chasing.
 
 
+## 13.0 TERMINOLOGY
 
+### 13.1 Positional Laws and Tests
+- **Outside Shoulder + Outside Hip (Governing Law):** The required outside alignment of your shoulder line and hip line that prevents flattening and enables offense. If lost, offense pauses and recovery is mandatory.
+- **Outside Alignment Test:** A binary check: “Can I stay on my side with functional frames and rotate?” If no → you are in recovery mode.
+- **Flattening:** Opponent consolidates crossface + hip collapse until your shoulders/hips square and you are pinned-like (half guard becomes a pin rather than a guard).
 
+### 13.2 Structural Components
+- **Structure Hub:** The default half-guard operating state (knee shield + frames + side orientation) from which you attach and attack.
+- **Knee Shield:** Primary leg structure that blocks chest-to-chest pressure and preserves working distance for frames/attachments.
+- **Frames:** Skeletal alignment tools (not pushing) that preserve your shoulder line, manage distance, and prevent crossface consolidation.
+- **Frame Integrity:** Frames remain “stacked” (bone-aligned) rather than bent and absorbing weight.
 
+### 13.3 Control, Connection, and Attachments
+- **Connection:** Meaningful attachment to opponent structure (torso/knee line/posts) that enables forcing power.
+- **Attachment (Connector):** A specific control handle that reliably transfers force and creates predictable reactions (e.g., tight waist, scoop, 2-on-1).
+- **Torso Attachment:** Control centered on the opponent’s torso (tight waist/body lock logic) enabling tilt and stand-up conversion.
+- **Knee Line Control:** Control of the opponent’s knee line (via levers/shifts/scoops) to deny stable base and stepping.
+- **Post Control:** Control of an opponent’s posting limb (often via 2-on-1) to prevent stabilization and open conversion lanes.
+
+### 13.4 Kuzushi and Stability Elements
+- **Kuzushi:** Deliberate off-balancing designed to force predictable stabilization reactions (post/step/turn/widen base).
+- **Stability Elements:** The three targets of kuzushi:
+  - **Posture:** torso/head alignment over hips
+  - **Posts:** hands/arms/knees/head used to prevent tipping
+  - **Base:** stance width/foot-knee spacing and hip placement
+- **Reaction Farming:** Using kuzushi intentionally to produce a known reaction that unlocks a planned conversion.
+- **Kuzushi Families (labels used in this report):** scissor, bump, scoop, elevators (scorpion/half-butterfly), knee lever, tight-waist tilt, windmill.
+
+### 13.5 Hubs, Branches, and End-States
+- **Hub:** A repeatable control state you can reliably reach and reset to under resistance (structure, recovery, tight waist, knee lever, scoop elevation, deep half).
+- **Branch Event:** A predictable opponent action that forces a system change (e.g., whizzer appears; crossface/flattening begins).
+- **End-States (E1–E4):**
+  - **E1 Stand-up finish:** rise to takedown completion (single leg/body lock/tight waist finish)
+  - **E2 Back exposure/back take:** angle creates access to the back and control follows
+  - **E3 Sweep-to-pin:** sweep that lands into stabilized top control/pins
+  - **E4 Controlled entanglement:** leg position secured with control (inside sankaku/50-50 variants)
+
+### 13.6 Recovery Vocabulary
+- **Recovery Hub:** The mode used when outside alignment is threatened or lost (elbow escape + re-framing → rebuild structure).
+- **Elbow Escape:** Primary alignment restoration method; used to return from flattening threat to side orientation and structure.
+- **Half Elbow Escape:** A partial recovery/reframing stage used to prevent full flattening and rebuild knee shield.
+
+### 13.7 Stand-Up Layer Vocabulary
+- **Stand-Up Conversion:** The process of rising from half guard bottom while maintaining connection to finish takedowns or sweeps.
+- **Tight Waist:** Torso attachment/control state used as a primary bridge to get-ups, tilts, and finishes.
+- **Lower Leg Shift:** A leg-position adjustment used to improve leverage/angle for tight waist conversions.
+- **Heist / Forward Heist:** Base-building rise mechanics used to come up into single leg or connected finishes.
+
+### 13.8 Counter-Events and Defensive Terms
+- **Crossface:** Head/shoulder control that turns your shoulder line away and drives flattening.
+- **Hip Collapse:** Opponent pressure that squares your hips and removes your ability to stay on your side.
+- **Whizzer:** Overhook defense commonly used to stop your rise/stand-up conversion; treated as a branch event requiring specific solutions.
+- **Disengagement / Step-Out:** Opponent exits your connections to pass around (float-passing style); punished by faster attachments and knee line control.
+
+### 13.9 Leg-Lock Access Vocabulary
+- **Scoop Elevation:** Leg-access hub from knee shield that elevates/controls opponent leg line before entries.
+- **Movement Control (Leg Access):** The requirement that the opponent cannot freely step away before you commit to entanglement.
+- **Deep Half:** Underneath route used for leg-lock access and rotational entries; only used when alignment and post/base compromise are present.
+- **Inside Sankaku:** Primary strong entanglement endpoint referenced in the deep-half leg-lock branch.
+- **50/50 (variants):** Secondary entanglement family accessed from deep half depending on opponent reaction.
+- **Outside Spin:** Rotational entry mechanic (often linked from knee lever) used to access entanglements.
+- **Counter Anchors (Leg Locks):** Stabilizing responses to common defenses (e.g., thumb post, double knee lever, butterfly hook counter, reverse underhook counter).
+
+### 13.10 Process Terms (Used Throughout the Report)
+- **System Contract:** The non-negotiables that keep the system functional (alignment prerequisite, attachment before outcomes, reaction-based conversion, return-to-hub discipline).
+- **Return-to-Hub:** Abort logic: when control degrades, reset to a hub (structure/stand-up/knee lever/recovery) rather than chase.
+- **Conversion Window:** The brief timing interval immediately after a forced reaction where endpoint conversion is highest percentage.
+
+## 14.0 ADDITIONAL NOTES
+
+### 14.1 Implementation Heuristic: “One Hub Per Exchange”
+A practical way to prevent fragmentation is to choose one hub as the focus for an exchange:
+- structure hub (knee shield + frames),
+- recovery hub (elbow escape + re-frames),
+- stand-up hub (tight waist / single leg),
+- knee lever hub,
+- leg access hub (scoop elevation or deep half).
+
+If your attempt fails, you do not improvise endlessly; you return to a hub and restart the loop.
+
+---
+
+### 14.2 The “Attachment Clock”
+A useful constraint for training:
+- from the moment structure is established, you have a short time window to upgrade to a real attachment.
+If the opponent is allowed to pressure, disengage, and re-enter while you remain frame-only, the exchange trends toward either flattening or float passing.
+
+Practical rule: **structure → attachment within ~7 seconds** (adjust to skill level).
+
+---
+
+### 14.3 End-State Standard (What Counts as “Success”)
+Count only controlled outcomes:
+- **E1:** stand-up completion to finish (not merely “I stood up”)
+- **E2:** back exposure that becomes control (not merely “I got an angle”)
+- **E3:** sweep that lands into stabilized top/pin (not merely “I reversed for a second”)
+- **E4:** entanglement entered with movement control and stabilization (not merely “I grabbed a leg”)
+
+This standard prevents the system from degrading into scramble-chasing.
+
+---
+
+### 14.4 “Abort Conditions” (When to Stop a Line)
+Abort and return to a hub when:
+- outside shoulder/hip alignment is compromised,
+- your frames are bent and collapsing,
+- your attachment is lost mid-transition,
+- a leg entry no longer has movement control,
+- an exchange becomes purely athletic scramble without structure.
+
+---
+
+### 14.5 Common Training Pairings (High ROI Combinations)
+- **Structure maintenance (9.2)** immediately followed by **attachment upgrade (9.4)**.
+- **Recovery gate (9.3)** immediately followed by **reaction farming (9.5)**.
+- **Reaction → conversion (9.6)** immediately followed by **stand-up finishing (9.7)**.
+- **Knee lever engine (9.9)** immediately followed by **return-to-hub discipline (9.12)**.
+- **Leg access A/B (9.10/9.11)** paired with **abort discipline (9.12)**.
+
+---
+
+### 14.6 Integration Notes: Where This System “Lives” in a Broader Game
+Half guard bottom here is not isolated; it connects directly to:
+- wrestling-style stand-ups (tight waist/body lock/single leg),
+- pin-escape fundamentals (elbow escape),
+- leg entanglement systems (sankaku/50/50 variants).
+
+This means:
+- It can be used as a primary guard, or
+- As a “safety net” guard that converts quickly rather than retaining indefinitely.
+
+---
+
+### 14.7 Style Matching (Choosing End-States by Personal Preference)
+The system supports preference, but not at the expense of the contract:
+- If you prefer wrestling: emphasize tight waist, heist, single leg finish lines.
+- If you prefer back takes: bias reaction farming into angles and drag/heist links.
+- If you prefer leg locks: emphasize scoop elevation and deep-half access—only from controlled hubs.
+
+Preference selects **end-state**, not the prerequisite structure.
+
+---
+
+### 14.8 Minimal Solo Work (If Partner Time Is Limited)
+Even without live partner drilling, you can reinforce:
+- the conceptual loop (structure → attach → kuzushi → convert / recover),
+- the attachment clock discipline,
+- return-to-hub decision making.
+
+Solo work won’t replace timing, but it helps prevent conceptual drift.
+
+---
+
+### 14.9 Reporting Note (How to Use This BIO)
+Recommended reading order for practical adoption:
+1) 2.0 Executive Summary
+2) 5.0 System Overview (hub loop + branch triggers)
+3) 11.0 Failure Patterns (diagnostics)
+4) 9.0 Drilling Progressions + 10.0 Curriculum (implementation)
+5) 6.0 Technique Library (reference)
+6) 7.0 Diagram Set + 8.0 Application Scenarios (reinforcement)
+
+---
+
+### 14.10 Quality Control Checklist (Quick Self-Audit)
+Before trying to “add moves,” check:
+- Can I reliably maintain outside shoulder/hip under pressure?
+- Can I rebuild knee shield when it is threatened?
+- Can I upgrade to attachment quickly?
+- Can I force predictable reactions with kuzushi?
+- Can I convert reactions into controlled end-states?
+- Do I abort to hubs instead of chasing scrambles/legs?
+
+If any answer is “no,” return to the relevant drill ladder rather than adding complexity.
 
