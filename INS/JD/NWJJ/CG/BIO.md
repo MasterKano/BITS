@@ -1093,8 +1093,544 @@ trap/remove post   re-off-balance
 
 ~~~
 
+## 8.0 Application Scenarios
 
+### 8.1 Standing passer (primary objective: open guard while upright)
+**Start state:** closed guard established; opponent begins to stand.  
+**Primary triggers:** hips retreat, posture becomes stable, distance increases.
 
+**Preferred response (ordered)**
+1) **Scoop/Knockdown** if you still have close attachment and can disrupt base.  
+2) **Lower-Body Compensation (legs)** if posture is stable or distance is growing.
 
+**Common defenses**
+- Wide stance, heavy heel base
+- Hands controlling biceps/hips to create separation
+- Back-step attempts to disengage
 
+**Failure exits**
+- If guard opens mid-exchange: transition first, secure inside position/entanglement, then re-enter a hub.
 
+---
+
+### 8.2 Heavy kneeler (strong base, slow but hard to tilt)
+**Start state:** opponent stays kneeling with strong hips and compact posture.
+
+**Preferred routing**
+- Phase 1: force posts (wrist/elbow management) → posture compromise.
+- Phase 2: **Side Scissor** if you can create angle; otherwise **Double Underhooks** to create a come-up pathway.
+- Phase 3: sweep line when posts are removed; clamp line when elbow recovers inside.
+
+**Common defenses**
+- Tight elbows, minimal reaching
+- Re-squaring hips to kill angle
+- Stiff frames across torso
+
+**Failure exits**
+- Angle denied: switch to **Top Lock / Trap Triangle / Elbow Overhook** to maintain initiative, then rebuild angle.
+
+---
+
+### 8.3 “Strong posturer” (hands always ready to post; constantly rebuilding alignment)
+**Start state:** opponent repeatedly posts hands to prevent collapse and rebuild posture quickly.
+
+**Preferred routing**
+- Treat hands-to-mat moments as conversion windows:
+  - height line (come-up/back exposure) OR
+  - no-post sweep line by removing the remaining post.
+- Use **Side Scissor** as the primary hub once angle is obtained.
+
+**Common defenses**
+- Rapid hand posting
+- Immediate hip retreat after posting
+- Elbow circling inside to re-frame
+
+**Failure exits**
+- Elbow circles inside: **Clamp** immediately.
+- If they stand successfully: **Scoop/Knockdown** or **Leg branch**.
+
+---
+
+### 8.4 Elbow hider / inside-frame specialist (wins the elbow battle early)
+**Start state:** opponent keeps elbows tight and continually pummels inside to re-frame.
+
+**Preferred routing**
+- Don’t “argue” with inside frames in place.
+- Use the elbow recovery as a trigger into **Clamp**-based control and finishing families.
+- If angle is limited, use **Top Lock** to keep an attack-capable structure while you rebuild.
+
+**Common defenses**
+- Inside elbow recovery to torso
+- Hand connection to protect elbow line
+- Stack-like posture to break attachment
+
+**Failure exits**
+- If clamp opens due to posture rise: return to posture-break cycle or Top Lock.
+
+---
+
+### 8.5 Defensive squarer (kills angle; refuses to turn)
+**Start state:** opponent immediately re-squares hips and shoulders whenever you begin to turn the corner.
+
+**Preferred routing**
+- If you can’t get real angle: switch to weak dominance early:
+  - **Top Lock** for direct attack without large angle,
+  - **Trap Triangle** if you can force the collar/wrist dilemma,
+  - **Elbow Overhook** when the arm line is available.
+
+**Common defenses**
+- Hip square + elbow tight
+- Minimal reaching
+- Slow grind posture rebuild
+
+**Failure exits**
+- If they succeed in standing: move to standing-posture protocol (knockdown/legs).
+
+---
+
+### 8.6 Aggressive opener (opens guard quickly; aims to pass immediately)
+**Start state:** opponent prioritizes breaking closed guard and initiating pass sequences.
+
+**Preferred routing**
+- Adopt transition governance early:
+  - go first,
+  - inside position priority,
+  - entanglement preference to deny immediate passing.
+- Re-attack into a hub rather than “holding closed guard at all costs.”
+
+**Common defenses**
+- Immediate posture → guard break attempt
+- Knee wedge / hand-in-hip type separation mechanics
+- Rapid angle changes to start passing
+
+**Failure exits**
+- If you lose inside position: treat it as an emergency and re-establish inside lines/entanglement before attacking.
+
+---
+
+### 8.7 Pressure driver (pushes in hard to smother attacks)
+**Start state:** opponent drives weight forward to compress you and deny hip movement.
+
+**Preferred routing**
+- Convert forward pressure into forced posts and angle:
+  - posture-break to create hands-to-mat moments,
+  - then **Side Scissor** (angle) or **Clamp/Omoplata-family** responses to forward drive.
+
+**Common defenses**
+- Stacking posture
+- Shoulder pressure to flatten hips
+- Hands connected to block elbow isolation
+
+**Failure exits**
+- If flattened and angle collapses: return to posture-break cycle; if opponent stands, switch to legs/knockdown.
+
+---
+
+### 8.8 Shorter athlete vs longer athlete (strategy expression)
+**Start state:** longer opponent uses reach, posture, and standing to create distance.
+
+**Preferred routing (two-stage plan)**
+- Stage 1: immobilize hips + break posture to earn dominant hubs (Side Scissor / Double Underhooks).
+- Stage 2 (if posture control fails): transition earlier to standing-posture protocol (knockdown/legs) to regain usable dominance metrics.
+
+**Common defenses**
+- Long frames, hip retreat, standing posture
+- Wide base to prevent sweeps
+- Early disengagement
+
+**Failure exits**
+- If opponent consistently escapes attachment: treat it as a branch trigger to legs/knockdowns rather than repeating low-return upper-body attempts.
+
+### 8.9 Grip-fighter (strips grips immediately; won’t allow stable connections)
+**Start state:** you establish initial contact; opponent peels grips and resets.  
+**First 10 seconds:** stop chasing grips; force posts with off-balance so grip fights happen while they’re stabilizing.
+
+**Preferred routing**
+- Phase 1: misdirection off-balance → forced post.
+- Phase 2: enter Side Scissor or Double Underhooks during the post-recovery moment.
+
+**Common defenses**
+- Two-on-one grip breaks
+- Constant hand withdrawal
+- Elbow tight + re-square
+
+**Failure exits**
+- If you can’t keep grips but can keep attachment: Top Lock (weak dominance) to stop continuous stripping.
+
+---
+
+### 8.10 “Head up at all costs” posturer (refuses to be broken down)
+**Start state:** opponent maintains upright head/chest, bases wide, posts early.
+
+**Preferred routing**
+- Treat posture maintenance as leg exposure: switch earlier to knockdown/legs if posture does not meaningfully degrade.
+- Use backward off-balancing when heel-weighting appears.
+
+**Common defenses**
+- Wide knees, hands ready to post
+- Hip retreat when pulled forward
+- Standing immediately when pressure increases
+
+**Failure exits**
+- Standing achieved → scoop/knockdown or legs; do not insist on upper-body attacks.
+
+---
+
+### 8.11 Stack defender (punishes attacks by stacking hard)
+**Start state:** you attack; opponent immediately stacks to compress and kill angles.
+
+**Preferred routing**
+- Use stack as a diagnostic:
+  - if stack breaks your structure, you went too early.
+  - return to dominance metrics (angle/height) before re-attacking.
+- Prefer triangle/omoplata-family responses that punish forward drive, or convert to sweep/top.
+
+**Common defenses**
+- Hands connected + heavy forward drive
+- Shoulder pressure to flatten hips
+- Hip walk to re-square
+
+**Failure exits**
+- If flattened: reset posture battle; if opponent stands out of stack: transition to legs.
+
+---
+
+### 8.12 Elbow-post specialist (builds posture through elbow posting)
+**Start state:** opponent posts elbow/forearm inside to create a stable wedge.
+
+**Preferred routing**
+- Make elbow-post the “alarm bell” entry:
+  - remove/redirect elbow post → enter Side Scissor.
+- If elbow recovery happens immediately, treat it as clamp trigger.
+
+**Common defenses**
+- Rapid elbow pummel inside
+- Re-square after any angle attempt
+
+**Failure exits**
+- If elbow post cannot be removed cleanly: switch to Double Underhooks entry routes.
+
+---
+
+### 8.13 Collar-tie / head control passer (controls your head to start opening)
+**Start state:** opponent uses collar tie/head push to flatten you and open guard.
+
+**Preferred routing**
+- Do not accept head control while passive.
+- Create angle first: Side Sit-Up or Side Scissor entry, then attack the no-post side.
+- If guard opens: transition first with inside position.
+
+**Common defenses**
+- Head push + hip retreat
+- Immediate stand as you chase posture
+
+**Failure exits**
+- If posture stabilizes standing: knockdown/legs.
+
+---
+
+### 8.14 “Post then retract” defender (posts briefly then yanks posts away)
+**Start state:** opponent posts hands briefly to stabilize then retracts to deny control.
+
+**Preferred routing**
+- Don’t chase the retracting hand—use it as timing:
+  - convert during the post moment (come-up or sweep).
+- Favor sweep lines that punish base shifts created by posting.
+
+**Common defenses**
+- Micro-posts then immediate withdrawal
+- Re-square hips after each post
+
+**Failure exits**
+- If posts become too brief to convert: force longer posts with bigger off-balance or shift to a hub that doesn’t require long posts (Top Lock).
+
+---
+
+### 8.15 “Knee wedge opener” (uses knee in tailbone/hips to open guard)
+**Start state:** opponent inserts a knee wedge and begins prying guard open.
+
+**Preferred routing**
+- Go first: transition before the wedge fully opens.
+- Preserve inside position; use entanglement preference to deny pass initiation.
+- Re-enter a hub immediately once stabilized.
+
+**Common defenses**
+- Wedge + posture upright
+- Immediate pass attempt as soon as guard opens
+
+**Failure exits**
+- If inside position is lost: priority becomes re-establishing inside lines before any attack.
+
+---
+
+### 8.16 “Pass-first sprinter” (opens and immediately sprints around)
+**Start state:** opponent opens guard and tries to run around legs quickly.
+
+**Preferred routing**
+- Your minimum goal is entanglement or inside position that stops the sprint.
+- Use sticky connections (hooks/entanglements) rather than reaching with hands.
+
+**Common defenses**
+- Rapid lateral movement
+- Hand fighting to clear hooks
+
+**Failure exits**
+- If they get outside your legs: treat it as immediate recovery priority—do not attempt submissions from compromised alignment.
+
+## 9.0 Drilling Progressions
+
+### 9.1 Structure of this section
+Progressions are organized in four layers:
+1) **Phase drills** (posture battle mechanics)
+2) **Hub drills** (Side Scissor, Clamp, etc.)
+3) **Trigger-response drills** (single cue → correct branch)
+4) **Scenario rounds** (application under resistance)
+
+---
+
+### 9.2 Phase Drills (Phase 1: posture battle)
+
+#### 9.2.1 Posture-break ladder (hands → elbows → head line)
+- **Start:** closed guard; partner begins to posture.
+- **Objective:** force any “posture-won signal” (forced post, collapse, or stalled stand).
+- **Constraints:** no submissions; no sweeps; only posture breaks.
+- **Success:** 3 clean posture-won signals in a row.
+- **Dose:** 3 rounds × 2 minutes each (switch top/bottom).
+
+#### 9.2.2 Post-forcing drill (timing)
+- **Start:** closed guard; partner attempts to stay upright.
+- **Objective:** force a hand post (forward or backward) on command.
+- **Constraints:** bottom must call “post” before it happens; if no post in 15 seconds, reset.
+- **Success:** forced post within 15 seconds.
+- **Dose:** 10 resets per person.
+
+#### 9.2.3 Stand prevention → branch recognition
+- **Start:** closed guard; partner stands at moderate speed.
+- **Objective:** recognize branch trigger and commit (knockdown or legs) within 3 seconds.
+- **Constraints:** bottom must choose one branch only; no switching mid-attempt.
+- **Success:** branch commitment within 3 seconds + meaningful progress.
+- **Dose:** 8 reps each side.
+
+---
+
+### 9.3 Hub Drills (Phase 2: dominant positions)
+
+#### 9.3.1 Side Scissor entry reps (4 common entries)
+- **Start:** closed guard with one predefined cue (elbow post / arm drag / underhook / misdirection).
+- **Objective:** establish Side Scissor invariants (outside elbow + angle + height pathway).
+- **Constraints:** stop once invariants are stable for 3 seconds.
+- **Success:** stable invariants without opponent re-squaring.
+- **Dose:** 5 reps per entry × 2 sets.
+
+#### 9.3.2 Side Scissor trilemma rounds (three branches)
+- **Start:** stable Side Scissor.
+- **Objective:** run correct branch based on partner’s chosen defense:
+  - defense A: deny height
+  - defense B: recover elbow inside
+  - defense C: concede height (you come up)
+- **Constraints:** partner must fully commit to exactly one defense for 10 seconds.
+- **Success:** correct branch selection + output initiation (back exposure / sweep start / clamp seal).
+- **Dose:** 9 reps (3 per defense).
+
+#### 9.3.3 Clamp seal + family selection
+- **Start:** clamp entry position (opponent elbow recovered inside).
+- **Objective:** seal clamp, then select correct family based on defense (stack / connect / bail).
+- **Constraints:** no free switching families; choose once per rep.
+- **Success:** clamp sealed in 5 seconds + correct family selection.
+- **Dose:** 12 reps.
+
+#### 9.3.4 Double Underhooks → slide-by pathway
+- **Start:** double underhooks established.
+- **Objective:** execute slide-by to come-up/top-position mechanics.
+- **Constraints:** partner gives 30% resistance initially; increase weekly.
+- **Success:** clear advancement or sweep initiation.
+- **Dose:** 10 reps each.
+
+#### 9.3.5 Side Sit-Up → hip sweep two-direction drill
+- **Start:** side sit-up established.
+- **Objective:** choose correct direction based on base; run hip sweep.
+- **Constraints:** partner alternates base heavy left/right each rep.
+- **Success:** correct direction choice + sweep initiation.
+- **Dose:** 12 reps.
+
+---
+
+### 9.4 Trigger-Response Drills (Phase 3: conversion and branch switching)
+
+#### 9.4.1 “Elbow inside” automatic clamp drill
+- **Start:** Side Scissor with partner instructed to pummel elbow inside at random time.
+- **Objective:** immediate clamp entry without re-fighting the elbow.
+- **Constraints:** bottom must enter clamp within 2 seconds of elbow pummel.
+- **Success:** clamp structure established.
+- **Dose:** 10 reps.
+
+#### 9.4.2 “Height denied” automatic sweep drill
+- **Start:** Side Scissor; partner denies height by re-squaring and lowering.
+- **Objective:** shift to sweep line and remove post.
+- **Constraints:** no clamp entry allowed in this drill.
+- **Success:** sweep initiation within 5 seconds.
+- **Dose:** 10 reps.
+
+#### 9.4.3 “Stand trigger” protocol drill (knockdown vs legs)
+- **Start:** closed guard; partner stands and creates distance.
+- **Objective:** select correct option:
+  - if attachment remains → scoop/knockdown
+  - if distance grows → leg entry
+- **Constraints:** coach/partner calls “close” or “far” at stand moment; you must comply.
+- **Success:** correct branch + progress in 5 seconds.
+- **Dose:** 12 reps.
+
+---
+
+### 9.5 Scenario Rounds (integration under resistance)
+
+#### 9.5.1 Standing passer round
+- **Round rule:** partner must stand within 10 seconds and attempt to open.
+- **Bottom goal:** knockdown or leg engagement before guard is fully opened.
+- **Dose:** 3 rounds × 2 minutes (switch roles).
+
+#### 9.5.2 Elbow-post specialist round
+- **Round rule:** partner must posture through elbow-post frames.
+- **Bottom goal:** Side Scissor entry or Double Underhooks entry within 20 seconds.
+- **Dose:** 3 rounds × 2 minutes.
+
+#### 9.5.3 Inside-frame / elbow recovery round
+- **Round rule:** partner’s priority is to pummel elbow inside.
+- **Bottom goal:** clamp entry on elbow recovery; then finish or recycle.
+- **Dose:** 3 rounds × 2 minutes.
+
+---
+
+### 9.6 Progression rules (how to increase difficulty)
+- Increase resistance only after success criteria are met consistently.
+- Add constraints one at a time (time pressure, limited grips, forced defense choices).
+- Keep branch selection strict: wrong branch = reset.
+
+### 9.7 Minimum weekly drill set (if time is limited)
+- Posture-break ladder (9.2.1)
+- Side Scissor entry reps (9.3.1)
+- Side Scissor trilemma rounds (9.3.2)
+- Stand-trigger protocol drill (9.4.3)
+- One scenario round matched to your most common opponent (9.5.x)
+
+### 9.8 Skill Gates (pass/fail standards before adding resistance)
+
+#### 9.8.1 Posture gate
+You may increase resistance only after you can consistently demonstrate:
+- forced hand post within 15 seconds (from closed guard), and
+- one clean branch commitment when opponent stands (within 3 seconds).
+
+#### 9.8.2 Side Scissor gate
+You may increase resistance only after you can:
+- establish outside elbow + angle + height pathway for 3 seconds,
+- correctly route to sweep when height is denied,
+- correctly route to clamp when elbow recovers inside.
+
+#### 9.8.3 Clamp gate
+You may increase resistance only after you can:
+- seal clamp within 5 seconds of entry,
+- choose a family (triangle/armbar/trimura-omoplata) that matches the defense,
+- transition out cleanly when the opponent bails.
+
+---
+
+### 9.9 Positional Sparring Rules (to prevent “random grappling”)
+
+#### 9.9.1 Phase 1 sparring (posture-only)
+- **Start:** closed guard.
+- **Bottom wins:** any posture-won signal.
+- **Top wins:** clean posture rebuild to stable standing or clean guard opening.
+- **Reset:** immediately on win condition.
+- **Round:** 2 minutes; 3 rounds.
+
+#### 9.9.2 Hub sparring (Side Scissor)
+- **Start:** Side Scissor already established.
+- **Bottom wins:** back exposure initiation OR sweep initiation OR clamp seal.
+- **Top wins:** re-square + inside elbow + posture rebuild for 3 seconds.
+- **Rule:** bottom must pick correct branch within 2 seconds of the defense appearing.
+- **Round:** 2 minutes; 3 rounds.
+
+#### 9.9.3 Hub sparring (Clamp)
+- **Start:** clamp position established.
+- **Bottom wins:** submission finish OR forced top position.
+- **Top wins:** posture rise + clamp break + disengagement for 3 seconds.
+- **Round:** 2 minutes; 3 rounds.
+
+---
+
+### 9.10 Diagnostic Drills (identify the limiting factor)
+
+#### 9.10.1 “Angle audit” drill
+- **Start:** closed guard → attempt entry to Side Scissor.
+- **Constraint:** you may not attack until your hips are clearly offset.
+- **Goal:** build the habit: angle first, then attack.
+- **Success:** opponent cannot re-square for 3 seconds once angle is set.
+- **Dose:** 10 reps.
+
+#### 9.10.2 “Elbow line audit” drill
+- **Start:** Side Scissor; partner’s only job is to pummel elbow inside.
+- **Goal:** immediate clamp entry on elbow recovery.
+- **Success:** clamp sealed within 2 seconds.
+- **Dose:** 10 reps.
+
+#### 9.10.3 “Post audit” drill
+- **Start:** closed guard.
+- **Goal:** force a post, then immediately remove/attack the remaining post side.
+- **Success:** forced post + conversion attempt within 3 seconds.
+- **Dose:** 10 reps.
+
+---
+
+### 9.11 Constraint Ladders (progressively harder versions)
+
+#### 9.11.1 Side Scissor ladder
+1) Partner gives the entry (0% resistance) → you establish invariants.
+2) Partner resists entry (30%) → you must use a second entry option.
+3) Partner allows entry but denies height (50%) → you must route to sweep.
+4) Partner allows entry but pummels elbow inside (50%) → you must route to clamp.
+5) Partner mixes defenses unpredictably (70%) → you must branch correctly.
+
+#### 9.11.2 Standing protocol ladder
+1) Partner stands slowly (0–30%) → you pick knockdown vs legs correctly.
+2) Partner stands fast (50%) → you must commit within 3 seconds.
+3) Partner stands + backs out (70%) → you must enter legs early.
+
+---
+
+### 9.12 Micro-rounds (high repetition under fatigue)
+- **Format:** 30 seconds work / 15 seconds reset × 8 rounds.
+- **Goal:** one clean output per micro-round (posture-won signal, clamp seal, sweep initiation).
+- **Use cases:** conditioning + decision speed.
+
+---
+
+### 9.13 Error-Correction Protocol (what to do when you fail)
+After a failed rep, identify which category failed:
+- **Entry failure** (couldn’t reach hub)
+- **Control failure** (lost invariant: angle/elbow/hip capture)
+- **Decision failure** (chose wrong branch)
+- **Conversion failure** (had the hub but couldn’t output)
+Then redo the rep with a single correction constraint (only one).
+
+---
+
+### 9.14 Weekly load options (time-based templates)
+
+#### 9.14.1 30-minute session
+- 8 min Phase 1 drills (posture forcing + stand trigger)
+- 12 min Side Scissor trilemma rounds
+- 10 min scenario sparring (your most common opponent archetype)
+
+#### 9.14.2 60-minute session
+- 15 min Phase 1 drills
+- 15 min Side Scissor entry + trilemma
+- 10 min clamp family selection
+- 10 min standing protocol
+- 10 min scenario rounds
+
+#### 9.14.3 90-minute session
+- 20 min Phase 1 drills + audits
+- 20 min Side Scissor ladders
+- 15 min clamp ladders
+- 15 min sit-up/hip sweep two-direction work
+- 20 min scenario rounds with escalating resistance
