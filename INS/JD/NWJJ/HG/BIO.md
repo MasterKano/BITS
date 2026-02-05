@@ -395,8 +395,6 @@ The dominant conceptual failure is:
 
 **Corrective heuristic:** offense is conditional; recovery is mandatory when the law is violated.
 
-## 4.0 CORE CONCEPTS (EXPANDED)
-
 ### 4.13 Head Position as a Steering Wheel
 Head position is treated as a primary steering mechanism for both:
 - **Knee lever / kuzushi quality**, and
@@ -536,8 +534,6 @@ If you strip the system to essentials, functional half guard bottom requires:
 - A **recovery** plan when alignment is lost
 
 This MVHG is the conceptual checklist for diagnosing why half guard “doesn’t work” in live rounds.
-
-## 4.0 CORE CONCEPTS (FURTHER EXPANDED)
 
 ### 4.25 Kuzushi Families (High-Level Definitions)
 The system uses multiple kuzushi families. Each is defined by *how* it breaks base (direction + lever).
@@ -800,9 +796,6 @@ OR
 If flattened threat (crossface + hip collapse)
   → Recovery (half-elbow escape + re-frames)
     → back to Structure
-
-
-## 5.0 SYSTEM OVERVIEW (EXPANDED)
 
 ### 5.7 Default Gameplan (If You Only Remember One Plan)
 1) **Establish structure** (knee shield + frames + side orientation).  
@@ -1104,8 +1097,6 @@ Hubs are not linear; they are a graph:
 - If you get elbow/knee line → stand-up hub (tight waist/body lock/single leg).
 - If defended by whizzer → whizzer branch.
 - If base breaks and leg line opens → scoop/deep-half leg-lock access (controlled only).
-
-## 5.0 SYSTEM OVERVIEW (ADDITIONAL)
 
 ### 5.22 System Hub Graph (ASCII)
 ~~~
