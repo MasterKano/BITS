@@ -99,24 +99,24 @@
                                    |
                                    v
 
-+–––––––––––––––––––––––––––––––––––––––––+
++––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––+
 |                               HALF GUARD (BOTTOM)                                |
 |                 (inside leg entanglement + frames + connection)                  |
-+–––––––––––––––––––––––––––––––––––––––––+
++––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––+
 |                         |                          |                    |
 |                         |                          |                    |
 v                         v                          v                    v
-+——————+    +———————+    +—————––+   +–––––––––––+
-| KNEE SHIELD HUB  |    | ELBOW ESCAPE HUB    |    | TIGHT WAIST HUB    |   | KNEE LEVER HUB       |
-| (“Path to Heaven”)|    | (half elbow escape) |    | (get-up/sweep)     |   | (kuzushi → scramble) |
-+——————+    +———————+    +—————––+   +–––––––––––+
++——————————————————+    +—————————————————————+    +——————————————————+   +––––––––––––––––––––––+
+| KNEE SHIELD HUB  |    | ELBOW ESCAPE HUB    |    | TIGHT WAIST HUB  |   | KNEE LEVER HUB       |
+| (“Path to Heaven”)|   | (half elbow escape) |    | (get-up/sweep)   |   | (kuzushi → scramble) |
++——————————————————+    +—————————————————————+    +——————————————————+   +––––––––––––––––––––––+
 |                         |                          |                    |
 |                         |                          |                    |
 |                         v                          v                    v
-|                +—————––+      +———————–+   +———————+
-|                | UDE GATAME HUB    |      | WHIZZER PROBLEM TREE  |   | FAIL-CHAIN LINKS    |
-|                | (reverse armbar)  |      | (tight waist vs whizzer)|  | (heist/drag/back)  |
-|                +—————––+      +———————–+   +———————+
+|                +—————————————————––+      +————————————————————————–+   +————————————————————+
+|                | UDE GATAME HUB    |      | WHIZZER PROBLEM TREE    |   | FAIL-CHAIN LINKS   |
+|                | (reverse armbar)  |      | (tight waist vs whizzer)|   | (heist/drag/back)  |
+|                +—————————————————––+      +—————————————————————————+   +————————————————————+
 |                         |                          |
 |                         v                          v
 |                +—————––+      +———————–+
