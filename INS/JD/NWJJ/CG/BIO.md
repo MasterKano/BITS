@@ -520,6 +520,578 @@ A practitioner is “running the system” only if they can demonstrate:
 The most frequent failure is treating Phase 2 as optional—attempting submissions directly from a neutral closed guard without first establishing dominance metrics (height/angle) or without forcing posts. This produces “move hunting” instead of a decision tree and typically collapses when opponents posture or stand.
 
 
+## 6.0 Technique Library
+
+### 6.1 Posture Battle (Phase 1)
+
+#### 6.1.1 Posture-break methods (core set)
+- **Elbow-post breakdown**
+  - Entry: opponent posts elbow/forearm to build posture.
+  - Action: remove the post and pull with legs to collapse alignment.
+  - Outcome: hands-to-mat or shoulders/head collapse.
+  - Failure exit: switch to misdirection or transition to lower-body branch if opponent stands.
+
+- **Wrist-control breakdown**
+  - Entry: opponent posts hands to stabilize posture.
+  - Action: control wrists, pull knees, and off-balance to force forward post.
+  - Outcome: conversion window into come-up or angle creation.
+  - Failure exit: if wrists slip and posture rises, switch branches early (legs/knockdown).
+
+- **Collar + scoop posture collapse**
+  - Entry: head/shoulder line accessible.
+  - Action: connect to collar/head line while legs lock hips; pull opponent into compromised posture.
+  - Outcome: posture collapse enabling dominant hub entry.
+  - Failure exit: if opponent retreats hips/stands, transition to scoop/knockdown or leg branch.
+
+---
+
+### 6.2 Side Scissor (Strongly Dominant Hub)
+
+#### 6.2.1 Entries
+- **Elbow-post entry**
+  - Trigger: elbow posts inside your guard.
+  - Goal: establish outside-elbow advantage and start height/angle creation.
+
+- **Arm-drag entry**
+  - Trigger: opponent reaches or posts with extended arm.
+  - Goal: redirect across centerline to remove post and turn the corner.
+
+- **Underhook entry**
+  - Trigger: underhook access appears during posture fight.
+  - Goal: connect torso, climb angle, and establish scissor alignment.
+
+- **Misdirectional entry**
+  - Trigger: opponent braces against one direction.
+  - Goal: fake one direction, force a post, then attack opposite to enter.
+
+#### 6.2.2 Primary battles (invariants)
+- **Outside elbow**: maintain a position that prevents the opponent from re-framing across your torso.
+- **Height**: win the ability to come up relative to the opponent’s posture.
+- **Angle**: keep hips offset so posts become unreliable.
+
+#### 6.2.3 Trilemma outcomes
+- **Height win → back exposure line**
+  - Indicator: opponent’s posture collapses and you can rise/turn the corner.
+  - Output: back exposure/back take pathway.
+
+- **Post/base win → sweep line**
+  - Indicator: opponent cannot post effectively on the threatened side.
+  - Output: sweep(s) tied to the no-post side.
+
+- **Elbow recovered (inside elbow) → clamp line**
+  - Indicator: opponent circles elbow inside to re-frame.
+  - Output: immediate clamp entry (treat as a trigger, not a reset).
+
+#### 6.2.4 Failure exits
+- If height stalls: route to sweep line.
+- If elbow line is lost: route to clamp.
+- If opponent postures/stands: route to lower-body compensation branch.
+
+---
+
+### 6.3 Clamp (Submission Hub)
+
+#### 6.3.1 Primary entries
+- **From Side Scissor elbow recovery**
+  - Trigger: opponent wins elbow battle and frames inside.
+  - Goal: convert elbow recovery into clamp structure.
+
+#### 6.3.2 Clamp types
+- **Side clamp**
+  - Use when you have angle and can keep opponent tilted.
+
+- **Vertical clamp**
+  - Use when opponent squares up and you need vertical control to prevent posture.
+
+#### 6.3.3 Primary attacks (families)
+- **Triangle family**
+- **Armbar family (including inverted variants)**
+- **Trimura family**
+- **Omoplata family (including roll-over outcomes)**
+
+#### 6.3.4 Failure exits
+- If clamp breaks: transition to alternative triangle controls or re-enter Side Scissor via re-angled posture break.
+- If opponent postures/stands: switch to leg/knockdown branch.
+
+---
+
+### 6.4 Double Underhooks (Control + Advancement Hub)
+
+#### 6.4.1 Entries
+- Elbow-post method
+- Wrist-control method
+- Flower-style off-balance entry
+- Collar & scoop method
+
+#### 6.4.2 Primary action
+- **Slide-by**
+  - Role: principal advancement mechanic to win angle and come up.
+  - Output: sweep/top position routes.
+
+#### 6.4.3 Troubleshooting (common)
+- If opponent blocks the slide-by: re-off-balance to re-force posts and retry, or switch hubs (Side Scissor / sit-up).
+
+---
+
+### 6.5 High Cross (Attack Lane Hub)
+
+#### 6.5.1 Entry
+- Obtain the high-cross configuration as posture collapses or a posting arm is redirected.
+
+#### 6.5.2 Primary attacks
+- High Cross armbar
+- High Cross to triangle
+- High Cross to trimura
+- High Cross omoplata to leg-attack extension (where applicable)
+
+#### 6.5.3 Failure exits
+- If posture rebuild begins: switch to posture-break cycle or route to Top Lock (if angle is limited).
+
+---
+
+### 6.6 Side Sit-Up / Hip Sweep (Sweep Hub)
+
+#### 6.6.1 Entries
+- Standard entry to side sit-up
+- Preferred entry variation
+- Two-arm-position variants (context-dependent)
+
+#### 6.6.2 Core action
+- **Hip sweep**
+  - Includes two force directions depending on opponent base.
+  - Arm-trap variations to remove posts.
+
+#### 6.6.3 Failure exits
+- If hip sweep fails: follow the defined re-attack structure (re-trap arm, switch direction, or recycle into adjacent hub).
+
+---
+
+### 6.7 Scoop / Knockdown vs Standing (Standing-Posture Response)
+
+#### 6.7.1 Core mechanic
+- Scoop/handstand knockdown to force the opponent to the butt or collapse base.
+
+#### 6.7.2 Follow-on attacks
+- Hip sweep follow-on
+- Triangle follow-on
+- Armbar follow-on
+
+#### 6.7.3 Integration
+- After knockdown, route back into dominant hubs (Side Scissor / High Cross) rather than lingering in neutral.
+
+---
+
+### 6.8 Top Lock (Weakly Dominant Hub)
+
+#### 6.8.1 Use case
+- Applied when you lack usable height/angle but still need an attack-capable control.
+
+#### 6.8.2 Variants
+- Top lock armbar
+- Overtie top lock
+- Standing opponent handling
+- Figure-4 top lock
+
+#### 6.8.3 Failure exits
+- If opponent pulls out: follow the prescribed retention/transition actions rather than chasing.
+
+---
+
+### 6.9 Trap Triangle (Weakly Dominant Hub)
+
+#### 6.9.1 Core dilemma
+- Collar vs wrist dilemma to force predictable reactions.
+
+#### 6.9.2 Transitions
+- Trap triangle → figure-4 triangle upgrades
+- Short-legged adaptations as needed
+
+---
+
+### 6.10 Elbow Overhook (Weakly Dominant Hub)
+
+#### 6.10.1 Configurations
+- Kneeling opponent variant
+- Standing opponent variant
+
+#### 6.10.2 Output
+- Tight arm-lock fulcrum with direct finishing routes.
+
+---
+
+### 6.11 Lower-Body Compensation Branch (Posture Lost)
+
+#### 6.11.1 Leg-attack entries
+- Spin-around leg entry into heel-hook routes
+- Transition options into primary leg-entanglement structures
+
+#### 6.11.2 Backward/knockdown sweeps
+- Knockdown “formula” concepts to force the opponent to the butt.
+- Backward sweep logic when weight is committed to heels.
+
+#### 6.11.3 Re-entry rule
+- After leg/knockdown success, re-enter dominant hubs immediately; do not reset to neutral.
+
+### 6.12 Decision Matrix (posture state × your dominance state)
+
+Use this as the primary routing tool.
+
+| Opponent posture state | Your angle/height state | Run this hub/branch | Immediate objective |
+|---|---|---|---|
+| Posture compromised (hands posting / alignment collapsed) | Angle available | Side Scissor / High Cross | Establish strongly dominant hub, force trilemma/dilemma |
+| Posture compromised | Angle not yet available | Double Underhooks / Side Sit-Up | Create angle and come-up pathway; convert to sweep/top |
+| Posture stable (kneeling) | Angle available | Side Scissor / Clamp entry threats | Remove posts, isolate elbow line, force elbow recovery |
+| Posture stable (kneeling) | Angle limited | Top Lock / Trap Triangle / Elbow Overhook | Create weak dominance with attack-capable control |
+| Posture stable + standing | Any | Scoop/Knockdown OR Lower-Body Compensation | Deny clean guard opening: knockdown or legs immediately |
+| Guard opening in progress | Any | Transition governance (inside position/entanglement) | Go first, deny pass/legs, preserve initiative |
+
+---
+
+### 6.13 Trigger Index (single-cue routing)
+
+- **Hands forced to mat (forward)** → come-up / height line OR remove remaining post → sweep.
+- **Hands post backward / weight to heels** → backward sweep / knockdown line.
+- **Elbow circles inside to re-frame** → Clamp entry (do not re-fight the elbow in place).
+- **Opponent re-squares hips to kill angle** → switch to weakly dominant hub (Top Lock / Trap Triangle / Elbow Overhook).
+- **Opponent stands to open guard** → Scoop/Knockdown or Legs (do not chase upper-body finishes).
+- **Guard opening is inevitable** → transition first; secure inside position or entanglement.
+
+---
+
+### 6.14 Hub Standards (what qualifies as “in-system”)
+
+A technique is included in this library only if it satisfies all:
+- **Entry is named** (you can reach it from a common posture-fight cue).
+- **Controls are explicit** (what must be held to make it work).
+- **At least two outputs** (sweep/back/submission) OR one output + one re-entry.
+- **Failure exit is defined** (where you go next when defended).
+
+---
+
+### 6.15 Side Scissor — Execution Checklist (invariants + trilemma routing)
+
+#### 6.15.1 Invariants (do not proceed without these)
+- Outside elbow advantage is maintained (deny inside re-frame).
+- Hips are offset (angle is real; you are not squared).
+- You have a height pathway (come-up is mechanically possible).
+
+#### 6.15.2 Trilemma routing (single decision)
+- If **height wins** → back exposure line (come up; turn corner; deny re-post).
+- If **height is denied** but angle remains → sweep line (attack the no-post side).
+- If **elbow recovers inside** → clamp line immediately.
+
+#### 6.15.3 Side Scissor failure exits
+- If posture rebuild begins → return to posture-break (6.2) or shift to Top Lock (6.8) if angle collapses.
+- If opponent stands → Scoop/Knockdown (6.9.3) or Lower-Body Compensation (6.10).
+
+---
+
+### 6.16 Clamp — Family Selection Rules (choose by opponent defense)
+
+#### 6.16.1 Selection
+- Opponent **stacks / postures to break clamp** → prioritize Triangle family.
+- Opponent **connects hands / hides elbow** → prioritize Trimura/Omoplata families to punish connection/drive.
+- Opponent **gives elbow exposure** → prioritize Armbar family (standard/inverted based on alignment).
+- Opponent **backs out** → re-angle to Side Scissor or stabilize to Trap Triangle.
+
+#### 6.16.2 Clamp failure exits (hard rules)
+- Clamp opens due to posture rise → posture-break cycle or Top Lock (if angle is gone).
+- Clamp opens due to retreat → Trap Triangle or re-entry to Side Scissor.
+
+---
+
+### 6.17 Double Underhooks — Slide-By Routing (what it is “for”)
+
+#### 6.17.1 Purpose
+A posture-denial hub whose primary output is **advancement/come-up** via slide-by.
+
+#### 6.17.2 Routing
+- Slide-by succeeds → arrive on top (preferred) or into sweep finish.
+- Slide-by blocked by frame/base → re-off-balance to force a post, then re-run.
+- Opponent retreats hips / stands → shift immediately to Scoop/Knockdown or Legs.
+
+---
+
+### 6.18 Side Sit-Up / Hip Sweep — Two-Force Model (direction selection)
+
+#### 6.18.1 Direction selection
+- If opponent is heavy one side → sweep to the light side.
+- If opponent is square and posting → remove/trap the post first, then sweep.
+
+#### 6.18.2 Failure tree (do not improvise)
+- Post appears → trap/remove post → re-run same direction.
+- Post disappears (arm retracts) → switch direction OR transition to Side Scissor / High Cross (based on elbow/angle).
+
+---
+
+### 6.19 High Cross — Output Priorities (attack lane governance)
+
+#### 6.19.1 Primary outputs (ordered)
+1) Armbar line when elbow exposure is clear.
+2) Triangle line when posture defense is stack-like.
+3) Trimura/Omoplata lines when opponent turns/drives to defend the first two.
+
+#### 6.19.2 Failure exits
+- If posture rebuild begins → re-enter posture-break (Phase 1) or Top Lock if you lose angle.
+- If opponent stands → legs/knockdown branch.
+
+---
+
+### 6.20 Weakly Dominant Hub Selection (when extremes aren’t there)
+
+Choose by what you can reliably hold:
+- **Top Lock**: you have attachment but lack angle/height; want direct armlock/triangle pathways.
+- **Trap Triangle**: you can impose a collar/wrist dilemma and keep upper-body clamped.
+- **Elbow Overhook**: you can secure the overhook line (kneeling or standing) and build a fulcrum.
+
+Hard rule: weak dominance must either **finish** or **re-create angle/height** back to strong dominance.
+
+---
+
+### 6.21 Standing-Posture Response Protocol (scoop/knockdown vs legs)
+
+When the opponent stands:
+- If you can maintain close attachment and disrupt base → **Scoop/Knockdown** first (recover dominance metrics).
+- If distance increases or posture is too stable → **Lower-Body Compensation** (leg entries) immediately.
+Do not chase upper-body submissions that require broken posture.
+
+---
+
+### 6.22 Guard-Opening Safety Protocol (transition governance)
+
+If closed guard is being opened:
+- Go first: initiate your transition before they complete the opening.
+- Prioritize inside position and/or entanglement.
+- Minimum output: a position that denies immediate passing and denies easy leg entries against you.
+
+---
+
+### 6.23 Quality Control (library compliance checks)
+
+Before you keep a technique in your personal system, verify:
+- Can you name the entry cue in one sentence?
+- Can you list the required controls (2–3 items)?
+- Can you state the primary output and one alternative?
+- Can you name the failure exit without thinking?
+
+If any answer is “no,” it is not yet system-grade for you.
+
+## 7.0 Diagram Set
+~~~
+### 7.1 Diagram legend (standard notation)
+- **[STATE]** = position/hub/phase
+- **→** = primary transition
+- **⇢** = alternative transition
+- **(T)** = trigger cue (observable)
+- **(C)** = required control (must be secured)
+- **(O)** = output (sweep/back/submission/top)
+- **(X)** = failure exit (mandatory route if defended)
+
+---
+
+### 7.2 System State Machine (phase-level)
+
+[Closed Guard]
+   |
+   v
+[Phase 1: Posture Battle]
+   |  (T) posts forced OR alignment collapses
+   v
+[Phase 2: Dominant Position Acquisition]
+   |  ⇢ strongly dominant hubs  → (O) sweep/back/submission/top
+   |  ⇢ weakly dominant hubs    → (O) finish OR rebuild angle/height
+   v
+[Phase 3: Conversion]
+   |
+   +--> (X) if opponent stands/posture stabilizes → [Lower-Body Compensation]
+
+---
+
+### 7.3 Side Scissor Hub (trilemma map)
+
+                (T) outside elbow achieved + angle present
+[ENTER SIDE SCISSOR]
+      |
+      | (C) outside elbow + hip offset + height pathway
+      v
+  [TRILEMMA]
+   /   |     \
+  /    |      \
+ /     |       \
+v      v        v
+Height win   Height denied   Elbow recovered inside
+ (O) back    (O) sweep       (O) clamp entry
+ exposure       line             line
+   |            |                 |
+ (X) re-square  (X) base widens   (X) clamp fails
+   |            |                 |
+   v            v                 v
+Top Lock     Re-off-balance   Posture Battle
+or Phase 1   / re-run sweep   or Side Scissor re-entry
+
+---
+
+### 7.4 Clamp Hub (family selection + exits)
+
+(T) elbow circles inside / frames return
+[ENTER CLAMP]
+   |
+   | (C) clamp sealed before posture rebuild
+   v
+[SELECT FAMILY]
+   |
+   +--> Opponent stacks/postures  → Triangle family (O)
+   |
+   +--> Opponent connects/hides elbow → Trimura/Omoplata family (O)
+   |
+   +--> Elbow exposure appears → Armbar family (O)
+   |
+   +--> Opponent retreats/bails → Trap Triangle / Side Scissor re-angle (O)
+   |
+ (X) clamp opens via posture rise → Posture Battle OR Top Lock
+
+---
+
+### 7.5 Double Underhooks Hub (slide-by map)
+
+(T) posture collapse creates space under arms
+[DOUBLE UNDERHOOKS]
+   |
+   | (C) torso connection + angle pathway
+   v
+[SLIDE-BY]
+   |
+   +--> succeeds → (O) come-up / top position
+   |
+   +--> blocked → re-off-balance (force post) ⇢ re-run slide-by
+   |
+ (X) opponent retreats hips/stands → Scoop/Knockdown ⇢ Legs
+
+---
+
+### 7.6 High Cross Lane (attack routing)
+
+(T) posting/reaching arm redirected into high-cross configuration
+[HIGH CROSS]
+   |
+   | (C) arm/shoulder containment + anti-re-square hip position
+   v
+[OUTPUT PRIORITY]
+   |
+   +--> elbow exposure → Armbar line (O)
+   |
+   +--> stack-like defense → Triangle line (O)
+   |
+   +--> turn/drive defense → Trimura/Omoplata line (O)
+   |
+ (X) posture rebuild begins → Phase 1 OR Top Lock (if angle lost)
+ (X) opponent stands → Legs/Knockdown branch
+
+---
+
+### 7.7 Side Sit-Up / Hip Sweep (two-force model)
+
+(T) you can sit up to a side without losing hip capture
+[SIDE SIT-UP]
+   |
+   | (C) stable sit-up structure + post management
+   v
+[HIP SWEEP]
+   |\
+   | \
+   |  \
+   |   \
+   v    v
+Direction A   Direction B
+(light side)  (post removed)
+ (O) sweep     (O) sweep
+   |             |
+ (X) post appears  (X) base widens
+   |             |
+trap/remove post   re-off-balance
+→ re-run sweep     → re-run sweep
+   |
+ (X) arm retracts → switch direction OR transition to Side Scissor/High Cross
+
+---
+
+### 7.8 Top Lock (weak dominance governance)
+
+(T) angle/height limited but attachment available
+[TOP LOCK]
+   |
+   | (C) lock sealed + posture resistance
+   v
+[ATTACK / REBUILD]
+   |
+   +--> (O) armbar / triangle outputs
+   |
+   +--> (O) rebuild angle/height → Side Scissor / High Cross
+   |
+ (X) opponent pulls out → retention/transition (inside position/entanglement)
+
+---
+
+### 7.9 Trap Triangle (dilemma map)
+
+(T) collar/wrist dilemma available
+[TRAP TRIANGLE]
+   |
+   | (C) upper-body clamp maintained
+   v
+[UPGRADE PATH]
+   |
+   +--> (O) triangle finish line
+   |
+   +--> (O) upgrade to figure-4 triangle
+   |
+ (X) opponent disengages → Top Lock or re-angle to Side Scissor
+
+---
+
+### 7.10 Elbow Overhook (kneeling vs standing)
+
+[ELBOW OVERHOOK]
+   |
+   +--> kneeling opponent → (O) arm-lock fulcrum finish
+   |
+   +--> standing opponent → (O) arm-lock OR force knockdown
+   |
+ (X) opponent disengages/stands away → Legs/Knockdown branch
+
+---
+
+### 7.11 Standing-Posture Branching (scoop vs legs)
+
+(T) opponent stands to open guard
+[STANDING OPPONENT]
+   |
+   +--> if close attachment + base disruptable
+   |        → Scoop/Knockdown → (O) seated/butt base → re-enter dominant hub
+   |
+   +--> if distance increases / posture too stable
+            → Legs (entanglement entries) → (O) leg attack OR knockdown
+   |
+ (X) guard opens → transition governance (inside position/entanglement)
+
+---
+
+### 7.12 Guard-Opening Safety (minimum viable outcome)
+
+(T) closed guard is being opened / cannot be maintained
+[TRANSITION NOW]
+   |
+   | (C) go first + inside position preference
+   v
+[MINIMUM OUTPUT]
+   |
+   +--> entanglement that denies immediate passing
+   |
+   +--> inside position that denies immediate leg entry against you
+   |
+   +--> re-attack lane back into dominance (Side Scissor / Top Lock / Sit-Up)
+
+~~~
 
 
 
