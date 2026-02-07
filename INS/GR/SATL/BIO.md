@@ -290,364 +290,736 @@ QUALITY CONTROL (the “engine > transmission” reminder)
     - Backside 50/50 transitions and follow-the-roll mechanics.
     - Mutual ashi concepts emphasizing priority sequencing (“going last”), rolling through, far-hip ashi, and gripping rules.
 
-
 ## 3.0 VOLUME INDEX (VIDEO NAV)
 
 ### Volume 1 — Intro to Leg Locks
-Summary (1 paragraph):
-This volume establishes the system thesis: leg locks are primarily a positional game of creating asymmetry, then using Ashi Garami control to force predictable reactions and route into high-percentage breaking mechanics. It frames inside/outside heel hook relevance, “inside position” battles, the main Ashi families you’ll build around, and the foundational movement skills (following/switching legs, core drills) that make the system work under resistance.
+Builds the system thesis (asymmetry + inside position), then lays out the strategic map across Ashi families
+and finishes, plus the first drills that make following/switching legs and basic breaking mechanics repeatable.
 
-Sub-chapters (official):
-- Intro to Leg Locks
-- Overview
-- Theory
-- Importance of Inside and Outside Heelhooks
-- Battle of Inside Positions
-- Irimi and Outside Ashi Garami Strategy
-- Cross and Inside Ashi Garami Strategy
-- 50/50 Strategy
-- Mutual Ashi Garami Strategy
-- General Escape Directions
-- Double Trouble
-- Following a Leg
-- Switching Legs
-- Basic Drills
-- Achilles Lock Drill
-- Cowboy Drill
-- Achilles Lock Concepts
-- Knee Bar Concepts
-- Toe Hold Concepts
-- Heel Hook Concepts
+- Intro To Leg Locks — 0:00 - 3:41
+- Overview — 3:41 - 6:41
+- Theory — 6:41 - 8:37
+- Importance Of Inside And Outside Heelhooks — 8:37 - 11:25
+- Battle Of Inside Positions — 11:25 - 15:05
+- Irimi And Outside Ashi Garami Strategy — 15:05 - 19:32
+- Cross And Inside Ashi Garami Strategy — 19:32 - 24:20
+- 50/50 Strategy — 24:20 - 27:54
+- Mutual Ashi Garami Strategy — 27:54 - 29:53
+- General Escape Directions — 29:53 - 34:39
+- Double Trouble — 34:39 - 37:32
+- Following A Leg — 37:32 - 39:24
+- Switching Legs — 39:24 - 41:22
+- Basic Drills — 41:22 - 50:58
+- Achilles Lock Drill — 50:58 - 54:50
+- Cowboy Drill — 54:50 - 58:07
+- Achilles Lock Concepts — 58:07 - 1:02:37
+- Knee Bar Concepts — 1:02:37 - 1:07:34
+- Toe Hold Concepts — 1:07:34 - 1:11:17
+- Heel Hook Concepts — 1:11:17 +
 
 ---
 
 ### Volume 2 — Irimi Ashi Garami
-Summary (1 paragraph):
-This volume builds Irimi Ashi as the primary “exposure hub”: how to establish the entanglement, stress-test it, and apply straight ankle pressure while staying safe against common extraction and pressure defenses. It then expands into switching structures (Post Ashi, Butterfly Ashi) and the heel/achilles dilemma, emphasizing how to keep control while increasing heel exposure.
+A full build of Irimi Ashi as a safe exposure platform: how to set it, stress-test it, solve pressure and
+extraction attempts, and link Achilles pressure into heel exposure and transitions to Outside Ashi.
 
-Sub-chapters (official):
-- Intro to Irimi Ashi Garami
-- Setting an Irimi Ashi Garami
-- Stress Test
-- Basic Achilles Lock
-- Countering a Basic Extraction
-- Countering Forward Pressure with Ashi Garami and Elbow Position
-- Countering Forward Pressure with Post Ashi
-- Countering Forward Pressure with Belly Down Achilles
-- Switching to Butterfly Ashi
-- Butterfly Ashi to Other Leg Entanglements
-- Achilles Heel Hook Dilemma
-- Finishing Mechanics
-- Stress Test
-- Countering a Heel Slip with High Hands
-- Countering a Heel Slip with a Roll Through
-- Switching to Outside Ashi
-- Single Roll Theory
-- Countering a Post Knee
-- Figure 4 Switch if They Refuse to Roll
+- Intro To Irimi Ashi Garami — 0:00 - 1:53
+- Setting An Irimi Ashi Garami — 1:53 - 5:21
+- Stress Test — 5:21 - 10:28
+- Basic Achilles Lock — 10:28 - 14:18
+- Countering A Basic Extraction — 14:18 - 16:48
+- Countering Forward Pressure With Ashi Garami And Elbow Position — 16:48 - 19:18
+- Countering Forward Pressure With Post Ashi — 19:18 - 22:05
+- Countering Forward Pressure With Belly Down Achilles — 22:05 - 25:27
+- Switching To Butterfly Ashi — 25:27 - 29:36
+- Butterfly Ashi To Other Leg Entanglements — 29:36 - 34:49
+- Achilles Heel Hook Dillemma — 34:49 - 38:22
+- Finishing Mechanics — 38:22 - 45:32
+- Stress Test — 45:32 - 46:54
+- Countering A Heel Slip With High Hands — 46:54 - 48:28
+- Countering A Heel Slip With A Roll Through — 48:28 - 52:34
+- Switching To Outside Ashi — 52:34 - 54:34
+- Single Roll Theory — 54:34 - 59:41
+- Countering A Post Knee — 59:41 - 1:02:22
+- Figure 4 Switch If They Refuse To Roll — 1:02:22 - 1:05:13
+- Breaking Mechanics — 1:05:13 - 1:07:52
+- Outside Ashi Breaking Mechanics — 1:07:52 +
 
 ---
 
-### Volume 3 — Outside Ashi Garami
-Summary (1 paragraph):
-This volume converts the exposure work into a primary “breaking hub”: Outside Ashi control, breaking mechanics, and the problem-solving needed to prevent back exposure while maintaining dominant hip control. It includes multiple heel exposure methods (belly-down, post-ashi/post-feet, cross-shin), forward rolling solutions, and how the achilles/heel hook dilemma continues to drive finishes when the opponent rolls defensively.
+### Volume 3 — Outside Ashi
+Outside Ashi as the primary breaking hub: control details that deny back exposure, multiple heel exposure
+routes, how to follow defensive rolls, and how Achilles/heel interplay keeps the opponent trapped.
 
-Sub-chapters (official):
-- Intro to Outside Ashi
-- Irimi Ashi Garami vs Outside Ashi Garami
-- Countering a High Leg
-- Breaking Mechanics
-- Outside Ashi Breaking Mechanics
-- Countering a High Leg with Wrist to Wrist Toe Hold
-- Controlling Outside Ashi and Denying Back Exposure
-- Controlling Hips by Leg Scissoring
-- Controlling Hips with a Cross Shin
-- Forward Roll
-- Tiny Jacket Rant
-- Belly Down Heel Exposure
-- Post Ashi Heel Exposure
-- Post Feet Heel Exposure
-- Cross Shin Heel Exposure
-- Stress Test
-- Countering a Heel Slip with a Roll
-- Heel Exposure on a Kneeling Opponent
-- Reiterating Achilles/Heel Hook Dilemma
-- Achilles - Irimi Ashi vs Outside Ashi
-- Finishing Achilles Lock vs Defensive Roll
-- Heel Knee Bar
+- Intro To Outside Ashi — 0:00 - 0:56
+- Irimi Ashi Garami Vs Outside Ashi Garami — 0:56 - 5:04
+- Countering A High Leg — 5:04 - 8:07
+- Countering A High Leg With Wrist To Wrist Toe Hold — 8:07 - 10:28
+- Controlling Outside Ashi And Denying Back Exposure — 10:28 - 13:21
+- Controlling Hips By Leg Scissoring — 13:21 - 15:45
+- Controlling Hips With A Cross Shin — 15:45 - 18:29
+- Forward Roll — 18:29 - 21:27
+- Tiny Jacket Rant — 21:27 - 23:39
+- Belly Down Heel Exposure — 23:39 - 28:42
+- Post Ashi Heel Exposure — 28:42 - 33:09
+- Post Feet Heel Exposure — 33:09 - 35:24
+- Cross Shin Heel Exposure — 35:24 - 39:12
+- Stress Test — 39:12 - 42:32
+- Countering A Heel Slip With A Roll — 42:32 - 44:48
+- Heel Exposure On A Kneeling Opponent — 44:48 - 47:23
+- Reiterating Achilles/Heel Hook Dillemma — 47:23 - 48:32
+- Achilles - Irimi Ashi Vs Outside Ashi — 48:32 - 50:54
+- Finishing Achilles Lock Vs Defensive Roll — 50:54 - 55:05
+- Heel Knee Bar — 55:05 +
 
 ---
 
 ### Volume 4 — Toe Holds and Top Ushiro
-Summary (1 paragraph):
-This volume formalizes toe holds as both a finish and a forcing tool, covering belly-up and belly-down exposure/finishing mechanics and how toe holds feed heel hook opportunities. It then transitions into Top Ushiro as a dilemma hub, focusing on movement into the position, exposure choices (heel/toe), and multi-threat sequences including double trouble and toe hold–knee bar dilemmas.
+Toe holds as both a finish and a forcing tool (belly-up/down exposure and mechanics), then Top Ushiro as a
+dilemma hub linking toe hold / heel hook / knee bar sequences against locked legs and defensive posture.
 
-Sub-chapters (official):
-- Intro to Toe Holds
-- Belly Down Exposure
-- Belly Up Exposure
-- Belly Down Finishing Mechanics
-- Belly Up Finishing Mechanics
-- Toe Hold to Heel Hook
-- Recapturing a Knee
-- Calf Slice Switch
-- Intro to Top Ushiro
-- Moving to Top Ushiro
-- Heel Hook and Toe Hold Exposure
-- Double Trouble to Counter Locked Legs
-- Toe Hold Knee Bar Dilemma
-- Spinning the Leg
+- Intro To Toe Holds — 0:00 - 1:55
+- Belly Down Exposure — 1:55 - 6:31
+- Belly Up Exposure — 6:31 - 9:50
+- Belly Down Finishing Mechanics — 9:50 - 11:59
+- Belly Up Finishing Mechanics — 11:59 - 15:59
+- Toe Hold To Heel Hook — 15:59 - 18:47
+- Recapturing A Knee — 18:47 - 24:00
+- Calf Slice Switch — 24:00 - 29:38
+- Intro To Top Ushiro — 29:38 - 31:12
+- Moving To Top Ushiro — 31:12 - 34:57
+- Heel Hook And Toe Hold Exposure — 34:57 - 37:33
+- Double Trouble To Counter Locked Legs — 37:33 - 40:26
+- Toe Hold Knee Bar Dillemma — 40:26 - 45:54
+- Spinning The Leg — 45:54 +
 
 ---
 
 ### Volume 5 — Cross Ashi
-Summary (1 paragraph):
-This volume develops Cross Ashi as the two-leg control hub: how to structure the legs, solve the typical issues, and use pummeling to maintain dominance while upgrading to stronger grips and entanglements. It includes lace/Dracula-style passing and heel exposure strategies, plus response layers for primary-leg escapes, inversion attempts, and transitions into backside 50/50, inside ashi, and roll-following.
+Cross Ashi as the two-leg control hub: leg positioning, pummeling, and secondary-leg management to deny
+escapes; then a dense set of dilemma links (Achilles/heel), lace/Dracula passes, inversion counters, and
+roll-following into backside 50/50 and inside connections.
 
-Sub-chapters (official):
-- Intro to Cross Ashi
-- Leg Positions
-- Main Issues Associated with Cross Ashi
-- Basic Theory
-- Basic Leg Pummeling
-- Figure 4 Achilles
-- Reverse Figure 4 Achilles
-- Achilles to Heel Hook
-- Leg Lace
-- Leg Lace to Heel Hook
-- Passing a Leg - 2 on 1 Ankle
-- Half Dracula to Heel Hook
-- Passing a Leg - Double Dracula
-- Exposing Both Heels
-- Countering Primary Leg Escape with Stretch Ashi
-- Catching the Heel without the Secondary Leg
-- Catching the Heel from Shoelace Ashi
-- Using a Heisting Dilemma from Shoelace Ashi
-- Using an Achilles to Mitigate Back Exposure
-- Countering a Forced Double Inversion
-- Achilles Grip to Backside 50/50
-- When All Fails, Center Chest
-- Forward Shift to Heel Hook
-- Far Hip Ashi to Stop a Roll
-- Transfer to Inside Ashi
-- Following a Roll
-
----
-
-### Volume 6 — 50/50
-Summary (1 paragraph):
-This volume treats 50/50 as a symmetry state you must actively win by forcing defense and creating separation rather than negotiating mirrored grips. It covers inside-knee position, semi-sankaku separation, toe hold dilemmas that open heel hooks, hand-fight solutions, and structural variants like cross-waist 50/50.
-
-Sub-chapters (official):
-- Intro to 50/50
-- Attack Until You’re Defending
-- Inside Knee Position
-- Separating a Semi Sankaku
-- Toe Hold / Separation Dilemma
-- Toe Hold / Heel Hook Dilemma
-- Countering the Hand Fight
-- Cross Waist 50/50
+- Intro To Cross Ashi — 0:00 - 1:45
+- Leg Positions — 1:45 - 5:28
+- Main Issues Associated With Cross Ashi — 5:28 - 8:59:00
+- Basic Theory — 8:59:00 - 12:07:00
+- Basic Leg Pummeling — 12:07:00 - 15:47:00
+- Figure 4 Achilles — 15:47:00 - 18:17:00
+- Reverse Figure 4 Achilles — 18:17:00 - 21:20
+- Achilles To Heel Hook — 21:20 - 25:29
+- Leg Lace — 25:29 - 28:36
+- Leg Lace To Heel Hook — 28:36 - 31:29
+- Passing A Leg - 2 on 1 Ankle — 31:29 - 34:16
+- Half Dracula To Heel Hook — 34:16 - 37:36
+- Passing A Leg - Double Dracula — 37:36 - 40:16
+- Exposing Both Heels — 40:16 - 42:14
+- Countering Primary Leg Escape With Stretch Ashi — 42:14 - 45:47
+- Catching The Heel Without The Secondary Leg — 45:47 - 48:56
+- Catching The Heel From Shoelace Ashi — 48:56 - 53:02
+- Using A Heisting Dillemma From Shoelace Ashi — 53:02 - 58:51
+- Using An Achilles To Midigate Back Exposure — 58:51 - 1:03:28
+- Countering A Forced Double Inversion — 1:03:28 - 1:07:23
+- Achilles Grip To Backside 50/50 — 1:07:23 - 1:11:30
+- When All Fails, Center Chest — 1:11:30 - 1:15:43
+- Forward Shift To Heel Hook — 1:15:43 - 1:20:38
+- Far Hip Ashi To Stop A Roll — 1:20:38 - 1:22:52
+- Transfer To Inside Ashi — 1:22:52 - 1:25:57
+- Following A Roll — 1:25:57 +
 
 ---
 
-### Volume 7 — Rolling / Mutual / Far Hip Ashi
-Summary (1 paragraph):
-This volume is a live application bridge: it shows roll-following and transition logic in motion (multiple rolling segments), then frames Far Hip Ashi as a conversion pathway that constrains the opponent’s reaction set. It also includes practical gripping emphasis and closes with an outro segment before the rolling commentary volume.
+### Volume 6 — 50/50 and Mutual / Far Hip Ashi
+A full symmetry module: how to apply the “attack until you’re defending” rule, win inside-knee position,
+create separation with toe-hold dilemmas, solve hand-fighting, then transition into mutual/rolling
+sequences and Far Hip Ashi conversion with gripping and outro.
 
-Sub-chapters (official):
-- Sweep/Inversion Dilemma vs Kneeling Opponent
-- Rolling - Placido Backside 50/50 Transitions
-- Rolling - Nathalia Following a Roll
-- Rolling - Placido Intro to Mutual Ashi
-- Rolling - Nathalia Going Last
-- Rolling - Placido Rolling Through
-- Far Hip Ashi
-- Gripping
-- Outro
+- Intro To 50/50 — 0:00 - 1:58
+- Attack Until You're Defending — 1:58 - 4:47
+- Inside Knee Position — 4:47 - 6:46
+- Separating A Semi Sankaku — 6:46 - 10:24
+- Toehold / Separation Dillemma — 10:24 - 14:09:00
+- Toehold / Heelhook Dillemma — 14:09:00 - 15:41:00
+- Countering The Hand Fight — 15:41:00 - 22:33:00
+- Cross Waist 50/50 — 22:33:00 - 3:35:00
+- Sweep/Inversion Dillemma Vs Kneeling Opponent — 3:35:00 - 6:57:00
+- Backside 50/50 Transitions — 6:57:00 - 40:55
+- Following A Roll — 40:55 - 44:54
+- Intro To Mutual Ashi — 44:54 - 46:54
+- Going Last — 46:54 - 49:47
+- Rolling Through — 49:47 - 54:20
+- Far Hip Ashi — 54:20 - 57:50
+- Gripping — 57:50 - 1:10:58
+- Outro — 1:10:58 +
 
 ---
 
-### Volume 8 — Rolling Commentary
-Summary (1 paragraph):
-This volume is dedicated to commentary over live rolling sequences, reinforcing decision-making, reaction-following, and where/why specific transitions and finishes are chosen. Use it to see how the earlier system rules express under resistance with minimal pausing.
+### Volume 7 — Rolling Commentary (Placido / Nathalia)
+Rolling commentary segments to reinforce the system under resistance, focusing on decision-making, timing,
+and what triggers transitions and finishes in real pace exchanges.
 
-Sub-chapters (official):
-- Rolling Commentary - Placido
-- Rolling Commentary - Nathalia
-- Rolling Commentary - Placido
-- Rolling Commentary - Nathalia
-- Rolling Commentary - Placido
-- 
+- Rolling - Placido — 0:00 - 5:08
+- Rolling - Nathalia — 5:08 - 10:42
+- Rolling - Placido — 10:42 - 15:46
+- Rolling - Nathalia — 15:46 - 20:47:00
+- Rolling - Placido — 20:47:00 +
+
+---
+
+### Volume 8 — Rolling Commentary (Extended)
+Long-form commentary blocks over additional rolling footage, intended for pattern recognition: seeing
+repeated entry choices, follow mechanics, and finish selection without step-by-step interruption.
 
 ## 4.0 CORE CONCEPTS
 
-### 4.1 Finishing competence must exist on both heel-hook sides (inside + outside)
+### 4.1 Asymmetry
+Asymmetry means you have meaningful access to their legs while their access to yours is limited.
+Your leg attacks become inevitable when you keep asymmetric frames, angles, and wedges.
 
-- Inside heel hooks are treated as mechanically high-percentage, but the system explicitly requires you to be able to finish from both inside and outside heel-hook contexts.
-  - If you can only finish one side, the opponent can steer exchanges into the side you cannot finish and reduce your overall effectiveness.
-- The “finish both sides” requirement is framed as a strategic constraint: positional choices, pummeling, and transitions must preserve access to at least one credible breaking direction.
+Key indicators:
+- Your hips are outside their knee line while their hips are not outside yours.
+- Their knee line is trapped while your knee line is free.
+- You can attack without exposing your back or giving them a clean heist.
 
-### 4.2 The inside-position battle is the first gate to winning leg-lock exchanges
+Practicals:
+- Prefer positions where their secondary leg cannot freely rotate, post, or step.
+- If symmetry occurs, either convert (preferred) or disengage and re-enter.
 
-- Inside position is defined as keeping your feet and knees inside the opponent’s feet and knees.
-  - When your legs occupy the inside lane, you can access their legs while simultaneously blocking their access to yours.
-- Exchange rule: winning inside position precedes meaningful offense.
-  - If inside position is not clearly won, the immediate task is pummeling and re-organization before committing to finishing attempts.
-- Inside position is treated as a positional “permission slip” for attack initiation, not a minor detail.
+---
 
-### 4.3 Control sequencing: inside position → knee-line/hip control → exposure → breaking mechanics
+### 4.2 Ashi Garami Is the Engine; Grips Are the Transmission
+The Ashi determines whether your breaking mechanics can be applied safely and repeatedly.
+The grip only matters once the engine is stable.
 
-- The system repeatedly enforces a sequence rather than “submission-first” thinking.
-  - Inside position establishes access and denial.
-  - Control layers stabilize the entanglement so exposure can be created without giving the opponent an easy clear/escape.
-  - Exposure is then converted into breaking mechanics rather than forcing breaks from poor alignment.
-- Practical implication: when finishes fail, the error is often a skipped layer (attempting to break before exposure, or attempting exposure before stabilizing control).
+Diagnostic:
+- If you lose the leg when they move, your engine is weak (even if your hands are strong).
+- If you can hold the leg through their movement, finishes become a choice, not a race.
 
-### 4.4 Dilemma architecture is the engine (not single-technique attempts)
+Coaching cue:
+- “Win the position before you win the grip.”
 
-- Achilles ↔ heel hook is presented as a recurring forcing dilemma.
-  - The objective is to create a situation where defending one line predictably opens the other line.
-- Later volumes extend dilemma logic into toe-hold-driven dilemmas (toe hold ↔ heel hook; toe hold ↔ separation) to prevent opponents from choosing “safe” defensive lines.
+---
 
-### 4.5 Heel exposure is built through specific control tools, not wishful pulling
+### 4.3 Control → Follow → Break
+This is the system loop. You do not “hunt finishes”; you build a control state, follow their escape,
+and break when the escape creates the necessary alignment.
 
-- Exposure is treated as a constructed state: you create it by controlling hips, knee line, and the opponent’s ability to rotate/clear.
-- Outside-ashi emphasizes controlling the hips as the route to reliable heel exposure while preventing the opponent from escaping by turning away and exposing your back.
-- Multiple exposure formats are treated as distinct pathways (belly-up vs belly-down exposures), each with different control requirements and finish vectors.
+Control:
+- Knee line ownership
+- Hip line advantage
+- Secondary leg management
+- Wedge/inside position
 
-### 4.6 Back-exposure denial is a non-negotiable constraint in outside-ashi
+Follow:
+- Roll-following with wedges and re-collection
+- Heist-denial with second-leg control
+- Transfers to better hubs rather than stubborn finishing
 
-- Outside-ashi offense is paired with explicit constraints to deny back exposure.
-  - Control choices are evaluated by whether they keep you safe from the opponent turning away and taking your back during exposure/finishing attempts.
-- Practical implication: if you can expose the heel but your structure gives the opponent a clear path to your back, the exposure pathway is treated as incorrect or incomplete.
+Break:
+- Select the break line that matches the alignment you already have
+- Finish when the opponent’s movement is contained
 
-### 4.7 Rolling is an expected defensive tool; continuity must be built into the system
+---
 
-- Defensive rolling is assumed; the system includes explicit “follow” and “switch” concepts to maintain attachment through rotation.
-- Single-roll theory provides a framework for when and how the opponent’s roll resolves, and how you stay connected without being pulled into poor alignment.
-- Follow-the-leg and switching-legs concepts are treated as continuity tools:
-  - If the target leg clears, re-attach to the other leg or re-entangle rather than accepting a reset.
+### 4.4 State Variables (what you constantly read)
+- Knee line: captured / threatened / free
+- Heel: exposed / hidden / slipping
+- Rotation: you are rotating them / they are rotating you
+- Secondary leg: controlled / posting / stepping / pummeling
+- Hip line: you are past their knee line / square / behind
+- Separation: knees together / knees split / feet connected in symmetry
+- Posture direction: they pressure forward / lean back / roll / heist
 
-### 4.8 Heel slip is treated as a recurring defensive problem with explicit counters
+Rule:
+- When something goes wrong, name the variable that changed and correct it before re-attacking.
 
-- Heel slippage is presented as a realistic defensive response during finishing.
-- The system includes specific counter families (high-hands recovery and roll-through recovery) to re-secure the heel and preserve breaking alignment when the heel begins to escape.
+---
 
-### 4.9 Cross-ashi is defined by leg-position structure and pummeling, with predictable problem sets
+### 4.5 Inside Position (in the leg game)
+Inside position is not a slogan; it’s geometry:
+- Your knees/feet act as inside wedges that block their turning and reclaiming angles.
+- Your lines occupy the space their hips and knees want to rotate through.
 
-- Cross-ashi is introduced with explicit leg-position definitions and predictable “issues” that must be solved.
-- The system uses leg pummeling as the core method to improve position and re-open exposure routes rather than forcing attacks from a losing configuration.
-- Cross-ashi offense is framed as a progression:
-  - Achilles-based threats and figure-4 structures → transitions into heel-hook exposure → lace/dracula families → follow-the-roll continuation to prevent escapes.
+Consequences:
+- Inside knee position usually wins long exchanges.
+- Losing inside position usually forces you into speed-based finishing (low percentage).
 
-### 4.10 Passing-the-leg and dual-heel exposure are treated as strategic upgrades (not “extra moves”)
+---
 
-- Passing a leg (including 2-on-1 ankle control and dracula-family passing variants) is used to improve the exposure and control landscape.
-- Dual-heel exposure is treated as a meaningful escalation: controlling both heels increases constraint on the opponent and improves your ability to force a breaking decision.
+### 4.6 Second Leg Decides the Scramble
+The secondary leg is the opponent’s steering wheel.
+If it is free, they can roll, heist, step, pummel, and reset.
 
-### 4.11 50/50 and mutual entanglements require explicit priority rules (hand fighting and “going last”)
+Control methods (conceptual):
+- Clamp/wedge it to prevent stepping and hip-turning.
+- Redirect it to remove posting power.
+- Occupy it so they can’t “stand into” your entanglement.
 
-- 50/50 is treated as a hand-fighting and separation problem, not simply a leg-entanglement “position you arrive in.”
-  - Grip battles and separation dilemmas dictate whether attacks can be launched safely.
-- Mutual ashi is presented as an entanglement where priority rules matter.
-  - “Going last” is framed as a key concept: sequencing and timing determine who wins exchanges when both players have comparable access.
+---
 
-### 4.12 “Stress test” thinking: mechanics must survive resistance checks
+### 4.7 Hub Theory (positions have jobs)
+Treat positions by function:
 
-- Stress tests are used to validate that:
-  - inside position is truly won,
-  - the entanglement is tight enough to deny clearing/extraction,
-  - exposure can be achieved without giving back exposure,
-  - breaking mechanics remain available under active defense (rolls, heel slip, posture changes).
+Exposure hubs:
+- Safest places to create heel/foot access.
 
+Breaking hubs:
+- Highest mechanical advantage for finishing.
 
-PATH: INS/gr-satl/bio-gr-satl.md
+Two-leg hubs:
+- Prevent movement by controlling both legs; force dilemmas.
+
+Dilemma hubs:
+- Threat A forces defense B, which opens finish C.
+
+Symmetry hubs:
+- Acceptable only with a conversion plan.
+
+Rule:
+- Don’t finish in the wrong hub. Transfer to the hub that matches the job.
+
+---
+
+### 4.8 Symmetry Discipline (50/50 and mutual)
+Symmetry is not “bad,” but it is unstable and often coin-flip unless you force defense.
+
+Ruleset:
+- Attack until they must defend (don’t negotiate mirrored grips).
+- Use threats that force structural responses (separation, inside-knee, heel exposure).
+- Convert to an asymmetric hub as soon as conversion is available.
+
+---
+
+### 4.9 Dilemma Engineering (how you make people predictable)
+A good dilemma:
+- Threat is real (they must respond now).
+- Defense requires a structural change (hand placement, posture shift, leg movement).
+- That structural change exposes your next finish or transfer.
+
+Common dilemma families:
+- Toe hold threat → heel exposure / separation
+- Achilles pressure → positional concession → better hub
+- Heist threat (upper-body posture) → knee bar alignment / return to heel
+
+---
+
+### 4.10 Finish Line Selection (match break to alignment)
+Heel hook:
+- Needs heel exposure + controlled rotation.
+
+Toe hold:
+- Strong when you can isolate foot rotation; also excellent as a forcing tool.
+
+Knee bar:
+- Needs knee-line dominance and correct orientation; becomes high percentage off heist energy.
+
+Achilles / straight ankle:
+- Stabilizer and finish; excellent for “heat” while you improve position.
+
+Rule:
+- Choose the line you are already aligned for, not the one you want emotionally.
+
+---
+
+### 4.11 Follow Mechanics (don’t lose the leg during movement)
+Follow means:
+- Your wedges move with their hips.
+- Your knees track their knee line.
+- Your control survives their attempt to roll or stand.
+
+Common errors:
+- Staying fixed while they rotate (you lose the engine).
+- Chasing the foot while they reclaim knee line (you lose the position).
+
+---
+
+### 4.12 Safety Constraints (what you never trade away)
+- Do not expose your back to hold a leg you can’t finish.
+- Do not stand/extend without controlling the secondary leg.
+- Do not accept mutual symmetry without a conversion plan.
+- Do not break your own alignment (hips/knees) to “force” a grip.
+
+### 4.13 Alignment Beats Force
+Breaking mechanics are alignment problems first, strength problems last.
+
+Alignment checks:
+- Your hips are connected to the opponent’s hip line (no “air gap”).
+- Your knees create a wedge that prevents them from turning into safety.
+- Your hands are placed to transmit force through their joints, not across skin.
+
+Practical rule:
+- If you feel like you need to “pull harder,” fix the alignment variable you’re missing.
+
+---
+
+### 4.14 The Knee Line Is the Primary Constraint
+The opponent escapes leg locks by freeing the knee line and reorienting the hip.
+Most success/failure is decided before the foot/heel is even addressed.
+
+Knee-line cues:
+- If their knee can travel past your hips, you are losing the engine.
+- If their knee stays trapped, all finishes stay available.
+
+Practical rule:
+- Re-secure knee line before changing grips.
+
+---
+
+### 4.15 Rotation Control (Who Is Turning Whom?)
+Heel hooks and many transitions are governed by rotational dominance.
+
+Rotational dominance indicators:
+- Their hip line is pinned while their knee line is steered.
+- Their turning direction is blocked by your wedge/inside position.
+
+Practical rule:
+- If they can freely rotate, you must upgrade the wedge or transfer hubs before finishing.
+
+---
+
+### 4.16 Exposure ≠ Finish
+Exposure is creating access (heel/foot); finishing is maintaining access while removing escape options.
+
+Exposure problems:
+- Heel appears then disappears (slip).
+- Foot is accessible but knee line is free (false access).
+
+Practical rule:
+- Treat exposure as a checkpoint: “Can I keep it during movement?” If no, upgrade the engine.
+
+---
+
+### 4.17 Threat Timing (Use “Heat” to Control the Exchange)
+“Heat” is sustained credible pressure that forces the opponent to respond and slows their escape choices.
+
+Heat tools:
+- Achilles pressure to keep them defensive while you improve position.
+- Toe hold threat to force hands and posture changes.
+- Heist threat to trigger predictable leg reactions.
+
+Practical rule:
+- Apply heat when you are improving your hub, not when you are losing it.
+
+---
+
+### 4.18 Two-Leg vs One-Leg Control (When Each Is Correct)
+One-leg control is faster and often enough to finish.
+Two-leg control is slower but prevents the opponent’s steering and escape energy.
+
+Rules:
+- If the opponent is mobile (roll/heist), upgrade toward two-leg control.
+- If the opponent is stalled (knee line trapped, posture controlled), one-leg control can finish.
+
+---
+
+### 4.19 Re-Collection (Winning After They “Almost” Escape)
+Re-collection is the system skill of re-trapping the leg after the opponent partially frees it.
+
+Re-collection cues:
+- Your wedge stays connected to their hips.
+- Your knees track their knee line during movement.
+- You re-attach to a hub rather than chasing the foot.
+
+Practical rule:
+- If you lose the leg, don’t chase the ankle—rebuild the hub.
+
+---
+
+### 4.20 Hub Switching Is Not Failure
+Switching hubs is how the system applies inevitability.
+A hub change is a decision, not a bailout.
+
+Rules:
+- Exposure hub when heel is hidden or pressure is dangerous.
+- Breaking hub when alignment is available and escape routes are contained.
+- Dilemma hub when you need to force predictable defense.
+- Symmetry hub only if you can convert.
+
+---
+
+### 4.21 “Attack Until You’re Defending” (Symmetry Rule)
+In symmetry, the person who becomes defensive first usually loses.
+
+Operational interpretation:
+- Threat must force the opponent’s hands/legs to respond, not trade.
+- Your goal is to force them to clamp, separate, or turn—anything that reduces their offense.
+
+Practical rule:
+- If both players are “attacking,” you are not winning symmetry yet.
+
+---
+
+### 4.22 Conversion Windows (When to Leave Symmetry)
+Conversion is leaving symmetry with advantage.
+
+Windows:
+- Their knee line drifts out of perfect mirror.
+- Their inside-knee position is lost.
+- Their hands commit to defense (toe hold threat, Achilles heat).
+- Their hips turn in a way that exposes far-hip routing.
+
+Practical rule:
+- Convert on the first clean window; do not wait for “perfect.”
+
+---
+
+### 4.23 Decision Tree (Dense, teachable)
+1) Knee line free? → re-secure knee line / wedge before anything else.
+2) Heel exposed + rotation controlled? → heel hook line.
+3) Heel hidden + you are safe? → exposure hub to create heel access.
+4) Opponent rolling? → follow with wedges → re-collect → transfer to breaking hub.
+5) Opponent heisting/standing? → control 2nd leg → orientation → knee bar / dilemma hub.
+6) Symmetry (50/50/mutual)? → attack-to-defend → create separation → convert (far-hip) or exit.
+7) You feel “muscling”? → alignment fix: hip line + wedge + knee line, then re-apply.
+
+### 4.23 Decision Tree
+
+1) Knee line threatened or slipping?
+   - Re-secure knee line + wedge first.
+   - If you cannot re-secure: transfer hubs (two-leg control) or disengage to re-enter.
+
+2) Heel exposed?
+   - Yes + rotation controlled → heel hook line.
+   - Yes but slipping → upgrade engine (wedge/hip connection) or switch exposure method.
+   - No → exposure hub (Irimi-type) to create heel access.
+
+3) Secondary leg free (posting/stepping/pummeling)?
+   - Yes → upgrade to two-leg control (Cross / Shoelace / clamp concepts) before finishing.
+   - No → proceed with break line selection.
+
+4) Opponent pressures forward (into you)?
+   - Use exposure hub that stays safe under pressure.
+   - Route to breaking hub once heel access and hip control are stable.
+
+5) Opponent rolls?
+   - Follow with wedges; re-collect knee line during rotation.
+   - Land in a breaking hub (often Outside) rather than scrambling for the foot.
+
+6) Opponent heists / tries to stand / sits up hard?
+   - Treat as an orientation gift.
+   - Control second leg → choose knee bar line or dilemma hub (toe hold ↔ heel ↔ knee bar).
+
+7) Symmetry state (50/50 or mutual)?
+   - Do not negotiate mirrored grips.
+   - Attack until they must defend → create separation / inside-knee advantage.
+   - Convert (far-hip routing) to an asymmetric breaking hub, or disengage and re-enter.
+
+8) You feel like you’re muscling a finish?
+   - Alignment fix, in order: hip connection → wedge/inside position → knee line → rotation.
+   - Then re-apply the break line you are already aligned for.
 
 ## 5.0 SYSTEM OVERVIEW
 
-### 5.1 System objective and constraints (what the system is optimizing for)
+The system attacks legs by creating asymmetry, then using Ashi Garami as the control engine to force
+predictable reactions. You do not “hunt submissions”; you build a control state, follow their escape
+attempt, and finish when their movement is contained. The system is a loop: ENTER → CONTROL → FOLLOW
+→ BREAK → RESET/TRANSFER, repeated until the opponent is forced into a losing alignment.
 
-- Win leg-lock exchanges by consistently creating positions where you can attack their legs while they have reduced access to your legs (asymmetry preference).
-- Treat symmetrical entanglements (notably 50/50) as “high-knowledge” positions: usable, but only if you can solve the equal-access problems with explicit internal rules (separation, inside-knee position, hand-fight priorities, and dilemma stacking).
-- Require credible finishing mechanics on both inside and outside heel hooks so the opponent cannot steer you into the side where you are weakest.
+### 5.1 The System Loop
+ENTER
+- Acquire a leg in a way that limits their access to your legs.
+- Prefer entries that preserve posture and deny easy heists.
 
-### 5.2 Phased model (what must happen, in order)
+CONTROL
+- Own the knee line and establish wedges that prevent hip rotation.
+- Manage the second leg so they can’t steer the escape (post/step/pummel).
 
-- Phase 1 — Acquire a controlled leg position (entanglement as the control platform)
-  - Establish ashi/entanglement structure with the knee line secured and hips controlled enough that the opponent cannot easily clear/extract.
-- Phase 2 — Create exposure from control (heel/foot/knee exposure is built, not grabbed)
-  - Use hip control + leg position + angle to force the heel/foot into an exposed state that you can keep through movement.
-- Phase 3 — Apply breaking mechanics to the exposed structure
-  - Separate “having exposure” from “being aligned to break”; finish only when alignment + control + opponent rotation are governed.
-- Phase 4 — Continuity when defense triggers movement
-  - When the opponent rolls, slips the heel, or clears the primary leg line, the system response is follow/reattach/transfer rather than reset.
+FOLLOW
+- When they move (roll/heist/turn), your wedges travel with their hips.
+- You re-collect knee line during motion and route into a better hub.
 
-### 5.3 Positional taxonomy (the hub set the system rotates through)
+BREAK
+- Select the finish line that matches your current alignment (don’t force a favorite).
+- Finish only when escape routes are contained; otherwise, apply “heat” and upgrade position.
 
-- Irimi Ashi Garami hub (primary entry/control + Achilles-first threat platform)
-  - Used to build stable control, then force predictable reactions with the Achilles ↔ heel hook dilemma.
-  - Includes explicit solutions for common structural problems (extraction attempts, forward pressure into the entanglement, heel slip).
-- Outside Ashi hub (heel exposure platform with explicit back-exposure constraints)
-  - Used when the angle/structure favors heel exposure but requires strict control rules to prevent the opponent turning away and generating back exposure.
-  - Uses hip-control methods (e.g., scissoring and cross-shin style hip control) to keep exposure stable as the opponent changes posture (builds to knee, rotates, rolls).
-- Cross Ashi / Shoelace hub (pummeling + passing-a-leg upgrades to improve exposure)
-  - Cross-ashi is treated as a position with known issues that must be solved via leg pummeling and positional upgrades before forcing breaks.
-  - Shoelace and “passing the leg” families (lace/dracula families) are used to change the opponent’s defensive options and expose one or both heels.
-- Toe Hold / Top Ushiro hub (alternate break family + transition engine)
-  - Toe holds are treated as a full subsystem with belly-up and belly-down exposure/finish mechanics.
-  - Toe-hold threats are used to force transitions into heel-hook opportunities; top ushiro functions as an exposure platform that connects toe hold and heel hook threats and solves “locked-leg” stall states.
-- 50/50 hub (symmetry endgame with explicit internal rules)
-  - Requires internal gates (inside-knee positioning, separation strategy, and hand-fighting solutions) to make attacks safe and repeatable.
-  - Uses dilemma pairs to prevent the opponent from choosing “stall/separate” as a safe outcome (toe hold ↔ separation; toe hold ↔ heel hook).
-- Mutual Ashi hub (mutual entanglement priority rules)
-  - Treated as a distinct problem class where sequencing/priority determines who wins exchanges; “going last” is used as an organizing rule for how to move out of mutuality into advantage.
+RESET / TRANSFER
+- If alignment is compromised, transfer hubs rather than forcing the end.
+- If symmetry appears, convert or exit and re-enter on your terms.
 
-### 5.4 Primary control gates (what decides whether you’re allowed to attack)
+### 5.2 Hub Jobs and Default Routes
+Exposure hubs
+- Job: create safe heel/foot access while maintaining positional safety.
+- Default route: Exposure hub → Breaking hub (once heel access + hip control are stable).
 
-- Inside-position gate (feet/knees lane control)
-  - Winning inside position (feet and knees inside the opponent’s feet and knees) is treated as the prerequisite for safe offense because it simultaneously grants access and denies their access.
-  - If inside position is not won, the task is pummeling and re-organization rather than forcing breaks from a losing lane.
-- Knee-line governance
-  - Control of how deep the opponent’s knee can escape (and how much of the leg they can withdraw) is treated as a prerequisite for both exposure and finishing; if the knee line clears too early, offense collapses into resets.
-- Hip-control governance
-  - Hip control is treated as the stabilizer that makes exposure repeatable; if the opponent’s hips are free to rotate/turn away, exposures become transient and back-exposure risk rises (especially in outside-ashi).
+Breaking hubs
+- Job: maximize mechanical advantage and constrain opponent movement.
+- Default route: Breaking hub → finish (heel/achilles) OR dilemma hub if defense is stubborn.
 
-### 5.5 Attack engines (how the system forces openings instead of “hoping”)
+Two-leg hubs
+- Job: control both legs to deny rolls/heists and force predictable defenses.
+- Default route: Two-leg hub → dilemma hub → breaking hub.
 
-- Achilles ↔ heel hook dilemma (recurring primary engine)
-  - Use Achilles threats to force predictable defenses that expose heel-hook lines; use heel-hook threats to force defensive alignments that reopen Achilles bites.
-- Toe hold dilemmas (secondary engines that prevent stalling/separation)
-  - Toe hold ↔ heel hook: toe-hold threat changes alignment/rotation in a way that opens heel exposure.
-  - Toe hold ↔ separation (notably in 50/50): toe-hold threat forces reactions that prevent “clean separation” as a safe default.
-- Two-leg constraint (double trouble)
-  - Used when the opponent locks legs or freezes the entanglement to deny exposure; controlling/threatening both legs is used to force reactions that reopen a breakable line.
+Dilemma hubs
+- Job: present Threat A that forces Defense B, which exposes Finish C.
+- Default route: toe hold threat ↔ heel exposure ↔ knee bar alignment.
 
-### 5.6 Defensive model (what the opponent will try, and the system’s default responses)
+Symmetry hubs
+- Job: temporary state; force defense, then convert or disengage.
+- Default route: attack-to-defend → separation/inside-knee → convert to asymmetric breaking hub.
 
-- Extraction / clearing the leg
-  - System response: keep attachment and re-establish inside position lanes; upgrade/transfer to a hub that restores control rather than chasing the foot with no structure.
-- Forward pressure into the entanglement
-  - System response: structural frames and positional adjustments (including elbow/ashi positioning and post-ashi style structures) and directional finishes (e.g., belly-down Achilles line) when pressure forces that finishing vector.
-- Defensive rolling
-  - System response: treat rolling as expected; use roll theory + follow mechanics so the roll resolves into maintained attachment rather than reset.
-- Heel slip
-  - System response: treat heel slip as recurring; use explicit recovery families (high-hands style recovery and roll-through style recovery) to re-secure the heel and restore breaking alignment.
-- “Locked legs” / stalemate
-  - System response: apply multi-leg constraints (double trouble) and/or dilemma escalation (toe hold/knee bar pairing where applicable) to force openings.
+### 5.3 Primary Variables (what the system “reads”)
+- Knee line: trapped / slipping / free
+- Heel: exposed / hidden / slipping
+- Rotation: you control / opponent controls
+- Second leg: pinned / posting / stepping / pummeling
+- Hip line: you are past / square / behind
+- Separation: asymmetric / symmetric / semi-sankaku / crossed
+- Posture direction: forward pressure / lean back / roll / heist
 
-### 5.7 Continuity rules (how the system stays connected through movement)
+Everything you do is an attempt to improve one of these variables while preventing the opponent from
+improving theirs.
 
-- Follow-the-leg rule
-  - When the opponent rotates/rolls, maintain attachment to the moving leg rather than re-gripping late after the leg has cleared.
-- Switching-legs rule
-  - If the primary target leg clears, transfer to the other leg (or transfer entanglement family) to keep offense alive rather than restarting from zero.
-- “Single-roll” framing (roll resolution constraint)
-  - Rolling is treated as a solvable constraint problem: the system aims to structure the position so the opponent cannot roll indefinitely without giving you a re-entanglement or exposure outcome.
+### 5.4 Finish Line Selection (match break to alignment)
+Heel hook
+- Chosen when heel exposure is stable and you control rotational dominance.
 
-### 5.8 Training validation (how the system encodes reliability)
+Toe hold
+- Chosen when you can isolate the foot; also used to force predictable reactions that open heel/knee.
 
-- Drills are used to encode the base positioning, attachment, and finishing alignment (including specific Achilles-focused drill blocks and foundational position drilling).
-- Stress tests are used as resistance checks to confirm the control layer is real before investing in breaking mechanics (position survives extraction attempts, heel slip attempts, and rolling attempts).
+Knee bar
+- Chosen when knee-line dominance and orientation are present; often triggered by heist energy.
+
+Achilles / straight ankle
+- Chosen as a stabilizer and a finish; also used as “heat” while you upgrade hubs.
+
+### 5.5 Reaction Handling (default responses)
+If they roll
+- Follow with wedges; re-collect the knee line during rotation.
+- Route into a breaking hub rather than chasing the foot.
+
+If they heist / stand / sit up hard
+- Control the second leg; treat posture as an orientation gift.
+- Route to knee bar alignment or dilemma hub (toe hold ↔ heel ↔ knee bar).
+
+If they hide heel
+- Return to an exposure hub; rebuild heel access without losing the engine.
+- Transfer to a breaking hub only when heel access survives movement.
+
+If symmetry forms (50/50 or mutual)
+- Apply attack-to-defend rule; create separation and inside-knee advantage.
+- Convert via far-hip routing or disengage and re-enter.
+
+### 5.6 Quality Standards (what “good reps” look like)
+- You can hold the leg through movement (engine stable).
+- Knee line stays controlled while you change grips (position first).
+- Second leg is addressed before you commit to slow finishing.
+- You can name the variable that changed when something fails, and fix that variable first.
+
+### 5.7 System Guarantees (what the structure gives you)
+- You are never “out of ideas” because every problem maps to:
+  (a) a variable that degraded, and (b) a hub whose job is to solve it.
+- You do not need speed if your wedges and second-leg control make the opponent predictable.
+- Finishes become inevitable when CONTROL and FOLLOW are correct; BREAK is the last step.
+
+### 5.8 Default Ladders (what you do when nothing is forced yet)
+
+Exposure Ladder (create access safely)
+- Acquire leg → wedge/knee line → stabilize second leg → expose heel/foot → transfer to breaking hub
+
+Breaking Ladder (turn access into finish)
+- Breaking hub control → apply heat → opponent defends → follow → re-collect → finish line selection
+
+Symmetry Ladder (when 50/50 or mutual appears)
+- Attack-to-defend → create separation/inside-knee advantage → convert (far-hip routing) → breaking hub
+
+Re-Collection Ladder (after partial escape)
+- Keep wedge connection → track knee line → re-trap secondary leg → re-enter a hub → re-apply heat
+
+---
+
+### 5.9 Switch Triggers (when to change hubs or lines)
+
+Switch to an exposure hub when:
+- Heel is hidden and you cannot keep it exposed through movement.
+- Opponent’s forward pressure threatens your posture/back exposure.
+- You are “grip rich” but “position poor” (engine unstable).
+
+Switch to a two-leg hub when:
+- Secondary leg is free and opponent is rolling/heisting successfully.
+- You keep losing the leg during movement.
+- You need to force predictability before you can break.
+
+Switch to a dilemma hub when:
+- Opponent’s defense is strong but stable (they’re not escaping, just refusing the finish).
+- You need a forced hand/foot/posture reaction to open heel/knee exposure.
+
+Switch to a breaking hub when:
+- Heel/foot access is stable and rotation can be controlled.
+- Knee line is captured and secondary leg is neutralized.
+- You can finish without chasing.
+
+Switch finish lines when:
+- Heel hook line stalls due to heel slipping or rotation loss → apply Achilles heat or toe hold threat.
+- Toe hold forces a structural response → take heel exposure or knee bar alignment.
+- Heist energy appears → knee bar line becomes high percentage.
+
+---
+
+### 5.10 Route Map (compact)
+If heel exposure is the problem:
+- Exposure hub → breaking hub
+
+If movement control is the problem:
+- Two-leg hub → breaking hub
+
+If defense is the problem (they’re stuck but safe):
+- Dilemma hub → breaking hub
+
+If symmetry is the problem:
+- Symmetry ladder → conversion → breaking hub
+
+---
+
+### 5.11 “Heat” Management (pressure without losing position)
+Heat is used to control tempo and force defense, not to finish prematurely.
+
+Rules:
+- Apply heat only when knee line + wedge are stable.
+- If heat causes you to lose the engine, stop and rebuild the engine.
+- Heat should improve a variable (separation, rotation dominance, posture), not just create discomfort.
+
+Common heat-to-upgrade patterns:
+- Achilles pressure → posture/hip concessions → stronger hub
+- Toe hold threat → hands commit → heel exposure / knee bar alignment
+- Upper-body heist threat → opponent counters posture → leg alignment opens
+
+---
+
+### 5.12 Safety and Risk Budget (offense-side constraints)
+Risk management is positional, not emotional.
+
+Avoid:
+- Finishing while secondary leg is free (invites roll/heist and counters).
+- Prolonged symmetry without conversion progress (coin-flip exchanges).
+- Sacrificing posture/back safety to keep a leg you cannot control.
+
+Prefer:
+- Transfers that keep you facing the opponent and connected through the hips.
+- Two-leg control when opponent’s athleticism is high.
+- Conversions that create asymmetric hip lines before committing to slow breaks.
+
+---
+
+### 5.13 Coaching Scripts (short decision prompts)
+- “Name the variable you’re losing.”
+- “Second leg first.”
+- “If you can’t keep it through movement, you don’t own it.”
+- “Heat to upgrade, not to hope.”
+- “Convert symmetry or leave.”
+
+---
+
+### 5.14 Minimal Routing Checklist (in-round)
+- Knee line: owned?
+- Heel/foot: accessible and stable?
+- Second leg: controlled?
+- Rotation: yours?
+- Symmetry: converting?
+If any answer is “no,” fix that before committing to a finish.
+
+
+
+
 
 
 ## 6.0 TECHNIQUE LIBRARY
@@ -1294,345 +1666,182 @@ PATH: INS/gr-satl/bio-gr-satl.md
   - mutual ashi is governed by priority sequencing and controlled exits,
   - follow mechanics and hub transfers are the system’s default way to maintain advantage rather than accepting resets.
 
-
 ## 7.0 DIAGRAM SET
 
-### 7.1 Macro flow: hub selection → inside-position gate → control → dilemmas → outcomes
+### 7.1 Master Hub Map (Asymmetry Routing)
+~~~
+                 +------------------+                 +------------------+
+                 |   EXPOSURE HUB   |  transfer when  |   BREAKING HUB   |
+                 | (safe access)    |  access stable  | (max leverage)   |
+                 +------------------+ --------------> +------------------+
+                           |                                   |
+                           |                                   |
+                           v                                   v
+                 +------------------+                 +------------------+
+                 |  TWO-LEG HUB     |  forces         |  FINISH LINE     |
+                 | (deny steering)  |  reactions      | (heel/toe/knee/  |
+                 +------------------+ --------------> |  achilles)       |
+                           ^                                   |
+                           |                                   |
+                           +------------- follow --------------+
+                                         (roll/heist/turn)
 
-+-------------------+
-|  [ENTRY/CONTACT]  |
-+---------+---------+
-          |
-          v
-+-----------------------------------+
-| {OR} Select primary [HUB]         |
-|  - [IRIMI/INSIDE ASHI]            |
-|  - [OUTSIDE ASHI]                 |
-|  - [CROSS ASHI / SHOELACE]        |
-|  - [TOE HOLD / TOP USHIRO]        |
-|  - [50/50]                        |
-|  - [MUTUAL ASHI]                  |
-+-----------------+-----------------+
-                  |
-                  v
-+-----------------------------------+
-| [INSIDE POSITION GATE]            |
-| win feet/knees inside lanes       |
-| if lost -> pummel / re-win lanes  |
-+-----------------+-----------------+
-                  |
-                  v
-+-----------------------------------+
-| [CONTROL LAYER]                   |
-| knee-line + hip control           |
-| deny: extraction / turn-away /    |
-|      heel slip / free spinning    |
-+-----------------+-----------------+
-                  |
-                  v
-+-----------------------------------+
-| [THREAT ENGINE]                   |
-| Achilles <-> Heel Hook            |
-| Toe Hold <-> Heel Hook            |
-| Toe Hold <-> Separation (50/50)   |
-| Toe Hold <-> Knee Bar (locked)    |
-| Double Trouble (2-leg constraint) |
-+-----------------+-----------------+
-                  |
-                  v
-+-----------------------------------+
-| (OUTCOMES)                        |
-|  - BREAK                          |
-|  - FOLLOW ROLL / ROLL-THROUGH     |
-|  - SWITCH LEGS / TRANSFER HUB     |
-|  - RE-ENTANGLE / RESET HUB        |
-+-----------------------------------+
-
-- Entry selection triggers (choose the hub that makes your next 2–3 actions easiest, not the hub you “like”)
-  - [IRIMI/INSIDE ASHI]: you can clamp tight connection early and build straight-lock pressure into the Achilles <-> heel-hook forcing pair.
-  - [OUTSIDE ASHI]: heel exposure geometry is available, but you must keep back-exposure denial as a live constraint.
-  - [CROSS/SHOELACE]: you need pummeling + passing-a-leg upgrades (lace/dracula) to defeat defensive leg locking and create better exposure.
-  - [TOE HOLD/TOP USHIRO]: opponent’s leg locking, posture, or alignment makes toe-hold threats or top-ushiro escalation the best forcing route.
-  - [50/50]: symmetry is unavoidable or chosen; the hub requires inside-knee gate + hand fight solutions + separation dilemmas.
-  - [MUTUAL ASHI]: mutual access exists; priority sequencing (“going last”) governs whether you gain advantage or concede it.
-- Inside-position gate (attack permission rule)
-  - If inside lanes are not won, “attack attempts” become defensive races; the system response is pummeling and lane recovery.
-  - Inside lanes are evaluated dynamically: if the opponent pummels inside during your offense, treat it as an alarm and repair first.
-- Control layer (what must be governed before you treat exposure as real)
-  - Knee line: opponent cannot freely withdraw past your clamp.
-  - Hips: opponent cannot freely rotate to remove exposure or turn away for back exposure.
-  - Heel slip: opponent cannot easily strip heel exposure once you have it.
-  - Free spinning: opponent cannot spin the foot/leg to neutralize toe-hold and heel exposure lines.
-- Threat engine (forcing pair rule)
-  - If a threat is defended “well,” the correct action is usually to take the paired line rather than to push harder on the defended line.
-- Outcome handling (no reset bias)
-  - When defense triggers movement, the default is follow/roll-through/switch legs/transfer hubs rather than accepting a neutral reset.
+SYMMETRY STATES (50/50 / mutual) are not endpoints:
++------------------+   attack-to-defend   +------------------+   convert  +-----------+
+|  SYMMETRY HUB    | -------------------> | CONVERSION HUB   | ---------> | BREAKING  |
+| (mirror access)  |                      | (far-hip route)  |            |  HUB      |
++------------------+                      +------------------+            +-----------+
+~~~
 
 ---
 
-### 7.2 Achilles ↔ heel hook dilemma (primary forcing engine)
-
-                    [CONTROLLED ASHI]
-                           |
-                           v
-                 +-------------------+
-                 | (Threat) Achilles |
-                 +---------+---------+
-                           |
-                           | defense closes Achilles line
-                           v
-                 +-------------------+
-                 | (State) Heel open |
-                 +---------+---------+
-                           |
-                           v
-                     (Finish) Heel Hook
-
-                    [CONTROLLED ASHI]
-                           |
-                           v
-                     (Threat) Heel Hook
-                           |
-                           | defense hides heel / changes alignment
-                           v
-                 +-------------------+
-                 | (State) Achilles  |
-                 | bite reappears    |
-                 +---------+---------+
-                           |
-                           v
-                     (Finish) Achilles
-
-- Dilemma construction rules (what makes it a dilemma, not two random attacks)
-  - Both threats must be credible from the same control platform (or within one transition).
-  - The opponent’s “best” defense to one line must predictably produce exposure or alignment for the other line.
-- Common defensive triggers that flip the dilemma
-  - Achilles pressure triggers: opponent turns/extends/rolls/tries to peel and run.
-  - Heel-hook threat triggers: opponent hides heel, changes knee/hip orientation, or tries to clear the knee line.
-- Failure patterns (why the dilemma “doesn’t work”)
-  - Achilles is applied with poor connection; opponent simply withdraws without meaningful concession.
-  - Heel exposure is “touched” but not secured; heel slips immediately and the opponent returns to lane control.
-  - Attacker persists on the defended line instead of converting, allowing the defender to settle.
-- Corrections (decision rules)
-  - If defense reduces pressure but opens heel: convert to heel exposure immediately.
-  - If heel is hidden or heel-hook grip is stripped: reassert Achilles bite as the follow threat instead of chasing heel late.
+### 7.2 System Loop (Control → Follow → Break)
+~~~
++--------+    +---------+    +--------+    +--------+    +--------------+
+| ENTER  | -> | CONTROL  | -> | FOLLOW | -> | BREAK  | -> | RESET/ROUTE  |
++--------+    +---------+    +--------+    +--------+    +--------------+
+| isolate|    | knee line|   | roll   |    | choose |    | transfer hub |
+| leg    |    | wedge    |   | heist  |    | line   |    | or re-enter  |
+| safely |    | 2nd leg  |   | turn   |    | finish |    |              |
++--------+    +---------+    +--------+    +--------+    +--------------+
+Rule: if BREAK fails, you didn’t "lose the submission"—a variable degraded in CONTROL/FOLLOW.
+~~~
 
 ---
 
-### 7.3 Outside-ashi safety constraint: exposure must not produce back exposure
-
-[OUTSIDE ASHI CONTROL] -> (attempt heel exposure)
-        |
-        v
-+-----------------------------------------------+
-| SAFETY CHECK                                  |
-| "Does this exposure open a clear turn-away    |
-| lane that gives them a path to my back?"      |
-+--------------------------+--------------------+
-                           |
-                     {OR} yes|no
-                         v   v
-      +--------------------------------+    +-----------------------------------+
-      | CHANGE CONTROL METHOD / ANGLE  |    | PROCEED: exposure -> break layer   |
-      | - re-govern hips               |    | - follow roll, deny turn-away      |
-      | - change shin/leg control      |    | - keep attachment through movement |
-      +--------------------------------+    +-----------------------------------+
-
-- Safety check is continuous, not one-time
-  - The risk appears most often during the moment you switch from control to exposure (the opponent turns away as you chase the heel).
-- Primary constraint (outside-ashi identity)
-  - If your exposure method gives the opponent a clean turn-away lane, treat it as a structural failure, not “bad luck.”
-- Typical trigger moments that create back-exposure risk
-  - You expose the heel while hips are not governed; opponent rotates away and you lose chest-to-hip relationship.
-  - You commit hands to the heel while legs are not controlling rotation; opponent uses that window to turn.
-- Correction hierarchy (what changes first)
-  - Re-govern the hips (increase hip control) before recommitting to the heel.
-  - Adjust your leg structure/shin positioning so the opponent’s rotation is denied.
-  - Only then re-enter exposure/finishing mechanics.
+### 7.3 State Variables Dashboard (What You Read)
+~~~
+PRIMARY VARIABLES
++-------------------+-------------------+-------------------+-------------------+
+| Knee Line         | Heel Access       | Rotation Control  | Second Leg        |
+| trapped / slipping| exposed / hidden  | yours / theirs    | pinned / free     |
++-------------------+-------------------+-------------------+-------------------+
+SECONDARY VARIABLES
++-------------------+-------------------+-------------------+-------------------+
+| Hip Line          | Separation        | Posture Direction | Connection        |
+| past / square     | asym / sym        | fwd / back / roll | tight / gap       |
++-------------------+-------------------+-------------------+-------------------+
+Error model: name the variable that changed → fix it → then re-attack.
+~~~
 
 ---
 
-### 7.4 Heel-slip recovery fork (two named recovery families)
+### 7.4 “Second Leg Decides the Scramble” (Steering Wheel)
+~~~
+If SECOND LEG is FREE:
+- it posts, steps, pummels, turns hips, enables heist/roll -> you chase.
 
-[Heel begins to slip]
-        |
-        v
-+---------------------------------------------+
-| {OR} Recovery choice                        |
-|  - "High hands" recovery                    |
-|  - "Roll-through" recovery                  |
-+----------------------+----------------------+
-                       |
-                       v
-[Re-secure heel + restore alignment] -> (continue break or convert to paired line)
+If SECOND LEG is MANAGED:
+- opponent movement becomes predictable -> you route.
 
-- Heel slip definition (when to treat it as “happening”)
-  - Heel is moving out of the control point such that finishing rotation will soon become impossible.
-- “High hands” recovery (structure-first)
-  - Objective: re-secure heel control by changing hand position higher and tightening the system so forward pressure cannot strip the heel.
-  - Live constraints commonly paired with this recovery:
-    - knee pinch maintained,
-    - heel-to-chin type alignment maintained,
-    - posture/bridge alignment maintained so the break line remains available.
-- “Roll-through” recovery (movement-first)
-  - Objective: use rotation to re-establish a stable entanglement (often a hub transfer) rather than fighting from a collapsing configuration.
-  - Use-case triggers:
-    - opponent’s forward pressure is crushing the structure,
-    - heel slip is progressing and “fixing it in place” is failing.
-- Failure patterns (why recoveries fail)
-  - Recovery is attempted after full separation occurs (too late).
-  - Recovery is attempted without restoring hip/knee-line control, so heel is re-caught briefly then slips again.
-- Correction rule
-  - The recovery is successful only if it restores a state where the heel cannot immediately slip again under the same defensive action.
++---------------------+         +-------------------------+
+| second leg FREE      |  --->   | roll/heist/turn succeeds|
++---------------------+         +-------------------------+
+
++---------------------+         +-------------------------+
+| second leg CONTROLLED|  --->  | reactions forced + slow  |
++---------------------+         +-------------------------+
+~~~
 
 ---
 
-### 7.5 Cross-ashi upgrade ladder (pummel → pass-a-leg → exposure escalation → finish)
+### 7.5 Exposure vs Finish (Checkpoint Model)
+~~~
+EXPOSURE = access appears
+FINISH   = access stays through movement
 
-[CROSS ASHI (base)]
-        |
-        v
-[Leg pummeling]
-  - solve cross-ashi issues
-  - re-win inside lanes
-        |
-        v
-{OR} +---------------------+        +--------------------+        +----------------------+
-     | Figure-4 Achilles    | <->    | Achilles->HeelHook |        | Reverse Figure-4     |
-     +----------+----------+        +----------+---------+        +----------+-----------+
-                |                              |                             |
-                v                              v                             v
-     +---------------------+        +--------------------+        +----------------------+
-     | Leg Lace            |  ->    | Lace->HeelHook     |        | Stretch Ashi (vs     |
-     +----------+----------+        +----------+---------+        | primary escape)      |
-                |                              |                  +----------+-----------+
-                v                              v                             |
-     +---------------------+        +--------------------+                   v
-     | Pass-a-leg families |  ->    | Heel exposure      |         [Keep attachment /     ]
-     | 2-on-1 -> half drac |        | (one heel)         |         [deny extraction]      |
-     | -> double dracula   |        +----------+---------+
-     +----------+----------+                   |
-                |                              v
-                v                      (Finish) Heel Hook
-     +---------------------+
-     | Expose both heels   |
-     | (dual-heel state)   |
-     +----------+----------+
-                |
-                v
-     [Force reaction] -> [Return to one-heel exposure] -> (Finish)
-
-- Cross-ashi identity rule
-  - Cross ashi is treated as a position with known “issues”; the correct solution is upgrading structure via pummeling and passing-a-leg, not forcing breaks from unstable structure.
-- Pummeling triggers (when pummeling is mandatory)
-  - Inside lanes are compromised.
-  - The opponent can rotate/clear freely.
-  - You cannot generate stable exposure without losing attachment.
-- Passing-a-leg families (why they exist in the system)
-  - They change which heel is exposed and reduce the opponent’s ability to rotate out.
-  - They turn “hard-to-catch heel” problems into “the heel must appear” problems by forcing the opponent’s leg relationship to change.
-- Dual-heel exposure (why it is an escalation)
-  - If the opponent can comfortably defend one heel, exposing both increases constraint and forces them to “choose” a defense that opens a finishing line.
-- Failure patterns
-  - Trying to finish while cross-ashi issues are unresolved (opponent extracts).
-  - Over-committing to heel catch with no knee-line control (heel slip + reset).
-- Corrections
-  - Treat cross ashi as “upgrade-first”: pummel → pass-a-leg → exposure → finish.
++------------------+     +------------------+     +------------------+
+| expose heel/foot | --> | can I keep it    | --> | finish line       |
++------------------+     | through roll/heist|     | (apply mechanics) |
+                         +------------------+     +------------------+
+If "NO" at checkpoint: upgrade engine (knee line/wedge/2nd leg) or transfer hubs.
+~~~
 
 ---
 
-### 7.6 50/50 internal engine: inside-knee gate + hand fight + separation dilemmas
+### 7.6 Symmetry Rule (Attack-Until-Defend)
+~~~
+50/50 / mutual = mirror access (coin-flip) unless you force defense.
 
-[50/50]
-  |
-  v
-+--------------------------------------+
-| [Inside-knee position GATE]          |
-| if not set -> fix knee relationship  |
-+-------------------+------------------+
-                    |
-                    v
-+--------------------------------------+
-| [Hand-fight constraint]              |
-| win grips / deny grips               |
-+-------------------+------------------+
-                    |
-                    v
-+--------------------------------------+
-| [Separation work]                    |
-| create space to unlock dilemmas      |
-+-------------------+------------------+
-                    |
-                    v
-+--------------------------------------+
-| DILEMMA PAIRS                         |
-| Toe Hold <-> Separation               |
-| Toe Hold <-> Heel Hook                |
-+-------------------+------------------+
-                    |
-                    v
-{OR} (Finish) Toe Hold / Heel Hook
-     (Transition) Backside 50/50
-     (Reset) Re-enter hub with gates repaired
++------------------+      +-------------------+      +------------------+
+| symmetry appears | ---> | attack to make     | ---> | convert or exit   |
+| (mirror)         |      | them defend        |      | (don’t negotiate) |
++------------------+      +-------------------+      +------------------+
 
-- 50/50 is treated as a “constraint hub,” not a free-attack hub
-  - The hub imposes requirements (inside-knee position; grip control; separation work) that must be satisfied before high-confidence breaks.
-- Inside-knee gate (why it is first)
-  - Without the correct inside-knee relationship, your leg is more exposed to counters and your separation/exposure tools degrade.
-- Hand-fight constraint (why it precedes finish attempts)
-  - If you lose the hand fight, you lose the ability to secure exposure and you may concede counter-exposure.
-- Separation dilemmas (what separation “does” in the system)
-  - Separation is not just movement; it creates the geometry that makes toe-hold and heel-hook lines appear reliably.
-- Failure patterns
-  - Trying to “attack through” a lost hand fight.
-  - Ignoring the inside-knee gate and getting countered or stalled.
-  - Treating separation as optional and ending in stalemate.
-- Corrections (sequencing rule)
-  - Fix knee relationship → solve grips → create separation → run the dilemma pair.
+Common conversion cue:
+- separation + inside-knee advantage -> far-hip route -> breaking hub
+~~~
 
 ---
 
-### 7.7 Mutual ashi priority: “going last” + controlled exits (roll-through / far-hip control)
+### 7.7 Dilemma Engine (Toe Hold ↔ Heel ↔ Knee Bar)
+~~~
+Threat must force a STRUCTURAL change.
 
-[MUTUAL ASHI]
-   |
-   v
-+---------------------------------------------+
-| Priority rule: "GOING LAST"                 |
-| - avoid committing first into equal access  |
-| - respond to their commitment to exit with  |
-|   advantage                                 |
-+----------------------+----------------------+
-                       |
-                       v
-{OR} +---------------------------+      +--------------------------+
-     | [Roll-through exit]       |      | [Grip battle -> exposure]|
-     | convert mutual -> advantage|      | secure control -> finish |
-     +-------------+-------------+      +-------------+------------+
-                   |                                  |
-                   v                                  v
-     +---------------------------+            +--------------------------+
-     | [Far-hip ashi control]    |            | (Finish) break line      |
-     | deny rotation/escape      |            +--------------------------+
-     +-------------+-------------+
-                   |
-                   v
-     [Transfer to favorable hub] -> (Finish)
++-------------------+        forces        +-------------------------+
+| TOE HOLD THREAT   | -------------------> | hands/foot response     |
++-------------------+                      +-------------------------+
+         |                                         |
+         v                                         v
++-------------------+                      +-------------------------+
+| HEEL EXPOSURE     |                      | KNEE BAR ORIENTATION    |
++-------------------+                      +-------------------------+
+Rule: threat A creates defense B; take the finish opened by B.
+~~~
 
-- Mutual ashi identity (why it is special)
-  - Both players have access; speed alone is unreliable because initiating can expose you to reactive counters.
-- “Going last” operational meaning
-  - Do not commit first into mutual access unless you have a guaranteed control advantage.
-  - Induce or detect their commitment, then use your action to end in superior structure/exposure.
-- Roll-through exit (why it exists)
-  - Mutuality is treated as a problem to be solved by controlled exit into a favorable hub rather than by trading blind finishes.
-- Far-hip ashi control (why it matters in mutuality)
-  - Hip control limits the opponent’s ability to rotate away and removes a common escape axis during the transition out of mutuality.
-- Failure patterns
-  - Initiating first without control advantage and getting countered.
-  - Exiting without hip control and allowing the opponent to rotate free.
-- Corrections
-  - Treat mutual ashi as a priority/timing hub: win the sequence (“last mover”) and exit into a non-mutual finishing platform.
+---
+
+### 7.8 Roll-Follow Framework (Don’t Lose the Engine)
+~~~
+Opponent rolls to clear knee line / relieve pressure.
+
+You must keep:
+- wedge connection to hips
+- knee line tracking
+- re-collection (don’t chase the foot)
+
++-------------------+     +-------------------+     +-------------------+
+| they roll          | --> | wedges travel     | --> | re-collect knee    |
++-------------------+     +-------------------+     +-------------------+
+                                         |
+                                         v
+                               +-------------------+
+                               | route to breaking |
+                               | hub, then finish  |
+                               +-------------------+
+~~~
+
+---
+
+### 7.9 Finish Line Selector (Match Alignment)
+~~~
+IF heel exposed + rotation controlled -> HEEL HOOK
+IF foot isolated + need reaction       -> TOE HOLD (or use as forcing tool)
+IF knee line dominated + orientation   -> KNEE BAR
+IF need heat + stability / finish      -> ACHILLES
+
+Rule: choose the line you are already aligned for, not the one you prefer emotionally.
+~~~
+
+---
+
+### 7.10 Failure Pattern Map (Why People “Lose” the Leg)
+~~~
++----------------------+        +---------------------------+
+| grip chasing         |  --->  | engine unstable            |
+| (hands before Ashi)  |        | (knee line / 2nd leg lost) |
++----------------------+        +---------------------------+
+
++----------------------+        +---------------------------+
+| accept symmetry      |  --->  | coin-flip exchanges        |
+| without conversion   |        | (both can attack)          |
++----------------------+        +---------------------------+
+
++----------------------+        +---------------------------+
+| finish while knee line| --->  | slip + reset by opponent   |
+| not secured          |        | (you start over)           |
++----------------------+        +---------------------------+
+~~~
 
 
 ## 8.0 APPLICATION SCENARIOS
