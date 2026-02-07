@@ -291,164 +291,193 @@ QUALITY CONTROL (the “engine > transmission” reminder)
     - Mutual ashi concepts emphasizing priority sequencing (“going last”), rolling through, far-hip ashi, and gripping rules.
 
 
-## 3.0 VOLUME INDEX
+## 3.0 VOLUME INDEX (VIDEO NAV)
 
-### 3.1 Volume 1 — Foundations, Strategy, Drills, Submission Concept Families
+### Volume 1 — Intro to Leg Locks
+Summary (1 paragraph):
+This volume establishes the system thesis: leg locks are primarily a positional game of creating asymmetry, then using Ashi Garami control to force predictable reactions and route into high-percentage breaking mechanics. It frames inside/outside heel hook relevance, “inside position” battles, the main Ashi families you’ll build around, and the foundational movement skills (following/switching legs, core drills) that make the system work under resistance.
 
-- Strategic frame + taxonomy
-  - Intro, overview, theory: establishes what leg-locking is “for” and how it is to be approached (system framing rather than isolated moves).
-  - Importance of inside + outside heel hooks: sets the requirement to be competent finishing both sides.
-  - Inside-position battle: defines the primary gate for who can attack and who must pummel/defend.
-- Entanglement family strategy map (naming the hubs the rest of the series builds)
-  - Irimi + outside ashi strategy (relationship and intended use).
-  - Cross + inside ashi strategy (relationship and intended use).
-  - 50/50 strategy (how/why it appears and what constraints it creates).
-  - Mutual ashi strategy (mutuality as a distinct problem class).
-- Defense + continuity primitives (how to stay attached through defense)
-  - General escape directions: baseline opponent escape vectors that inform your follow mechanics.
-  - Double trouble: multi-leg constraint concept to solve stalemates/locked-leg problems.
-  - Following a leg; switching legs: continuity rules for maintaining attacks through movement.
-- Training blocks (how the series intends you to build the base)
-  - Basic drills: baseline positional/connection work.
-  - Achilles lock drill; cowboy drill: specific drill blocks to encode mechanics and structure.
-- Submission concept families (mechanics buckets to be used throughout the hubs)
-  - Achilles lock concepts.
-  - Knee bar concepts.
-  - Toe hold concepts.
-  - Heel hook concepts.
+Sub-chapters (official):
+- Intro to Leg Locks
+- Overview
+- Theory
+- Importance of Inside and Outside Heelhooks
+- Battle of Inside Positions
+- Irimi and Outside Ashi Garami Strategy
+- Cross and Inside Ashi Garami Strategy
+- 50/50 Strategy
+- Mutual Ashi Garami Strategy
+- General Escape Directions
+- Double Trouble
+- Following a Leg
+- Switching Legs
+- Basic Drills
+- Achilles Lock Drill
+- Cowboy Drill
+- Achilles Lock Concepts
+- Knee Bar Concepts
+- Toe Hold Concepts
+- Heel Hook Concepts
 
-### 3.2 Volume 2 — Irimi Ashi Garami: Setup, Achilles/Heel Hook Dilemmas, Counters, Breaking
+---
 
-- Build the position (entry → structure → validation)
-  - Intro to irimi ashi; setting irimi ashi: core structure establishment.
-  - Stress tests: repeated checkpoints to confirm the position holds under resistance before finishing attempts.
-- Primary attack engine (Achilles-first → forcing reactions)
-  - Basic Achilles lock: baseline finish and threat.
-  - Achilles ↔ heel hook dilemma: pairing logic that forces predictable defense to open the other line.
-  - Finishing mechanics: mechanics layer distinct from exposure/position.
-- Defensive counters (what the opponent does, and the system’s responses)
-  - Countering basic extraction: keep attachment as they try to clear.
-  - Countering forward pressure:
-    - With ashi + elbow position.
-    - With post ashi.
-    - With belly-down Achilles (directional finish option).
-- Transitions and upgrades (hub-to-hub movement when defense dictates)
-  - Switching to butterfly ashi; butterfly ashi to other entanglements.
-  - Switching to outside ashi (when it solves the defensive problem).
-- Roll and heel-slip management (continuity under common defensive movement)
-  - Single roll theory: model/constraint on rolling outcomes.
-  - Heel slip counters:
-    - High-hands recovery.
-    - Roll-through recovery.
-  - Countering a post knee; figure-4 switch if they refuse to roll (refusal-to-roll solution path).
-- Breaking mechanics endcap
-  - Breaking mechanics (general).
-  - Outside-ashi breaking mechanics (explicit tie-in from irimi work).
+### Volume 2 — Irimi Ashi Garami
+Summary (1 paragraph):
+This volume builds Irimi Ashi as the primary “exposure hub”: how to establish the entanglement, stress-test it, and apply straight ankle pressure while staying safe against common extraction and pressure defenses. It then expands into switching structures (Post Ashi, Butterfly Ashi) and the heel/achilles dilemma, emphasizing how to keep control while increasing heel exposure.
 
-### 3.3 Volume 3 — Outside Ashi: Control, Heel Exposure Variants, Back-Exposure Denial
+Sub-chapters (official):
+- Intro to Irimi Ashi Garami
+- Setting an Irimi Ashi Garami
+- Stress Test
+- Basic Achilles Lock
+- Countering a Basic Extraction
+- Countering Forward Pressure with Ashi Garami and Elbow Position
+- Countering Forward Pressure with Post Ashi
+- Countering Forward Pressure with Belly Down Achilles
+- Switching to Butterfly Ashi
+- Butterfly Ashi to Other Leg Entanglements
+- Achilles Heel Hook Dilemma
+- Finishing Mechanics
+- Stress Test
+- Countering a Heel Slip with High Hands
+- Countering a Heel Slip with a Roll Through
+- Switching to Outside Ashi
+- Single Roll Theory
+- Countering a Post Knee
+- Figure 4 Switch if They Refuse to Roll
 
-- Position relationship + common problem entry
-  - Irimi vs outside ashi: when/why outside ashi is used.
-  - Countering a high leg; wrist-to-wrist toe hold option as a specific response.
-- Control priorities (outside-ashi must solve “back exposure risk”)
-  - Controlling outside ashi while denying back exposure (constraint framing).
-  - Hip control methods:
-    - Leg scissoring to control hips.
-    - Cross-shin control to control hips.
-- Exposure pathways (multiple distinct heel exposure formats)
-  - Forward roll (as a positional/continuity element).
-  - Belly-down heel exposure.
-  - Post-ashi heel exposure.
-  - Post-feet heel exposure.
-  - Cross-shin heel exposure.
-  - Heel exposure on a kneeling opponent.
-- Validation + continuity counters
-  - Stress test checkpoints.
-  - Countering heel slip with a roll (specific slip-response line).
-- Dilemma reiteration + finishing add-ons
-  - Achilles/heel hook dilemma restated in outside-ashi context.
-  - Achilles: irimi ashi vs outside ashi (comparative finishing considerations).
-  - Finishing Achilles vs defensive roll (anti-roll finish handling).
-  - Heel knee bar (added finish family within this hub).
+---
 
-### 3.4 Volume 4 — Toe Holds and Top Ushiro: Exposure, Finishes, Transitions
+### Volume 3 — Outside Ashi Garami
+Summary (1 paragraph):
+This volume converts the exposure work into a primary “breaking hub”: Outside Ashi control, breaking mechanics, and the problem-solving needed to prevent back exposure while maintaining dominant hip control. It includes multiple heel exposure methods (belly-down, post-ashi/post-feet, cross-shin), forward rolling solutions, and how the achilles/heel hook dilemma continues to drive finishes when the opponent rolls defensively.
 
-- Toe hold exposure and finishing (two exposure orientations)
-  - Belly-down exposure → belly-down finishing mechanics.
-  - Belly-up exposure → belly-up finishing mechanics.
-- Forcing transitions (toe hold used to open other breaks)
-  - Toe hold → heel hook transition logic.
-  - Recapturing a knee (keep control as they retract/clear).
-- Alternate damage/constraint lines
-  - Calf slice switch (when toe/heel lines are resisted).
-- Top ushiro introduction and use-case
-  - Intro to top ushiro; moving to top ushiro (positional frame establishment).
-  - Heel hook and toe hold exposure from top ushiro (combined exposure platform).
-- Stalemate solutions and dilemma stacking
-  - Double trouble to counter locked legs.
-  - Toe hold ↔ knee bar dilemma (forcing pair for openings).
-- Leg rotation mechanics
-  - Spinning the leg (mechanics to generate/maintain breaking alignment).
+Sub-chapters (official):
+- Intro to Outside Ashi
+- Irimi Ashi Garami vs Outside Ashi Garami
+- Countering a High Leg
+- Breaking Mechanics
+- Outside Ashi Breaking Mechanics
+- Countering a High Leg with Wrist to Wrist Toe Hold
+- Controlling Outside Ashi and Denying Back Exposure
+- Controlling Hips by Leg Scissoring
+- Controlling Hips with a Cross Shin
+- Forward Roll
+- Tiny Jacket Rant
+- Belly Down Heel Exposure
+- Post Ashi Heel Exposure
+- Post Feet Heel Exposure
+- Cross Shin Heel Exposure
+- Stress Test
+- Countering a Heel Slip with a Roll
+- Heel Exposure on a Kneeling Opponent
+- Reiterating Achilles/Heel Hook Dilemma
+- Achilles - Irimi Ashi vs Outside Ashi
+- Finishing Achilles Lock vs Defensive Roll
+- Heel Knee Bar
 
-### 3.5 Volume 5 — Cross Ashi / Shoelace: Pummeling, Lace/Dracula Families, Heel Exposure, Follow Mechanics
+---
 
-- Position definition + problem statement
-  - Intro to cross ashi; leg positions; main issues associated with cross ashi.
-  - Basic theory (how the hub is intended to function).
-- Positional improvement engine
-  - Basic leg pummeling (solve “issues” before forcing finishes).
-- Achilles-first threats and structured variants
-  - Figure-4 Achilles; reverse figure-4 Achilles.
-  - Achilles → heel hook transition (dilemma/upgrade line).
-- Lace/dracula families (passing-a-leg upgrades to improve exposure)
-  - Leg lace; leg lace → heel hook.
-  - Passing a leg: 2-on-1 ankle.
-  - Half dracula → heel hook.
-  - Passing a leg: double dracula.
-  - Exposing both heels (dual-heel escalation).
-- Defensive escape counters and alternate structures
-  - Countering primary leg escape with stretch ashi.
-  - Catching the heel without the secondary leg (when the “standard” catch is denied).
-- Shoelace ashi extensions
-  - Catching the heel from shoelace ashi.
-  - Heisting dilemma from shoelace ashi (forcing reactions).
-- Safety / posture-management tools
-  - Achilles use to mitigate back exposure (risk-control tool).
-  - Countering forced double inversion (anti-escape sequence).
-- Cross-volume transition links and continuity
-  - Achilles grip → backside 50/50.
-  - “When all fails, center chest” (emergency stabilisation principle).
-  - Forward shift → heel hook.
-  - Far-hip ashi to stop a roll.
-  - Transfer to inside ashi.
-  - Following a roll (explicit continuity).
+### Volume 4 — Toe Holds and Top Ushiro
+Summary (1 paragraph):
+This volume formalizes toe holds as both a finish and a forcing tool, covering belly-up and belly-down exposure/finishing mechanics and how toe holds feed heel hook opportunities. It then transitions into Top Ushiro as a dilemma hub, focusing on movement into the position, exposure choices (heel/toe), and multi-threat sequences including double trouble and toe hold–knee bar dilemmas.
 
-### 3.6 Volume 6 — 50/50 and Mutual Ashi: Separation Dilemmas, Hand Fight, Priority Rules, Transitions
+Sub-chapters (official):
+- Intro to Toe Holds
+- Belly Down Exposure
+- Belly Up Exposure
+- Belly Down Finishing Mechanics
+- Belly Up Finishing Mechanics
+- Toe Hold to Heel Hook
+- Recapturing a Knee
+- Calf Slice Switch
+- Intro to Top Ushiro
+- Moving to Top Ushiro
+- Heel Hook and Toe Hold Exposure
+- Double Trouble to Counter Locked Legs
+- Toe Hold Knee Bar Dilemma
+- Spinning the Leg
 
-- 50/50 framing + internal gates
-  - Intro to 50/50.
-  - “Attack until you’re defending” (priority framing).
-  - Inside knee position (key structural requirement).
-  - Separating a semi-sankaku (specific internal constraint/problem).
-- Dilemma engines inside 50/50
-  - Toe hold ↔ separation dilemma.
-  - Toe hold ↔ heel hook dilemma.
-- Hand-fighting as a primary constraint
-  - Countering the hand fight (solutions to grip-denial / control battles).
-- Structural variants and opponent-posture problems
-  - Cross-waist 50/50.
-  - Sweep/inversion dilemma vs kneeling opponent.
-- Continuation and transitions
-  - Backside 50/50 transitions.
-  - Following a roll (continuity under rotation).
-- Mutual ashi endgame rules
-  - Intro to mutual ashi.
-  - Going last (priority/sequence rule).
-  - Rolling through (exit/upgrade method).
-  - Far-hip ashi (control/anti-escape tool).
-  - Gripping (endgame detail layer).
-  - Outro (closing priorities and integration).
+---
 
+### Volume 5 — Cross Ashi
+Summary (1 paragraph):
+This volume develops Cross Ashi as the two-leg control hub: how to structure the legs, solve the typical issues, and use pummeling to maintain dominance while upgrading to stronger grips and entanglements. It includes lace/Dracula-style passing and heel exposure strategies, plus response layers for primary-leg escapes, inversion attempts, and transitions into backside 50/50, inside ashi, and roll-following.
+
+Sub-chapters (official):
+- Intro to Cross Ashi
+- Leg Positions
+- Main Issues Associated with Cross Ashi
+- Basic Theory
+- Basic Leg Pummeling
+- Figure 4 Achilles
+- Reverse Figure 4 Achilles
+- Achilles to Heel Hook
+- Leg Lace
+- Leg Lace to Heel Hook
+- Passing a Leg - 2 on 1 Ankle
+- Half Dracula to Heel Hook
+- Passing a Leg - Double Dracula
+- Exposing Both Heels
+- Countering Primary Leg Escape with Stretch Ashi
+- Catching the Heel without the Secondary Leg
+- Catching the Heel from Shoelace Ashi
+- Using a Heisting Dilemma from Shoelace Ashi
+- Using an Achilles to Mitigate Back Exposure
+- Countering a Forced Double Inversion
+- Achilles Grip to Backside 50/50
+- When All Fails, Center Chest
+- Forward Shift to Heel Hook
+- Far Hip Ashi to Stop a Roll
+- Transfer to Inside Ashi
+- Following a Roll
+
+---
+
+### Volume 6 — 50/50
+Summary (1 paragraph):
+This volume treats 50/50 as a symmetry state you must actively win by forcing defense and creating separation rather than negotiating mirrored grips. It covers inside-knee position, semi-sankaku separation, toe hold dilemmas that open heel hooks, hand-fight solutions, and structural variants like cross-waist 50/50.
+
+Sub-chapters (official):
+- Intro to 50/50
+- Attack Until You’re Defending
+- Inside Knee Position
+- Separating a Semi Sankaku
+- Toe Hold / Separation Dilemma
+- Toe Hold / Heel Hook Dilemma
+- Countering the Hand Fight
+- Cross Waist 50/50
+
+---
+
+### Volume 7 — Rolling / Mutual / Far Hip Ashi
+Summary (1 paragraph):
+This volume is a live application bridge: it shows roll-following and transition logic in motion (multiple rolling segments), then frames Far Hip Ashi as a conversion pathway that constrains the opponent’s reaction set. It also includes practical gripping emphasis and closes with an outro segment before the rolling commentary volume.
+
+Sub-chapters (official):
+- Sweep/Inversion Dilemma vs Kneeling Opponent
+- Rolling - Placido Backside 50/50 Transitions
+- Rolling - Nathalia Following a Roll
+- Rolling - Placido Intro to Mutual Ashi
+- Rolling - Nathalia Going Last
+- Rolling - Placido Rolling Through
+- Far Hip Ashi
+- Gripping
+- Outro
+
+---
+
+### Volume 8 — Rolling Commentary
+Summary (1 paragraph):
+This volume is dedicated to commentary over live rolling sequences, reinforcing decision-making, reaction-following, and where/why specific transitions and finishes are chosen. Use it to see how the earlier system rules express under resistance with minimal pausing.
+
+Sub-chapters (official):
+- Rolling Commentary - Placido
+- Rolling Commentary - Nathalia
+- Rolling Commentary - Placido
+- Rolling Commentary - Nathalia
+- Rolling Commentary - Placido
+- 
 
 ## 4.0 CORE CONCEPTS
 
