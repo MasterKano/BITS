@@ -3,63 +3,109 @@
 ## BACK CRUCIFIX — CONCEPT HIERARCHY (Teaching Spine)
 
 ```
-Back Crucifix System
+SIDE CRUCIFIX SYSTEM — CONCEPT HIERARCHY (CHRONOLOGICAL, FULL DETAIL)
+
+START: You are TOP (passing / side / turtle / back)
+
 |
-+-- 1) System Goal & Identity [V1]
-|    +-- Goal: immobilization -> predictable finishes [V1,V4]
-|    +-- Diff vs standard back control (priority shift) [V1]
-|        [Teach first: prevents "rear-mount habits" in crucifix context]
-|
-+-- 2) Non-Negotiables (Invariants / Obligations) [V2,V3]
-|    +-- I1: Far arm functionally immobilized [V2]
-|    +-- I2: Near shoulder pinned/managed [V3]
-|    +-- I3: Alignment blocks sit/stand/turn sequences [V3]
-|        [Coach cue: "Which I is failing?" before choosing actions]
-|
-+-- 3) Control Engine (satisfy I1–I3)
-|    +-- 3.1 Far Arm Module (primary dial) [V2]
-|    |    +-- Loop: Acquire -> Consolidate -> Maintain -> Recover [V2]
-|    |    +-- Mechanic: Wedge / Hook / Prop [V2]
-|    |        [Mechanical center: everything plugs into this]
++-- 1) ENTRY & ACCESS LAYER (how you arrive without breaking structure)
 |    |
-|    +-- 3.2 Near Shoulder Module (secondary dial) [V3]
-|    |    +-- Loop: Acquire -> Consolidate -> Maintain -> Recover [V3]
-|    |        [Common leak: teach after far arm]
+|    +-- E1: Side control entries [V1]
+|    |    +-- hand ≤ elbow height → opportunistic underhook
+|    |    +-- hand high / elbow disciplined → forced underhook methods
+|    |    +-- active shoulder post → wrist-pass entry
 |    |
-|    +-- 3.3 Positional Organization: "Three by Six" [V3]
-|         +-- Purpose: organizing map for maintenance + choices [V3]
-|         +-- Teach: categories -> examples -> resistance [V3]
+|    +-- E2: Pre–side-control entries (preferred vs good opponents) [V2]
+|    |    +-- half guard top → underhook first
+|    |    +-- bodylock / tight waist / tripod → convert to underhook
+|    |    +-- knee-cut finishes landing with underhook
+|    |
+|    +-- E3: Turtle top entries [V2]
+|    |    +-- cow-catcher style drops
+|    |
+|    +-- E4: Back crucifix arrival [V6]
+|         +-- head-slip attempt into side crucifix
 |
-+-- 4) Problem-Solving Layer (predictable reactions) [V3]
-|    +-- P1: Seated Arm Sit (avoid + recover) [V3]
-|    |    [Early warning problem: fix before full reset]
-|    +-- P2: Locked Hands (breaking protocol) [V3]
-|    |    [Open lock without donating escape]
-|    +-- P3: Opponent rises/stands (adaptation rules) [V3]
-|         [Preserve I1–I3 while leverage changes]
++-- 2) RETENTION & DENIAL LAYER (keep access)
+|    |
+|    +-- R1: Closed-Loop Underhook (non-negotiable)
+|    |    +-- chin connected to hand
+|    |    +-- ear glued to bicep
+|    |    +-- post available (head above hips)
+|    |    [Fail-fast: if loop opens, stop advancing]
+|    |
+|    +-- R2: Base-First Doctrine
+|         +-- no pinning or breaking without base
 |
-+-- 5) Finishing Layer (end from stable control) [V4]
-|    +-- F1: Strangle family [V4]
-|    +-- F2: Garrote (subset/variant) [V4]
-|    +-- F3: Arm lock family [V4]
-|    +-- F4: Totality Principle (finishing framework) [V4]
-|         [Chain: primary -> secondary -> return-to-control]
++-- 3) SYSTEM DEFINITION LAYER (is the system actually on?)
+|    |
+|    +-- S1: Two-Elbow Control (Side Crucifix definition)
+|    |    +-- far elbow displaced (underhook)
+|    |    +-- near elbow displaced (leg pin)
+|    |    [Coach cue: “Which elbow is lying?”]
+|    |
+|    +-- S2: Control Hierarchy
+|         +-- elbow control precedes wrist control
 |
-+-- 6) Entry Layer (arrive without breaking the model) [V5–V7]
-|    +-- E1: Top turtle (behind elbows) [V5]
-|    |    +-- sequencing: breakdown-first vs crucifix-first [V5]
-|    |    +-- dynamics: fall back vs forward; anti-roll; vs referee [V5]
-|    +-- E2: Top turtle (in front of elbows) [V6]
-|    |    +-- knee block go-behind; heel-and-spin; FH inversion; chest lock [V6]
-|    +-- E3: Bottom guard entries [V6]
-|    |    +-- seated: heist -> front headlock; supine: shin-guard [V6]
-|    +-- E4: Top guard entries [V7]
-|         +-- half-guard top route; top seated guard route [V7]
++-- 4) STRUCTURAL BREAK / CONTROL ENGINE (build + maintain crucifix)
+|    |
+|    +-- C1: Near-Arm Pin Installation
+|    |    +-- long-arm case → wrist-end control
+|    |    +-- short-arm case → inside hand + bicep/shoulder line
+|    |
+|    +-- C2: Pin Modes (cycleable)
+|    |    +-- front leg pin
+|    |    +-- back leg shin pin
+|    |    +-- arm scissor
+|    |    [Rule: cycle to preserve elbow displacement]
+|    |
+|    +-- C3: Quality Checks
+|         +-- near elbow cannot return to hip-line
+|         +-- far elbow cannot re-pummel
+|         +-- base still available
 |
-+-- 7) Interfaces (integration) [V3,V7]
-     +-- Rear mount <-> back crucifix (transition logic) [V3]
-     +-- Crucifix <-> T-kimura (transition logic) [V3]
-     +-- Reverse omoplata (optional submission add-on) [V7]
++-- 5) PROBLEM-SOLVING LAYER (predictable resistance)
+|    |
+|    +-- P1: Re-pummel / elbow reinsertion attempts
+|    |    +-- response: restore closed loop / re-pin
+|    |
+|    +-- P2: Locked hands / grip denial
+|    |    +-- response: kimura mechanics / hand separation rules
+|    |
+|    +-- P3: Rotation / balance threats
+|         +-- response: stabilize or route to balance-loss finishes
+|
++-- 6) FINISHING & CONVERSION LAYER (only after stability)
+|    |
+|    +-- F1: Arm Scissor → CHANCERY (primary hub)
+|    |    +-- stabilize first (post, deny belly-down)
+|    |    +-- attacks: kimura family / side triangle
+|    |
+|    +-- F2: Back Leg Shin Pin
+|    |    +-- kimura family
+|    |    +-- armbar family
+|    |
+|    +-- F3: Front Leg Pin
+|    |    +-- triangle family
+|    |
+|    +-- F4: Stabilization Window Doctrine
+|         +-- break only after resistance decays
+|
++-- 7) CONTINGENCIES & INTERFACES (when primary line is blocked)
+     |
+     +-- I1: Reverse-Order Series
+     |    +-- pin first → convert back to underhook
+     |
+     +-- I2: Back Crucifix Dilemma
+     |    +-- head slips → side crucifix
+     |    +-- bridge denies → rear triangle
+     |
+     +-- I3: System Interfaces
+          +-- side crucifix ↔ back crucifix
+          +-- side crucifix ↔ north–south / kimura hubs
+
+END STATE:
+Stable control hub → predictable upper-body finish
 ```
 
 ## BACK CRUCIFIX — DECISION TREE (Coaching)
