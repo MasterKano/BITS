@@ -3,109 +3,65 @@
 ## BACK CRUCIFIX — CONCEPT HIERARCHY (Teaching Spine)
 
 ```
-SIDE CRUCIFIX SYSTEM — CONCEPT HIERARCHY (CHRONOLOGICAL, FULL DETAIL)
-
-START: You are TOP (passing / side / turtle / back)
-
+START: You arrive in / attempt to hold BACK CRUCIFIX
 |
-+-- 1) ENTRY & ACCESS LAYER (how you arrive without breaking structure)
-|    |
-|    +-- E1: Side control entries [V1]
-|    |    +-- hand ≤ elbow height → opportunistic underhook
-|    |    +-- hand high / elbow disciplined → forced underhook methods
-|    |    +-- active shoulder post → wrist-pass entry
-|    |
-|    +-- E2: Pre–side-control entries (preferred vs good opponents) [V2]
-|    |    +-- half guard top → underhook first
-|    |    +-- bodylock / tight waist / tripod → convert to underhook
-|    |    +-- knee-cut finishes landing with underhook
-|    |
-|    +-- E3: Turtle top entries [V2]
-|    |    +-- cow-catcher style drops
-|    |
-|    +-- E4: Back crucifix arrival [V6]
-|         +-- head-slip attempt into side crucifix
++-- STEP 1: STABILIZE (verify Non-Negotiables) [V2,V3]
+|     |
+|     +-- I1 Far arm immobilized? [V2]
+|     +-- I2 Near shoulder managed? [V3]
+|     +-- I3 Alignment blocks sit/stand/turn? [V3]
+|     |
+|     +-- If ANY are failing -> REBUILD (fix failing invariant FIRST)
+|           |
+|           +-- Fix I1 (Far Arm) [V2]
+|           |     - Far Arm Module: Acquire->Consolidate->Maintain->Recover [V2]
+|           |     - Mechanic: Wedge / Hook / Prop [V2]
+|           |
+|           +-- Fix I2 (Near Shoulder) [V3]
+|           |     - Near Shoulder Module: Acquire->Consolidate->Maintain->Recover [V3]
+|           |
+|           +-- Fix I3 (Alignment vs sit/stand/turn) [V3]
+|                 - Use 3×6 organization to re-stabilize structure [V3]
 |
-+-- 2) RETENTION & DENIAL LAYER (keep access)
-|    |
-|    +-- R1: Closed-Loop Underhook (non-negotiable)
-|    |    +-- chin connected to hand
-|    |    +-- ear glued to bicep
-|    |    +-- post available (head above hips)
-|    |    [Fail-fast: if loop opens, stop advancing]
-|    |
-|    +-- R2: Base-First Doctrine
-|         +-- no pinning or breaking without base
++-- STEP 2: READ THE REACTION (what is happening now?) [V3]
+|     |
+|     +-- (P1) Sitting up / Seated Arm Sit developing?
+|     |       -> AVOID / RECOVER SEATED ARM SIT [V3]
+|     |       -> Go back to STEP 1 (re-verify I1–I3)
+|     |
+|     +-- (P2) Locked hands?
+|     |       -> BREAKING LOCKED HANDS protocol [V3]
+|     |       -> Go to STEP 3 (finish selection) [V4]
+|     |
+|     +-- (P3) Rising / standing?
+|     |       -> CONTROL WHEN OPPONENT RISES / STANDS [V3]
+|     |       -> Go to STEP 3 (finish selection) [V4]
+|     |
+|     +-- (P4) Transition opportunity (interfaces)?
+|     |       -> Rear Mount <-> Back Crucifix decision [V3]
+|     |       -> Crucifix <-> T-Kimura decision [V3]
+|     |       -> Optional: Reverse Omoplata add-on [V7]
+|     |       -> Go back to STEP 1 in the new state
+|     |
+|     +-- (P0) None of the above (normal defense / staying low)
+|             -> Go to STEP 3 (finish selection) [V4]
 |
-+-- 3) SYSTEM DEFINITION LAYER (is the system actually on?)
-|    |
-|    +-- S1: Two-Elbow Control (Side Crucifix definition)
-|    |    +-- far elbow displaced (underhook)
-|    |    +-- near elbow displaced (leg pin)
-|    |    [Coach cue: “Which elbow is lying?”]
-|    |
-|    +-- S2: Control Hierarchy
-|         +-- elbow control precedes wrist control
++-- STEP 3: FINISH SELECTION (only if control is stable) [V4]
+|     |
+|     +-- Choose available family WITHOUT degrading I1–I3:
+|     |     - Strangles [V4]
+|     |     - Garrote [V4]
+|     |     - Arm locks [V4]
+|     |
+|     +-- Apply Totality Principle (chain/switch/return-to-control) [V4]
+|           - If resistance blocks A -> switch to B
+|           - If control degrades -> abort finish
 |
-+-- 4) STRUCTURAL BREAK / CONTROL ENGINE (build + maintain crucifix)
-|    |
-|    +-- C1: Near-Arm Pin Installation
-|    |    +-- long-arm case → wrist-end control
-|    |    +-- short-arm case → inside hand + bicep/shoulder line
-|    |
-|    +-- C2: Pin Modes (cycleable)
-|    |    +-- front leg pin
-|    |    +-- back leg shin pin
-|    |    +-- arm scissor
-|    |    [Rule: cycle to preserve elbow displacement]
-|    |
-|    +-- C3: Quality Checks
-|         +-- near elbow cannot return to hip-line
-|         +-- far elbow cannot re-pummel
-|         +-- base still available
-|
-+-- 5) PROBLEM-SOLVING LAYER (predictable resistance)
-|    |
-|    +-- P1: Re-pummel / elbow reinsertion attempts
-|    |    +-- response: restore closed loop / re-pin
-|    |
-|    +-- P2: Locked hands / grip denial
-|    |    +-- response: kimura mechanics / hand separation rules
-|    |
-|    +-- P3: Rotation / balance threats
-|         +-- response: stabilize or route to balance-loss finishes
-|
-+-- 6) FINISHING & CONVERSION LAYER (only after stability)
-|    |
-|    +-- F1: Arm Scissor → CHANCERY (primary hub)
-|    |    +-- stabilize first (post, deny belly-down)
-|    |    +-- attacks: kimura family / side triangle
-|    |
-|    +-- F2: Back Leg Shin Pin
-|    |    +-- kimura family
-|    |    +-- armbar family
-|    |
-|    +-- F3: Front Leg Pin
-|    |    +-- triangle family
-|    |
-|    +-- F4: Stabilization Window Doctrine
-|         +-- break only after resistance decays
-|
-+-- 7) CONTINGENCIES & INTERFACES (when primary line is blocked)
-     |
-     +-- I1: Reverse-Order Series
-     |    +-- pin first → convert back to underhook
-     |
-     +-- I2: Back Crucifix Dilemma
-     |    +-- head slips → side crucifix
-     |    +-- bridge denies → rear triangle
-     |
-     +-- I3: System Interfaces
-          +-- side crucifix ↔ back crucifix
-          +-- side crucifix ↔ north–south / kimura hubs
-
-END STATE:
-Stable control hub → predictable upper-body finish
++-- STEP 4: LOOP RULE (continuous)
+      |
+      +-- If finish succeeds -> END
+      +-- If finish stalls but control is stable -> return to STEP 3 (switch families) [V4]
+      +-- If control degrades at any time -> return to STEP 1 (rebuild invariants) [V2,V3]
 ```
 
 ## BACK CRUCIFIX — DECISION TREE (Coaching)
