@@ -136,6 +136,111 @@ GLOBAL FAILURE/RESET LOOPS
 - If base compromised (head below hips / roll threat) -> post/widen base before attacking.
 ~~~
 
+## SIDE CRUCIFIX SYSTEM — CONCEPT HIERARCHY (CHRONOLOGICAL, FULL DETAIL)
+~~~
+START: You are TOP (passing / side / turtle / back)
+
+|
++-- 1) ENTRY & ACCESS LAYER (how you arrive without breaking structure)
+|    |
+|    +-- E1: Side control entries [V1]
+|    |    +-- hand ≤ elbow height → opportunistic underhook
+|    |    +-- hand high / elbow disciplined → forced underhook methods
+|    |    +-- active shoulder post → wrist-pass entry
+|    |
+|    +-- E2: Pre–side-control entries (preferred vs good opponents) [V2]
+|    |    +-- half guard top → underhook first
+|    |    +-- bodylock / tight waist / tripod → convert to underhook
+|    |    +-- knee-cut finishes landing with underhook
+|    |
+|    +-- E3: Turtle top entries [V2]
+|    |    +-- cow-catcher style drops
+|    |
+|    +-- E4: Back crucifix arrival [V6]
+|         +-- head-slip attempt into side crucifix
+|
++-- 2) RETENTION & DENIAL LAYER (keep access)
+|    |
+|    +-- R1: Closed-Loop Underhook (non-negotiable)
+|    |    +-- chin connected to hand
+|    |    +-- ear glued to bicep
+|    |    +-- post available (head above hips)
+|    |    [Fail-fast: if loop opens, stop advancing]
+|    |
+|    +-- R2: Base-First Doctrine
+|         +-- no pinning or breaking without base
+|
++-- 3) SYSTEM DEFINITION LAYER (is the system actually on?)
+|    |
+|    +-- S1: Two-Elbow Control (Side Crucifix definition)
+|    |    +-- far elbow displaced (underhook)
+|    |    +-- near elbow displaced (leg pin)
+|    |    [Coach cue: “Which elbow is lying?”]
+|    |
+|    +-- S2: Control Hierarchy
+|         +-- elbow control precedes wrist control
+|
++-- 4) STRUCTURAL BREAK / CONTROL ENGINE (build + maintain crucifix)
+|    |
+|    +-- C1: Near-Arm Pin Installation
+|    |    +-- long-arm case → wrist-end control
+|    |    +-- short-arm case → inside hand + bicep/shoulder line
+|    |
+|    +-- C2: Pin Modes (cycleable)
+|    |    +-- front leg pin
+|    |    +-- back leg shin pin
+|    |    +-- arm scissor
+|    |    [Rule: cycle to preserve elbow displacement]
+|    |
+|    +-- C3: Quality Checks
+|         +-- near elbow cannot return to hip-line
+|         +-- far elbow cannot re-pummel
+|         +-- base still available
+|
++-- 5) PROBLEM-SOLVING LAYER (predictable resistance)
+|    |
+|    +-- P1: Re-pummel / elbow reinsertion attempts
+|    |    +-- response: restore closed loop / re-pin
+|    |
+|    +-- P2: Locked hands / grip denial
+|    |    +-- response: kimura mechanics / hand separation rules
+|    |
+|    +-- P3: Rotation / balance threats
+|         +-- response: stabilize or route to balance-loss finishes
+|
++-- 6) FINISHING & CONVERSION LAYER (only after stability)
+|    |
+|    +-- F1: Arm Scissor → CHANCERY (primary hub)
+|    |    +-- stabilize first (post, deny belly-down)
+|    |    +-- attacks: kimura family / side triangle
+|    |
+|    +-- F2: Back Leg Shin Pin
+|    |    +-- kimura family
+|    |    +-- armbar family
+|    |
+|    +-- F3: Front Leg Pin
+|    |    +-- triangle family
+|    |
+|    +-- F4: Stabilization Window Doctrine
+|         +-- break only after resistance decays
+|
++-- 7) CONTINGENCIES & INTERFACES (when primary line is blocked)
+     |
+     +-- I1: Reverse-Order Series
+     |    +-- pin first → convert back to underhook
+     |
+     +-- I2: Back Crucifix Dilemma
+     |    +-- head slips → side crucifix
+     |    +-- bridge denies → rear triangle
+     |
+     +-- I3: System Interfaces
+          +-- side crucifix ↔ back crucifix
+          +-- side crucifix ↔ north–south / kimura hubs
+
+END STATE:
+Stable control hub → predictable upper-body finish
+~~~
+
 ## Decision Tree Map
 ~~~
 SIDE CRUCIFIX — OPERATOR DECISION TREE
