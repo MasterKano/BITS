@@ -1753,7 +1753,183 @@ READ: opponent posture
 - **Immediate fix:** Train and score by gates (Section 9 + 10 benchmarks).
 - **Prevention rule:** Never skip a gate to “rush” a finish.
 
+## 12.0 KEY PASSAGES
+
+### 12.1 The Elbow Is the Gatekeeper
+The opponent’s defensive system in side control is elbow-based.  
+If the elbows stay close to the torso, escapes and frame recovery remain viable.  
+If both elbows are displaced, upper-body submissions accelerate.
+
+---
+
+### 12.2 Side Crucifix Is a Bridge, Not a Position
+Side Crucifix is not an aesthetic control—it is a functional bridge between pinning and finishing.  
+Its value lies in shortening the path from positional dominance to submission pressure.
+
+---
+
+### 12.3 Two-Elbow Control Is the Core Metric
+You are not “in the system” unless both elbows are displaced:
+- Far elbow via underhook.
+- Near elbow via leg pin.  
+Anything less is transitional.
+
+---
+
+### 12.4 Underhook First (Default Doctrine)
+The highest-percentage pathway is:
+Underhook → Retention → Near-arm pin → Hub.  
+Reversing the order is a contingency, not the baseline.
+
+---
+
+### 12.5 Read Before You Force
+Hand height determines action:
+- Hand low → take underhook.
+- Hand high → force underhook.
+- Active post → wrist pass branch.  
+Decision precedes insertion.
+
+---
+
+### 12.6 Close the Loop Before Advancing
+An underhook without a closed loop is temporary.  
+Chin-to-hand and ear-to-bicep seal the structure.  
+Advancing without retention invites re-pummel resets.
+
+---
+
+### 12.7 Win the Elbow Before the Wrist
+Against skilled opponents, wrist chasing fails.  
+Elbow displacement precedes reliable wrist control.  
+Control hierarchy: elbow → then wrist → then break.
+
+---
+
+### 12.8 Pin Cycling Is Retention, Not Preference
+Front pin, back pin, and arm scissor are not three separate moves.  
+They are a retention cycle.  
+Switching pins is how you preserve elbow displacement under resistance.
+
+---
+
+### 12.9 Arm Scissor Feeds the Strongest Hub
+Arm scissor provides the cleanest route to chancery.  
+Chancery provides the most stable control-to-finish platform.  
+This is the system’s primary finishing axis.
+
+---
+
+### 12.10 Stabilize First, Break Second
+After chancery capture, expect explosive resistance.  
+Posting and elbow pinning precede torque.  
+Premature breaking attempts cost position.
+
+---
+
+### 12.11 Base Before Breaking
+Whenever both hands leave the mat, base narrows.  
+If your head drops below hips, you are vulnerable to reversal.  
+Stability is a prerequisite to finishing force.
+
+---
+
+### 12.12 Balance Loss Is a Branch, Not a Mistake
+If you lose balance during a break attempt, the system routes to:
+- Juji variants
+- Reverse triangle variants  
+Instability becomes continuation, not failure.
+
+---
+
+### 12.13 Reverse-Order Is a Time-Saving Contingency
+If underhook-first stalls, pin near arm first.  
+Restore underhook via wrist pass or route to north–south.  
+The order can change, but the two-elbow requirement cannot.
+
+---
+
+### 12.14 Remove the Defensive Arm, Then Strangle
+North–south strangles become fast when the near defensive arm is already pinned.  
+Eliminate defense first; apply choke second.
+
+---
+
+### 12.15 Dilemma Logic Governs Transitions
+From back crucifix:
+- Head slips → side crucifix.
+- Head denied → rear triangle.  
+Correct branching prevents wasted effort.
+
+---
+
+### 12.16 Never Skip a Gate
+Underhook.  
+Retention.  
+Pin.  
+Hub.  
+Finish.  
+
+Skipping gates produces fragile control.  
+Sequential integrity produces reliable finishes.
 
 
+## 13.0 TERMINOLOGY
 
+### 13.1 Core Positions & States
+- **Side Control / Side Pin:** Chest-to-chest top pin where opponent’s hips/shoulders are controlled and frames are suppressed.
+- **Side Crucifix:** A two-component control state where both opponent elbows are displaced:
+  - Far elbow controlled via far-side underhook.
+  - Near elbow controlled via leg-based pin.
+- **Back Crucifix:** Chest-to-back control where legs and/or hooks trap an arm while controlling rotation; used here as a bridge to side crucifix or rear triangle.
+- **Chancery:** A leg-based head-and-arm capture (“legs chancery”) used as a premier hub for upper-body submissions from side crucifix.
 
+### 13.2 Primary Control Concepts
+- **Elbow Structure:** The opponent’s defensive frame where elbows stay tight to torso/hip-line; breaking elbow structure is the system’s main control objective.
+- **Two-Elbow Displacement:** The success condition of the system: both elbows pulled away from torso so escapes and frames collapse.
+- **Closed Loop (Underhook Retention):** The retention state where chin-to-hand and ear-to-bicep eliminate the pummel window and seal shoulder line.
+- **Pummel Window:** The space/opportunity that allows the opponent to reinsert an arm, recover elbow structure, or clear the underhook.
+
+### 13.3 Underhook Acquisition Methods (Names Used Here)
+- **Free Underhook:** Underhook available because opponent’s hand is low (hand ≤ elbow).
+- **Forced Underhook:** Underhook acquired against defensive hand-high posture using a dedicated forcing method.
+- **Ten-Finger Method:** Palm-up insertion to wrist–bicep space with ten-finger grip to lever elbow outward and complete the underhook.
+- **Reverse Overhook Method:** Wrist “knife wedge” under elbow line to open space and convert into underhook.
+- **Wrist Pass:** Passing the opponent’s wrist across centerline (especially vs active shoulder post) to create underhook access.
+- **Mount Fake / Mount Threat:** Using mount entry attempts to create parallel alignment and provoke defensive posting that opens underhook lanes.
+- **Fake American Lock:** A believable Americana threat used to provoke arm positioning that surrenders underhook access.
+
+### 13.4 Near-Arm Pinning Terms
+- **Near-Side Arm:** The opponent arm closest to you in side control; the arm you pin with the legs to complete side crucifix.
+- **Long-Arm Case:** Near arm is extended/wrist available; wrist control is viable.
+- **Short-Arm Case:** Near arm is glued/tucked; wrist is not realistically available; bicep-control pathway is required.
+- **Wrist Control (Long-Arm Control):** Controlling inside wrist (end of lever) to prevent elbow following and enable pin insertion.
+- **Bicep Control (Short-Arm Control):** Inside-hand control to bicep/upper-arm junction to lever elbow away from torso for pin completion.
+- **Tripod Pin Completion:** Rising posture to drive knee/leg over the arm while maintaining base with posts.
+
+### 13.5 Pin Variants
+- **Front Leg Pin:** Near arm pinned primarily by lead/front leg configuration.
+- **Back Leg Shin Pin:** Near arm pinned by the back leg’s shin; often accessed by briefly crossing ankles to maintain continuous coverage.
+- **Arm Scissor:** Knee pinch / scissor configuration that traps arm and shoulder line; highest control and best feed to chancery.
+- **Pin Cycling:** Switching between pin variants to maintain elbow displacement without gaps; treated as retention, not preference.
+- **Continuous Shin Coverage:** The rule that at least one shin must maintain pressure on the pinned arm during transitions to prevent extraction.
+
+### 13.6 Submission Families (As Used Here)
+- **Kimura Family:** Kimura grip and variations used as primary finishes from chancery or shin pin structures.
+- **Dorsal Kimura:** A kimura breaking configuration emphasizing dorsal/behind-the-back pressure line.
+- **Sit-Out Kimura:** Kimura finished by sitting out and splitting legs wide for stability and torque.
+- **Juji Gatame (Armbar):** Straight armbar family used especially as a balance-loss continuation.
+- **¾ Juji Gatame:** Armbar variant used when full square alignment is blocked.
+- **Yoko Sankaku (Side Triangle):** Side triangle strangle; entered with “elbow-first” stabilization doctrine.
+- **Gyaku Sankaku (Reverse Triangle):** Reverse/alternative triangle configuration used as a continuation when balance shifts.
+- **Ushiro Sankaku (Rear Triangle):** Rear triangle used as the alternative branch when head-slip entry from back crucifix is denied.
+- **North–South Strangle:** Choke finished from north–south alignment; emphasized here when the near defensive arm has been removed/pinned.
+
+### 13.7 Tactical / Diagnostic Terms
+- **Stabilization Window:** The short period after a major capture (especially chancery) where opponent outputs maximal escape effort.
+- **Base Before Breaking:** Priority rule: stabilize posture and posts before committing both hands to a break attempt.
+- **Direction-of-Failure Routing:** Troubleshooting rule:
+  - Structural failure (re-pummel / elbow returns) → return to retention and elbow displacement.
+  - Rotational/balance failure (roll threat) → post and route to armbar/triangle continuations.
+- **Gate:** A required condition in the pipeline (underhook, retention, pin, hub) that should not be skipped.
+- **Win Condition (Scenario):** The concrete outcome that ends a drill/game (e.g., 3-second hold, lock achieved, finish-ready configuration).
