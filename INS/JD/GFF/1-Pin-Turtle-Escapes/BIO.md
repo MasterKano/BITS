@@ -28,169 +28,107 @@
 - [15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (OPTIONAL)](#150-supplement-not-transcript-derived-optional)
 
 # 1.0 MASTER SYSTEM MAP (ASCII)
+~~~
 
-PIN ESCAPES SYSTEM MAP (WEDGES + BODY WEIGHT)
+                          [PIN ESCAPE DOCTRINE]
+        Pin = BODY WEIGHT (load) + WEDGES (structure)  |  Escape = INSIDE WIN
+        Exit Modes: GUARD  |  REVERSAL (TOP)  |  NEUTRAL / STAND-UP
+        Quality: MINIMAL (relief) vs POSITIVE (initiative)
+
+----------------------------------- CORE LOOP ----------------------------------
+
+[PINNED] 
+   |
+   v
+(0) SURVIVE  --------------------->  submission/upgrade defense
+   |
+   v
+(1) DIAGNOSE --------------------->  pin family + wedge map + base + head control
+   |
+   v
+(2) FRAME  ----------------------->  load-bearing structures (short frames under load)
+   |
+   v
+(3) MOVE   ----------------------->  engines: bridge / shrimp / reverse shrimp / heist / roll
+   |
+   v
+(4) INSERT ----------------------->  inside position limb-by-limb (elbow/forearm first under load)
+   |
+   v
+(5) CONNECT ---------------------->  ELBOW–KNEE CONNECTION (lane stabilizer)
+   |
+   v
+(6) LEGS IN ---------------------->  reintroduce legs / build base
+   |
+   v
+(7) EXIT  ------------------------>  GUARD | REVERSAL | NEUTRAL/STAND
+
+                     [FAIL-SAFE RULES / KILL-SWITCHES]
+   - Flat = fix head control first (turn before shrimp)
+   - Transition/base change = RE-FRAME + RE-DIAGNOSE immediately (stale frames die)
+   - Knee blocked twice = change insertion point/angle (no grinding)
+   - Back control = neck battle first; demarcation before facing
+   - Elbow separation = stop; re-win elbow line before continuing
+
+-------------------------------- PIN FAMILY MAP --------------------------------
+
+(A) MOUNT FAMILY
+    Spine: ELBOW ESCAPE -> knee line -> elbow–knee -> guard
+    Branch: UPA (trap+angle) -> reversal
+    Branch: ankle-trap method (during transitions) -> knee capture -> guard
+    Risks: high mount climb | back exposure on turns
+
+(B) SIDE PIN / SIDE CONTROL FAMILY
+    Spine: frame set (head/hip/inside) -> turn -> shrimp -> knee line -> connect -> guard
+    Branch: knee escape -> base build -> single-leg pathway (top/stand)
+    Branch: high-leg escape (when crossface is beaten + lane exists)
+    Branch: ankle-trap reversal (when ankle access + safe tilt exists)
+    Branch: shoulder roll / spin / prop (lane-dependent, situational)
+    Risks: crossface flattening | stale frames | wrong knee seam
+
+(C) BASE-CHANGE LAYER (SIT-OUT / REVERSE SIT-OUT)
+    Rule: base change = wedge map change
+    Spine: win elbow line -> re-frame -> reverse shrimp -> knee line -> connect -> guard/stand
+    Risks: elbow drag/separation | linear shrimp that gets followed forever
+
+(D) KNEE-ON-BELLY (KOB)
+    Spine: frame + hip angle -> knee line -> guard
+    Branch: base build -> stand/single when base elongates
+    Branch: ankle-trap option (only when safe)
+    Risks: delay -> mount transition
+
+(E) NORTH-SOUTH (TYPE-SPECIFIC)
+    Step 1: TYPE ID (transition | double-over | double-under | over-under)
+    Spine: transition escape when moving; otherwise type-correct frames + turn + guard/face
+    Risks: generic solution | elbow line loss -> arm isolation
+
+(F) BACK CONTROL (REAR MOUNT)
+    Spine: survive (strangle-side control) -> defeat bottom hook -> head to floor
+           -> ELBOW DEMARCATION (elbow to mat between bodies) -> face -> guard/top
+    Branch: seatbelt counters (inside-leg family) when lane exists + neck safe
+    Risks: hook fixation | skipping demarcation | re-hook during turn
+
+(G) TURTLE
+    Rule: turtle is TRANSITIONAL (not rest)
+    Spine: deny seatbelt/hooks -> win elbow line -> re-face -> guard/neutral
+    Branch: shoulder-roll lane (only if no hooks + elbows protected)
+    Risks: passive turtle -> back capture | rolling into hooks/seatbelt
+
+---------------------------- CHECKPOINTS (NON-NEGOTIABLES) ----------------------
+
+[C1] TURN-TO-SIDE (no flat body)          -> enables movement
+[C2] INSIDE POSITION (majority inside)    -> enables legs return
+[C3] KNEE LINE ACCESS (seam + angle)      -> enables guard recovery / base build
+[C4] ELBOW–KNEE CONNECTION                -> stabilizes lane; prevents re-flattening
+[C5] BACK DEMARCATION (elbow between bodies) -> enables safe face turn
+
+------------------------------- TRAINING INTEGRATION ----------------------------
+
+Engines -> Frames -> Checkpoints -> Spines -> Branches -> Live (R3+ transitions)
+Metrics: time-to-side | knee insertion ≤3 attempts | connect rate | demarcation rate
+Error Log: stale frames | wrong seam | flattening | elbow separation | hook fixation
 ================================================================================
-CORE CLAIM:
-- A pin is not “pressure” in the abstract. It is **BODY WEIGHT applied through WEDGES**.
-- Therefore escape is not “push.” Escape is:
-  (1) **MOVE / REDIRECT WEIGHT** (kuzushi/off-balance) AND
-  (2) **WORK INSIDE THE WEDGES** (inside position) until you can exit.
-
---------------------------------------------------------------------------------
-LEGEND
---------------------------------------------------------------------------------
-[NODE]   = state / position / objective
-( )      = intent / principle
-{ }      = condition / cue
--->      = primary progression
-==>      = alternate branch / variant
-||       = parallel tasks (done together)
-X        = common failure point
-
---------------------------------------------------------------------------------
-PROTOCOL CARD (8 lines / universal)
---------------------------------------------------------------------------------
-1) [SURVIVE]   defend immediate submissions + stop positional upgrades
-2) [DIAGNOSE]  identify pin type + wedge points + opponent base/grips/head control
-3) [FRAME]     build the correct frames for the distance (hands far / elbows near)
-4) [MOVE]      bridge/shrimp/heist to shift weight and open a lane
-5) [INSERT]    get INSIDE limb-by-limb (elbow/forearm first under tight pressure)
-6) [CONNECT]   stabilize space (elbow–knee connection) to prevent re-flattening
-7) [LEGS IN]   reintroduce legs to reclaim guard or entries to stand/reverse
-8) [EXIT]      guard (default) OR reversal OR neutral/stand-up
-
---------------------------------------------------------------------------------
-MASTER ENGINE (applies to all pins)
---------------------------------------------------------------------------------
-[YOU ARE PINNED]
-  || (Safety Layer)
-  ||    - [Submission defense] (neck/arm isolation first)
-  ||    - [Prevent upgrades] (mount/back/high mount/stronger crossface)
-  ||
-  --> [DIAGNOSE THE PIN]
-        [PIN TYPE] + [OPPONENT BASE] + [WEDGE POINTS] + [HEAD/ARM CONTROL]
-        (Solve the right problem; wrong diagnosis = wrong escape.)
-
-  --> [BUILD SPACE]
-        (Frames create the “platform” that lets movement work.)
-        {space exists} ==> [HAND FRAMES] (extended)
-        {point-blank}  --> [FOREARM/ELBOW FRAMES] (short, strong)
-        X pushing with straight arms when pin is tight
-
-  --> [MOVE WEIGHT + CREATE A LANE]
-        (Movement without frames collapses; frames without movement stall.)
-        [BRIDGE] (often asymmetric) --> [base disrupted] --> [angle/lane opens]
-        [SHRIMP] (power / sliding / reverse) --> [hips relocate] --> [knee lane]
-        [BACK HEIST] --> [reorientation] --> [stand-up / single-leg lanes]
-        (support) [shoulder roll] / [spin] when alignment and space permit
-
-  --> [INSIDE POSITION]
-        (You cannot escape from outside the wedges.)
-        --> [1st insertion] (elbow/forearm inside under tight pressure)
-            --> [2nd insertion] (knee line / hip line)
-                --> [MAJORITY INSIDE]
-                    --> [LEGS RE-ENTER]
-                        --> [EXIT MODE]
-                              --> [GUARD] (default / highest frequency)
-                              ==> [REVERSAL] (bottom -> top)
-                              ==> [NEUTRAL / STAND-UP] (break contact)
-
---------------------------------------------------------------------------------
-KEY STRUCTURES (what you are trying to build)
---------------------------------------------------------------------------------
-[ELBOW–KNEE CONNECTION]
-  (Distance anchor: prevents re-flattening; enables knee insertion and guard entry.)
-  --> once connected: shrink the problem to “knee line wins = escape progresses”
-
-[FRAME LIFECYCLE]
-  BUILD (stop chest-to-chest) -> MAINTAIN (hold lane) -> UPGRADE (insert knee)
-  {opponent transitions} -> RE-FRAME IMMEDIATELY (stale frames become liabilities)
-
---------------------------------------------------------------------------------
-POSITIONAL TREES (load-bearing branches only)
---------------------------------------------------------------------------------
-
-A) MOUNT
---------
-[MOUNT] (hips-over-hips + weight centered; often head/arm control)
-  --> (Primary) [ELBOW ESCAPE -> GUARD]
-        --> [frame to stop climb/high mount]
-        --> [insert knee line] -> [elbow–knee connection] -> [guard]
-        {stable/feet hidden} --> [knee-centered elbow escape]
-        {mount entry / knee drive / step-over} ==> [ankle-trap entry -> knee capture -> elbow escape]
-        X switching sides before securing the critical control (knee/leg capture)
-
-  ==> (Secondary) [UPA / BRIDGE-AND-ROLL -> TOP]
-        --> [trap arm + trap leg] -> [asymmetric bridge off-line] -> [roll]
-        {posts appear} -> [bridge angle + head/look direction to dump past base]
-        {grapevines}  -> [clear vines first] -> [resume]
-
-B) SIDE PIN (side control family)
----------------------------------
-[SIDE PIN] (crossface axis + hip wedge + chest pressure)
-  --> (Primary) [ELBOW/KNEE ESCAPE -> GUARD]
-        --> [deny crossface] + [hip frame] -> [knee lane]
-        --> [elbow–knee connection] -> [recover guard]
-        X framing outside wedge points (frame collapses)
-
-  --> (Primary) [KNEE ESCAPE FAMILY -> MULTI-FINISH]
-        --> [knee inside] -> [half/butterfly/full guard]
-        ==> [single-leg pathway] -> [stand/reverse/back takes depending on reaction]
-
-  ==> (Alternates / specials)
-        ==> [high-leg escape] (when crossface is beaten and high-leg lane exists)
-        ==> [ankle-trap reversal] (when ankle access is granted)
-        ==> [shoulder-roll / spin / prop escapes] (situational: alignment + space)
-
-C) OPPONENT BASE CHANGES (sit-out / reverse sit-out)
-----------------------------------------------------
-{opponent changes base to sit-out}
-  --> [elbow position battle]
-        {early} --> [elbow to bottom hip] + [forearm frame] -> [shrimp] -> [guard]
-        {late}  --> [recover elbow position] -> [reverse shrimp if followed] -> [re-frame] -> [guard]
-  X keeping old frames as opponent rotates base (stale frame failure)
-
-D) KNEE-ON-BELLY
-----------------
-[KOB]
-  --> [frame + hip movement] -> [knee lane] -> [guard]
-  ==> {ankle access} ==> [ankle-trap option] -> [reversal or guard]
-
-E) NORTH-SOUTH (type first)
----------------------------
-[NORTH-SOUTH]
-  --> {during transition} --> [transition escape] (move while they move)
-  --> {double-over / double-under / over-under} --> [type-specific escape set]
-  X applying the wrong escape to the wrong north-south type
-
-F) BACK CONTROL (rear mount)
-----------------------------
-[BACK CONTROL] (hooks + chest-to-back) || [SUBMISSION BATTLE] (seatbelt/strangle)
-  --> [protect neck + win elbow position on strangle side]
-  --> (Primary) [SLIDING ELBOW ESCAPE]
-        --> [choose fall direction] (brace leg advantage)
-        --> [beat bottom hook] -> [head to floor] -> [elbow to mat between bodies]
-        --> [turn to face] -> [guard/top depending on timing]
-  X chasing hook removal while losing the neck battle
-
-G) TURTLE
----------
-[TURTLE]
-  --> [prevent back capture] (elbow position + deny seatbelt control)
-  --> [re-face / re-guard / roll family] (lane-dependent)
-  X accepting hooks/seatbelt while “waiting to escape”
-
---------------------------------------------------------------------------------
-SYSTEM INVARIANTS (always true)
---------------------------------------------------------------------------------
-(1) Safety first (submissions + upgrades).
-(2) Space precedes escape (frames + movement).
-(3) Correct diagnosis (pin type + wedge points).
-(4) Inside wins (majority inside -> legs re-enter).
-(5) Adaptation beats pressure (re-frame on transitions).
-
-
+~~~
 # 2.0 EXECUTIVE SUMMARY
 
 ## 2.1 System Thesis (What Pins Are)
