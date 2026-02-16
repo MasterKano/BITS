@@ -1847,6 +1847,979 @@ THEN:
 **Fail alarms:** rolling into hooks/seatbelt; exposing neck.  
 **Preferred exits:** face → guard.
 
+# 9.0 DRILLING PROGRESSIONS
+
+## 9.1 Principles of Drilling (How to Train This System)
+- Drill **checkpoints**, not just finishes: majority inside, elbow–knee connection, knee-line access, elbow position dominance.
+- Train **order-of-operations**: Survive → Diagnose → Frame → Move → Insert → Connect → Legs In → Exit.
+- Use **constraints** to stop premature finishing and to force correct adaptation (re-frame on transitions).
+- Progress through a **resistance ladder** so mechanics survive real pressure.
+
+---
+
+## 9.2 Micro-Drills (Single Skill, High Reps)
+
+### 9.2.1 Frames Under Load (Short-Frame Integrity)
+**Goal:** hold structure without pushing.  
+**Format:** partner applies progressive chest pressure; defender maintains elbow/forearm frames.  
+**Constraints:** no extended arms; elbows must remain connected to body.  
+**Metric:** frames hold for 10–20 seconds without collapse or arm extension.
+
+### 9.2.2 Turn-Off-Flat Drill (Crossface Denial → Turn)
+**Goal:** restore the ability to turn before shrimping.  
+**Format:** start flattened; partner maintains crossface pressure; defender rebuilds head-control denial and turns to side.  
+**Constraints:** no shrimp until on side.  
+**Metric:** time-to-side decreases; fewer resets due to re-flattening.
+
+### 9.2.3 Shrimp Variants Ladder (Power / Sliding / Reverse)
+**Goal:** choose the right shrimp for the situation and timing.  
+**Format:** 3 power shrimps → 3 sliding shrimps → partner follows → 3 reverse shrimps.  
+**Constraints:** must keep frames; cannot disengage by “running away.”  
+**Metric:** hip travel increases without frame collapse.
+
+### 9.2.4 Knee Line Insertion (Point + Angle)
+**Goal:** insert knee reliably by seam selection, not force.  
+**Format:** partner blocks knee line lightly; defender must insert by changing angle/insertion point.  
+**Constraints:** blocked twice = mandatory reset and change of angle/point.  
+**Metric:** successful insertion within ≤3 attempts.
+
+### 9.2.5 Elbow–Knee Connection Snap
+**Goal:** convert knee insertion into stabilized lane control.  
+**Format:** insert knee → immediately connect elbow–knee → hold 3 seconds → reset.  
+**Constraints:** if elbow floats, rep doesn’t count.  
+**Metric:** 10 clean reps each side.
+
+### 9.2.6 Re-Frame on Transition (Stale Frame Kill-Switch)
+**Goal:** automatic re-frame when top changes base/angle.  
+**Format:** partner rotates base (sit-out / reverse sit-out / crossface switch) on a cue; defender must re-frame instantly.  
+**Constraints:** no escaping; only re-frame correctly.  
+**Metric:** reaction time; correct frame selection.
+
+### 9.2.7 Back Control “Demarcation” Reps
+**Goal:** achieve elbow-to-mat-between-bodies checkpoint.  
+**Format:** start in back control; defender works to demarcation only; reset.  
+**Constraints:** if neck battle is lost, rep stops.  
+**Metric:** demarcation achieved under increasing resistance.
+
+---
+
+## 9.3 Chain Drills (Two to Four Skills Linked)
+
+### 9.3.1 Mount Chain: Survive → Frame → Shrimp → Knee Line → Elbow–Knee
+**Scope:** mount elbow escape spine (without full finish).  
+**Format:** timed reps; partner gives realistic pressure but no counters yet.  
+**Checkpoint:** elbow–knee connection achieved.
+
+### 9.3.2 Mount Chain: UPA Attempt → Forced Post → Elbow Escape
+**Scope:** use UPA as a reaction generator.  
+**Format:** defender initiates UPA; partner posts; defender immediately transitions to elbow escape insertion.  
+**Checkpoint:** knee line achieved within 5 seconds of post.
+
+### 9.3.3 Side Chain: Frame Set → Turn → Shrimp → Knee Line → Connect → Half Guard
+**Scope:** side escape spine to first stable guard endpoint.  
+**Format:** partner provides crossface/hip wedge; defender runs sequence to half guard.  
+**Checkpoint:** half guard stabilized with elbow–knee connection.
+
+### 9.3.4 Side Chain: Knee Escape → Come Up → Single-Leg Position (No Finish)
+**Scope:** convert escape into base-building.  
+**Format:** start at knee escape midpoint; defender stands to single-leg shape; reset.  
+**Checkpoint:** base established without back exposure.
+
+### 9.3.5 Base-Change Chain: Side Pin → Sit-Out Cue → Re-Frame → Reverse Shrimp → Knee Line
+**Scope:** transition-proof the escape.  
+**Format:** partner switches to sit-out on cue; defender must re-frame and still reach knee line.  
+**Checkpoint:** knee insertion succeeds despite base change.
+
+### 9.3.6 Back Chain: Neck Battle → Bottom Hook Defeat → Head-to-Floor → Demarcation
+**Scope:** back control spine (no full face turn initially).  
+**Format:** staged reps; partner counters only within stage.  
+**Checkpoint:** demarcation achieved without losing neck.
+
+### 9.3.7 Turtle Chain: Hook Denial → Re-Face → Guard Recovery
+**Scope:** turtle treated as active transition.  
+**Format:** partner hunts seatbelt/hook; defender denies and re-faces to guard.  
+**Checkpoint:** re-face achieved with no hooks conceded.
+
+---
+
+## 9.4 Constraint Rounds (Short Sparring With Rules)
+
+### 9.4.1 Mount Constraints
+- **Defender wins** by: knee line + elbow–knee connection (not full escape).
+- **Top wins** by: high mount achieved or back exposure created.
+- **Round:** 2 minutes; switch.
+
+### 9.4.2 Side Pin Constraints
+- **Defender wins** by: knee insertion at correct seam + elbow–knee connection.
+- **Top wins** by: re-flattening the defender or transitioning to mount.
+- Add rule: defender may only shrimp after turning to side.
+
+### 9.4.3 Knee-on-Belly Constraints
+- **Defender wins** by: guard recovered or base built to stand.
+- **Top wins** by: mount transition.
+
+### 9.4.4 North-South Constraints
+- Defender must call the **type** before attempting escape.
+- **Win**: face/guard recovered; **Lose**: arm isolation achieved.
+
+### 9.4.5 Back Control Constraints
+- **Defender wins** by: elbow demarcation + face turn.
+- **Top wins** by: choke finish or re-locking dominant control after demarcation attempt.
+
+### 9.4.6 Turtle Constraints
+- **Defender wins** by: re-face to guard without hooks.
+- **Top wins** by: one hook + seatbelt dominance established.
+
+---
+
+## 9.5 Resistance Ladder (Progression That Makes It Real)
+Use for any technique family:
+
+- **R0: Static** — partner gives shape, no resistance.
+- **R1: Structured** — partner gives pressure, no counters.
+- **R2: Single Counter** — partner uses one designated counter (e.g., crossface re-entry).
+- **R3: Two Counters** — adds base change or transition (sit-out, mount climb).
+- **R4: Live** — full resistance within position, with escape goal defined.
+- **R5: Chain Entry** — start from worse case (flattened, late, near submission).
+
+**Rule:** do not progress levels until the checkpoint is consistent.
+
+---
+
+## 9.6 Performance Metrics (How You Know It’s Working)
+Track these per session:
+- **Time-to-side** from flattened in side pin.
+- **Knee insertion success rate** (≤3 attempts).
+- **Elbow–knee connection rate** after insertion (clean reps).
+- **Escape success under R3** (base change included).
+- **Back escape demarcation rate** without losing neck battle.
+- **Error log** (top 2 failure modes that day: stale frames, wrong seam, hook fixation, etc.)
+
+---
+
+## 9.7 Minimal Weekly Template (Simple Implementation)
+- **Day 1:** Frames under load + knee insertion + side spine chain.
+- **Day 2:** Mount elbow escape chain + UPA→post→elbow chain.
+- **Day 3:** Base-change re-frame chain + KOB constraints + north-south type ID.
+- **Day 4:** Back control demarcation + turtle re-face + live constraints.
+
+
+# 10.0 FOUR-WEEK CURRICULUM
+
+## 10.1 Program Rules (Non-Negotiables)
+- Train by **checkpoints** first: (1) turn off flat, (2) knee line insertion, (3) elbow–knee connection, (4) majority inside, (5) back demarcation.
+- Escapes must survive **R3** (includes at least one base change/transition counter) by the end of Week 4.
+- If a drill fails twice, you must apply the **Fix Rule**: change frame/distance, change insertion point/angle, or re-diagnose pin type—do not add force.
+
+## 10.2 Weekly Themes (What Each Week Builds)
+- **Week 1 — Structure & Engines:** frames under load + turn-to-side + shrimp variants + elbow–knee connection.
+- **Week 2 — Primary Spines:** mount elbow escape spine + side elbow/knee spine to first stable guard endpoint.
+- **Week 3 — Adaptation Layer:** base changes (sit-out/reverse sit-out), KOB, north-south type ID; escape during transitions.
+- **Week 4 — Live Integration:** back control (sliding elbow) + turtle escapes + full system constraints at higher resistance.
+
+---
+
+## 10.3 Session Format (Repeatable Template)
+Each session uses the same structure:
+
+1) **Warm-up (10 min):** engines only (bridge/shrimp/heist) + elbow tightness.
+2) **Micro-drills (15–20 min):** 2–3 skills from 9.2.
+3) **Chain drills (20–25 min):** 1–2 sequences from 9.3.
+4) **Constraint rounds (10–20 min):** 2-min rounds, specific win conditions.
+5) **Debrief (2 min):** record top 2 failure modes + 1 fix to apply next session.
+
+---
+
+# WEEK 1 — STRUCTURE & ENGINES
+
+## Session 1 (Frames + Turn-Off-Flat)
+**Micro (9.2):**
+- Frames Under Load (short-frame integrity)
+- Turn-Off-Flat (crossface denial → turn)
+- Elbow–Knee Connection Snap
+**Chain (9.3):**
+- Side Chain: Frame set → turn → shrimp → knee line → connect (stop at connect)
+**Constraints (9.4):**
+- Side Pin Constraints (win = knee insertion + elbow–knee)
+**Standards to pass:**
+- Turn-to-side from flat within 10 seconds (controlled partner pressure).
+- 10 clean elbow–knee connections each side.
+
+## Session 2 (Shrimp Ladder + Knee Seam Work)
+**Micro (9.2):**
+- Shrimp Variants Ladder (power/sliding/reverse)
+- Knee Line Insertion (point + angle; blocked twice = reset)
+**Chain (9.3):**
+- Side Chain to Half Guard (first stable endpoint)
+**Constraints (9.4):**
+- Side Pin Constraints with added rule: no shrimp until on side
+**Standards:**
+- Knee insertion succeeds in ≤3 attempts in 8/10 reps.
+
+## Session 3 (Mount Foundations)
+**Micro (9.2):**
+- Frames Under Load (mount-specific posture)
+- Knee Line Insertion (mount context)
+- Elbow–Knee Connection Snap
+**Chain (9.3):**
+- Mount Chain: survive → frame → shrimp → knee line → connect
+**Constraints (9.4):**
+- Mount Constraints (win = knee line + elbow–knee)
+**Standards:**
+- Achieve elbow–knee connection from mount in ≤20 seconds in structured rounds.
+
+## Session 4 (Back Intro + Re-Frame Reflex)
+**Micro (9.2):**
+- Re-Frame on Transition (stale frame kill-switch)
+- Back Control Demarcation Reps (to elbow demarcation only)
+**Chain (9.3):**
+- Back Chain: neck battle → bottom hook defeat → head-to-floor → demarcation
+**Constraints (9.4):**
+- Back Control Constraints (win = demarcation; no full escape required yet)
+**Standards:**
+- Demarcation achieved 5 times per side without losing neck battle.
+
+---
+
+# WEEK 2 — PRIMARY SPINES (MOUNT + SIDE)
+
+## Session 1 (Mount Elbow Escape to Guard)
+**Micro:**
+- Turn-off-flat equivalents (mount framing)
+- Knee seam insertion (mount)
+**Chain:**
+- Mount Elbow Escape chain (to guard finish)
+**Constraints:**
+- Mount Constraints (top allowed: mount climb only)
+**Standards:**
+- Full guard/half established in ≤30 seconds under R2.
+
+## Session 2 (UPA as Reaction Generator → Elbow Escape)
+**Micro:**
+- Asymmetric bridge reps (angle changes)
+- Trap mechanics rehearsal (no power)
+**Chain:**
+- UPA attempt → forced post → elbow escape insertion
+**Constraints:**
+- Mount constraints (top allowed: wide post counter)
+**Standards:**
+- Convert failed UPA into knee line within 5 seconds in 6/10 reps.
+
+## Session 3 (Side Elbow/Knee Spine to Guard)
+**Micro:**
+- Three-frame responsibilities rehearsal (head/hip/inside)
+- Knee seam map drilling (angle + point)
+**Chain:**
+- Side spine to half/butterfly/full depending on reaction (stop once stable)
+**Constraints:**
+- Side constraints (top allowed: re-crossface only)
+**Standards:**
+- Knee insertion + elbow–knee in ≤20 seconds under R2.
+
+## Session 4 (Side Knee Escape → Single-Leg Shape)
+**Micro:**
+- Back heist base building reps
+- Knee escape “come up” mechanics (no finish)
+**Chain:**
+- Knee escape → come up → single-leg position (reset)
+**Constraints:**
+- Side constraints (defender wins by reaching single-leg shape safely)
+**Standards:**
+- Establish single-leg shape without back exposure in 6/10 reps.
+
+---
+
+# WEEK 3 — ADAPTATION LAYER (BASE CHANGE + KOB + NORTH-SOUTH)
+
+## Session 1 (Sit-Out / Reverse Sit-Out Re-Frame)
+**Micro:**
+- Re-frame on base change (sit-out cue)
+- Reverse shrimp distance recovery
+**Chain:**
+- Base-change chain: side pin → sit-out cue → re-frame → reverse shrimp → knee line
+**Constraints:**
+- Side constraints (top must sit-out at least once per round)
+**Standards:**
+- Knee line achieved despite base change in 6/10 reps.
+
+## Session 2 (Knee-on-Belly Exits)
+**Micro:**
+- Frame + hip angle on KOB (fast reps)
+- Knee line insertion from KOB
+**Chain:**
+- KOB: frame → angle → knee line → guard OR base → stand (choice driven by cue)
+**Constraints:**
+- KOB constraints (top wins by mount transition)
+**Standards:**
+- Exit KOB (guard or base) within 15 seconds under R2.
+
+## Session 3 (North-South Type ID + Transition Escape)
+**Micro:**
+- Type ID call-out reps (T0/T1/T2/T3)
+- Transition escape reps (move while they move)
+**Chain:**
+- Transition → escape to face/guard, then reset
+**Constraints:**
+- North-south constraints (must call type before moving)
+**Standards:**
+- Correct type call 10/10; successful transition escape in 7/10.
+
+## Session 4 (Integration: Mount + Side Under R3)
+**Micro:**
+- Knee seam + elbow–knee snap (short set)
+**Chain:**
+- Alternating: mount spine then side spine
+**Constraints:**
+- R3 rounds: top allowed one base-change/upgrade attempt each round
+**Standards:**
+- Maintain protocol under disruption; no stale frames.
+
+---
+
+# WEEK 4 — LIVE INTEGRATION (BACK + TURTLE + FULL SYSTEM)
+
+## Session 1 (Back Control: Sliding Elbow to Face)
+**Micro:**
+- Neck battle hand/elbow positioning
+- Bottom hook defeat reps
+**Chain:**
+- Full sliding elbow chain: survive → hook defeat → head-to-floor → demarcation → face
+**Constraints:**
+- Back constraints (top allowed: re-hook + seatbelt tighten)
+**Standards:**
+- Full face achieved in ≤30 seconds under R3 in 5/10 reps.
+
+## Session 2 (Seatbelt Counters + Inside-Leg Options)
+**Micro:**
+- Seatbelt survival positioning reps
+- Inside-leg insertion timing (no neck loss)
+**Chain:**
+- Seatbelt counter chain → face/guard
+**Constraints:**
+- Back constraints (top focuses on strangle-side control)
+**Standards:**
+- No “hook fixation” errors; submission battle never lost while escaping.
+
+## Session 3 (Turtle: Re-Face Priority + Shoulder Roll Lane)
+**Micro:**
+- Hook denial reps (elbow tightness)
+- Re-face mechanics reps
+**Chain:**
+- Turtle chain: deny hooks → re-face → guard
+**Constraints:**
+- Turtle constraints (top wins by one hook + seatbelt dominance)
+**Standards:**
+- Re-face without hooks conceded in 7/10.
+
+## Session 4 (Full System Test: Rotation Circuit)
+**Format:** 6 stations × 3 minutes each:
+1) Mount (escape to elbow–knee checkpoint)
+2) Side pin (knee insertion + elbow–knee)
+3) Sit-out base change (re-frame + knee line)
+4) KOB (exit within 15 sec)
+5) North-south (type ID + escape)
+6) Back control (demarcation + face)
+**Rules:** R3 minimum; record results.  
+**Pass standard:** ≥4/6 stations meet win condition consistently.
+
+---
+
+## 10.4 Graduation Standards (End of Week 4)
+- Side pin: turn-to-side + knee insertion + elbow–knee connection under R3.
+- Mount: elbow escape to a stable guard endpoint under R3.
+- Base change: re-frame immediately; no stale-frame failures.
+- KOB: exit within 15 seconds under R2–R3.
+- North-south: correct type ID + successful escape plan selection.
+- Back: demarcation + face achieved without losing submission battle.
+- Turtle: re-face without hooks conceded under realistic attempts.
+
+## 10.5 Maintenance Plan (After Week 4)
+- 1 session/week: engines + checkpoints (high reps).
+- 1 session/week: constraint rounds rotation (short, intense).
+- Keep a rolling “top 2 failure modes” list and target them in micro-drills.
+
+# 11.0 FAILURE PATTERNS
+
+## 11.1 How to Use This Section (1-minute method)
+When an escape fails, identify the failure class:
+1) **Safety error** (you lost submission/upgrade battle),
+2) **Structure error** (frames collapsed or stale),
+3) **Movement error** (wrong engine or timing),
+4) **Seam error** (wrong insertion point/angle),
+5) **Checkpoint error** (you tried to finish before majority inside).
+
+Then apply the corresponding fix rule in 11.2–11.4 on the next attempt.
+
+---
+
+## 11.2 Universal Failure Patterns (All Pins)
+
+### 11.2.1 Force Without Weight Movement (“Bench-Press Syndrome”)
+**Symptoms:** you push and strain; opponent doesn’t move; arms extend; pin stays intact.  
+**Root cause:** wedges remain; weight is not structurally inconvenienced.  
+**Fix:** add **kuzushi** (asymmetric bridge/hip bump), or change angle; then re-insert inside.  
+**Rule:** if you’re pushing, you’re already late.
+
+### 11.2.2 Movement Without Frames (Collapse on Contact)
+**Symptoms:** you shrimp/bridge but get re-flattened instantly; no lane persists.  
+**Root cause:** no load-bearing structure; movement happens under full compression.  
+**Fix:** rebuild **short frames** first (forearm/elbow), then move.  
+**Rule:** frames create the lane; movement uses it.
+
+### 11.2.3 Stale Frames on Transitions (You Escaped the Old Pin)
+**Symptoms:** opponent changes base/angle; your frames suddenly feel useless; you get re-pinned.  
+**Root cause:** frame matched old wedge map; opponent rotated the wedges.  
+**Fix:** immediate **re-frame + re-diagnose** (new head/hip/inside responsibilities).  
+**Rule:** meaningful top change = automatic re-frame.
+
+### 11.2.4 Staying Flat (No Rotation = No Knee Line)
+**Symptoms:** you can’t turn; shrimping feels like sliding in place; knees never enter.  
+**Root cause:** crossface/shoulder wedge wins; shoulder line pinned.  
+**Fix:** head-control denial first; turn to side before any shrimp.  
+**Rule:** no side posture = no escape posture.
+
+### 11.2.5 Outside Fighting (Trying to Win From Outside the Wedges)
+**Symptoms:** hands fight; arms get pinned/isolated; you can’t insert elbows/knees inside.  
+**Root cause:** you never achieved inside position; wedges stay external to you.  
+**Fix:** first insertion is usually **elbow/forearm inside** under tight pressure.  
+**Rule:** inside first; legs later.
+
+### 11.2.6 Premature Finish (Skipping the Checkpoint)
+**Symptoms:** knee enters briefly; you chase guard closure/turn; you get re-flattened.  
+**Root cause:** elbow–knee connection not secured; majority inside not reached.  
+**Fix:** connect elbow–knee and stabilize before bringing second leg or switching sides.  
+**Rule:** checkpoints before exits.
+
+### 11.2.7 Wrong Seam (Insertion Point / Angle Error)
+**Symptoms:** knee gets stapled repeatedly; you repeat the same attempt and stall.  
+**Root cause:** knee is driving into a closed wedge seam.  
+**Fix:** change **insertion point and knee angle**; use reverse shrimp reset if followed.  
+**Rule:** blocked twice = change seam, not effort.
+
+### 11.2.8 Elbow Separation (System-Wide Structural Collapse)
+**Symptoms:** elbow pulled away from body; frames weaken; submissions/upgrades appear.  
+**Root cause:** opponent wins inside line; you lose structural integrity.  
+**Fix:** re-win elbow position before continuing; tighten elbow line to ribs/hip line.  
+**Rule:** lose elbows = lose escapes.
+
+### 11.2.9 Submission Neglect (Positional Fixation)
+**Symptoms:** you focus on hooks/hips/knees while choke/arm isolation advances.  
+**Root cause:** failure to prioritize SURVIVE step.  
+**Fix:** pause escape; address the submission control point; then resume protocol.  
+**Rule:** escape attempts do not outrank immediate loss.
+
+---
+
+## 11.3 Position-Specific Failure Patterns
+
+## 11.3.1 Mount (UPA + Elbow Escape)
+
+### A) UPA Failure: No Trap / Post Still Alive
+**Symptoms:** you bridge and they post; no roll.  
+**Fix:** trap arm+leg better OR treat UPA as a post-generator and switch to elbow escape.
+
+### B) UPA Failure: Straight-Up Bridge
+**Symptoms:** opponent absorbs and re-centers.  
+**Fix:** asymmetric bridge off-line; change angle + head/look direction.
+
+### C) Elbow Escape Failure: High Mount Climb
+**Symptoms:** opponent slides up; your elbows separate; knee line disappears.  
+**Fix:** frame to block climb; re-center hips; restart knee insertion.
+
+### D) Elbow Escape Failure: Side Switch Before Control Secured
+**Symptoms:** you change sides and lose knee/leg capture; opponent re-stabilizes.  
+**Fix:** secure the critical control point (knee/leg capture) *then* transition.
+
+### E) Leg Immobilization (Grapevines)
+**Symptoms:** hips feel stapled; shrimp ineffective.  
+**Fix:** clear grapevines first (leg freedom precedes hip escape).
+
+---
+
+## 11.3.2 Side Pin (Elbow/Knee Spine + Knee Escape)
+
+### A) Crossface Dominance
+**Symptoms:** flattened; can’t turn; frames get crushed.  
+**Fix:** deny crossface first; shorten frames; turn to side before shrimping.
+
+### B) Hip Wedge Wins / Mount Threat
+**Symptoms:** opponent walks hips; your knee line never appears; mount transition.  
+**Fix:** restore hip-line frame responsibility before pursuing knee insertion.
+
+### C) Knee Keeps Getting Blocked
+**Symptoms:** repeated stapling.  
+**Fix:** seam correction: insertion point + angle; reverse shrimp reset if followed.
+
+### D) Coming Up = Back Exposure
+**Symptoms:** you build base and opponent takes back/seatbelt.  
+**Fix:** keep elbow line tight; maintain inside frames while rising; choose safer angle.
+
+### E) Overusing Alternates
+**Symptoms:** chasing high-leg/spin/roll with low success.  
+**Fix:** return to primary spine; only take alternates when their cue is clearly present.
+
+---
+
+## 11.3.3 Base Changes (Sit-Out / Reverse Sit-Out)
+
+### A) Stale Frames (Primary Failure)
+**Symptoms:** opponent rotates base; your frames are bypassed.  
+**Fix:** re-frame immediately; re-diagnose wedge map; win elbow line.
+
+### B) Elbow Drag / Separation
+**Symptoms:** elbow pulled away; inside line lost.  
+**Fix:** elbow battle first; then resume knee line pathway.
+
+### C) Linear Shrimping Gets Followed Forever
+**Symptoms:** no net distance.  
+**Fix:** reverse shrimp (timing change) then power shrimp on next beat.
+
+---
+
+## 11.3.4 Knee-on-Belly
+
+### A) Delay Under Pressure (“Resting in Pain”)
+**Symptoms:** you hold frames but don’t exit; mount/side transitions occur.  
+**Fix:** convert frames into immediate hip angle + knee line or base to stand.
+
+### B) Squared Hips
+**Symptoms:** pressure remains centered; no lane opens.  
+**Fix:** angle hips; make the knee line a diagonal problem, not straight-on.
+
+---
+
+## 11.3.5 North-South
+
+### A) Wrong Type, Wrong Escape
+**Symptoms:** repeated failure; arm isolation increases.  
+**Fix:** stop and classify: transition vs double-over vs double-under vs over-under.
+
+### B) Waiting Until Stabilized
+**Symptoms:** wedges fully set; escape feels impossible.  
+**Fix:** prioritize transition escapes; move while they move.
+
+### C) Elbow Line Loss
+**Symptoms:** arms pinned/isolated.  
+**Fix:** rebuild inside frames; protect elbows before turning.
+
+---
+
+## 11.3.6 Back Control
+
+### A) Hook Fixation (Neck Battle Lost)
+**Symptoms:** you chase hooks; choking hand advances.  
+**Fix:** return to strangle-side elbow/wrist control; resume escape only after safety.
+
+### B) Demarcation Skipped
+**Symptoms:** you try to face without elbow-to-mat-between-bodies; they re-take back.  
+**Fix:** prioritize demarcation as a checkpoint; don’t rush the face turn.
+
+### C) Bottom Hook Re-Inserts Repeatedly
+**Symptoms:** you clear it, it returns.  
+**Fix:** improve fall direction + hip angle; make hook defeat durable before advancing.
+
+---
+
+## 11.3.7 Turtle
+
+### A) Passive Turtle (Back Capture Happens)
+**Symptoms:** hooks/seatbelt lock while you “wait.”  
+**Fix:** treat turtle as active: deny hooks, win elbow line, re-face immediately.
+
+### B) Rolling Into Hooks/Seatbelt
+**Symptoms:** roll attempts lead to back control.  
+**Fix:** roll only when lane is clean (no hooks, elbows protected); otherwise re-face.
+
+---
+
+## 11.4 Training Failure Patterns (Why Drilling Doesn’t Transfer)
+
+### 11.4.1 Drilling Finishes Instead of Checkpoints
+**Symptom:** looks good in reps; fails live early.  
+**Fix:** drill: knee line, elbow–knee connection, demarcation—then finish.
+
+### 11.4.2 No Transition Training (R0–R1 Only)
+**Symptom:** escapes work until opponent changes base.  
+**Fix:** train at **R3**: add sit-out, mount climb, re-crossface, re-hook.
+
+### 11.4.3 No Error Logging
+**Symptom:** same failures repeat weekly.  
+**Fix:** track top 2 failure modes per session and target them next time.
+
+### 11.4.4 Over-Randomization
+**Symptom:** “sparring replaces drilling” and learning slows.  
+**Fix:** constraint rounds with specific win conditions and limited counters.
+
+---
+
+## 11.5 One-Line Fix Rules (Fast Recall)
+- **Flat = re-win head control first.**
+- **Frames collapsing = shorten frames and rebuild structure.**
+- **Followed shrimp = reverse shrimp reset, then go again.**
+- **Knee blocked twice = change point/angle, not effort.**
+- **Transition = re-frame now.**
+- **No progress = add kuzushi to force posts.**
+- **Back control = neck battle first; demarcation before face.**
+
+# 12.0 KEY PASSAGES
+
+## 12.1 Volume 1 — System Doctrine (Foundational Passages)
+
+### 12.1.1 Escapes are a responsibility (mindset -> training priority)
+- **Vol 1 — Escape is a Responsibility — 56:11–57:27**
+  - Escape skill is framed as a non-optional duty: it determines whether you can take risks elsewhere. The series positions pin escapes as a prerequisite layer—if you cannot reliably escape, your offense becomes fragile and easily shut down.
+
+### 12.1.2 The three modes of escape (unifies all techniques)
+- **Vol 1 — 3 Modes of Pin Escape in Jiu Jitsu — 57:27–1:01:46**
+  - Escapes are categorized by end-state: guard recovery, reversal to top, or neutral/stand-up separation. This creates immediate clarity: techniques are not “moves,” they are pathways to a chosen exit mode.
+
+### 12.1.3 Minimal vs positive escapes (quality standard)
+- **Vol 1 — Minimal Escapes & Positive Escapes — 1:01:46–1:06:20**
+  - A distinction is drawn between merely reducing suffering and actually exiting into initiative. The system pushes toward “positive” outcomes: escaping into structured guard, stand-up entries, or top position—states that convert defense into offense.
+
+### 12.1.4 The two elements of pinning (core model)
+- **Vol 1 — The 2 Elements of Pinning in Jiu Jitsu — 1:06:20–1:13:31**
+  - Pinning is described as a combination of load (weight/pressure) and structure (wedges/controls). The consequence is immediate: escapes that only address “pressure” without dismantling the structure fail.
+
+### 12.1.5 The single biggest insight required to escape pins (inside position doctrine)
+- **Vol 1 — Single Biggest Insight Required To Escape Pins — 1:13:31–1:24:06**
+  - The system emphasizes that you must work to the inside of the opponent’s controlling structure. Escaping from “outside the wedges” is presented as a losing game; the winning pathway is inside insertion that allows legs to re-enter.
+
+### 12.1.6 Essential body movements (engine room)
+- **Vol 1 — Essential Body Movements Required For Pin Escapes — 1:24:06–1:25:21**
+  - The instructional structure commits to movement engines (bridge, shrimp, heist, etc.) as the base layer. Techniques are treated as applications of these engines under specific wedge maps.
+
+### 12.1.7 Bridging as kuzushi (weight displacement, not a strength test)
+- **Vol 1 — Bridging — 1:25:21–1:33:00**
+- **Vol 1 — Bridging 2 — 1:33:00–1:37:07**
+  - Bridging is taught as directional off-balancing. The “good” bridge changes the opponent’s base and forces posts; the “bad” bridge is vertical effort with no structural effect.
+
+### 12.1.8 Shrimping as hip relocation (lane creation)
+- **Vol 1 — Shrimping — 1:38:47–1:47:20**
+  - Shrimping is framed as a positional geometry tool: moving hips away from wedges to open knee lanes. It is not a generic scoot; it must be integrated with frames to persist under pressure.
+
+### 12.1.9 Back heisting (stand-up geometry from bottom)
+- **Vol 1 — Back Heisting — 1:47:20–1:51:09**
+  - Back heisting is presented as a reorientation engine that creates access to base-building and stand-up paths, especially when guard recovery is contested.
+
+---
+
+## 12.2 Volumes 2–3 — Mount (Core Passages)
+
+### 12.2.1 UPA: trap + angle + base removal (reversal mechanics)
+- **Vol 2 — Bridging Escape From Mounted Position (UPA) — 0:00–15:02**
+- **Vol 2 — Bridging Escape From Mounted Position 2–5 — 15:02–30:01**
+  - The UPA is treated as a structural reversal: success depends on removing posts (traps) and bridging off-line to compromise base. The passage set reinforces that “power bridging” without control produces predictable failure.
+
+### 12.2.2 Elbow escape: knee line as the real objective (guard recovery spine)
+- **Vol 2 — Elbow Escape From Mounted Position 1–7 — 30:01–1:21:35**
+  - The elbow escape is framed as a procedural build: create space, win knee insertion, stabilize distance, then reintroduce legs. The “finish” is downstream; the critical milestone is accessing and stabilizing the knee line.
+
+### 12.2.3 Ankle-trap method vs knee-centered method (scenario separation)
+- **Vol 3 — Ankle Trap Method 1–3 — 0:00–15:37**
+  - The ankle-trap sequence is presented as a timing-based solution for transitional mounts. The underlying logic: when mount is moving, control points are briefly available; capturing them turns chaos into structure.
+
+### 12.2.4 Long/short positioning + foot-fighting (mount leg geometry)
+- **Vol 3 — Foot Fighting From Bottom Mount — 22:50–28:42**
+- **Vol 3 — The Goal of Foot Fighting: The Long/Short Position — 28:42–35:20**
+  - These passages emphasize that leg position defines escape viability. Without controlling the leg relationship, you often generate movement that gets absorbed or leads to back exposure.
+
+### 12.2.5 Dealing with high mount + back exposure risk (safety doctrine)
+- **Vol 3 — Dealing With High Mounts — 35:20–41:21**
+- **Vol 3 — The Problem of Back Exposure When Escaping Mount — 41:21–46:54**
+  - The key message: mount escapes must be “safe” before they are aggressive. Turning and side-switching are controlled actions tied to specific control points—otherwise they create back exposure.
+
+### 12.2.6 Transition to side-position elbow escapes (system continuity)
+- **Vol 3 — Elbow Escapes From Side Position Introduction — 46:54–56:40**
+  - The mount material is explicitly linked into side-pin escapes. This passage anchors the idea that the same inside-position logic and elbow/knee milestones govern both domains.
+
+---
+
+## 12.3 Volumes 4–6 — Side Pin (Primary Spine + Refinements)
+
+### 12.3.1 Knee escape family (systematized progression)
+- **Vol 4 — Knee Escapes From Side Position 1–10 — 0:00–52:49**
+  - The knee escape is treated as a scalable system: frame to create space, insert knee line, stabilize with connection, then choose finishes. The progression emphasizes repeatability and emphasizes that the knee line is the escape currency.
+
+### 12.3.2 Framing and space as a general theory (doctrine)
+- **Vol 5 — A General Theory of Framing and Space 1–3 — 0:00–19:10**
+  - These passages set a formal model: frames are load-bearing structures that manage distance; distance enables movement; movement enables insertion. This becomes the lens for diagnosing why escapes stall.
+
+### 12.3.3 Three most important frames (standard responsibilities)
+- **Vol 5 — 3 Most Important Frame From Bottom Side Control For Escape — 19:10–38:06**
+  - Frames are described as functional responsibilities (head/crossface denial, hip-line protection, inside-lane creation). The practical implication: losing any one responsibility causes predictable failure (flattening, mount progression, or no knee line).
+
+### 12.3.4 Side alternates as “situational exits” (not replacements for the spine)
+- **Vol 6 — High Leg Escape + Details — 0:00–11:19**
+- **Vol 6 — Ankle Trap Escape From Side Pin — 11:19–23:44**
+- **Vol 6 — Shoulder Roll Escape From Side Pin — 23:44–32:41**
+  - These passages expand the library but implicitly maintain the doctrine: alternates are chosen based on cues (lane available, ankle accessible, roll lane safe), not preference.
+
+### 12.3.5 Effective frames under heavy pins (implementation)
+- **Vol 6 — Creating Effective Frames Under Pins — 32:41–38:30**
+  - The key emphasis: frame survival depends on structure and short levers under compression. “Nice-looking” frames fail if they are long, disconnected, or reliant on muscular pushing.
+
+### 12.3.6 Knee entry angle + insertion points (keystone mechanics)
+- **Vol 6 — Critical Importance of Knee Entry Angle and Position — 38:30–47:25**
+- **Vol 6 — Crucial Importance of Insertion Points — 51:12–57:24**
+  - These passages establish that knee insertion is a seam problem. When insertion fails repeatedly, the solution is altering angle and point of entry—effort is the wrong variable.
+
+### 12.3.7 “Most important tool” framing (system simplification)
+- **Vol 6 — Single Most Important Tool for Escapes From Bottom Position — 47:25–51:12**
+  - The series compresses to a single operational focus: prioritize the concept that unlocks everything else (inside position / structural advantage), then treat techniques as implementations.
+
+### 12.3.8 Spinning + prop escapes (movement family expansion)
+- **Vol 6 — Spinning Escape From Side Control — 57:24–1:04:42**
+- **Vol 6 — Prop Escapes From Side Control — 1:04:42–1:13:59**
+  - These passages present higher-mobility options, but the underlying requirement remains: space and safe alignment must exist or be created first, otherwise the movement exposes you.
+
+---
+
+## 12.4 Volume 7 — Base Changes + KOB + North-South (Adaptive Layer)
+
+### 12.4.1 Escaping vs sit-out / reverse sit-out (stale frame problem)
+- **Vol 7 — Opponent Sits Out 1–2 — 0:00–14:43**
+- **Vol 7 — Reverse Sit Out — 14:43–28:00**
+  - These passages treat base changes as wedge-map changes. The primary prescription is immediate re-framing and elbow-position management; old frames do not survive new angles.
+
+### 12.4.2 Knee-on-belly (exit urgency + transition awareness)
+- **Vol 7 — Escaping From Knee on Belly — 28:00–36:36**
+  - The message: KOB is transitional and painful by design; you must convert frames into immediate exits (guard or base to stand) before mount transitions occur.
+
+### 12.4.3 Ankle trap from KOB (conditional reversal)
+- **Vol 7 — Ankle Trap Escape From Knee on Belly — 36:36–44:36**
+  - The ankle trap is treated as an opportunistic reversal pathway. It is not forced; it is taken only when access is safe and structural control remains.
+
+### 12.4.4 North-south: configuration ID (type before technique)
+- **Vol 7 — Escaping From North-South — 44:36–51:16**
+- **Vol 7 — 3 Different Kinds of North South — 51:16–56:38**
+  - The key passage: north-south is not a single position; it is a family of configurations. Correct identification is presented as the prerequisite to selecting the correct escape.
+
+### 12.4.5 Transition escape (move while they move)
+- **Vol 7 — Transition Escape — 56:38–1:02:24**
+  - Escapes are prioritized during transitions because wedges are incomplete. The logic is consistent with the broader system: act when structure is not yet consolidated.
+
+---
+
+## 12.5 Volume 8 — Back Control + Turtle (Dual Battle Domain)
+
+### 12.5.1 Back control overview (positional + submission battle)
+- **Vol 8 — Rear Mount Escapes — 0:00–7:13**
+  - The series establishes back control as a dual problem: escape mechanics are inseparable from immediate strangle prevention. “Position-first” thinking fails here.
+
+### 12.5.2 Sliding elbow escape (demarcation checkpoint)
+- **Vol 8 — Sliding Elbow Escape 1–4 — 7:13–36:08**
+  - The sliding elbow escape is framed as a staged sequence with a decisive milestone: elbow-to-mat-between-bodies as the moment when turning to face becomes mechanically available. The structure emphasizes controlled progression over frantic hook-chasing.
+
+### 12.5.3 Turtle escapes overview (turtle is transitional)
+- **Vol 8 — Escapes From Turtle Position — 36:08–46:20**
+  - The turtle is treated as an unstable shell: waiting is losing. The priority is denial of hooks/seatbelt dominance and immediate re-facing/re-guarding actions.
+
+### 12.5.4 Shoulder roll families (lane-dependent)
+- **Vol 8 — Shoulder Roll Escapes 1–2 — 46:20–1:02:36**
+  - Shoulder rolls are presented as lane-dependent and conditional. The consistent warning: rolling into hooks/seatbelt dominance converts turtle into back control loss.
+
+### 12.5.5 Countering the seatbelt: inside-leg escape family (specific counter layer)
+- **Vol 8 — Inside Leg Escape 1–3 — 1:02:36–1:24:37**
+  - These passages present a dedicated counter family to seatbelt control, emphasizing that leg insertion only works if elbow/neck safety is maintained and inside control is progressively established.
+
+# 13.0 TERMINOLOGY
+
+## 13.1 Core System Terms
+
+### Pin
+A control state where the top player uses **body weight through wedges** to restrict your rotation, insertion, and leg return.
+
+### Body Weight (Load)
+The effective downward/forward pressure created by mass, alignment, gravity, and base—how much “load” you must manage.
+
+### Wedge
+A structural block (limb, hip, shoulder, head control, hook) that prevents rotation, knee insertion, or leg re-entry.
+
+### Wedge Map
+The current set of active wedges (which wedges, where, and how they are reinforced by base and grips).
+
+### Escape (Pin Escape)
+A process that converts being pinned into an exit end-state: **guard**, **reversal (top)**, or **neutral/stand-up**.
+
+### Escape Mode
+The chosen exit objective: (1) guard, (2) reversal, (3) neutral/stand-up.
+
+### Minimal Escape
+An action that reduces suffering or danger but does not reliably improve position or produce a stable exit.
+
+### Positive Escape
+An action that exits into a stable position that supports initiative (structured guard, reversal, or stand-up base).
+
+---
+
+## 13.2 Operational Doctrine Terms
+
+### Universal Protocol
+The system’s order-of-operations:
+**Survive → Diagnose → Frame → Move → Insert → Connect → Legs In → Exit.**
+
+### Survive
+Immediate defense against submissions and positional upgrades (mount climb, back take, tighter head control, hook insertion).
+
+### Diagnose
+Identify pin family + wedge map + opponent base/grips/head control + where the escape lane can be built.
+
+### Frame
+A load-bearing structure (skeletal alignment) that prevents collapse and preserves an escape lane; not “pushing.”
+
+### Frame Lifecycle
+**Build → Maintain → Upgrade → Re-frame** (frames must change when the opponent changes base/angle).
+
+### Stale Frame
+A frame that matched the previous wedge map but is now bypassed/collapsed because the opponent transitioned.
+
+### Move (Movement Engine)
+A fundamental body movement used to displace weight and relocate hips/shoulders: bridge, shrimp, back heist, etc.
+
+### Insert
+Progressively placing your limbs **inside** the opponent’s wedges (usually elbow/forearm first under heavy pressure).
+
+### Connect
+Stabilizing space so you cannot be re-flattened—most commonly via **elbow–knee connection**.
+
+### Legs In
+Reintroducing legs to reclaim guard, build base for stand-up, or set reversal mechanics.
+
+### Exit
+The final resolution: guard, reversal/top, or neutral/stand-up.
+
+---
+
+## 13.3 Space and Structure Terms
+
+### Space
+Usable distance/angle that enables movement and insertion. “Space” is only meaningful if you can convert it into inside position.
+
+### Lane (Escape Lane)
+A path of space that allows insertion or rotation (e.g., knee lane for guard recovery).
+
+### Inside Position
+Your limbs occupy the space between the opponent’s controlling structure (wedges) and your torso/hips/neck line.
+
+### Majority Inside
+A practical threshold: you have enough inside position that legs can re-enter without immediate re-flattening.
+
+### Elbow Line
+The structural integrity of elbows staying tight to body/hip line and winning the inside line (anti-separation).
+
+### Elbow Separation
+Opponent pulls your elbow away from your torso/hip line, weakening frames and opening submissions/upgrades.
+
+### Elbow–Knee Connection
+A structural distance anchor where the elbow connects to the inserted knee, stabilizing the lane and preventing re-flattening.
+
+### Knee Line
+The insertion objective: getting your knee inside the controlling wedges to begin guard recovery or base building.
+
+### Insertion Point
+The specific seam/location where a limb enters. Wrong point yields repeated blocking.
+
+### Entry Angle (Knee Entry Angle)
+The orientation of your knee/hip relative to the wedge seam; often the decisive variable in successful insertion.
+
+---
+
+## 13.4 Kuzushi and Base Terms
+
+### Kuzushi
+Off-balancing: making the opponent’s base and alignment structurally unstable so wedges cannot be maintained cheaply.
+
+### Base
+The opponent’s support structure (posts, knees, feet) that maintains alignment and pressure.
+
+### Post
+A limb used to stabilize base (hand/foot). Removing or forcing a post is a common escape-enabler.
+
+### Trap
+A control that removes a post option (e.g., trapping arm/leg in UPA).
+
+---
+
+## 13.5 Movement Engine Terms
+
+### Bridge (Asymmetric Bridge)
+A directional hip drive used to displace weight and compromise base; “asymmetric” implies off-line, not vertical.
+
+### Shrimp (Hip Escape)
+Hip relocation away from wedges to open knee lanes. Variants:
+- **Power shrimp:** large hip travel.
+- **Sliding shrimp:** small, persistent hip travel under pressure.
+- **Reverse shrimp:** timing reset when opponent follows your movement.
+
+### Back Heist
+A base-building reorientation that elevates hips and converts bottom position into stand-up/single-leg geometry.
+
+### Shoulder Roll
+A rotation-based movement used when a safe roll lane exists (alignment + no back capture risk).
+
+### Spin / Inverted Spin
+A rotational movement used to reorient when space and alignment make it safe.
+
+---
+
+## 13.6 Position Family Terms
+
+### Mount
+Top player straddles hips; wedges restrict hip rotation and knee line entry; upgrades include high mount.
+
+### High Mount
+Mount variant where top climbs higher toward chest/shoulders, increasing elbow separation and submission threats.
+
+### Side Pin / Side Control Family
+Chest/shoulder pressure + head control + hip wedge; primary defender problem is flattening and knee line denial.
+
+### Knee-on-Belly (KOB)
+Mobile pin using knee pressure and posts, often transitional to mount/side.
+
+### North-South
+Pin family where the top aligns north-south; must be treated as configuration types (transition, double-over, double-under, over-under).
+
+### Back Control / Rear Mount
+Hooks + chest-to-back control with immediate strangle threat (dual battle).
+
+### Hooks
+Leg control elements in back control that block turning and control hips.
+
+### Seatbelt
+Upper-body control over shoulders/chest used to maintain back control and initiate strangles.
+
+### Turtle
+A defensive shell position; unsafe if passive because it invites seatbelt/hook insertion.
+
+---
+
+## 13.7 Outcome Terms
+
+### Guard Recovery
+Any exit where legs are reintroduced to form a guard (half, butterfly, full, open variants).
+
+### Reversal
+Any exit where you end on top, typically via trapping and weight displacement.
+
+### Neutral / Stand-Up
+Any exit where you break contact or build base to stand, returning to a neutral engagement.
+
+---
+
+## 13.8 Common Confusions (Prevent Terminology Drift)
+
+- **Frame vs Push:** frames are skeletal structures; pushing is muscular effort that collapses under load.
+- **Space vs Distance:** space is usable distance/angle that converts into insertion; distance without conversion is wasted.
+- **Inside Position vs “Hand Fighting”:** inside position is wedge placement, not grip preference.
+- **Knee Line vs “Knee Up”:** knee line means knee enters the seam; simply raising a knee is not insertion.
+- **Bridge vs Buck:** a bridge displaces weight and base; random bucking is vertical effort with low structure.
+- **Turtle vs Safety:** turtle is only safe if hooks/seatbelt are denied and you are actively re-facing/re-guarding.
+
+
+
+
+
 
 
 
