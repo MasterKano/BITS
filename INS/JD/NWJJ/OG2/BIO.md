@@ -1,28 +1,67 @@
 # BIO CONTENTS — New Wave Jiu Jitsu: Open Guard 2 (John Danaher)
 
-- 1.0 MASTER SYSTEM MAP (ASCII)
-- 2.0 EXECUTIVE SUMMARY
-- 3.0 VOLUME INDEX
-  - 3.1 Volume 1 — Foundations: New Wave Guard Play + Reversal Pattern
-  - 3.2 Volume 2 — Wrestling Reversals: Picks, Pulls, Sweeps, Entries
-  - 3.3 Volume 3 — X Guard: Heists, Ashi Waza, and Scramble Control
-  - 3.4 Volume 4 — Sumi Gaeshi: Mechanics, Variations, and Follow-Up Scrambles
-  - 3.5 Volume 5 — Upper Body Submissions: Triangle Systems + Juji Gatame
-  - 3.6 Volume 6 — Guillotines + Hip Heisting Snapdowns
-  - 3.7 Volume 7 — Go-Behinds + Hip Heist Guillotine Integration
-  - 3.8 Volume 8 — Five Guard Dilemmas + Full System Integration
-- 4.0 CORE CONCEPTS
-- 5.0 SYSTEM OVERVIEW
-- 6.0 TECHNIQUE LIBRARY
-- 7.0 DIAGRAM SET
-- 8.0 APPLICATION SCENARIOS
-- 9.0 DRILLING PROGRESSIONS
-- 10.0 FOUR-WEEK CURRICULUM
-- 11.0 FAILURE PATTERNS
-- 12.0 KEY PASSAGES
-- 13.0 TERMINOLOGY
-- 14.0 ADDITIONAL NOTES
-- 15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (OPTIONAL)
+## 1.0 Master System Map
+- [1.0 Master System Map (ASCII)](#10-master-system-map-ascii)
+
+## 2.0 Executive Summary
+- [2.0 Executive Summary](#20-executive-summary)
+
+## 3.0 Volume Index
+- [3.0 Volume Index](#30-volume-index)
+  - [3.1 Volume 1 — Foundations: New Wave Guard Play + Reversal Pattern](#31-volume-1--foundations-new-wave-guard-play--reversal-pattern)
+  - [3.2 Volume 2 — Wrestling Reversals: Picks, Pulls, Sweeps, Entries](#32-volume-2--wrestling-reversals-picks-pulls-sweeps-entries)
+  - [3.3 Volume 3 — X Guard: Heists, Ashi Waza, and Scramble Control](#33-volume-3--x-guard-heists-ashi-waza-and-scramble-control)
+  - [3.4 Volume 4 — Sumi Gaeshi: Mechanics, Variations, and Follow-Up Scrambles](#34-volume-4--sumi-gaeshi-mechanics-variations-and-follow-up-scrambles)
+  - [3.5 Volume 5 — Upper Body Submissions: Triangle Systems + Juji Gatame](#35-volume-5--upper-body-submissions-triangle-systems--juji-gatame)
+  - [3.6 Volume 6 — Guillotines + Hip Heisting Snapdowns](#36-volume-6--guillotines--hip-heisting-snapdowns)
+  - [3.7 Volume 7 — Go-Behinds + Hip Heist Guillotine Integration](#37-volume-7--go-behinds--hip-heist-guillotine-integration)
+  - [3.8 Volume 8 — Five Guard Dilemmas + Full System Integration](#38-volume-8--five-guard-dilemmas--full-system-integration)
+
+## 4.0 Core Concepts
+- [4.0 Core Concepts](#40-core-concepts)
+  - [4.52 Core Concepts — Decision Framework (IF/THEN Gates)](#452-core-concepts--decision-framework-ifthen-gates)
+  - [4.53 Full Decision Tree (Expanded)](#453-full-decision-tree-expanded)
+
+## 5.0 System Overview
+- [5.0 System Overview](#50-system-overview)
+
+## 6.0 Technique Library
+- [6.0 Technique Library](#60-technique-library)
+  - [6.2 Wrestling Reversals From Guard](#62-wrestling-reversals-from-guard-standing-or-creating-stand-like-distance)
+  - [6.3 Tripod / Shin Sweep Cluster](#63-tripod--shin-sweep-cluster-knockdown-families)
+  - [6.4 Ashi Entries as Bridges](#64-ashi-entries-as-bridges-irimi-ashi-garami-as-a-routing-tool)
+  - [6.5 X-Guard Hub](#65-x-guard-hub-standing-opponent-control-platform)
+  - [6.6 Sumi Gaeshi Hub](#66-sumi-gaeshi-hub-kneeling-opponent-principal-sweep)
+  - [6.7 Upper-Body Submission Hub](#67-upper-body-submission-hub-triangle--armbar--guillotine)
+  - [6.8 Hip Heist + Go-Behind Hub](#68-hip-heist--go-behind-hub-conversion--scoring-engine)
+
+## 7.0 Diagram Set
+- [7.0 Diagram Set](#70-diagram-set)
+  - [7.2 Additional Diagrams (Micro-Maps)](#72-additional-diagrams-micro-maps-that-improve-usability)
+
+## 8.0 Application Scenarios
+- [8.0 Application Scenarios](#80-application-scenarios)
+
+## 9.0 Drilling Progressions
+- [9.0 Drilling Progressions](#90-drilling-progressions)
+
+## 10.0 Four-Week Curriculum
+- [10.0 Four-Week Curriculum](#100-four-week-curriculum)
+
+## 11.0 Failure Patterns
+- [11.0 Failure Patterns (and Corrections)](#110-failure-patterns-and-corrections)
+
+## 12.0 Key Passages
+- [12.0 Key Passages (Anchor Quotes + Operator Notes)](#120-key-passages-anchor-quotes--operator-notes)
+
+## 13.0 Terminology
+- [13.0 Terminology](#130-terminology)
+
+## 14.0 Additional Notes
+- [14.0 Additional Notes](#140-additional-notes)
+
+## 15.0 Supplement (Optional)
+- [15.0 Supplement (Not Transcript-Derived)](#150-supplement-not-transcript-derived-optional)
 
 ## 1.0 MASTER SYSTEM MAP (ASCII)
 
