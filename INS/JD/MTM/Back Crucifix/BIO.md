@@ -194,6 +194,145 @@ SYSTEM METRIC:
      If both elbows are not displaced, you are not in the system.
 ~~~
 
+## 2.0 EXECUTIVE SUMMARY
+
+This instructional presents the Back Crucifix as a fully governed attacking system built around structured entry pathways, two-point control mechanics, and a positional hierarchy model that organizes both offense and defense.
+
+The system is defined by three integrated layers:
+
+1. **Entry Architecture**
+2. **Control Model (Far Arm + Near Shoulder)**
+3. **Submission Integration with Positional Governance**
+
+---
+
+### I. Entry Architecture
+
+The crucifix is framed as a destination position reachable from multiple phases of grappling rather than a static opportunistic trap.
+
+Primary entry families:
+
+- Top turtle (behind elbows)
+- Top turtle (in front of elbows)
+- Guard-passing scenarios (half guard, seated guard)
+- Inversion entries (Olympic roll, chest lock inversion)
+- Bottom guard heist → snap-down → inverted north-south → crucifix
+
+A central structural concept is the **knee ride configuration**, where the knee wedges behind the opponent’s triceps to expose and isolate the far arm. This differs from conventional back control and introduces controlled risk due to both knees being on one side of the opponent’s body.
+
+Core mechanical constant across entries:
+- Knee wedge inside the bicep
+- Immediate heel-to-knee connection
+- Transition into inverted north-south orientation before full crucifix stabilization
+
+Risk mitigation principles:
+- Break opponent to hip before committing
+- Minimize time in knee ride
+- Seal the arm early with heel-to-knee contact
+
+---
+
+### II. Control Model
+
+The crucifix is governed by two focal control points:
+
+1. **Far Arm Isolation**
+2. **Near Shoulder Elevation**
+
+#### A. Far Arm Control
+
+Three interchangeable leg configurations:
+
+- Top-leg control (vertical knees for tension)
+- Bottom-leg control (anti-limp-arm security)
+- Crisscross/double-leg control (maximum tension state)
+
+Control mechanics are regulated by:
+
+- Vertical knee orientation (increases arm tension)
+- Foot proximity to shoulder line (amplifies leverage)
+- The Planted Foot Principle (at least one foot anchored to the mat to prevent limp-arm escape)
+- Hooking leg + wedging knee + propping foot triad
+
+Arm control must remain dynamic, with the ability to switch between top and bottom configurations at will.
+
+---
+
+#### B. Near Shoulder Control
+
+The near-side shoulder must remain elevated off the mat at all times.
+
+Primary tools:
+- One-on-one wrist control
+- Two-on-one reinforcement
+- Shoulder cup / thumb hook
+- Flex grip (closed-loop shoulder trap)
+- Power half-nelson variation when opponent turns upward
+
+Failure condition:
+- If the shoulder touches the mat, positional collapse follows.
+
+The elbow must remain in front of the opponent’s armpit to preserve elevation.
+
+---
+
+### III. Positional Governance: 3×6 Model
+
+Opponent escape behavior clusters into three macro-strategies:
+
+1. Bridge up and over
+2. Slide down and away
+3. Turn inward, connect hands, rise to knees
+
+These create six recurring crucifix states:
+
+**Tier 1 (Highly Desirable):**
+- Perpendicular supine (ideal T-structure)
+- Side supine
+- Grapevine variant
+- Prone crucifix
+
+**Tier 2:**
+- Supine arm sit (opponent weight present but arm trapped)
+
+**Tier 3 (Undesirable):**
+- Seated arm sit (feet on one side, hips on the other; no body weight on arm)
+
+Golden Rule:
+- Feet and hips must remain on the same side when opponent rises.
+- Violation leads directly to escape vulnerability.
+
+Recovery pathways include bottom-leg switching, triangle clamping, heist transitions, and counter-attack into reverse triangle variations.
+
+---
+
+### IV. Submission System
+
+Two dominant submission families:
+
+1. Rear strangles (one- and two-handed variations)
+2. Leg-driven arm locks (hyperextension mechanics)
+
+A defining advantage of the crucifix:
+- Strangles and armlocks operate from nearly identical body positioning, allowing rapid alternation without structural reset.
+
+Supplementary attack:
+- Reverse omoplata (leg-based kimura mechanic), triggered when opponent pummels the arm free during armbar defense.
+
+---
+
+### System Identity
+
+The instructional reframes the crucifix as a structured, repeatable attacking platform defined by:
+
+- Heel-to-knee sensitivity
+- Continuous leg configuration switching
+- Explicit positional hierarchy
+- Defined defensive governance rules
+- Submission synergy without body repositioning
+
+The Back Crucifix is presented as a controllable system capable of consistent entry, sustainable domination, and layered finishing across multiple grappling phases.
+
 ## 3.0 VOLUME INDEX
 
 ### 3.1 Volume 1 — Underhook Acquisition From Side Control (Core Entries)
