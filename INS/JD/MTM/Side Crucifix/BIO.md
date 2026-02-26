@@ -64,207 +64,274 @@
 ## 1.0 MASTER SYSTEM MAP (ASCII)
 
 ~~~
-MASTERING THE MOVE — SIDE CRUCIFIX (Danaher) — Master System Map
-Legend:  -> transition     [G] gate     [Q] quality check     [R] reset/retreat
+MASTERING THE MOVE — SIDE CRUCIFIX SYSTEM MAP
+(Primary Series, Secondary Branches, and Links Unified)
 
-START STATES (common arrivals)
-  S1: Top side pin (chest-to-chest)
-  S2: Passing finish (knee-cut/bodylock/tripod) landing with underhook
-  S3: Turtle top (behind elbows) -> cow-catcher drop
-  S4: Back crucifix (chest-to-back)
+START STATES
+  S1: Top side control (chest-to-chest)
+  S2: Passing finish (knee-cut / bodylock / tripod)
+  S3: Turtle top
+  S4: Back crucifix
 
-========================================================
-PRIMARY SERIES (DEFAULT ORDER): UNDERHOOK -> PIN -> HUB
-========================================================
+=====================================================================
+PRIMARY SERIES (DEFAULT ORDER)
+=====================================================================
 
-(1) FAR-SIDE UNDERHOOK ACQUISITION
-  Read:
-    - If opponent's hand <= elbow (hand low): take underhook opportunistically
-    - If hand high/defensive: you must FORCE the underhook
-    - If active posting on you (push/frames on your shoulder): prefer wrist-pass branch
-  Methods:
-    A) 10-finger method (vs defensive hand high)
-    B) Reverse overhook method (wedge wrist under elbow -> convert)
-    C) Wrist pass (vs active shoulder post) -> pin elbow under your shoulder -> underhook
-    D) Mount threat / mount-dismount (force posting on your knee -> open lane)
-    E) Pre-side-control underhook (win underhook before side pin):
-         - Half guard top (wrist pass to underhook)
-         - Tight waist / bodylock / tripod passing -> convert to underhook
-         - Turtle top bait/wizard -> cow-catcher -> side pin w/ underhook
-         - Knee-cut to underhook
+[1] FAR-SIDE UNDERHOOK ACQUISITION
+     |
+     |-- READ FAR ARM:
+     |     hand <= elbow  ---> FREE UNDERHOOK
+     |     hand >  elbow  ---> FORCE (ten-finger / reverse-overhook / fake)
+     |     active post    ---> WRIST PASS
+     |
+     v
+[2] UNDERHOOK RETENTION (CLOSED LOOP)
+     chin-to-hand
+     ear-to-bicep
+     shoulder-line sealed
+     post for base
+     |
+     |-- if loop breaks ---> RETURN TO [1]
+     v
+[3] NEAR-SIDE ARM PIN (SELECTOR)
+     |
+     |-- LONG ARM (wrist exposed)  ---> wrist control -> walk-back -> pin
+     |
+     |-- SHORT ARM (elbow glued)   ---> inside-hand/bicep -> knee-over -> pin
+     |
+     |-- SAFE RISE AVAILABLE       ---> tripod rise -> knee-over -> pin
+     |
+     v
+[4] SIDE CRUCIFIX (TWO-ELBOW DISPLACEMENT)
+     Far elbow displaced (underhook retained)
+     Near elbow displaced (leg pin)
+     |
+     |-- if elbow returns to ribs ---> back to [2]
+     v
+[5] PIN VARIANT (CYCLEABLE)
+     |
+     |      [FRONT PIN]
+     |          ^  |
+     |          |  v
+     |      [ARM SCISSOR] <--> [BACK LEG SHIN PIN]
+     |
+     |-- rule: never release elbow coverage during switching
+     v
+[6] ROUTE TO HUB (BY PIN TYPE)
 
-        |
-        v
+     ARM SCISSOR  --->  CHANCERY HUB (PRIMARY AXIS)
+     BACK SHIN    --->  KIMURA / JUJI HUB
+     FRONT PIN    --->  TRIANGLE HUB
 
-(2) UNDERHOOK RETENTION (CLOSED-LOOP ENGINE)
-  Goal: eliminate the "pummel window" between chin and hand.
-  Mechanics:
-    - Chin to thumb-pad (closed loop)
-    - Ear glued to opponent bicep (deny elbow movement)
-    - Posted hand for base (avoid being rolled)
-  [G] If you cannot maintain head higher than hips -> post hand / widen base.
-  [R] If underhook is re-pummeled -> return to (1) (do not chase pin).
+=====================================================================
+CHANCERY HUB (PRIMARY CONTROL-TO-FINISH PLATFORM)
+=====================================================================
 
-        |
-        v
+[CHANCERY CAPTURE]
+     |
+     |-- STABILIZE FIRST
+     |     post wide
+     |     pin elbow to hip
+     |     bar across back if rise/belly-down
+     |
+     v
+[ATTACK FAMILY]
+     |
+     |-- KIMURA FAMILY
+     |     base options:
+     |        2 knees down
+     |        1 knee up
+     |        sit-out split (max torque)
+     |
+     |-- YOKO SANKAKU (SIDE TRIANGLE)
+     |     elbow-first entry (no early shoulder drop)
+     |
+     |-- if balance disrupted:
+     |        JUJI / 3⁄4 JUJI
+     |        REVERSE TRIANGLE / GYAKU SANKAKU
 
-(3) NEAR-SIDE ARM PIN (COMPLETE SIDE CRUCIFIX: BOTH ELBOWS CONTROLLED)
-  Choose based on near-arm length/discipline:
+=====================================================================
+SECONDARY SERIES (REVERSE ORDER)
+=====================================================================
 
-  Branch 3A — LONG ARM PRESENTED
-    - Control wrist (end of lever) -> walk-back interruption -> shin pin
-  Branch 3B — SHORT ARM / ELBOW GLUED (default vs good opponents)
-    - Hand INSIDE their hand -> hand to bicep-shoulder junction
-    - Head shift to create insertion lane -> return ear-to-ear
-    - Knee + elbow meet (elbow-escape motion) -> pin achieved
-  Branch 3C — TRIPOD PIN (hands open)
-    - Open hands -> build high tripod -> knee over bicep -> sit/pin
+[PIN NEAR ARM FIRST]
+     |
+     v
+(REVERSE CROSSFACE)
+     |
+     +--> WRIST PASS ---> restore FAR UNDERHOOK ---> back to [4]
+     |
+     +--> NORTH–SOUTH STRANGLE (defensive arm removed)
 
-  Resulting PIN VARIANTS (you should be able to cycle):
-    P1: Front leg pin
-    P2: Back leg shin pin
-    P3: Arm scissor (highest control; best feed to chancery)
+=====================================================================
+BACK CRUCIFIX LINK (DILEMMA)
+=====================================================================
 
-        |
-        v
+[BACK CRUCIFIX]
+     |
+     |-- READ POSTURE:
+     |
+     |   opponent hollow / head-slip available
+     |        ---> build height + hollow self
+     |        ---> SIDE CRUCIFIX ---> CHANCERY HUB
+     |
+     |   opponent bridges/arches (denies slip)
+     |        ---> switch direction
+     |        ---> REAR TRIANGLE (USHIRO SANKAKU)
 
-(4) SIDE CRUCIFIX CONTROL STATE (BOTH ELBOWS CONTROLLED)
-  [Q] Side crucifix quality:
-    - Far elbow cannot reinsert to ribs (underhook loop closed)
-    - Near elbow cannot return to hip-line (shin/knee blocks recovery)
-    - Your base prevents roll (post available; head above hips)
+=====================================================================
+GLOBAL FAILURE ROUTER
+=====================================================================
 
-        |
-        v
+STRUCTURAL FAILURE (re-pummel / elbow reinserts)
+     ---> return to UNDERHOOK RETENTION [2]
 
-(5) FINISHING HUBS (ROUTING BY PIN VARIANT)
-  HUB 5A — ARM SCISSOR -> CHANCERY (Premier control-to-finish hub)
-    Entry:
-      - Draw opponent up to side
-      - Step over head -> lock legs controlling head + trapped arm
-    [Q] Chancery lock:
-      - Trapped elbow must be OUTSIDE your calf (if inside = escape likely)
-      - Bottom leg/foot points IN toward head (perpendicular to arm)
-      - Calf tight to armpit/shoulder (knees close to shoulders)
-    Stabilize-first rule:
-      - Post hand wide (3 posts) + pin elbow to hip
-      - Ride out initial 10–15s "berserk" escape phase
-      - If opponent tries belly-down: bar across back to stop full turn
-    Attacks:
-      - Kimura family (3 basing options):
-          K1: two-knees (max wedges, narrower base)
-          K2: one-knee up (wider base, more height)
-          K3: sit-out split (max breaking power; time-sensitive)
-      - Yoko Sankaku (side triangle):
-          Rule: stay tall on elbow until strangle is already on; don't drop to shoulder early
-      - If balance breaks during attack:
-          -> Juji Gatame / 3/4 Juji
-          -> Reverse triangle / Gyaku Sankaku
+ROTATIONAL FAILURE (roll threat / base loss)
+     ---> post & widen base
+     ---> route to armbar/triangle continuation
 
-  HUB 5B — BACK LEG SHIN PIN (no full chancery wedge)
-    - Primary: Kimura options
-    - Secondary: Juji Gatame option (double-trouble style control)
-
-  HUB 5C — FRONT LEG PIN
-    - Primary: Triangle series
-      - Forward-fall finish or backward-fall finish (tight hip/knee line)
-
-========================================================
-SECONDARY SERIES (CONTINGENCY): PIN -> UNDERHOOK
-========================================================
-(6) REVERSE-ORDER ENTRY (near-arm pin first)
-  - Reverse crossface -> pin near arm first
-  - Then:
-      -> Wrist pass to far-side underhook -> return to (4)/(5A)
-      -> OR North–South strangle entry
-
-========================================================
-BACK CRUCIFIX LINK (CHEST-TO-BACK -> CHEST-TO-CHEST)
-========================================================
-(7) BACK CRUCIFIX -> SIDE CRUCIFIX DILEMMA
-  From back crucifix:
-    - Build height + hollow body -> slip head through corner -> side crucifix -> (5A chancery)
-  [G] If opponent bridges/arches and denies head slip:
-    -> switch direction -> Ushiro Sankaku (rear triangle)
-
-========================================================
-GLOBAL FAILURE/RESET LOOPS
-========================================================
-- Lost underhook loop -> return to (1) immediately.
-- Near-arm pin slips -> return to (3) (re-pin; don't chase finish).
-- Chancery elbow inside calf -> re-step/angle until elbow clears outside calf.
-- If base compromised (head below hips / roll threat) -> post/widen base before attacking.
+SYSTEM METRIC:
+     If both elbows are not displaced, you are not in the system.
 ~~~
 
 ## 2.0 EXECUTIVE SUMMARY
 
-### 2.1 What this instructional is (system thesis)
-The Side Crucifix is presented as a short, high-leverage bridge from **pinning** to **upper-body submissions** by forcibly breaking the opponent’s primary defensive structure in side control: **elbow position**. The core idea is to control **both elbows at once**:
-- Far-side elbow: controlled by a **far-side underhook**.
-- Near-side elbow: controlled by a **leg-based pin** (front leg, back leg shin pin, or arm scissor).
+This instructional presents the Back Crucifix as a fully governed attacking system built around structured entry pathways, two-point control mechanics, and a positional hierarchy model that organizes both offense and defense.
 
-When both elbows are displaced away from the torso, the opponent’s ability to re-guard, elbow-escape, or reinsert frames is heavily degraded, enabling high-percentage submission entries.
+The system is defined by three integrated layers:
 
----
-
-### 2.2 The canonical pipeline (default order of operations)
-**Primary Series (default):**
-1) **Acquire far-side underhook** (forced methods for disciplined opponents).
-2) **Keep the underhook** (close-loop retention so the opponent can’t re-pummel).
-3) **Pin the near-side arm** with legs (choose method based on arm length/discipline).
-4) Convert the control into a **finishing hub** (most notably: Chancery).
-
-This order is emphasized as the highest-percentage pathway: **underhook first → pin second**.
+1. **Entry Architecture**
+2. **Control Model (Far Arm + Near Shoulder)**
+3. **Submission Integration with Positional Governance**
 
 ---
 
-### 2.3 Why underhooks are easier before side control (strategic priority)
-A recurring strategic point: as opponent skill rises, it becomes increasingly important to **win the underhook before you settle into side control**.
-- In guard/neutral positions the opponent’s defense is leg-centric, so they “accept” underhooks more readily.
-- In pinned side control, defense becomes elbow-centric and underhooks become harder to secure.
-Therefore, the system prioritizes underhook acquisition from:
-- half guard top,
-- bodylock/tight waist/tripod passing,
-- turtle top (cow-catcher-type drops),
-- knee-cut entries that land with underhook already in place.
+### I. Entry Architecture
+
+The crucifix is framed as a destination position reachable from multiple phases of grappling rather than a static opportunistic trap.
+
+Primary entry families:
+
+- Top turtle (behind elbows)
+- Top turtle (in front of elbows)
+- Guard-passing scenarios (half guard, seated guard)
+- Inversion entries (Olympic roll, chest lock inversion)
+- Bottom guard heist → snap-down → inverted north-south → crucifix
+
+A central structural concept is the **knee ride configuration**, where the knee wedges behind the opponent’s triceps to expose and isolate the far arm. This differs from conventional back control and introduces controlled risk due to both knees being on one side of the opponent’s body.
+
+Core mechanical constant across entries:
+- Knee wedge inside the bicep
+- Immediate heel-to-knee connection
+- Transition into inverted north-south orientation before full crucifix stabilization
+
+Risk mitigation principles:
+- Break opponent to hip before committing
+- Minimize time in knee ride
+- Seal the arm early with heel-to-knee contact
 
 ---
 
-### 2.4 The main finishing hub: Chancery
-The instructional’s premier control-to-finish bridge is **Chancery** (a leg-based head-and-arm chancery):
-- Built most cleanly from the **arm scissor** variant of side crucifix.
-- Emphasizes a high-control wedge around **head + shoulder line**, not just arm control.
+### II. Control Model
 
-Key tactical doctrine in chancery:
-- **Stabilize first**: expect a brief high-intensity escape burst; use posting/base and riding mechanics before attacking.
-- **Quality requirement**: elbow position relative to your leg structure is decisive; incorrect placement leads to escapes.
+The crucifix is governed by two focal control points:
 
----
+1. **Far Arm Isolation**
+2. **Near Shoulder Elevation**
 
-### 2.5 Primary attack families
-From the Side Crucifix system, the dominant finishing families are:
-- **Kimura family** (with multiple base/finish variations, including stronger breaking mechanics when sitting out).
-- **Triangle family** (notably side triangle / yoko sankaku; plus reverse/rear triangle contingencies).
-- **Armbar family** (as a balance-loss or transition punishment pathway).
-- **North–South strangle** (notably when using the reverse-order entry series).
+#### A. Far Arm Control
 
----
+Three interchangeable leg configurations:
 
-### 2.6 Alternate entry series and unification with back attacks
-Two major “system expanders” are included:
-- **Reverse-order series**: pin near-side arm first, then re-enter the classic side crucifix structure (often via wrist pass), or route to north–south strangle.
-- **Back crucifix ↔ side crucifix link**: a positional bridge that unifies chest-to-back and chest-to-chest attack systems, with a dilemma-based routing:
-  - If head can slip through: back crucifix → side crucifix → chancery.
-  - If opponent’s bridging/arch denies head slip: route to **rear triangle**.
+- Top-leg control (vertical knees for tension)
+- Bottom-leg control (anti-limp-arm security)
+- Crisscross/double-leg control (maximum tension state)
+
+Control mechanics are regulated by:
+
+- Vertical knee orientation (increases arm tension)
+- Foot proximity to shoulder line (amplifies leverage)
+- The Planted Foot Principle (at least one foot anchored to the mat to prevent limp-arm escape)
+- Hooking leg + wedging knee + propping foot triad
+
+Arm control must remain dynamic, with the ability to switch between top and bottom configurations at will.
 
 ---
 
-### 2.7 What success looks like (system-level success criteria)
-You are “running the system” correctly when:
-- Far-side underhook is acquired and retained with a closed loop (no re-pummel window).
-- Near-side elbow cannot reinsert to hip-line (pin prevents elbow escape mechanics).
-- You can cycle among pin variants without losing elbow control.
-- You reach a finishing hub (especially chancery) with stable base and correct capture geometry, enabling repeatable submission finishes.
+#### B. Near Shoulder Control
+
+The near-side shoulder must remain elevated off the mat at all times.
+
+Primary tools:
+- One-on-one wrist control
+- Two-on-one reinforcement
+- Shoulder cup / thumb hook
+- Flex grip (closed-loop shoulder trap)
+- Power half-nelson variation when opponent turns upward
+
+Failure condition:
+- If the shoulder touches the mat, positional collapse follows.
+
+The elbow must remain in front of the opponent’s armpit to preserve elevation.
+
+---
+
+### III. Positional Governance: 3×6 Model
+
+Opponent escape behavior clusters into three macro-strategies:
+
+1. Bridge up and over
+2. Slide down and away
+3. Turn inward, connect hands, rise to knees
+
+These create six recurring crucifix states:
+
+**Tier 1 (Highly Desirable):**
+- Perpendicular supine (ideal T-structure)
+- Side supine
+- Grapevine variant
+- Prone crucifix
+
+**Tier 2:**
+- Supine arm sit (opponent weight present but arm trapped)
+
+**Tier 3 (Undesirable):**
+- Seated arm sit (feet on one side, hips on the other; no body weight on arm)
+
+Golden Rule:
+- Feet and hips must remain on the same side when opponent rises.
+- Violation leads directly to escape vulnerability.
+
+Recovery pathways include bottom-leg switching, triangle clamping, heist transitions, and counter-attack into reverse triangle variations.
+
+---
+
+### IV. Submission System
+
+Two dominant submission families:
+
+1. Rear strangles (one- and two-handed variations)
+2. Leg-driven arm locks (hyperextension mechanics)
+
+A defining advantage of the crucifix:
+- Strangles and armlocks operate from nearly identical body positioning, allowing rapid alternation without structural reset.
+
+Supplementary attack:
+- Reverse omoplata (leg-based kimura mechanic), triggered when opponent pummels the arm free during armbar defense.
+
+---
+
+### System Identity
+
+The instructional reframes the crucifix as a structured, repeatable attacking platform defined by:
+
+- Heel-to-knee sensitivity
+- Continuous leg configuration switching
+- Explicit positional hierarchy
+- Defined defensive governance rules
+- Submission synergy without body repositioning
+
+The Back Crucifix is presented as a controllable system capable of consistent entry, sustainable domination, and layered finishing across multiple grappling phases.
 
 ## 3.0 VOLUME INDEX
 
@@ -319,77 +386,95 @@ You are “running the system” correctly when:
 
 ## 4.0 CORE CONCEPTS
 
-### 4.1 Elbow Structure Is The Primary Defensive Frame
-- In side pins, the opponent’s primary defense is elbow position: elbows close to the torso enable framing, elbow escapes, and guard recovery.
-- The Side Crucifix is designed to break this defensive structure by drawing both elbows away from the body.
+### 4.1 Elbow Structure Is the Primary Defensive Frame
+- In side pins, the opponent’s main defense is elbow position: elbows tight to the torso enable framing, elbow escapes, and guard recovery.
+- The Side Crucifix system is built to break elbow structure by drawing both elbows away from the body.
 
-### 4.2 Side Crucifix = Two-Component Control Model (Both Elbows Controlled)
-- A classic side crucifix always controls **both elbows at once**:
-  - Far-side elbow via a far-side underhook.
-  - Near-side elbow via a leg-based pin.
-- When both elbows are displaced, defensive options collapse rapidly.
+### 4.2 Side Crucifix = Two-Elbow Displacement
+- A true side crucifix exists only when both elbows are displaced:
+  - Far elbow controlled via far-side underhook.
+  - Near elbow controlled via leg-based pin.
+- If either elbow can return to the ribs or hip-line, control is incomplete.
 
 ### 4.3 Primary Series Doctrine (Default Order)
-- The default, highest-percentage order of operations is:
-  **far-side underhook first → near-side arm pin second**.
-- This sequencing ensures one elbow is secured before attempting to isolate the second.
+- The highest-percentage sequence is:
+  **Far-side underhook → Underhook retention → Near-arm pin → Finishing hub.**
+- Reversing the order is a contingency, not the baseline strategy.
 
-### 4.4 Underhook Retention: “Closed Loop” Requirement
-- The most common failure is leaving space between the chin and the underhooking hand.
-- Retention requires a closed loop:
-  - Chin connected to the hand,
-  - Ear glued to the opponent’s bicep to deny elbow travel,
-  - A posted hand for base so the head stays higher than the hips.
+### 4.4 Underhook Retention: The Closed Loop
+- An underhook without retention is temporary.
+- Retention requires:
+  - Chin connected to the underhooking hand,
+  - Ear glued to opponent’s bicep,
+  - Shoulder line sealed,
+  - A post available for base.
+- Do not advance to pinning until the loop is closed.
 
-### 4.5 Underhooks Are Easier Before Side Control (Neutral-Position Priority)
-- As opponent skill increases, underhooks become harder to secure once side control is established.
-- From guard or neutral positions, opponents defend primarily with legs and are more willing to concede underhooks.
-- The system therefore prioritizes winning the underhook **before** settling fully into side control whenever possible.
+### 4.5 Underhooks Are Easier Before Full Side Control
+- In neutral and passing phases, opponents defend primarily with legs.
+- Once pinned in side control, defense becomes elbow-centric and underhooks become harder to obtain.
+- Whenever possible, win the underhook before settling chest-to-chest.
 
-### 4.6 Pinning The Near-Side Arm: 3-Mode, Cycleable Control
-- There are three canonical pinning modes:
-  - Front leg pin,
-  - Back leg pin,
-  - Arm scissor.
-- These are not preferences; they are a **cycle**. You should be able to move between them to maintain elbow displacement.
+### 4.6 Hand–Elbow Height Heuristic
+- If the opponent’s hand is at or below elbow height, the underhook is often freely available.
+- If the hand is high, assume you must force the underhook.
+- If there is an active shoulder post, prefer the wrist-pass branch.
 
-### 4.7 Hand-Assist Principle For Pin Entries (Against Disciplined Elbows)
-- Against strong, disciplined elbow positioning, leg pins are completed with hand assistance:
-  - If the arm is long, control the wrist at the end of the lever.
-  - If the arm is short and glued to the body, insert the hand inside, control the bicep/shoulder junction, and lever the elbow out with knee–elbow joining mechanics.
+### 4.7 Win the Elbow Before the Wrist
+- Against disciplined opponents, wrist chasing without elbow displacement fails.
+- Establish elbow separation first; then control the wrist.
+- Control hierarchy: elbow → wrist → break.
 
-### 4.8 Chancery As The Premier Control Hub
-- Chancery is the system’s primary control-to-submission hub.
-- By trapping the head and shoulder with the legs, it creates a level of helplessness that enables reliable upper-body finishes.
-- The doctrine is stability first: expect resistance, establish base and ride control, then attack.
+### 4.8 Near-Arm Pinning Is Selector-Based
+- The correct pin entry depends on arm presentation:
+  - Long arm (wrist available) → wrist control pathway.
+  - Short arm (elbow glued) → inside-hand/bicep pathway.
+  - Safe rise posture → tripod-assisted completion.
+- Choosing the wrong pathway wastes time and destabilizes base.
 
-### 4.9 Hand–Elbow Height Heuristic (Underhook Availability Trigger)
-- A simple visual rule governs underhook timing:
-  - If the hand is at or below elbow height, the underhook is often available immediately.
-  - If the hand is high, assume the underhook must be forced with a dedicated method.
+### 4.9 Pin Cycling Is Retention, Not Preference
+- Front leg pin, back leg shin pin, and arm scissor are a cycle.
+- Switching between them preserves elbow displacement.
+- There must never be a moment without shin or knee coverage on the near elbow.
 
-### 4.10 Base Before Breaking (Stability Precedes Submission)
-- Any time both hands leave the mat to attack, base narrows and balance becomes vulnerable.
-- The system prioritizes maintaining base before committing to breaking mechanics.
-- Balance-loss outcomes (armbars, triangles) are treated as planned follow-ups, not accidents.
+### 4.10 Arm Scissor Feeds the Premier Hub
+- Arm scissor provides the strongest structural control and best access to chancery.
+- It is the preferred platform when available.
 
-### 4.11 “Win The Elbow, Then The Wrist” Ordering (Control Hierarchy)
-- Against skilled opponents, elbow displacement is the priority.
-- Wrist control without elbow control is unreliable.
-- Wrist attacks are favored only once the elbow has been meaningfully displaced.
+### 4.11 Stabilization Window Doctrine
+- After a major capture (especially chancery), expect maximal resistance.
+- Posting and elbow pinning precede breaking attempts.
+- Stability first, torque second.
 
-### 4.12 Stabilization Window Doctrine (Temporal Concept)
-- After a major capture (especially chancery), expect a short burst of maximal resistance.
-- High-commitment attacks are delayed until this initial escape window collapses.
+### 4.12 Base Before Breaking
+- When both hands commit to an attack, base narrows.
+- If the head drops below the hips, reversal risk increases.
+- Stabilize posture and widen base before applying force.
 
-### 4.13 Pin Cycling As Escape Insurance (Not Preference)
-- Switching between front leg pin, back leg pin, and arm scissor is a defensive insurance policy.
-- Cycling pins preserves elbow displacement and denies reinsertion escapes.
+### 4.13 Direction-of-Failure Routing
+- Structural failure (re-pummel, elbow returns to ribs) → return to retention and re-displace the elbow.
+- Rotational or balance failure (roll threat) → post and route to armbar or triangle continuations.
+- Instability should become a branch, not a loss.
 
-### 4.14 Direction-of-Failure Routing (Troubleshooting Logic)
-- When the system destabilizes, the correction depends on what failed:
-  - Structural failure (grips, re-pummeling) → reassert underhook loop and elbow displacement.
-  - Rotational or balance failure → route into armbar or triangle follow-ups instead of forcing the same line.    
+### 4.14 Reverse-Order Contingency
+- If underhook-first stalls, pin the near arm first.
+- Restore classic structure via wrist pass or route directly to north–south.
+- The order may change; the two-elbow requirement does not.
+
+### 4.15 Dilemma Logic Governs Transitions
+- From back crucifix:
+  - If head slip is available → transition to side crucifix.
+  - If head slip is denied by bridging/arching → switch to rear triangle.
+- Correct branching prevents wasted effort.
+
+### 4.16 Gate Discipline
+- The system operates through gates:
+  1) Underhook  
+  2) Retention  
+  3) Pin  
+  4) Hub  
+  5) Finish  
+- Skipping a gate produces fragile control.
 
 ## 5.0 SYSTEM OVERVIEW
 
@@ -1873,7 +1958,6 @@ Finish.
 Skipping gates produces fragile control.  
 Sequential integrity produces reliable finishes.
 
-
 ## 13.0 TERMINOLOGY
 
 ### 13.1 Core Positions & States
@@ -1933,3 +2017,6 @@ Sequential integrity produces reliable finishes.
   - Rotational/balance failure (roll threat) → post and route to armbar/triangle continuations.
 - **Gate:** A required condition in the pipeline (underhook, retention, pin, hub) that should not be skipped.
 - **Win Condition (Scenario):** The concrete outcome that ends a drill/game (e.g., 3-second hold, lock achieved, finish-ready configuration).
+
+
+
