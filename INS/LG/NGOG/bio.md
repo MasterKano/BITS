@@ -22,7 +22,7 @@
 - 15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (OPTIONAL)
 
 ## 1.0 MASTER SYSTEM MAP (ASCII)
-
+```
 +--------------------------------------------------------------------------------------+
 |                               OPEN GUARD (START STATE)                               |
 | supine/seated: frames + distance + inside-foot position -> choose an attachment hub   |
@@ -94,6 +94,7 @@
 | If backstep / hip-switch: invert or pummel -> K / Leg Cluster                           |
 | If smash/flatten: abandon hub -> RETENTION LOOP                                         |
 +--------------------------------------------------------------------------------------+
+```
 
 ## 2.0 EXECUTIVE SUMMARY
 
