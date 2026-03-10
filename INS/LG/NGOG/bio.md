@@ -1,8 +1,128 @@
+# No-Gi Open Guard by Lachlan Giles
 
+## 0. CONTENTS
 
+- 1.0 MASTER SYSTEM MAP (ASCII)
+- 2.0 EXECUTIVE SUMMARY
+- 3.0 VOLUME INDEX
+  - 3.1 Volume 1 — K-Guard
+  - 3.2 Volume 2 — De La Riva & Waiter
+  - 3.3 Volume 3 — RDLR & Leg Entanglements
+- 4.0 CORE CONCEPTS
+- 5.0 SYSTEM OVERVIEW
+- 6.0 TECHNIQUE LIBRARY
+- 7.0 DIAGRAM SET
+- 8.0 APPLICATION SCENARIOS
+- 9.0 DRILLING PROGRESSIONS
+- 10.0 FOUR-WEEK CURRICULUM
+- 11.0 FAILURE PATTERNS
+- 12.0 KEY PASSAGES
+- 13.0 TERMINOLOGY
+- 14.0 ADDITIONAL NOTES
+- 15.0 SUPPLEMENT (NOT TRANSCRIPT-DERIVED) (OPTIONAL)
 
+## 1.0 MASTER SYSTEM MAP (ASCII)
 
++--------------------------------------------------------------------------------------+
+|                               OPEN GUARD (START STATE)                               |
+| supine/seated: frames + distance + inside-foot position -> choose an attachment hub   |
++-------------------------------------------+------------------------------------------+
+                                            |
+                                            v
++--------------------------------------------------------------------------------------+
+|                           RETENTION / RE-ATTACH LOOP (GLOBAL)                         |
+| frames -> feet inside -> hip escape/angle -> re-attach a leg (DLR / RDLR / K / Waiter)|
+| if connection breaks or pressure wins -> reset here                                   |
++-------------------------------+----------------------------------+-------------------+
+                                |                                  |
+                                v                                  v
+                 +--------------+--------------+      +------------+------------------+
+                 |   TOP KNEELING / HQ / LOW   |      |        TOP STANDING / TALL    |
+                 |   (knee-cut, smash threats) |      | (step-around, posturing, toss)|
+                 +--------------+--------------+      +------------+------------------+
+                                |                                  |
+                                v                                  v
++-------------------------------+--------------------+    +--------+----------------------------------------+
+|         INSIDE ENTRY LANE (vs kneeling/HQ)         |    |           STANDING ATTACHMENT LANE             |
+| wedge/inside frames -> underhook line -> invert     |    | pick OUTSIDE hook (DLR) or INSIDE wedge (RDLR)|
+| -> K entries; or build a shelf -> Waiter            |    | then layer Waiter/K or go straight to legs     |
++----------------------+-----------------------------+    +----------------------+-------------------------+
+                       |                                                     |
+                       v                                                     v
 
+        +--------------+------------------+                     +-----------+-------------------+
+        |             K-GUARD HUB         |                     |            DLR HUB            |
+        | inside knee wedge + outside foot|                     | outside hook + angle control  |
+        | hands attached to near leg      |                     | primary lines: off-balance    |
+        +--------------+------------------+                     | -> sweep/stand/backtake        |
+                       |                                        | transitions: -> Waiter / -> K  |
+                       |                                        | -> RDLR / -> Leg Cluster       |
+                       v                                        +-----------+-------------------+
+     +-----------------+------------------+                                  |
+     |     KNEE-LINE / HIP ANGLE CONTROL  |                                  v
+     | expose knee line, turn corner      |                     +-----------+-------------------+
+     +-----------+------------+-----------+                     |            RDLR HUB            |
+                 |            |                                 | inside wedge/frame vs pressure |
+                 |            |                                 | primary lines: retain ->       |
+                 |            |                                 | off-balance -> invert/enter    |
+                 |            |                                 | transitions: -> DLR / -> Waiter|
+                 |            |                                 | -> K / -> Leg Cluster          |
+                 v            v                                 +-----------+-------------------+
+   +-------------+----+  +---+------------------+                           |
+   | SWEPS / STANDUP |  | BACKTAKE LINE         |                           v
+   | (topples, come-up|  | (hip turn + pummel)  |              +------------+-------------------+
+   +------------------+  +----------------------+              |            WAITER HUB          |
+                                                              | leg-shelf configuration         |
+                                                              | primary lines: tilt sweep       |
+                                                              | / backtake / feed to legs       |
+                                                              | transitions: -> K / -> RDLR/DLR  |
+                                                              | -> Leg Cluster                  |
+                                                              +------------+-------------------+
+                                                                           |
+                                                                           v
++--------------------------------------------------------------------------------------+
+|                           LEG ENTANGLEMENT / CONTROL CLUSTER                          |
+| X / SLX / 70-30 / 50-50 / backside variants                                            |
+| outcomes: sweep -> stand / submit -> finish / backtake -> secure position              |
++-------------------------------------------+------------------------------------------+
+                                            |
+                                            v
++--------------------------------------------------------------------------------------+
+|                              TOP REACTION GATES (GLOBAL)                               |
+| If step-around / leg-drag: re-wedge -> RDLR/DLR frame -> re-attach                      |
+| If knee-cut / HQ crush: inside frames -> K or Waiter shelf -> turn corner               |
+| If backstep / hip-switch: invert or pummel -> K / Leg Cluster                           |
+| If smash/flatten: abandon hub -> RETENTION LOOP                                         |
++--------------------------------------------------------------------------------------+
+
+## 2.0 EXECUTIVE SUMMARY
+
+This BIO models the No-Gi Open Guard series as a hub-based system: you maintain a global retention loop, select an attachment hub (DLR / RDLR / K-Guard / Waiter), drive one of a small set of consistent outcomes (sweep, stand-up, backtake, or leg entanglement), and if top pressure breaks structure you reset to retention and re-attach.
+
+### 2.1 Global Rules (applies to all volumes)
+- Priority order: (1) preserve frames + distance, (2) win inside-foot position, (3) create angle, (4) attach to a leg, (5) convert attachment into an outcome.
+- If attachment is lost or you’re flattened: disengage from the failing hub and return to the retention / re-attach loop.
+- “Outcome bias”: do not stall in attachment; each hub must quickly produce off-balance, exposure, or entry to the leg cluster.
+
+### 2.2 The Four Hubs (what each hub is for)
+- DLR Hub (Vol 2): primary standing-guard attachment for off-balancing and angle control; common exits are sweeps/stand-ups, backtakes, or feeding Waiter / leg entries.
+- RDLR Hub (Vol 3): primary response to pressure/step-through and closer-range standing pressure; emphasizes wedge/framing, retention under force, and transitions into inversion, K-Guard, Waiter, or leg entries.
+- K-Guard Hub (Vol 1): inside-entry hub (often vs kneeling/HQ or via inversion) focused on turning the corner and exposing knee-line/hip angle to access leg entanglements or backtakes.
+- Waiter Hub (Vol 2): leg-shelf configuration that stabilizes control and converts to tilt-style sweeps, backtakes, or feeds into K-Guard / leg entanglements.
+
+### 2.3 The Leg Cluster (shared finishing layer)
+- The leg entanglement/control cluster (X/SLX/70-30/50-50/backside variants) is treated as a shared terminal layer.
+- Typical terminal outcomes: sweep → come up; submit → finish; backtake → secure dominant control.
+
+### 2.4 Top Reaction Gates (how the system stays coherent)
+- Step-around / leg-drag threats push you toward re-wedging and RDLR/DLR framing before re-attaching.
+- Knee-cut / HQ crush threats push you toward inside frames, K-Guard entry mechanics, or building a Waiter shelf.
+- Backstep / hip-switch threats are handled by inversion or pummeling into K-Guard / leg cluster.
+- Smash/flatten attempts trigger the hard reset: retention loop first, then re-attach into a hub.
+
+### 2.5 How to Use This BIO
+- Treat the master map as the index: every technique later should be tagged to (a) a hub, (b) a top reaction gate, and (c) an outcome.
+- Training intent: build a reliable “reattach reflex” and a preferred hub pair (e.g., DLR↔Waiter or RDLR↔K) that always feeds into the leg cluster.
 
 ## 3.0 VOLUME INDEX
 
@@ -373,3 +493,15 @@
 - Intro — 0:00
 - Open Guard Summary — 0:52
 - Continuous narrated rolling — 7:06
+
+
+
+
+
+
+
+
+
+
+
+
